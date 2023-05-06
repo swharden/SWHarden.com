@@ -10,9 +10,9 @@ __Now that my minimalist QRSS transmitter is mostly functional, I'm shifting gea
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2010/06/09/DSCN0832_thumb.jpg)](https://swharden.com/static/2010/06/09/DSCN0832.jpg)
+![](https://swharden.com/static/2010/06/09/DSCN0832.jpg)
 
-[![](https://swharden.com/static/2010/06/09/DSCN0833_thumb.jpg)](https://swharden.com/static/2010/06/09/DSCN0833.jpg)
+![](https://swharden.com/static/2010/06/09/DSCN0833.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ __Here's the output from 7.040 MHz.__ Conditions are pretty bad right now, and I
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2010/06/09/recvbig_thumb.jpg)](https://swharden.com/static/2010/06/09/recvbig.jpg)
+![](https://swharden.com/static/2010/06/09/recvbig.jpg)
 
 </div>
 

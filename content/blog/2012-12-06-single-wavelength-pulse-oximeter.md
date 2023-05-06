@@ -25,7 +25,7 @@ __Here's what the device looks like assembled in a breadboard:__
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2012/12/06/IMG_5919_thumb.jpg)](https://swharden.com/static/2012/12/06/IMG_5919.jpg)
+![](https://swharden.com/static/2012/12/06/IMG_5919.jpg)
 
 </div>
 
@@ -33,8 +33,8 @@ __I made a sensor__ by drilling appropriately-sized holes in a clothespin for th
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2012/12/06/IMG_5920_thumb.jpg)](https://swharden.com/static/2012/12/06/IMG_5920.jpg)
-[![](https://swharden.com/static/2012/12/06/IMG_5924_thumb.jpg)](https://swharden.com/static/2012/12/06/IMG_5924.jpg)
+![](https://swharden.com/static/2012/12/06/IMG_5920.jpg)
+![](https://swharden.com/static/2012/12/06/IMG_5924.jpg)
 
 </div>
 

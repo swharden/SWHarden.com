@@ -10,7 +10,7 @@ __QRSS uses extremely simple radio transmitters at extremely low power to send a
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/01/01/qrss_kj4ldf_thumb.jpg)](https://swharden.com/static/2010/01/01/qrss_kj4ldf.png)
+![](https://swharden.com/static/2010/01/01/qrss_kj4ldf.png)
 
 </div>
 
@@ -18,7 +18,7 @@ __Without going into more detail than that, this is the kind of stuff I've been 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/01/01/qrss_transmitter_thumb.jpg)](https://swharden.com/static/2010/01/01/qrss_transmitter.jpg)
+![](https://swharden.com/static/2010/01/01/qrss_transmitter.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ __Argo: __There's a popular QRSS "grabber" software for Windows called [Argo](ht
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/01/01/long_thumb.jpg)](https://swharden.com/static/2010/01/01/long.jpg)
+![](https://swharden.com/static/2010/01/01/long.jpg)
 
 </div>
 
@@ -62,7 +62,7 @@ __As far as life goes,__ I'm discovering that it's not the attainment of a goal 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/01/01/ant_1_thumb.jpg)](https://swharden.com/static/2010/01/01/ant_1.jpg)
+![](https://swharden.com/static/2010/01/01/ant_1.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ __Yes, that's an antenna made from copper pipe, wire, and toilet paper rolls. __
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/01/01/ant_2_thumb.jpg)](https://swharden.com/static/2010/01/01/ant_2.jpg)
+![](https://swharden.com/static/2010/01/01/ant_2.jpg)
 
 </div>
 

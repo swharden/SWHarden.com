@@ -10,7 +10,7 @@ __Success!__ Amid a bunch of academic exams, psycho-motor tests, and other crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/17/simple_qrss_transmitter_thumb.jpg)](https://swharden.com/static/2010/05/17/simple_qrss_transmitter.jpg)
+![](https://swharden.com/static/2010/05/17/simple_qrss_transmitter.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __I was able to detect__ these signals VERY strongly at a station ~10 miles from
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/17/aj4vd_thumb.jpg)](https://swharden.com/static/2010/05/17/aj4vd.jpg)
+![](https://swharden.com/static/2010/05/17/aj4vd.jpg)
 
 </div>
 

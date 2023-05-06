@@ -12,8 +12,8 @@ __I recently got my hands on a Tenma 72-7750 multimeter.__ Tenma has a [pretty l
 
 <div class="text-center img-small">
 
-[![](https://swharden.com/static/2013/04/17/2013-04-06-11.09.44_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-06-11.09.44.jpg)
-[![](https://swharden.com/static/2013/04/17/2013-04-06-11.11.35_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-06-11.11.35.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-06-11.09.44.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-06-11.11.35.jpg)
 
 </div>
 
@@ -23,14 +23,14 @@ __I was impressed by the frequency measuring ability of this little multimeter!_
 
 <div class="text-center img-small img-border">
 
-[![](https://swharden.com/static/2013/04/17/2013-04-17-21.01.57_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-17-21.01.57.jpg)
-[![](https://swharden.com/static/2013/04/17/2013-04-17-21.02.50_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-17-21.02.50.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-17-21.01.57.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-17-21.02.50.jpg)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/04/17/2013-04-17-20.58.47_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-17-20.58.47.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-17-20.58.47.jpg)
 
 </div>
 
@@ -39,8 +39,8 @@ __I also took a closer look at the PC interface.__ When I looked closely, I noti
 
 <div class="text-center img-small">
 
-[![](https://swharden.com/static/2013/04/17/2013-04-17-21.04.28_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-17-21.04.28.jpg)
-[![](https://swharden.com/static/2013/04/17/2013-04-17-21.04.46_thumb.jpg)](https://swharden.com/static/2013/04/17/2013-04-17-21.04.46.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-17-21.04.28.jpg)
+![](https://swharden.com/static/2013/04/17/2013-04-17-21.04.46.jpg)
 
 </div>
 

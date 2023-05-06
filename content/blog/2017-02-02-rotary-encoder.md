@@ -20,7 +20,7 @@ __At about $.50 each,__ rotary encoders are certainly more expensive than other 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2017/02/02/schematic_thumb.jpg)](https://swharden.com/static/2017/02/02/schematic.png)
+![](https://swharden.com/static/2017/02/02/schematic.png)
 
 </div>
 
@@ -28,8 +28,8 @@ I typically pull these all high through 10k series resistors ([debounced](http:/
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/02/02/scope_thumb.jpg)](https://swharden.com/static/2017/02/02/scope.jpeg)
-[![](https://swharden.com/static/2017/02/02/704_thumb.jpg)](https://swharden.com/static/2017/02/02/704.jpg)
+![](https://swharden.com/static/2017/02/02/scope.jpeg)
+![](https://swharden.com/static/2017/02/02/704.jpg)
 
 </div>
 
@@ -37,8 +37,8 @@ I typically pull these all high through 10k series resistors ([debounced](http:/
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2017/02/02/left_thumb.jpg)](https://swharden.com/static/2017/02/02/left.png)
-[![](https://swharden.com/static/2017/02/02/right_thumb.jpg)](https://swharden.com/static/2017/02/02/right.png)
+![](https://swharden.com/static/2017/02/02/left.png)
+![](https://swharden.com/static/2017/02/02/right.png)
 
 </div>
 
@@ -46,8 +46,8 @@ I typically pull these all high through 10k series resistors ([debounced](http:/
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2017/02/02/fastLeft_thumb.jpg)](https://swharden.com/static/2017/02/02/fastLeft.png)
-[![](https://swharden.com/static/2017/02/02/fastRight_thumb.jpg)](https://swharden.com/static/2017/02/02/fastRight.png)
+![](https://swharden.com/static/2017/02/02/fastLeft.png)
+![](https://swharden.com/static/2017/02/02/fastRight.png)
 
 </div>
 

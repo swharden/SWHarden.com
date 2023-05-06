@@ -17,21 +17,21 @@ The main reason I like using FTDI devices is because when you plug them in to a 
 ### FT-232R Breakout Board
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/232r_thumb.jpg)](https://swharden.com/static/2018/06/03/232r.png)
+![](https://swharden.com/static/2018/06/03/232r.png)
 
 </div>
 
 ### FT-232H Breakout Board
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/232h_thumb.jpg)](https://swharden.com/static/2018/06/03/232h.png)
+![](https://swharden.com/static/2018/06/03/232h.png)
 
 </div>
 
 ### TTL-FT232R Cable
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/ttl-ft232r-cable_thumb.jpg)](https://swharden.com/static/2018/06/03/ttl-ft232r-cable.png)
+![](https://swharden.com/static/2018/06/03/ttl-ft232r-cable.png)
 
 </div>
 
@@ -81,7 +81,7 @@ while (true)
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/DSC_0023_thumb.jpg)](https://swharden.com/static/2018/06/03/DSC_0023.jpg)
+![](https://swharden.com/static/2018/06/03/DSC_0023.jpg)
 
 </div>
 
@@ -141,7 +141,7 @@ public static void BitBangBytes(byte[] bytesToSend)
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/DSC_0046_thumb.jpg)](https://swharden.com/static/2018/06/03/DSC_0046.jpg)
+![](https://swharden.com/static/2018/06/03/DSC_0046.jpg)
 
 </div>
 
@@ -169,8 +169,8 @@ BitBangBytes(bytesToSend.ToArray());
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2018/06/03/ad9850-SPI-DDS_thumb.jpg)](https://swharden.com/static/2018/06/03/ad9850-SPI-DDS.png)
-[![](https://swharden.com/static/2018/06/03/scope-output_thumb.jpg)](https://swharden.com/static/2018/06/03/scope-output.png)
+![](https://swharden.com/static/2018/06/03/ad9850-SPI-DDS.png)
+![](https://swharden.com/static/2018/06/03/scope-output.png)
 
 </div>
 
@@ -195,7 +195,7 @@ Rather than hard-coding a frequency into the code, I allowed it to accept this i
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2018/06/03/console_thumb.jpg)](https://swharden.com/static/2018/06/03/console.jpg)
+![](https://swharden.com/static/2018/06/03/console.jpg)
 
 </div>
 
@@ -205,8 +205,8 @@ Although my initial goal for this project was simply to figure out how to bit-ba
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/enclosed_thumb.jpg)](https://swharden.com/static/2018/06/03/enclosed.png)
-[![](https://swharden.com/static/2018/06/03/dds-desk_thumb.jpg)](https://swharden.com/static/2018/06/03/dds-desk.jpg)
+![](https://swharden.com/static/2018/06/03/enclosed.png)
+![](https://swharden.com/static/2018/06/03/dds-desk.jpg)
 
 </div>
 
@@ -218,7 +218,7 @@ __Consider trying to blink a LED with { 0, 1, 0, 1, 0 }__ sent using `` ftdi.Wri
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/232h-scope_thumb.jpg)](https://swharden.com/static/2018/06/03/232h-scope.jpg)
+![](https://swharden.com/static/2018/06/03/232h-scope.jpg)
 
 </div>
 
@@ -226,7 +226,7 @@ __The best way to demonstrate how "bad" the phase problem is when bit-banging th
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/232r-scope2_thumb.jpg)](https://swharden.com/static/2018/06/03/232r-scope2.jpg)
+![](https://swharden.com/static/2018/06/03/232r-scope2.jpg)
 
 </div>
 
@@ -276,7 +276,7 @@ Bit-banging pin states on FTDI chips is a cool hack, but it isn't necessarily th
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2018/06/03/scope-dds_thumb.jpg)](https://swharden.com/static/2018/06/03/scope-dds.png)
+![](https://swharden.com/static/2018/06/03/scope-dds.png)
 
 </div>
 

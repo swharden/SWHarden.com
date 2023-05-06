@@ -16,7 +16,7 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/03/15/DSC_0401_thumb.jpg)](https://swharden.com/static/2019/03/15/DSC_0401.jpg)
-[![](https://swharden.com/static/2019/03/15/DSC_0480-1_thumb.jpg)](https://swharden.com/static/2019/03/15/DSC_0480-1.jpg)
+![](https://swharden.com/static/2019/03/15/DSC_0401.jpg)
+![](https://swharden.com/static/2019/03/15/DSC_0480-1.jpg)
 
 </div>

@@ -12,7 +12,7 @@ I improved my amplifier (now output 500mW) and am impressed how well my attic di
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/14/N8NJ-Northwood-OH-USA_thumb.jpg)](https://swharden.com/static/2019/07/14/N8NJ-Northwood-OH-USA.jpg)
+![](https://swharden.com/static/2019/07/14/N8NJ-Northwood-OH-USA.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ I improved my amplifier (now output 500mW) and am impressed how well my attic di
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/14/WA5DJJ-LasCruces-NM-USA_thumb.jpg)](https://swharden.com/static/2019/07/14/WA5DJJ-LasCruces-NM-USA.jpg)
+![](https://swharden.com/static/2019/07/14/WA5DJJ-LasCruces-NM-USA.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ This grab shows a nice airplane reflection in the middle
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/14/WD4AH-FL-USA_thumb.jpg)](https://swharden.com/static/2019/07/14/WD4AH-FL-USA.jpg)
+![](https://swharden.com/static/2019/07/14/WD4AH-FL-USA.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ This grab shows a nice airplane reflection in the middle
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/14/VA3ROM-Ontario-Canada_thumb.jpg)](https://swharden.com/static/2019/07/14/VA3ROM-Ontario-Canada.jpg)
+![](https://swharden.com/static/2019/07/14/VA3ROM-Ontario-Canada.jpg)
 
 </div>
 
@@ -48,6 +48,6 @@ This 8-hour grab reveals when my AC kicks on and off and demonstrates the necess
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/14/W4HBK-Pensacola-FL-USA-unstable_thumb.jpg)](https://swharden.com/static/2019/07/14/W4HBK-Pensacola-FL-USA-unstable.jpg)
+![](https://swharden.com/static/2019/07/14/W4HBK-Pensacola-FL-USA-unstable.jpg)
 
 </div>

@@ -10,16 +10,16 @@ __Haray!__ I'm making awesome progress with my QRSS transmitter design. Because 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/24/DSCN0532_thumb.jpg)](https://swharden.com/static/2010/05/24/DSCN0532.jpg)
+![](https://swharden.com/static/2010/05/24/DSCN0532.jpg)
 
 </div>
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2010/05/24/DSCN0533_thumb.jpg)](https://swharden.com/static/2010/05/24/DSCN0533.jpg)
-[![](https://swharden.com/static/2010/05/24/DSCN0535_thumb.jpg)](https://swharden.com/static/2010/05/24/DSCN0535.jpg)
-[![](https://swharden.com/static/2010/05/24/DSCN0537_thumb.jpg)](https://swharden.com/static/2010/05/24/DSCN0537.jpg)
-[![](https://swharden.com/static/2010/05/24/DSCN0539_thumb.jpg)](https://swharden.com/static/2010/05/24/DSCN0539.jpg)
+![](https://swharden.com/static/2010/05/24/DSCN0533.jpg)
+![](https://swharden.com/static/2010/05/24/DSCN0535.jpg)
+![](https://swharden.com/static/2010/05/24/DSCN0537.jpg)
+![](https://swharden.com/static/2010/05/24/DSCN0539.jpg)
 
 </div>
 

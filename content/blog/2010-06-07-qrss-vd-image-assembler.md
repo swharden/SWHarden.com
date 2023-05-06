@@ -10,7 +10,7 @@ This minimal Python script will convert a directory filled with tiny image captu
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/assembled-squished_thumb.jpg)](https://swharden.com/static/2010/06/07/assembled-squished.jpg)
+![](https://swharden.com/static/2010/06/07/assembled-squished.jpg)
 
 </div>
 

@@ -10,8 +10,8 @@ __Now that I've finished my__ 6-channel data logger (previous post), it's time t
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/28/IMG_4581_thumb.jpg)](https://swharden.com/static/2010/11/28/IMG_4581.jpg)
-[![](https://swharden.com/static/2010/11/28/IMG_4588_thumb.jpg)](https://swharden.com/static/2010/11/28/IMG_4588.jpg)
+![](https://swharden.com/static/2010/11/28/IMG_4581.jpg)
+![](https://swharden.com/static/2010/11/28/IMG_4588.jpg)
 
 </div>
 
@@ -19,7 +19,7 @@ __UPDATE:__ Those photos show a partially completed sensor. Obviously the third 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/28/IMG_4591_thumb.jpg)](https://swharden.com/static/2010/11/28/IMG_4591.jpg)
+![](https://swharden.com/static/2010/11/28/IMG_4591.jpg)
 
 </div>
 
@@ -27,8 +27,8 @@ __Then I mounted the sensors__ on a block of steel with the heater on one side. 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/28/IMG_4606_thumb.jpg)](https://swharden.com/static/2010/11/28/IMG_4606.jpg)
-[![](https://swharden.com/static/2010/11/28/IMG_4615_thumb.jpg)](https://swharden.com/static/2010/11/28/IMG_4615.jpg)
+![](https://swharden.com/static/2010/11/28/IMG_4606.jpg)
+![](https://swharden.com/static/2010/11/28/IMG_4615.jpg)
 
 </div>
 
@@ -36,8 +36,8 @@ __When I fire the heater,__ that sucker gets pretty darn hot. In 40 minutes it g
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/11/28/howhot_thumb.jpg)](https://swharden.com/static/2010/11/28/howhot.png)
-[![](https://swharden.com/static/2010/11/28/quicktest_thumb.jpg)](https://swharden.com/static/2010/11/28/quicktest.png)
+![](https://swharden.com/static/2010/11/28/howhot.png)
+![](https://swharden.com/static/2010/11/28/quicktest.png)
 
 </div>
 
@@ -49,7 +49,7 @@ __But how do we use this to build a thermo-stable crystal oven for a MEPT (radio
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/11/28/heaterworks_thumb.jpg)](https://swharden.com/static/2010/11/28/heaterworks.png)
+![](https://swharden.com/static/2010/11/28/heaterworks.png)
 
 </div>
 

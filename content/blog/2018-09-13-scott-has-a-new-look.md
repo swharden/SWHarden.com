@@ -10,8 +10,8 @@ tags: ["med"]
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2018/09/13/DSC_0006_lzn_thumb.jpg)](https://swharden.com/static/2018/09/13/DSC_0006_lzn.jpg)
-[![](https://swharden.com/static/2018/09/13/DSC_0115_lzn3_thumb.jpg)](https://swharden.com/static/2018/09/13/DSC_0115_lzn3.jpg)
+![](https://swharden.com/static/2018/09/13/DSC_0006_lzn.jpg)
+![](https://swharden.com/static/2018/09/13/DSC_0115_lzn3.jpg)
 
 </div>
 

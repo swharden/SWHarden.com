@@ -10,7 +10,7 @@ __I successfully created a speaker/microphone/transmit button circuit for the pu
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/22/puxing_thumb.jpg)](https://swharden.com/static/2009/04/22/puxing.png)
+![](https://swharden.com/static/2009/04/22/puxing.png)
 
 </div>
 

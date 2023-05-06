@@ -16,9 +16,9 @@ __I haven't tested it rigorously __ with anything other than square waves, but I
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/02/04/IMG_5209_thumb.jpg)](https://swharden.com/static/2011/02/04/IMG_5209.jpg)
-[![](https://swharden.com/static/2011/02/04/IMG_5222_thumb.jpg)](https://swharden.com/static/2011/02/04/IMG_5222.jpg)
-[![](https://swharden.com/static/2011/02/04/IMG_5221_thumb.jpg)](https://swharden.com/static/2011/02/04/IMG_5221.jpg)
+![](https://swharden.com/static/2011/02/04/IMG_5209.jpg)
+![](https://swharden.com/static/2011/02/04/IMG_5222.jpg)
+![](https://swharden.com/static/2011/02/04/IMG_5221.jpg)
 
 </div>
 

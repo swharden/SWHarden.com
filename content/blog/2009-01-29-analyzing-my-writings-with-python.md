@@ -16,7 +16,7 @@ __I got the itch to write my own string-analysis program.__ It reads the content
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/29/blog_words_thumb.jpg)](https://swharden.com/static/2009/01/29/blog_words.png)
+![](https://swharden.com/static/2009/01/29/blog_words.png)
 
 </div>
 
@@ -24,7 +24,7 @@ __Pretty cool huh? __Check out all those spikes between 2004 and 2005! Not only 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/29/blog_words_zoom_thumb.jpg)](https://swharden.com/static/2009/01/29/blog_words_zoom.png)
+![](https://swharden.com/static/2009/01/29/blog_words_zoom.png)
 
 </div>
 
@@ -167,7 +167,7 @@ print "DONE"&lt;/b&gt;
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/29/wordie2_thumb.jpg)](https://swharden.com/static/2009/01/29/wordie2.png)
+![](https://swharden.com/static/2009/01/29/wordie2.png)
 
 </div>
 

@@ -16,7 +16,7 @@ __I've taken the plunge__ into the geek world by becoming a licensed amateur rad
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/15/radiospec_thumb.jpg)](https://swharden.com/static/2009/04/15/radiospec.png)
+![](https://swharden.com/static/2009/04/15/radiospec.png)
 
 </div>
 

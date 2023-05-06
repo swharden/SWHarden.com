@@ -10,7 +10,7 @@ __Yeah, that's over 4,500 miles away!__ The following image was captured from [O
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/27/aj4vd_gator_belgium_thumb.jpg)](https://swharden.com/static/2010/05/27/aj4vd_gator_belgium.jpg)
+![](https://swharden.com/static/2010/05/27/aj4vd_gator_belgium.jpg)
 
 </div>
 

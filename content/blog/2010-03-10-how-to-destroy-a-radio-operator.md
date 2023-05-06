@@ -10,9 +10,9 @@ __After priding myself on my ingenuity__ a few weeks ago for documenting my [hom
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2010/03/10/before_thumb.jpg)](https://swharden.com/static/2010/03/10/before.jpg)
-[![](https://swharden.com/static/2010/03/10/workers_thumb.jpg)](https://swharden.com/static/2010/03/10/workers.jpg)
-[![](https://swharden.com/static/2010/03/10/after_thumb.jpg)](https://swharden.com/static/2010/03/10/after.jpg)
+![](https://swharden.com/static/2010/03/10/before.jpg)
+![](https://swharden.com/static/2010/03/10/workers.jpg)
+![](https://swharden.com/static/2010/03/10/after.jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ There are the QSL cards I got so far:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/10/cwQsls_thumb.jpg)](https://swharden.com/static/2010/03/10/cwQsls.jpg)
+![](https://swharden.com/static/2010/03/10/cwQsls.jpg)
 
 </div>
 

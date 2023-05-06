@@ -10,7 +10,7 @@ __While working to perfect my temperature-controlled manned experimental propaga
 
 <div class="text-center img-border"> 
 
-[![](https://swharden.com/static/2010/11/24/IMG_4559_thumb.jpg)](https://swharden.com/static/2010/11/24/IMG_4559.jpg)
+![](https://swharden.com/static/2010/11/24/IMG_4559.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/24/IMG_4575_thumb.jpg)](https://swharden.com/static/2010/11/24/IMG_4575.jpg)
+![](https://swharden.com/static/2010/11/24/IMG_4575.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-border"> 
 
-[![](https://swharden.com/static/2010/11/24/IMG_4564_thumb.jpg)](https://swharden.com/static/2010/11/24/IMG_4564.jpg)
+![](https://swharden.com/static/2010/11/24/IMG_4564.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center"> 
 
-[![](https://swharden.com/static/2010/11/24/lm335-microcontroller-graph-annotated_thumb.jpg)](https://swharden.com/static/2010/11/24/lm335-microcontroller-graph-annotated.png)
+![](https://swharden.com/static/2010/11/24/lm335-microcontroller-graph-annotated.png)
 
 </div>
 
@@ -62,7 +62,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-medium"> 
 
-[![](https://swharden.com/static/2010/11/24/atmega48pinout_thumb.jpg)](https://swharden.com/static/2010/11/24/atmega48pinout.png)
+![](https://swharden.com/static/2010/11/24/atmega48pinout.png)
 
 </div>
 
@@ -258,7 +258,7 @@ void init_usart (unsigned long baud)
 
 <div class="text-center"> 
 
-[![](https://swharden.com/static/2010/11/24/3traces_thumb.jpg)](https://swharden.com/static/2010/11/24/3traces.png)
+![](https://swharden.com/static/2010/11/24/3traces.png)
 
 </div>
 
@@ -266,6 +266,6 @@ void init_usart (unsigned long baud)
 
 <div class="text-center"> 
 
-[![](https://swharden.com/static/2010/11/24/insulated3_thumb.jpg)](https://swharden.com/static/2010/11/24/insulated3.png)
+![](https://swharden.com/static/2010/11/24/insulated3.png)
 
 </div>

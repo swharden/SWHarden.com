@@ -10,7 +10,7 @@ __While working on the spectrograph software__ I'm trying to complete this sprin
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2010/03/09/iw4dxw_thumb.jpg)](https://swharden.com/static/2010/03/09/iw4dxw.jpg)
+![](https://swharden.com/static/2010/03/09/iw4dxw.jpg)
 
 </div>
 
@@ -33,7 +33,7 @@ __200mW? That's awesome! __Maybe one day I'll build something cool like that! I 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/09/epicProgramming_thumb.jpg)](https://swharden.com/static/2010/03/09/epicProgramming.jpg)
+![](https://swharden.com/static/2010/03/09/epicProgramming.jpg)
 
 </div>
 

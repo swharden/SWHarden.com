@@ -12,7 +12,7 @@ The design is similar (CMOS buffer driving an IRF510) but I used perfboard to ma
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/31/2019-07-30-old-amp_thumb.jpg)](https://swharden.com/static/2019/07/31/2019-07-30-old-amp.jpg)
+![](https://swharden.com/static/2019/07/31/2019-07-30-old-amp.jpg)
 
 </div>
 
@@ -20,13 +20,13 @@ The design is similar (CMOS buffer driving an IRF510) but I used perfboard to ma
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2019/07/31/schematic_thumb.jpg)](https://swharden.com/static/2019/07/31/schematic.png)
+![](https://swharden.com/static/2019/07/31/schematic.png)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/31/2019-07-31-new-amp_thumb.jpg)](https://swharden.com/static/2019/07/31/2019-07-31-new-amp.jpg)
+![](https://swharden.com/static/2019/07/31/2019-07-31-new-amp.jpg)
 
 </div>
 
@@ -36,7 +36,7 @@ Right after hooking it up I saw my signal looking nice on the air:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/31/VA3ROM.1907311950.549006f9e5_thumb.jpg)](https://swharden.com/static/2019/07/31/VA3ROM.1907311950.549006f9e5.jpg)
+![](https://swharden.com/static/2019/07/31/VA3ROM.1907311950.549006f9e5.jpg)
 
 </div>
 
@@ -44,6 +44,6 @@ Right after hooking it up I saw my signal looking nice on the air:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/31/EA8BVP1.1907311940.821b800321_thumb.jpg)](https://swharden.com/static/2019/07/31/EA8BVP1.1907311940.821b800321.jpg)
+![](https://swharden.com/static/2019/07/31/EA8BVP1.1907311940.821b800321.jpg)
 
 </div>

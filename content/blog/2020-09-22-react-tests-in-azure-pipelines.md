@@ -9,7 +9,7 @@ Azure Pipelines makes it easy to run tests in the cloud, but I found that a new 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2020/09/22/npm-test-azure-pipelines_thumb.jpg)](https://swharden.com/static/2020/09/22/npm-test-azure-pipelines.jpg)
+![](https://swharden.com/static/2020/09/22/npm-test-azure-pipelines.jpg)
 
 </div>
 

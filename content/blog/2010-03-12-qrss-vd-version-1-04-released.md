@@ -12,12 +12,12 @@ __Edit:__ QRSS VD is now on GitHub: <https://github.com/swharden/QRSS-VD>
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/03/12/qrss_vd_resume_thumb.jpg)](https://swharden.com/static/2010/03/12/qrss_vd_resume.png)
+![](https://swharden.com/static/2010/03/12/qrss_vd_resume.png)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/12/sampleCapture_thumb.jpg)](https://swharden.com/static/2010/03/12/sampleCapture.png)
+![](https://swharden.com/static/2010/03/12/sampleCapture.png)
 
 </div>

@@ -12,11 +12,11 @@ Here's what my pixie II sounds like on [80m.mp3](http://www.SWHarden.com/blog/im
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/12/10/cw_everything_thumb.jpg)](https://swharden.com/static/2009/12/10/cw_everything.jpg)
-[![](https://swharden.com/static/2009/12/10/cw_coke_thumb.jpg)](https://swharden.com/static/2009/12/10/cw_coke.jpg)
-[![](https://swharden.com/static/2009/12/10/cw_close_thumb.jpg)](https://swharden.com/static/2009/12/10/cw_close.jpg)
-[![](https://swharden.com/static/2009/12/10/cw_open2_thumb.jpg)](https://swharden.com/static/2009/12/10/cw_open2.jpg)
-[![](https://swharden.com/static/2009/12/10/40mPSK_thumb.jpg)](https://swharden.com/static/2009/12/10/40mPSK.png)
+![](https://swharden.com/static/2009/12/10/cw_everything.jpg)
+![](https://swharden.com/static/2009/12/10/cw_coke.jpg)
+![](https://swharden.com/static/2009/12/10/cw_close.jpg)
+![](https://swharden.com/static/2009/12/10/cw_open2.jpg)
+![](https://swharden.com/static/2009/12/10/40mPSK.png)
 
 </div>
 

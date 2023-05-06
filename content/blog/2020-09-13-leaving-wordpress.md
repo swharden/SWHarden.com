@@ -10,7 +10,7 @@ tags: ["php"]
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2020/09/13/github_thumb.jpg)](https://swharden.com/static/2020/09/13/github.png)
+![](https://swharden.com/static/2020/09/13/github.png)
 
 </div>
 

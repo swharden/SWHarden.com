@@ -45,12 +45,12 @@ __A few technical details__ are that I used an ATTiny44a microcontroller (it may
 
 <div class="text-center img-border img-micro">
 
-[![](https://swharden.com/static/2012/08/18/01_findpic_thumb.jpg)](https://swharden.com/static/2012/08/18/01_findpic.png)
-[![](https://swharden.com/static/2012/08/18/02_dropbg_thumb.jpg)](https://swharden.com/static/2012/08/18/02_dropbg.jpg)
-[![](https://swharden.com/static/2012/08/18/08_hairtop_thumb.jpg)](https://swharden.com/static/2012/08/18/08_hairtop.jpg)
-[![](https://swharden.com/static/2012/08/18/06_blockskirt_thumb.jpg)](https://swharden.com/static/2012/08/18/06_blockskirt.jpg)
-[![](https://swharden.com/static/2012/08/18/body_thumb.jpg)](https://swharden.com/static/2012/08/18/body.png)
-[![](https://swharden.com/static/2012/08/18/hairtop_thumb.jpg)](https://swharden.com/static/2012/08/18/hairtop.png)
+![](https://swharden.com/static/2012/08/18/01_findpic.png)
+![](https://swharden.com/static/2012/08/18/02_dropbg.jpg)
+![](https://swharden.com/static/2012/08/18/08_hairtop.jpg)
+![](https://swharden.com/static/2012/08/18/06_blockskirt.jpg)
+![](https://swharden.com/static/2012/08/18/body.png)
+![](https://swharden.com/static/2012/08/18/hairtop.png)
 
 </div>
 

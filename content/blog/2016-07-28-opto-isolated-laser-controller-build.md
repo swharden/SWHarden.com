@@ -10,7 +10,7 @@ tags: ["microcontroller", "circuit", "old"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7304_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7304.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7304.jpg)
 
 </div>
 
@@ -18,9 +18,9 @@ tags: ["microcontroller", "circuit", "old"]
 
 <div class="text-center img-micro">
 
-[![](https://swharden.com/static/2016/07/28/hardware-stack_thumb.jpg)](https://swharden.com/static/2016/07/28/hardware-stack.jpg)
+![](https://swharden.com/static/2016/07/28/hardware-stack.jpg)
 ![](https://swharden.com/static/2016/07/28/hardware-stack2.jpg)
-[![](https://swharden.com/static/2016/07/28/hardware-pci_thumb.jpg)](https://swharden.com/static/2016/07/28/hardware-pci.jpg)
+![](https://swharden.com/static/2016/07/28/hardware-pci.jpg)
 
 </div>
 
@@ -32,7 +32,7 @@ tags: ["microcontroller", "circuit", "old"]
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/07/28/schematic-4_thumb.jpg)](https://swharden.com/static/2016/07/28/schematic-4.png)
+![](https://swharden.com/static/2016/07/28/schematic-4.png)
 
 </div>
 
@@ -62,11 +62,11 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-small img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7186_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7186.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7188_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7188.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7191_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7191.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7192_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7192.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7203_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7203.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7186.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7188.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7191.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7192.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7203.jpg)
 
 </div>
 
@@ -74,10 +74,10 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-small img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7191_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7191.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7206_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7206.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7204_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7204.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7208_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7208.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7191.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7206.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7204.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7208.jpg)
 
 </div>
 
@@ -85,11 +85,11 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-small img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7258_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7258.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7215_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7215.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7216_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7216.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7252_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7252.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7259_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7259.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7258.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7215.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7216.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7252.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7259.jpg)
 
 </div>
 
@@ -97,7 +97,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7232_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7232.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7232.jpg)
 
 </div>
 
@@ -105,8 +105,8 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7284_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7284.jpg)
-[![](https://swharden.com/static/2016/07/28/scope_thumb.jpg)](https://swharden.com/static/2016/07/28/scope.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7284.jpg)
+![](https://swharden.com/static/2016/07/28/scope.jpg)
 
 </div>
 
@@ -124,10 +124,10 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7265_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7265.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7262_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7262.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7301_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7301.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7300_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7300.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7265.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7262.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7301.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7300.jpg)
 
 </div>
 
@@ -135,10 +135,10 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7310_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7310.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7308_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7308.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7307_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7307.jpg)
-[![](https://swharden.com/static/2016/07/28/IMG_7305_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7305.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7310.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7308.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7307.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7305.jpg)
 
 </div>
 
@@ -148,7 +148,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7316_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7316.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7316.jpg)
 
 </div>
 
@@ -189,7 +189,7 @@ pause
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7304_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7304.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7304.jpg)
 
 </div>
 
@@ -199,7 +199,7 @@ pause
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7368_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7368.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7368.jpg)
 
 </div>
 
@@ -211,7 +211,7 @@ This is the output of the unmodified H11B1:
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7495_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7495.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7495.jpg)
 ![](https://swharden.com/static/2016/07/28/SDS00008.bmp)
 
 </div>
@@ -220,7 +220,7 @@ This is the output of the H11B1 with the base pin removed:
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2016/07/28/IMG_7497_thumb.jpg)](https://swharden.com/static/2016/07/28/IMG_7497.jpg)
+![](https://swharden.com/static/2016/07/28/IMG_7497.jpg)
 ![](https://swharden.com/static/2016/07/28/SDS00010.bmp)
 
 </div>

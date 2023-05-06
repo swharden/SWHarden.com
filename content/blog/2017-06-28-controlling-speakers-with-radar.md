@@ -16,8 +16,8 @@ The RADAR antenna is built into the front PCB. The back side of the module revea
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2017/06/28/03module_thumb.jpg)](https://swharden.com/static/2017/06/28/03module.jpg)
-[![](https://swharden.com/static/2017/06/28/04module_thumb.jpg)](https://swharden.com/static/2017/06/28/04module.jpg)
+![](https://swharden.com/static/2017/06/28/03module.jpg)
+![](https://swharden.com/static/2017/06/28/04module.jpg)
 
 </div>
 
@@ -27,9 +27,9 @@ __I wanted this device to be extremely simple, with a single input DC jack and s
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2017/06/28/schematic3_thumb.jpg)](https://swharden.com/static/2017/06/28/schematic3.png)
-[![](https://swharden.com/static/2017/06/28/75hc590_divide_by_2_thumb.jpg)](https://swharden.com/static/2017/06/28/75hc590_divide_by_2.png)
-[![](https://swharden.com/static/2017/06/28/75hc590_pinout_thumb.jpg)](https://swharden.com/static/2017/06/28/75hc590_pinout.png)
+![](https://swharden.com/static/2017/06/28/schematic3.png)
+![](https://swharden.com/static/2017/06/28/75hc590_divide_by_2.png)
+![](https://swharden.com/static/2017/06/28/75hc590_pinout.png)
 
 </div>
 
@@ -39,7 +39,7 @@ __I _glued_ the radar module to the wall of a plastic enclosure.__ Isn't radar m
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/06/28/1083_thumb.jpg)](https://swharden.com/static/2017/06/28/1083.jpg)
+![](https://swharden.com/static/2017/06/28/1083.jpg)
 
 </div>
 
@@ -57,7 +57,7 @@ __I had two of these modules on hand, so after I got this project working with o
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/06/28/teardown-3_thumb.jpg)](https://swharden.com/static/2017/06/28/teardown-3.jpg)
+![](https://swharden.com/static/2017/06/28/teardown-3.jpg)
 
 </div>
 

@@ -14,7 +14,7 @@ __I've succeeded in building my own electrocardiograph (ECG) to record the elect
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/15/diy_ecg2_thumb.jpg)](https://swharden.com/static/2009/01/15/diy_ecg2.png)
+![](https://swharden.com/static/2009/01/15/diy_ecg2.png)
 
 </div>
 
@@ -22,7 +22,7 @@ __This is my actual ECC signal__ as record by a circuit similar to the one in th
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/15/diy_ecg1_thumb.jpg)](https://swharden.com/static/2009/01/15/diy_ecg1.png)
+![](https://swharden.com/static/2009/01/15/diy_ecg1.png)
 
 </div>
 

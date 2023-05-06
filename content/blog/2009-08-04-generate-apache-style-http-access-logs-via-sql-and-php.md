@@ -10,7 +10,7 @@ __Does your web hosting company block access to access.log, the text file contai
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/08/04/sql_php_http_log_viewer_thumb.jpg)](https://swharden.com/static/2009/08/04/sql_php_http_log_viewer.jpg)
+![](https://swharden.com/static/2009/08/04/sql_php_http_log_viewer.jpg)
 
 </div>
 
@@ -190,7 +190,7 @@ __And you're done!__  This example is a simplified, bare bones example.  You can
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/08/04/graph_time_thumb.jpg)](https://swharden.com/static/2009/08/04/graph_time.png)
+![](https://swharden.com/static/2009/08/04/graph_time.png)
 
 </div>
 

@@ -10,7 +10,7 @@ __Another thing everybody needs (and has probably built) is a simple laboratory 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2012/12/18/5_thumb.jpg)](https://swharden.com/static/2012/12/18/5.jpg)
+![](https://swharden.com/static/2012/12/18/5.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ In the image above you can see an ordinary LED being powered directly from the a
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2012/12/18/1_thumb.jpg)](https://swharden.com/static/2012/12/18/1.jpg)
+![](https://swharden.com/static/2012/12/18/1.jpg)
 
 </div>
 
@@ -45,7 +45,7 @@ Does the variable voltage actually work? Is the voltmeter accurate? Let's check 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2012/12/18/4_thumb.jpg)](https://swharden.com/static/2012/12/18/4.jpg)
+![](https://swharden.com/static/2012/12/18/4.jpg)
 
 </div>
 
@@ -53,7 +53,7 @@ I'd say it's working nicely!  I now have a new took on my workbench.
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2012/12/18/6_thumb.jpg)](https://swharden.com/static/2012/12/18/6.jpg)
+![](https://swharden.com/static/2012/12/18/6.jpg)
 
 </div>
 

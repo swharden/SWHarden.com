@@ -22,7 +22,7 @@ __I used just one of the 4 available op-amps from a LM324.__ I built this, hooke
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/01/14/noise_thumb.jpg)](https://swharden.com/static/2009/01/14/noise.png)
+![](https://swharden.com/static/2009/01/14/noise.png)
 
 </div>
 

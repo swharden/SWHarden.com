@@ -10,7 +10,7 @@ __I just completed building a device capable of measuring temperature to one hun
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170423_171551_thumb.jpg)](https://swharden.com/static/2017/04/29/20170423_171551.jpg)
+![](https://swharden.com/static/2017/04/29/20170423_171551.jpg)
 
 </div>
 
@@ -32,8 +32,8 @@ When run through an algorithm (given a whole page in the datasheet), the 6 facto
 
 ![](https://swharden.com/static/2017/04/29/10426_1_4531.jpg)
 ![](https://swharden.com/static/2017/04/29/10426_3_5984.jpg)
-[![](https://swharden.com/static/2017/04/29/WIN_20170312_21_36_07_Pro_thumb.jpg)](https://swharden.com/static/2017/04/29/WIN_20170312_21_36_07_Pro.jpg)
-[![](https://swharden.com/static/2017/04/29/WIN_20170312_21_32_56_Pro_thumb.jpg)](https://swharden.com/static/2017/04/29/WIN_20170312_21_32_56_Pro.jpg)
+![](https://swharden.com/static/2017/04/29/WIN_20170312_21_36_07_Pro.jpg)
+![](https://swharden.com/static/2017/04/29/WIN_20170312_21_32_56_Pro.jpg)
 
 </div>
 
@@ -53,7 +53,7 @@ __This was a great use for my Bus Pirate! __Without the [Bus Pirate](http://dang
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/270_thumb.jpg)](https://swharden.com/static/2017/04/29/270.jpg)
+![](https://swharden.com/static/2017/04/29/270.jpg)
 
 </div>
 
@@ -80,7 +80,7 @@ __Here are the commands I use with the Bus Pirate to connect with the sensor.__ 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2017/04/29/realterm3_thumb.jpg)](https://swharden.com/static/2017/04/29/realterm3.png)
+![](https://swharden.com/static/2017/04/29/realterm3.png)
 
 </div>
 
@@ -92,9 +92,9 @@ __My application requires me to sense pressure in air-tight tubing.__ My solutio
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/310_thumb.jpg)](https://swharden.com/static/2017/04/29/310.jpg)
-[![](https://swharden.com/static/2017/04/29/316_thumb.jpg)](https://swharden.com/static/2017/04/29/316.jpg)
-[![](https://swharden.com/static/2017/04/29/327_thumb.jpg)](https://swharden.com/static/2017/04/29/327.jpg)
+![](https://swharden.com/static/2017/04/29/310.jpg)
+![](https://swharden.com/static/2017/04/29/316.jpg)
+![](https://swharden.com/static/2017/04/29/327.jpg)
 
 </div>
 
@@ -104,7 +104,7 @@ __Right off the bat my Bus Pirate could pull sensor data but the C code I wrote 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170423_210831_thumb.jpg)](https://swharden.com/static/2017/04/29/20170423_210831.jpg)
+![](https://swharden.com/static/2017/04/29/20170423_210831.jpg)
 
 </div>
 
@@ -112,7 +112,7 @@ __In this case, I immediately saw__ that the I2C lines were always low (!) and r
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/saleae_thumb.jpg)](https://swharden.com/static/2017/04/29/saleae.jpg)
+![](https://swharden.com/static/2017/04/29/saleae.jpg)
 
 </div>
 
@@ -122,10 +122,10 @@ __I still can't get over how good the silver aluminium looks against the black l
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170408_120421_thumb.jpg)](https://swharden.com/static/2017/04/29/20170408_120421.jpg)
-[![](https://swharden.com/static/2017/04/29/20170408_120633_thumb.jpg)](https://swharden.com/static/2017/04/29/20170408_120633.jpg)
-[![](https://swharden.com/static/2017/04/29/342_thumb.jpg)](https://swharden.com/static/2017/04/29/342.jpg)
-[![](https://swharden.com/static/2017/04/29/20170408_124012_thumb.jpg)](https://swharden.com/static/2017/04/29/20170408_124012.jpg)
+![](https://swharden.com/static/2017/04/29/20170408_120421.jpg)
+![](https://swharden.com/static/2017/04/29/20170408_120633.jpg)
+![](https://swharden.com/static/2017/04/29/342.jpg)
+![](https://swharden.com/static/2017/04/29/20170408_124012.jpg)
 
 </div>
 
@@ -133,7 +133,7 @@ __I then proceeded to epoxy the connectors__ I wanted (USB and Ethernet) and dri
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170409_132514_HDR_thumb.jpg)](https://swharden.com/static/2017/04/29/20170409_132514_HDR.jpg)
+![](https://swharden.com/static/2017/04/29/20170409_132514_HDR.jpg)
 
 </div>
 
@@ -141,7 +141,7 @@ __I used CAT5 to carry I2C, which I understand is a bit iffy.__ I2C is designed 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170420_212832_thumb.jpg)](https://swharden.com/static/2017/04/29/20170420_212832.jpg)
+![](https://swharden.com/static/2017/04/29/20170420_212832.jpg)
 
 </div>
 
@@ -149,7 +149,7 @@ __I had to use a slightly larger aluminum enclosure__ than I initially wanted be
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170422_172610_thumb.jpg)](https://swharden.com/static/2017/04/29/20170422_172610.jpg)
+![](https://swharden.com/static/2017/04/29/20170422_172610.jpg)
 
 </div>
 
@@ -207,7 +207,7 @@ __It's great to have an inexpensive precision temperature and pressure sensor de
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170329_232145_thumb.jpg)](https://swharden.com/static/2017/04/29/20170329_232145.jpg)
+![](https://swharden.com/static/2017/04/29/20170329_232145.jpg)
 
 </div>
 
@@ -215,7 +215,7 @@ __It's great to have an inexpensive precision temperature and pressure sensor de
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/04/29/20170423_214443_thumb.jpg)](https://swharden.com/static/2017/04/29/20170423_214443.jpg)
+![](https://swharden.com/static/2017/04/29/20170423_214443.jpg)
 
 </div>
 

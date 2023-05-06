@@ -14,7 +14,7 @@ __Of the hundreds of projects I've shared over the years, none has attracted mor
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/04/14/diy-ecg-pulse-oximeter-lm324-opamp-sound-card_thumb.jpg)](https://swharden.com/static/2013/04/14/diy-ecg-pulse-oximeter-lm324-opamp-sound-card.jpg)
+![](https://swharden.com/static/2013/04/14/diy-ecg-pulse-oximeter-lm324-opamp-sound-card.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __The goal of this project is to collect heartbeat information on a computer wit
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a_thumb.jpg)](https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png)
+![](https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png)
 
 </div>
 
@@ -32,7 +32,7 @@ __The goal of this project is to collect heartbeat information on a computer wit
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/04/14/2013-04-14-11.36.39_thumb.jpg)](https://swharden.com/static/2013/04/14/2013-04-14-11.36.39.jpg)
+![](https://swharden.com/static/2013/04/14/2013-04-14-11.36.39.jpg)
 
 </div>
 
@@ -40,7 +40,7 @@ __The goal of this project is to collect heartbeat information on a computer wit
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/04/14/2013-04-14-15.06.20_thumb.jpg)](https://swharden.com/static/2013/04/14/2013-04-14-15.06.20.jpg)
+![](https://swharden.com/static/2013/04/14/2013-04-14-15.06.20.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ __In both cases, I need to build a device to amplify small signals__. This is ac
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/04/14/lm324-opamp-pulse-oximeter-ecg-schematic_thumb.jpg)](https://swharden.com/static/2013/04/14/lm324-opamp-pulse-oximeter-ecg-schematic.jpg)
+![](https://swharden.com/static/2013/04/14/lm324-opamp-pulse-oximeter-ecg-schematic.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ __Here are the results__ of some actual data recorded and processed with the met
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a_thumb.jpg)](https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png)
+![](https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png)
 
 </div>
 
@@ -78,8 +78,8 @@ __Here are the results__ of some actual data recorded and processed with the met
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/04/14/pulse-oximeter-a_thumb.jpg)](https://swharden.com/static/2013/04/14/pulse-oximeter-a.png)
-[![](https://swharden.com/static/2013/04/14/pulse-oximeter-b_thumb.jpg)](https://swharden.com/static/2013/04/14/pulse-oximeter-b.png)
+![](https://swharden.com/static/2013/04/14/pulse-oximeter-a.png)
+![](https://swharden.com/static/2013/04/14/pulse-oximeter-b.png)
 
 </div>
 

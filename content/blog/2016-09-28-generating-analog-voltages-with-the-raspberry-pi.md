@@ -9,7 +9,7 @@ __I recently had the need to generate analog voltages from the Raspberry PI, whi
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/09/28/IMG_8696_thumb.jpg)](https://swharden.com/static/2016/09/28/IMG_8696.jpg)
+![](https://swharden.com/static/2016/09/28/IMG_8696.jpg)
 
 </div>
 
@@ -37,7 +37,7 @@ Before I used a Raspberry Pi to control the DAC chip, I tested it out with a [Bu
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2016/09/28/serial_thumb.jpg)](https://swharden.com/static/2016/09/28/serial.png)
+![](https://swharden.com/static/2016/09/28/serial.png)
 
 </div>
 
@@ -45,7 +45,7 @@ I'm less familiar with the Bus Pirate, but this was a good opportunity to get to
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/09/28/fromPi_thumb.jpg)](https://swharden.com/static/2016/09/28/fromPi.png)
+![](https://swharden.com/static/2016/09/28/fromPi.png)
 
 </div>
 

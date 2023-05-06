@@ -18,7 +18,7 @@ Once properly closed, this box will keep everything in pristine working conditio
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/14/beacon_thumb.jpg)](https://swharden.com/static/2009/04/14/beacon.jpg)
+![](https://swharden.com/static/2009/04/14/beacon.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __My idea is to keep construction costs to a minimum because I'm throwing this a
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/04/14/beacon2_thumb.jpg)](https://swharden.com/static/2009/04/14/beacon2.jpg)
+![](https://swharden.com/static/2009/04/14/beacon2.jpg)
 
 </div>
 

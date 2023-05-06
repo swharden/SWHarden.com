@@ -10,15 +10,15 @@ __I completed work on my first RF receiver__, and for what it is it seems to wor
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2010/06/10/IMG_3475_thumb.jpg)](https://swharden.com/static/2010/06/10/IMG_3475.jpg)
+![](https://swharden.com/static/2010/06/10/IMG_3475.jpg)
 
-[![](https://swharden.com/static/2010/06/10/IMG_3482_thumb.jpg)](https://swharden.com/static/2010/06/10/IMG_3482.jpg)
+![](https://swharden.com/static/2010/06/10/IMG_3482.jpg)
 
-[![](https://swharden.com/static/2010/06/10/IMG_34792_thumb.jpg)](https://swharden.com/static/2010/06/10/IMG_34792.jpg)
+![](https://swharden.com/static/2010/06/10/IMG_34792.jpg)
 
-[![](https://swharden.com/static/2010/06/10/dc_qrss_thumb.jpg)](https://swharden.com/static/2010/06/10/dc_qrss.jpg)
+![](https://swharden.com/static/2010/06/10/dc_qrss.jpg)
 
-[![](https://swharden.com/static/2010/06/10/capture_thumb.jpg)](https://swharden.com/static/2010/06/10/capture.jpg)
+![](https://swharden.com/static/2010/06/10/capture.jpg)
 
 </div>
 

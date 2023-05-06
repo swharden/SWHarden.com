@@ -22,7 +22,7 @@ def detrend(data,degree=10):
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/06/24/detrend_fft_thumb.jpg)](https://swharden.com/static/2010/06/24/detrend_fft.png)
+![](https://swharden.com/static/2010/06/24/detrend_fft.png)
 
 </div>
 

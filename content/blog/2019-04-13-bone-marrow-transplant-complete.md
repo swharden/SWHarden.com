@@ -10,7 +10,7 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-leaving-hospital_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-leaving-hospital.jpg)
+![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-leaving-hospital.jpg)
 
 </div>
 
@@ -18,15 +18,15 @@ tags: ["med"]
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-scott-kane_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-scott-kane.jpg)
+![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-scott-kane.jpg)
 
 </div>
 
 <div class="text-center img-border img-micro">
 
-[![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-withdrawing-picc-line_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-withdrawing-picc-line.jpg)
-[![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-lets-go-home_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-lets-go-home.jpg)
-[![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-leaving-the-floor_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-leaving-the-floor.jpg)
+![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-withdrawing-picc-line.jpg)
+![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-lets-go-home.jpg)
+![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-finished-leaving-the-floor.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ tags: ["med"]
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-white-blood-cell-count-bloodwork_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-white-blood-cell-count-bloodwork.png)
+![](https://swharden.com/static/2019/04/13/scott-harden-bone-marrow-transplant-white-blood-cell-count-bloodwork.png)
 
 </div>
 
@@ -46,6 +46,6 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/04/13/scott-harden-cancer-bone-marrow-transplant-recovery_thumb.jpg)](https://swharden.com/static/2019/04/13/scott-harden-cancer-bone-marrow-transplant-recovery.jpg)
+![](https://swharden.com/static/2019/04/13/scott-harden-cancer-bone-marrow-transplant-recovery.jpg)
 
 </div>

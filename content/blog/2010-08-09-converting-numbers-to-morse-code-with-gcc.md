@@ -10,7 +10,7 @@ __One of my microcontroller projects__ requires me to measure values and transmi
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/08/09/binary_to_Morse_thumb.jpg)](https://swharden.com/static/2010/08/09/binary_to_Morse.png)
+![](https://swharden.com/static/2010/08/09/binary_to_Morse.png)
 
 </div>
 

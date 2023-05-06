@@ -45,7 +45,7 @@ p.terminate()
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/19/01_thumb.jpg)](https://swharden.com/static/2016/07/19/01.png)
+![](https://swharden.com/static/2016/07/19/01.png)
 
 </div>
 
@@ -389,6 +389,6 @@ while True:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/19/audio-graphical_thumb.jpg)](https://swharden.com/static/2016/07/19/audio-graphical.png)
+![](https://swharden.com/static/2016/07/19/audio-graphical.png)
 
 </div>

@@ -12,7 +12,7 @@ __This is a proof-of-concept demonstration, and part of a larger project.__ I th
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/05/19/c31_thumb.jpg)](https://swharden.com/static/2013/05/19/c31.jpg)
+![](https://swharden.com/static/2013/05/19/c31.jpg)
 
 </div>
 
@@ -43,7 +43,7 @@ __From a software side,__ I’m using PyAudio to collect data from the sound car
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/05/19/SHRFP_thumb.jpg)](https://swharden.com/static/2013/05/19/SHRFP.png)
+![](https://swharden.com/static/2013/05/19/SHRFP.png)
 
 </div>
 

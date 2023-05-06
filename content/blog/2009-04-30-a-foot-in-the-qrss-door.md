@@ -20,7 +20,7 @@ __I built a straight-through parallel programmer__ for my ATTiny2313 chips. It w
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/30/img_1555_thumb.jpg)](https://swharden.com/static/2009/04/30/img_1555.jpg)
+![](https://swharden.com/static/2009/04/30/img_1555.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __These crystals release wide bands of RF__ not only near the primary frequency 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/30/img_1550_thumb.jpg)](https://swharden.com/static/2009/04/30/img_1550.jpg)
+![](https://swharden.com/static/2009/04/30/img_1550.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __Remember when I talked about the illegal part?__ Yeah, I detected harmonic sig
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/30/ss_thumb.jpg)](https://swharden.com/static/2009/04/30/ss.png)
+![](https://swharden.com/static/2009/04/30/ss.png)
 
 </div>
 

@@ -14,7 +14,7 @@ First spot occurred while I was actively adjusting the transmission length
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/20/W4HBK-first-callsign_thumb.jpg)](https://swharden.com/static/2019/07/20/W4HBK-first-callsign.jpg)
+![](https://swharden.com/static/2019/07/20/W4HBK-first-callsign.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ First spot occurred while I was actively adjusting the transmission length
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/20/WD4ELG-first-callsign_thumb.jpg)](https://swharden.com/static/2019/07/20/WD4ELG-first-callsign.jpg)
+![](https://swharden.com/static/2019/07/20/WD4ELG-first-callsign.jpg)
 
 </div>
 
@@ -31,6 +31,6 @@ First spot occurred while I was actively adjusting the transmission length
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/20/WD4ELG-5x-stack_thumb.jpg)](https://swharden.com/static/2019/07/20/WD4ELG-5x-stack.jpg)
+![](https://swharden.com/static/2019/07/20/WD4ELG-5x-stack.jpg)
 
 </div>

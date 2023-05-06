@@ -61,7 +61,7 @@ __A couple notes about the code:__ the WDT=OFF disables the [watchdog timer](htt
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2012/06/24/pic-ledblink_thumb.jpg)](https://swharden.com/static/2012/06/24/pic-ledblink.png)
+![](https://swharden.com/static/2012/06/24/pic-ledblink.png)
 
 </div>
 

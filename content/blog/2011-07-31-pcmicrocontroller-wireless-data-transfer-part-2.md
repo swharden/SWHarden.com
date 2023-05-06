@@ -13,7 +13,7 @@ __Last week I had the crazy idea__ of sending data from a PC to a microchip thro
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/31/DSCN1657_thumb.jpg)](https://swharden.com/static/2011/07/31/DSCN1657.jpg)
+![](https://swharden.com/static/2011/07/31/DSCN1657.jpg)
 
 </div>
 

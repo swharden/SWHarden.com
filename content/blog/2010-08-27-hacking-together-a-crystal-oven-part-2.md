@@ -12,12 +12,12 @@ __With the last post's promising results,__ I set out to finish my crystal oven 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/08/27/IMG_3805_thumb.jpg)](https://swharden.com/static/2010/08/27/IMG_3805.jpg)
-[![](https://swharden.com/static/2010/08/27/IMG_3824_thumb.jpg)](https://swharden.com/static/2010/08/27/IMG_3824.jpg)
-[![](https://swharden.com/static/2010/08/27/IMG_3829_thumb.jpg)](https://swharden.com/static/2010/08/27/IMG_3829.jpg)
-[![](https://swharden.com/static/2010/08/27/IMG_3832_thumb.jpg)](https://swharden.com/static/2010/08/27/IMG_3832.jpg)
-[![](https://swharden.com/static/2010/08/27/IMG_3838_thumb.jpg)](https://swharden.com/static/2010/08/27/IMG_3838.jpg)
-[![](https://swharden.com/static/2010/08/27/IMG_3848_thumb.jpg)](https://swharden.com/static/2010/08/27/IMG_3848.jpg)
+![](https://swharden.com/static/2010/08/27/IMG_3805.jpg)
+![](https://swharden.com/static/2010/08/27/IMG_3824.jpg)
+![](https://swharden.com/static/2010/08/27/IMG_3829.jpg)
+![](https://swharden.com/static/2010/08/27/IMG_3832.jpg)
+![](https://swharden.com/static/2010/08/27/IMG_3838.jpg)
+![](https://swharden.com/static/2010/08/27/IMG_3848.jpg)
 
 </div>
 

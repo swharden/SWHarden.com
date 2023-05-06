@@ -10,7 +10,7 @@ __It is not difficult to program ATMEL AVR microcontrollers with linux, and I al
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/01/06/mcu-programmer-far_thumb.jpg)](https://swharden.com/static/2013/01/06/mcu-programmer-far.jpg)
+![](https://swharden.com/static/2013/01/06/mcu-programmer-far.jpg)
 
 </div>
 
@@ -89,7 +89,7 @@ Sit back and watch your LED blink.
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/01/06/mcu-programmer-close_thumb.jpg)](https://swharden.com/static/2013/01/06/mcu-programmer-close.jpg)
+![](https://swharden.com/static/2013/01/06/mcu-programmer-close.jpg)
 
 </div>
 

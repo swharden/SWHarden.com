@@ -12,7 +12,7 @@ __Briefly, this is what my idea is.__ Rather than standard 2-frequencies (low fo
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/07/22/traditional_thumb.jpg)](https://swharden.com/static/2010/07/22/traditional.png)
+![](https://swharden.com/static/2010/07/22/traditional.png)
 
 </div>
 
@@ -20,7 +20,7 @@ __Again,__ both of these images say the same thing: AJ4VD, `.- .--- ....- ...- -
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/07/22/modulation_thumb.jpg)](https://swharden.com/static/2010/07/22/modulation.png)
+![](https://swharden.com/static/2010/07/22/modulation.png)
 
 </div>
 
@@ -113,7 +113,7 @@ for char in raw_lookup:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/07/22/produced_thumb.jpg)](https://swharden.com/static/2010/07/22/produced.png)
+![](https://swharden.com/static/2010/07/22/produced.png)
 
 </div>
 

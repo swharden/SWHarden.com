@@ -10,7 +10,7 @@ tags: ["circuit"]
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2019/08/03/curved2_thumb.jpg)](https://swharden.com/static/2019/08/03/curved2.jpg)
+![](https://swharden.com/static/2019/08/03/curved2.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ tags: ["circuit"]
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2019/08/03/DSC_0132_thumb.jpg)](https://swharden.com/static/2019/08/03/DSC_0132.jpg)
+![](https://swharden.com/static/2019/08/03/DSC_0132.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2019/08/03/2019-08-04-output_thumb.jpg)](https://swharden.com/static/2019/08/03/2019-08-04-output.png)
+![](https://swharden.com/static/2019/08/03/2019-08-04-output.png)
 
 </div>
 
@@ -52,7 +52,7 @@ tags: ["circuit"]
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2019/08/03/schematic_thumb.jpg)](https://swharden.com/static/2019/08/03/schematic.png)
+![](https://swharden.com/static/2019/08/03/schematic.png)
 
 </div>
 
@@ -93,19 +93,19 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/08/03/pcb-dsn_thumb.jpg)](https://swharden.com/static/2019/08/03/pcb-dsn.png)
+![](https://swharden.com/static/2019/08/03/pcb-dsn.png)
 
 </div>
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2019/08/03/pcb-rndr_thumb.jpg)](https://swharden.com/static/2019/08/03/pcb-rndr.png)
+![](https://swharden.com/static/2019/08/03/pcb-rndr.png)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/08/03/DSC_0128_thumb.jpg)](https://swharden.com/static/2019/08/03/DSC_0128.jpg)
+![](https://swharden.com/static/2019/08/03/DSC_0128.jpg)
 
 </div>
 

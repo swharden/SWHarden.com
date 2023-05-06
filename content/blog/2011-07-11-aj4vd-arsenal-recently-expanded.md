@@ -16,7 +16,7 @@ __After a brief trip__ to Orlando to visit family, I decided to stop by the hous
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/after1_thumb.jpg)](https://swharden.com/static/2011/07/11/after1.jpg)
+![](https://swharden.com/static/2011/07/11/after1.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __I never can leave things alone can I?__ While basking in happiness over this n
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1540_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1540.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1540.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ __I guess it all makes sense.__ AC transformer and rectifier diodes with a smoot
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1541_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1541.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1541.jpg)
 
 </div>
 
@@ -44,7 +44,7 @@ __After posting and thinking about it,__ the curiosity got to me! I lifted the p
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1552_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1552.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1552.jpg)
 
 </div>
 
@@ -52,7 +52,7 @@ __There's our buffer and wave shaper!__ The [full datasheet](http://www.onsemi.c
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1544_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1544.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1544.jpg)
 
 </div>
 
@@ -63,7 +63,7 @@ __So, it seems__ that chip is already outputting data ready to go into a CPU. I 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1560_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1560.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1560.jpg)
 
 </div>
 
@@ -71,7 +71,7 @@ __More ICs!__ I couldn't see them well before so I'm glad I opened up the displa
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/xray_circuit_thumb.jpg)](https://swharden.com/static/2011/07/11/xray_circuit.jpg)
+![](https://swharden.com/static/2011/07/11/xray_circuit.jpg)
 
 </div>
 
@@ -79,7 +79,7 @@ __Let's take a closer look at that main chip again...__ X-RAY VISION TIME! I use
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1547_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1547.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1547.jpg)
 
 </div>
 
@@ -96,9 +96,9 @@ __I'm quite excited__, the end product works wonderfully! It looks pretty spiffy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/DSCN1580_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1580.jpg)
-[![](https://swharden.com/static/2011/07/11/DSCN1605_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1605.jpg)
-[![](https://swharden.com/static/2011/07/11/DSCN1609_thumb.jpg)](https://swharden.com/static/2011/07/11/DSCN1609.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1580.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1605.jpg)
+![](https://swharden.com/static/2011/07/11/DSCN1609.jpg)
 
 </div>
 
@@ -110,7 +110,7 @@ Of course Python and MatPlotLib can graph it:
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2011/07/11/usb-frequency-counter-hack2_thumb.jpg)](https://swharden.com/static/2011/07/11/usb-frequency-counter-hack2.png)
+![](https://swharden.com/static/2011/07/11/usb-frequency-counter-hack2.png)
 
 </div>
 
@@ -118,7 +118,7 @@ Of course Python and MatPlotLib can graph it:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/11/usb-frequency-counter-hack_thumb.jpg)](https://swharden.com/static/2011/07/11/usb-frequency-counter-hack.png)
+![](https://swharden.com/static/2011/07/11/usb-frequency-counter-hack.png)
 
 </div>
 
@@ -128,7 +128,7 @@ __UPDATE 2__ Here's some useful data! I hooked up a canned oscillator at 3.57 so
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2011/07/11/warmup1_thumb.jpg)](https://swharden.com/static/2011/07/11/warmup1.png)
+![](https://swharden.com/static/2011/07/11/warmup1.png)
 
 </div>
 
@@ -136,7 +136,7 @@ Once it's warm, it's stable!
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2011/07/11/warm_thumb.jpg)](https://swharden.com/static/2011/07/11/warm.png)
+![](https://swharden.com/static/2011/07/11/warm.png)
 
 </div>
 

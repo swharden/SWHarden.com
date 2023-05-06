@@ -9,7 +9,7 @@ __This is a total hack, but it works.__ I spent all night jumping through hoops 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/06/27/glade_windows_python_thumb.jpg)](https://swharden.com/static/2010/06/27/glade_windows_python.png)
+![](https://swharden.com/static/2010/06/27/glade_windows_python.png)
 
 </div>
 

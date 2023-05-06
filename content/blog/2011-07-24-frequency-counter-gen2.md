@@ -14,7 +14,7 @@ __I'm working to further simplify my frequency counter design.__ This one is sim
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/24/DSCN1630_thumb.jpg)](https://swharden.com/static/2011/07/24/DSCN1630.jpg)
+![](https://swharden.com/static/2011/07/24/DSCN1630.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __The device outputs__ graphically to a LCD simply enough. That LCD is from eBay
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/24/DSCN1634_thumb.jpg)](https://swharden.com/static/2011/07/24/DSCN1634.jpg)
+![](https://swharden.com/static/2011/07/24/DSCN1634.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __The signal I test with__ comes from an oscillator I built several months ago. 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/24/DSCN1637_thumb.jpg)](https://swharden.com/static/2011/07/24/DSCN1637.jpg)
+![](https://swharden.com/static/2011/07/24/DSCN1637.jpg)
 
 </div>
 

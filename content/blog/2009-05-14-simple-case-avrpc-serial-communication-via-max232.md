@@ -10,7 +10,7 @@ __I recently had the desire__ to be able to see data from an ATMEL AVR microcont
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/05/14/serialcircuit_thumb.jpg)](https://swharden.com/static/2009/05/14/serialcircuit.png)
+![](https://swharden.com/static/2009/05/14/serialcircuit.png)
 
 </div>
 
@@ -77,7 +77,7 @@ __Once you load it, it's ready to roll!__  It continuously dumps letters to the 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/05/14/avr_serial_console_thumb.jpg)](https://swharden.com/static/2009/05/14/avr_serial_console.jpg)
+![](https://swharden.com/static/2009/05/14/avr_serial_console.jpg)
 
 </div>
 
@@ -85,7 +85,7 @@ __This is the circuit__ which generates the output of the previous image.  I hav
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/05/14/avr_max232_thumb.jpg)](https://swharden.com/static/2009/05/14/avr_max232.jpg)
+![](https://swharden.com/static/2009/05/14/avr_max232.jpg)
 
 </div>
 

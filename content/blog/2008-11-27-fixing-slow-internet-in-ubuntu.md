@@ -13,7 +13,7 @@ __The solution for me was simple, and since__ I spent a lot of time searching fo
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2008/11/27/dnsfix1_thumb.jpg)](https://swharden.com/static/2008/11/27/dnsfix1.png)
+![](https://swharden.com/static/2008/11/27/dnsfix1.png)
 
 </div>
 
@@ -22,7 +22,7 @@ __The solution for me was simple, and since__ I spent a lot of time searching fo
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2008/11/27/dnsfix4_thumb.jpg)](https://swharden.com/static/2008/11/27/dnsfix4.png)
+![](https://swharden.com/static/2008/11/27/dnsfix4.png)
 
 </div>
 
@@ -30,7 +30,7 @@ Check out your current configuration.  __Is a local address (192.168.\*.\*) set 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2008/11/27/dnsfix1_thumb.jpg)](https://swharden.com/static/2008/11/27/dnsfix1.png)
+![](https://swharden.com/static/2008/11/27/dnsfix1.png)
 
 </div>
 
@@ -38,7 +38,7 @@ Continue by right-clicking your network icon (wireless in my case) and selecting
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2008/11/27/dnsfix3_thumb.jpg)](https://swharden.com/static/2008/11/27/dnsfix3.png)
+![](https://swharden.com/static/2008/11/27/dnsfix3.png)
 
 </div>
 

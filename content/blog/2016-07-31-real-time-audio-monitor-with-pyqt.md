@@ -76,6 +76,6 @@ All files used for this project are [in a GitHub folder](https://github.com/swha
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/31/widget_thumb.jpg)](https://swharden.com/static/2016/07/31/widget.png)
+![](https://swharden.com/static/2016/07/31/widget.png)
 
 </div>

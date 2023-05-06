@@ -10,7 +10,7 @@ __I wrote a program to display extremely large images in Python using TK. __It's
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/03/specview_thumb.jpg)](https://swharden.com/static/2010/03/03/specview.png)
+![](https://swharden.com/static/2010/03/03/specview.png)
 
 </div>
 
@@ -18,7 +18,7 @@ __This little Python program__ will load an image (pretty much any format) using
 
 <div class="text-center img-border large">
 
-[![](https://swharden.com/static/2010/03/03/1hr_original_thumb.jpg)](https://swharden.com/static/2010/03/03/1hr_original.jpg)
+![](https://swharden.com/static/2010/03/03/1hr_original.jpg)
 
 </div>
 

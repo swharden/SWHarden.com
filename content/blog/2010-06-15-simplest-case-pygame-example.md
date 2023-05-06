@@ -10,7 +10,7 @@ __I'm starting to investigate PyGame__ as an alternative to PIL and K for my QRS
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/15/example_pygame_thumb.jpg)](https://swharden.com/static/2010/06/15/example_pygame.png)
+![](https://swharden.com/static/2010/06/15/example_pygame.png)
 
 </div>
 

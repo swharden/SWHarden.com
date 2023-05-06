@@ -14,8 +14,8 @@ __In the spirit of furthering my knowledge of AC circuity,__ I'm trying to build
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/01/28/IMG_4994_thumb.jpg)](https://swharden.com/static/2011/01/28/IMG_4994.jpg)
-[![](https://swharden.com/static/2011/01/28/IMG_5013_thumb.jpg)](https://swharden.com/static/2011/01/28/IMG_5013.jpg)
+![](https://swharden.com/static/2011/01/28/IMG_4994.jpg)
+![](https://swharden.com/static/2011/01/28/IMG_5013.jpg)
 
 </div>
 
@@ -27,9 +27,9 @@ __UPDATE:__ I got a cool dual 16-bit counter IC made by TI, a SN74LV8154N - very
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/01/28/IMG_5042_thumb.jpg)](https://swharden.com/static/2011/01/28/IMG_5042.jpg)
-[![](https://swharden.com/static/2011/01/28/IMG_5039_thumb.jpg)](https://swharden.com/static/2011/01/28/IMG_5039.jpg)
-[![](https://swharden.com/static/2011/01/28/IMG_5041_thumb.jpg)](https://swharden.com/static/2011/01/28/IMG_5041.jpg)
+![](https://swharden.com/static/2011/01/28/IMG_5042.jpg)
+![](https://swharden.com/static/2011/01/28/IMG_5039.jpg)
+![](https://swharden.com/static/2011/01/28/IMG_5041.jpg)
 
 </div>
 

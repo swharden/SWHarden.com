@@ -9,9 +9,9 @@ __Yesterday was__ the notorious "injection lab" where 80 second-year dental stud
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/02/11/inj1_thumb.jpg)](https://swharden.com/static/2011/02/11/inj1.jpg)
+![](https://swharden.com/static/2011/02/11/inj1.jpg)
 
-[![](https://swharden.com/static/2011/02/11/inj2_thumb.jpg)](https://swharden.com/static/2011/02/11/inj2.jpg)
+![](https://swharden.com/static/2011/02/11/inj2.jpg)
 
 </div>
 
@@ -19,6 +19,6 @@ __After the event__ I went to a GARC (Gator Amateur Radio Club) meeting and then
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/02/11/scott_injection2_thumb.jpg)](https://swharden.com/static/2011/02/11/scott_injection2.jpg)
+![](https://swharden.com/static/2011/02/11/scott_injection2.jpg)
 
 </div>

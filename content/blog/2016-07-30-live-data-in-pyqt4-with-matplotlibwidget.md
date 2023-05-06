@@ -11,7 +11,7 @@ __I keep getting involved in projects which require live data to be graphed in r
 <div class="text-center img-border img-small">
 
 ![](https://swharden.com/static/2016/07/30/demo.gif)
-[![](https://swharden.com/static/2016/07/30/qt4_thumb.jpg)](https://swharden.com/static/2016/07/30/qt4.png)
+![](https://swharden.com/static/2016/07/30/qt4.png)
 
 </div>
 
@@ -21,7 +21,7 @@ __First, I designed a GUI with Qt Designer__. I dropped a MatplotlibWidget somew
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/30/pyqt4-designer_thumb.jpg)](https://swharden.com/static/2016/07/30/pyqt4-designer.png)
+![](https://swharden.com/static/2016/07/30/pyqt4-designer.png)
 
 </div>
 

@@ -16,7 +16,7 @@ __These concepts are simple__ to visualize when graphed. Here I've written a sho
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/06/23/real_imaginary_fft_pcm_thumb.jpg)](https://swharden.com/static/2010/06/23/real_imaginary_fft_pcm.png)
+![](https://swharden.com/static/2010/06/23/real_imaginary_fft_pcm.png)
 
 </div>
 
@@ -24,7 +24,7 @@ __Of particular interest__ to me is the beautiful complementary of the two curve
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/06/23/fft_base2_thumb.jpg)](https://swharden.com/static/2010/06/23/fft_base2.png)
+![](https://swharden.com/static/2010/06/23/fft_base2.png)
 
 </div>
 
@@ -85,7 +85,7 @@ __After fighting for a while long with__ a "shifty baseline" of the FFT, I came 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/06/23/fft_base3_thumb.jpg)](https://swharden.com/static/2010/06/23/fft_base3.png)
+![](https://swharden.com/static/2010/06/23/fft_base3.png)
 
 </div>
 

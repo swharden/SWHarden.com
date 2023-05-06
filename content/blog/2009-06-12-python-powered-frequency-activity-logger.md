@@ -13,7 +13,7 @@ __We can visualize this data__ using some more simple Python code. Long term it 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/06/12/qsographpng_thumb.jpg)](https://swharden.com/static/2009/06/12/qsographpng.png)
+![](https://swharden.com/static/2009/06/12/qsographpng.png)
 
 </div>
 

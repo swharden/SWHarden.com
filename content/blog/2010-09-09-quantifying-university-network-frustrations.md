@@ -10,7 +10,7 @@ __I'm sitting in class frustrated as could be.__ The Internet in this room is un
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2010/09/09/out_thumb.jpg)](https://swharden.com/static/2010/09/09/out.png)
+![](https://swharden.com/static/2010/09/09/out.png)
 
 </div>
 
@@ -18,7 +18,7 @@ __Notice the massive lag spikes__ around the time class begins. I think it's cau
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2010/09/09/out2_thumb.jpg)](https://swharden.com/static/2010/09/09/out2.png)
+![](https://swharden.com/static/2010/09/09/out2.png)
 
 </div>
 

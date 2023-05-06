@@ -20,7 +20,7 @@ __I have a 13 MB file containing lines like this__ which I parse, condense, anal
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/05/20/compusage_white_thumb.jpg)](https://swharden.com/static/2009/05/20/compusage_white.png)
+![](https://swharden.com/static/2009/05/20/compusage_white.png)
 
 </div>
 

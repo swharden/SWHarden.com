@@ -14,7 +14,7 @@ Instead of using a [single op-amp circuit](http://www.swharden.com/blog/images/o
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/01/20/08-01-19-410_thumb.jpg)](https://swharden.com/static/2009/01/20/08-01-19-410.jpg)
+![](https://swharden.com/static/2009/01/20/08-01-19-410.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ The results look great! Noise is almost zero, so true details of the trace are v
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/20/nicetwopng_thumb.jpg)](https://swharden.com/static/2009/01/20/nicetwopng.png)
+![](https://swharden.com/static/2009/01/20/nicetwopng.png)
 
 </div>
 
@@ -30,7 +30,7 @@ __UPDATE:__ After analyzing ~20 minutes of heartbeat data I found a peculiarity.
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/01/20/murm2_thumb.jpg)](https://swharden.com/static/2009/01/20/murm2.png)
+![](https://swharden.com/static/2009/01/20/murm2.png)
 
 </div>
 

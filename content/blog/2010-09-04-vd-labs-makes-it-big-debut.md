@@ -10,7 +10,7 @@ __The VD Labs web page has been published!__ I hope that the new VD Labs page wi
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2010/09/04/vd-labs-flyer_thumb.jpg)](https://swharden.com/static/2010/09/04/vd-labs-flyer.jpg)
+![](https://swharden.com/static/2010/09/04/vd-labs-flyer.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ __Since I ran out of steam__ from working so much on [QRSS VD](http://www.swhard
 
 <div class="text-center img-border large">
 
-[![](https://swharden.com/static/2010/09/04/stitched_thumb.jpg)](https://swharden.com/static/2010/09/04/stitched.jpg)
+![](https://swharden.com/static/2010/09/04/stitched.jpg)
 
 </div>
 
@@ -37,7 +37,7 @@ __Since I ran out of steam__ from working so much on [QRSS VD](http://www.swhard
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/09/04/stacked_narrow_thumb.jpg)](https://swharden.com/static/2010/09/04/stacked_narrow.jpg)
+![](https://swharden.com/static/2010/09/04/stacked_narrow.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ __Since I ran out of steam__ from working so much on [QRSS VD](http://www.swhard
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/09/04/stacked_stitched_thumb.jpg)](https://swharden.com/static/2010/09/04/stacked_stitched.jpg)
+![](https://swharden.com/static/2010/09/04/stacked_stitched.jpg)
 
 </div>
 

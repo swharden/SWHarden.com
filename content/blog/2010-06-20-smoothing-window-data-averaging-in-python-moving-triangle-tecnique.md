@@ -12,7 +12,7 @@ __While I wrote a pervious post on linear data smoothing with python,__ those sc
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/06/20/moving-triangle-python-data-smoothing_thumb.jpg)](https://swharden.com/static/2010/06/20/moving-triangle-python-data-smoothing.png)
+![](https://swharden.com/static/2010/06/20/moving-triangle-python-data-smoothing.png)
 
 </div>
 

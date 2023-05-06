@@ -10,7 +10,7 @@ __Finally!__ After a few years tumbling around in my head, a few months of readi
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/19/qrss-desk_thumb.jpg)](https://swharden.com/static/2010/05/19/qrss-desk.jpg)
+![](https://swharden.com/static/2010/05/19/qrss-desk.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __My desk is a little messy.__ I'm hard at work! Actually, I'm thinking of build
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/19/qrss-transmitter_thumb.jpg)](https://swharden.com/static/2010/05/19/qrss-transmitter.jpg)
+![](https://swharden.com/static/2010/05/19/qrss-transmitter.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __This is the transmitter.__ The box is mostly empty space, but it consists of t
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/19/qrss-fish_thumb.jpg)](https://swharden.com/static/2010/05/19/qrss-fish.png)
+![](https://swharden.com/static/2010/05/19/qrss-fish.png)
 
 </div>
 

@@ -8,7 +8,7 @@ tags: ["python", "old"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/05/tk-scrolling_thumb.jpg)](https://swharden.com/static/2010/03/05/tk-scrolling.png)
+![](https://swharden.com/static/2010/03/05/tk-scrolling.png)
 
 </div>
 

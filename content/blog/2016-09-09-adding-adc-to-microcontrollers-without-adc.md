@@ -10,7 +10,7 @@ __I recently had the need to carefully measure a voltage with a microcontroller 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/09/09/circuit_thumb.jpg)](https://swharden.com/static/2016/09/09/circuit.png)
+![](https://swharden.com/static/2016/09/09/circuit.png)
 
 </div>
 
@@ -20,7 +20,7 @@ __I recently had the need to carefully measure a voltage with a microcontroller 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/09/09/testrig-1_thumb.jpg)](https://swharden.com/static/2016/09/09/testrig-1.jpg)
+![](https://swharden.com/static/2016/09/09/testrig-1.jpg)
 
 </div>
 
@@ -28,7 +28,7 @@ __My test setup is a mess, but it demonstrates this idea works well, and is stab
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/09/09/scope_thumb.jpg)](https://swharden.com/static/2016/09/09/scope.png)
+![](https://swharden.com/static/2016/09/09/scope.png)
 
 </div>
 
@@ -38,7 +38,7 @@ __Interestingly, this method is largely insensitive to power supply noise.__ I'm
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/09/09/miniterm_thumb.jpg)](https://swharden.com/static/2016/09/09/miniterm.png)
+![](https://swharden.com/static/2016/09/09/miniterm.png)
 
 </div>
 
@@ -46,7 +46,7 @@ __Lately I've been using [RealTerm](http://realterm.sourceforge.net/) as a featu
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/09/09/data_touch_thumb.jpg)](https://swharden.com/static/2016/09/09/data_touch.png)
+![](https://swharden.com/static/2016/09/09/data_touch.png)
 
 </div>
 
@@ -54,7 +54,7 @@ __This is what happens when I touch the temperature sensor for about 30s.__ I'm 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/09/09/data_ac_thumb.jpg)](https://swharden.com/static/2016/09/09/data_ac.png)
+![](https://swharden.com/static/2016/09/09/data_ac.png)
 
 </div>
 

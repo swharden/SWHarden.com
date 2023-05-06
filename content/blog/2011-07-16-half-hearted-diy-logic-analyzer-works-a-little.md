@@ -18,8 +18,8 @@ Images of the output:
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/16/diy-logic-analyzer-1_thumb.jpg)](https://swharden.com/static/2011/07/16/diy-logic-analyzer-1.png)
-[![](https://swharden.com/static/2011/07/16/diy-logic-analyzer-2_thumb.jpg)](https://swharden.com/static/2011/07/16/diy-logic-analyzer-2.png)
+![](https://swharden.com/static/2011/07/16/diy-logic-analyzer-1.png)
+![](https://swharden.com/static/2011/07/16/diy-logic-analyzer-2.png)
 
 </div>
 

@@ -10,9 +10,9 @@ __I'm so excited!__ This little transmitter I made and programmed to transmit my
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/05/22/spotNice_thumb.jpg)](https://swharden.com/static/2010/05/22/spotNice.jpg)
+![](https://swharden.com/static/2010/05/22/spotNice.jpg)
 
-[![](https://swharden.com/static/2010/05/22/simple_qrss_transmitter_thumb.jpg)](https://swharden.com/static/2010/05/22/simple_qrss_transmitter.jpg)
+![](https://swharden.com/static/2010/05/22/simple_qrss_transmitter.jpg)
 
 </div>
 

@@ -12,7 +12,7 @@ __I've been working on the pySquelch project__ which is basically a method to gr
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/06/18/1png_thumb.jpg)](https://swharden.com/static/2009/06/18/1png.png)
+![](https://swharden.com/static/2009/06/18/1png.png)
 
 </div>
 
@@ -20,7 +20,7 @@ __This graph represents frequency activity with respect to time. __The semi-tran
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/06/18/2png_thumb.jpg)](https://swharden.com/static/2009/06/18/2png.png)
+![](https://swharden.com/static/2009/06/18/2png.png)
 
 </div>
 

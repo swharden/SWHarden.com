@@ -12,7 +12,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/belgium-JO10UX_thumb.jpg)](https://swharden.com/static/2010/06/07/belgium-JO10UX.jpg)
+![](https://swharden.com/static/2010/06/07/belgium-JO10UX.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/england-G4CWX_thumb.jpg)](https://swharden.com/static/2010/06/07/england-G4CWX.jpg)
+![](https://swharden.com/static/2010/06/07/england-G4CWX.jpg)
 
 </div>
 
@@ -28,7 +28,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/france-JN39AB_thumb.jpg)](https://swharden.com/static/2010/06/07/france-JN39AB.jpg)
+![](https://swharden.com/static/2010/06/07/france-JN39AB.jpg)
 
 </div>
 
@@ -36,7 +36,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/mass-W1BW_2jpg_thumb.jpg)](https://swharden.com/static/2010/06/07/mass-W1BW_2jpg.jpg)
+![](https://swharden.com/static/2010/06/07/mass-W1BW_2jpg.jpg)
 
 </div>
 
@@ -44,7 +44,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/NE-KK7CC_thumb.jpg)](https://swharden.com/static/2010/06/07/NE-KK7CC.jpg)
+![](https://swharden.com/static/2010/06/07/NE-KK7CC.jpg)
 
 </div>
 
@@ -52,7 +52,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/netherlands-JO22DA_thumb.jpg)](https://swharden.com/static/2010/06/07/netherlands-JO22DA.jpg)
+![](https://swharden.com/static/2010/06/07/netherlands-JO22DA.jpg)
 
 </div>
 
@@ -60,7 +60,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/alaska_thumb.jpg)](https://swharden.com/static/2010/06/07/alaska.jpg)
+![](https://swharden.com/static/2010/06/07/alaska.jpg)
 
 </div>
 
@@ -68,7 +68,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/Italia-I2NDT_thumb.jpg)](https://swharden.com/static/2010/06/07/Italia-I2NDT.jpg)
+![](https://swharden.com/static/2010/06/07/Italia-I2NDT.jpg)
 
 </div>
 
@@ -76,7 +76,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/New-Zealand-ZL2IK_thumb.jpg)](https://swharden.com/static/2010/06/07/New-Zealand-ZL2IK.jpg)
+![](https://swharden.com/static/2010/06/07/New-Zealand-ZL2IK.jpg)
 
 </div>
 
@@ -84,7 +84,7 @@ These should speak for themselves. Which signal is mine? Obviously I'm the crazy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/07/dunno_thumb.jpg)](https://swharden.com/static/2010/06/07/dunno.jpg)
+![](https://swharden.com/static/2010/06/07/dunno.jpg)
 
 </div>
 

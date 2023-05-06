@@ -10,7 +10,7 @@ __I don't have long,__ but the picture speaks for itself. Sent from Florida to C
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/16/gatorLow_thumb.jpg)](https://swharden.com/static/2010/03/16/gatorLow.jpg)
+![](https://swharden.com/static/2010/03/16/gatorLow.jpg)
 
 </div>
 

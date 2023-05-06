@@ -10,7 +10,7 @@ The <em>Internet of Things</em> now includes Festivus poles! **Festivus is a hol
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2017/12/19/723_thumb.jpg)](https://swharden.com/static/2017/12/19/723.jpg)
+![](https://swharden.com/static/2017/12/19/723.jpg)
 
 </div>
 
@@ -27,8 +27,8 @@ __To build the Festivus pole__ I got a piece of wood and a steel conduit pipe fr
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/12/19/725_thumb.jpg)](https://swharden.com/static/2017/12/19/725.jpg)
-[![](https://swharden.com/static/2017/12/19/726_thumb.jpg)](https://swharden.com/static/2017/12/19/726.jpg)
+![](https://swharden.com/static/2017/12/19/725.jpg)
+![](https://swharden.com/static/2017/12/19/726.jpg)
 
 </div>
 
@@ -36,9 +36,9 @@ __Adding the computer was easy!__ Internet capability was provided via a USB WiF
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2017/12/19/728_thumb.jpg)](https://swharden.com/static/2017/12/19/728.jpg)
-[![](https://swharden.com/static/2017/12/19/719_thumb.jpg)](https://swharden.com/static/2017/12/19/719.jpg)
-[![](https://swharden.com/static/2017/12/19/726_thumb.jpg)](https://swharden.com/static/2017/12/19/726.jpg)
+![](https://swharden.com/static/2017/12/19/728.jpg)
+![](https://swharden.com/static/2017/12/19/719.jpg)
+![](https://swharden.com/static/2017/12/19/726.jpg)
 
 </div>
 

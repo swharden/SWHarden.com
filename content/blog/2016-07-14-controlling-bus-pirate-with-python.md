@@ -10,7 +10,7 @@ __After using the [AVR-ISP mkII](http://www.atmel.com/Images/Atmel-42093-AVR-ISP
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/07/14/IMG_7092-1_thumb.jpg)](https://swharden.com/static/2016/07/14/IMG_7092-1.jpg)
+![](https://swharden.com/static/2016/07/14/IMG_7092-1.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __To ensure my Bus Pirate is working properly, I start off by running the Bus Pi
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/07/14/Bpv3v2go-pinout_thumb.jpg)](https://swharden.com/static/2016/07/14/Bpv3v2go-pinout.png)
+![](https://swharden.com/static/2016/07/14/Bpv3v2go-pinout.png)
 
 </div>
 

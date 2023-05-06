@@ -16,7 +16,7 @@ __While it may not be perfect__, it's a whole lot better. Below is a capture fro
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/12/assembled-squished_thumb.jpg)](https://swharden.com/static/2010/06/12/assembled-squished.jpg)
+![](https://swharden.com/static/2010/06/12/assembled-squished.jpg)
 
 </div>
 

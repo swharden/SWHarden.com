@@ -12,7 +12,7 @@ Let's start with the video. It summarizes the antenna, and even shows me making 
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5293_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5293.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5293.jpg)
 
 </dev>
 
@@ -20,7 +20,7 @@ __This is what I started with.__ It's pink because it's the bedroom of my younge
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5295_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5295.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5295.jpg)
 
 </dev>
 
@@ -28,7 +28,7 @@ __The first thing__ I did was set up a table and run some wire out the window. I
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5301_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5301.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5301.jpg)
 
 </dev>
 
@@ -36,7 +36,7 @@ __I tied some random objects__ to the end of a fishing line and used a fishing p
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5309_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5309.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5309.jpg)
 
 </dev>
 
@@ -44,7 +44,7 @@ __The end of the wire__ splits in two and connects to two quarter-wavelength leg
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5323_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5323.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5323.jpg)
 
 </dev>
 
@@ -52,7 +52,7 @@ __When the fishing line__ looped over the branch (tied to the speaker wire) is h
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5313_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5313.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5313.jpg)
 
 </dev>
 
@@ -60,7 +60,7 @@ __The thing isn't__ that visible, which is a plus. I don't want anyone to know I
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5324_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5324.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5324.jpg)
 
 </dev>
 
@@ -68,7 +68,7 @@ __From far away__ the most noticeable wire is the speaker wire. I wish it weren'
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/IMG_5334_thumb.jpg)](https://swharden.com/static/2011/03/05/IMG_5334.jpg)
+![](https://swharden.com/static/2011/03/05/IMG_5334.jpg)
 
 </dev>
 
@@ -94,10 +94,10 @@ __While operating from a portable station in Orlando, Florida__, I'm taking time
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/dipole2_1_thumb.jpg)](https://swharden.com/static/2011/03/05/dipole2_1.jpg)
-[![](https://swharden.com/static/2011/03/05/dipole2_2_thumb.jpg)](https://swharden.com/static/2011/03/05/dipole2_2.jpg)
-[![](https://swharden.com/static/2011/03/05/dipole2_3_thumb.jpg)](https://swharden.com/static/2011/03/05/dipole2_3.jpg)
-[![](https://swharden.com/static/2011/03/05/dipole2_4_thumb.jpg)](https://swharden.com/static/2011/03/05/dipole2_4.jpg)
+![](https://swharden.com/static/2011/03/05/dipole2_1.jpg)
+![](https://swharden.com/static/2011/03/05/dipole2_2.jpg)
+![](https://swharden.com/static/2011/03/05/dipole2_3.jpg)
+![](https://swharden.com/static/2011/03/05/dipole2_4.jpg)
 
 </dev>
 
@@ -119,7 +119,7 @@ __I also tried my hand at QRSS reception with this antenna__ (almost forgot to p
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/05/stitched1_thumb.jpg)](https://swharden.com/static/2011/03/05/stitched1.jpg)
+![](https://swharden.com/static/2011/03/05/stitched1.jpg)
 
 </dev>
 

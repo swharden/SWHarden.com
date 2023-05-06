@@ -12,7 +12,7 @@ __While speaking with my brother-in-law__ (who just got a BS in computer science
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/05/27/prime_binary_thumb.jpg)](https://swharden.com/static/2009/05/27/prime_binary.png)
+![](https://swharden.com/static/2009/05/27/prime_binary.png)
 
 </div>
 
@@ -28,8 +28,8 @@ __Update (nextday):__ I've been toying over some various layouts for the LEDs. I
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/05/27/prime_layout_2_thumb.jpg)](https://swharden.com/static/2009/05/27/prime_layout_2.png)
-[![](https://swharden.com/static/2009/05/27/g12684_thumb.jpg)](https://swharden.com/static/2009/05/27/g12684.png)
-[![](https://swharden.com/static/2009/05/27/rect7887_thumb.jpg)](https://swharden.com/static/2009/05/27/rect7887.png)
+![](https://swharden.com/static/2009/05/27/prime_layout_2.png)
+![](https://swharden.com/static/2009/05/27/g12684.png)
+![](https://swharden.com/static/2009/05/27/rect7887.png)
 
 </div>

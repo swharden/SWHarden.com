@@ -13,7 +13,7 @@ __I'm no stranger to visualizing linear data in the frequency-domain.__ Between 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/05/09/realtime-fft-spectrum-python-pyqwt-graph_thumb.jpg)](https://swharden.com/static/2013/05/09/realtime-fft-spectrum-python-pyqwt-graph.png)
+![](https://swharden.com/static/2013/05/09/realtime-fft-spectrum-python-pyqwt-graph.png)
 
 </div>
 
@@ -179,7 +179,7 @@ _Note that by commenting-out the FFT line and using "c.setData(SR.xs,SR.audio)" 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/05/09/pcm_thumb.jpg)](https://swharden.com/static/2013/05/09/pcm.png)
+![](https://swharden.com/static/2013/05/09/pcm.png)
 
 </div>
 

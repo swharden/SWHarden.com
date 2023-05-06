@@ -84,6 +84,6 @@ __I certainly held my breath while the thing ran.__  As I previously mentioned, 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/05/15/hostingwork_thumb.jpg)](https://swharden.com/static/2009/05/15/hostingwork.jpg)
+![](https://swharden.com/static/2009/05/15/hostingwork.jpg)
 
 </div>

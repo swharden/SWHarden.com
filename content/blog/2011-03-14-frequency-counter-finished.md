@@ -14,7 +14,7 @@ __Sure there's room for improvement,__but that's the fun part! This is a solid s
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/14/IMG_5452_thumb.jpg)](https://swharden.com/static/2011/03/14/IMG_5452.jpg)
+![](https://swharden.com/static/2011/03/14/IMG_5452.jpg)
 
 </dev>
 
@@ -22,7 +22,7 @@ __There's the finished project!__ It looks pretty good, considering it was built
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/14/IMG_5429_thumb.jpg)](https://swharden.com/static/2011/03/14/IMG_5429.jpg)
+![](https://swharden.com/static/2011/03/14/IMG_5429.jpg)
 
 </dev>
 
@@ -30,7 +30,7 @@ __As you can see the enclosure is made from sheet metal__ bent and cut into 2 pi
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/14/IMG_5425_thumb.jpg)](https://swharden.com/static/2011/03/14/IMG_5425.jpg)
+![](https://swharden.com/static/2011/03/14/IMG_5425.jpg)
 
 </dev>
 
@@ -38,9 +38,9 @@ __Here are some of the internals after being mounted.__ Heck, these are ALL the 
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/14/IMG_5209_thumb.jpg)](https://swharden.com/static/2011/03/14/IMG_5209.jpg)
-[![](https://swharden.com/static/2011/03/14/IMG_5222_thumb.jpg)](https://swharden.com/static/2011/03/14/IMG_5222.jpg)
-[![](https://swharden.com/static/2011/03/14/IMG_5221_thumb.jpg)](https://swharden.com/static/2011/03/14/IMG_5221.jpg)
+![](https://swharden.com/static/2011/03/14/IMG_5209.jpg)
+![](https://swharden.com/static/2011/03/14/IMG_5222.jpg)
+![](https://swharden.com/static/2011/03/14/IMG_5221.jpg)
 
 </dev>
 
@@ -165,7 +165,7 @@ This project was featured on a couple of my favorite sites, [Hack-A-Day](http://
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/14/counter_EL_thumb.jpg)](https://swharden.com/static/2011/03/14/counter_EL.jpg)
-[![](https://swharden.com/static/2011/03/14/counter_HAD_thumb.jpg)](https://swharden.com/static/2011/03/14/counter_HAD.jpg)
+![](https://swharden.com/static/2011/03/14/counter_EL.jpg)
+![](https://swharden.com/static/2011/03/14/counter_HAD.jpg)
 
 </dev>

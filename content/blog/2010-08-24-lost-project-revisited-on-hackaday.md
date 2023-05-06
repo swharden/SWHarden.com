@@ -10,7 +10,7 @@ __I somehow forgot about a cool project I made over a year ago!__ I guess dental
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2010/08/24/hackaday_swharden_primes_thumb.jpg)](https://swharden.com/static/2010/08/24/hackaday_swharden_primes.jpg)
+![](https://swharden.com/static/2010/08/24/hackaday_swharden_primes.jpg)
 
 </div>
 
@@ -18,9 +18,9 @@ __I'm absolutely amazed by how much I learned__ back in the days when I was work
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/08/24/img_2098_thumb.jpg)](https://swharden.com/static/2010/08/24/img_2098.jpg)
-[![](https://swharden.com/static/2010/08/24/img_2119_thumb.jpg)](https://swharden.com/static/2010/08/24/img_2119.jpg)
-[![](https://swharden.com/static/2010/08/24/img_2137_thumb.jpg)](https://swharden.com/static/2010/08/24/img_2137.jpg)
+![](https://swharden.com/static/2010/08/24/img_2098.jpg)
+![](https://swharden.com/static/2010/08/24/img_2119.jpg)
+![](https://swharden.com/static/2010/08/24/img_2137.jpg)
 
 </div>
 

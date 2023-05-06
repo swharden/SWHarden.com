@@ -10,9 +10,9 @@ __These screenshots__ show me running the Py2EXE-compiled script I wrote last we
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/28/glade_exe_thumb.jpg)](https://swharden.com/static/2010/06/28/glade_exe.png)
+![](https://swharden.com/static/2010/06/28/glade_exe.png)
 
-[![](https://swharden.com/static/2010/06/28/needToInstall_thumb.jpg)](https://swharden.com/static/2010/06/28/needToInstall.png)
+![](https://swharden.com/static/2010/06/28/needToInstall.png)
 
 </div>
 

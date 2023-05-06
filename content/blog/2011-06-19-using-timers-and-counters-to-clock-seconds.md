@@ -39,7 +39,7 @@ __I'm having a lot of fun__ spending time going through the datasheet of this ch
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/06/19/DSCN1367_thumb.jpg)](https://swharden.com/static/2011/06/19/DSCN1367.jpg)
-[![](https://swharden.com/static/2011/06/19/DSCN1372_thumb.jpg)](https://swharden.com/static/2011/06/19/DSCN1372.jpg)
+![](https://swharden.com/static/2011/06/19/DSCN1367.jpg)
+![](https://swharden.com/static/2011/06/19/DSCN1372.jpg)
 
 </div>

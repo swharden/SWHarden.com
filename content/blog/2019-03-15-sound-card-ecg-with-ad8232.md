@@ -14,7 +14,7 @@ tags: ["diyECG", "csharp"]
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2019/03/15/CIRCUIT_thumb.jpg)](https://swharden.com/static/2019/03/15/CIRCUIT.png)
+![](https://swharden.com/static/2019/03/15/CIRCUIT.png)
 
 </div>
 
@@ -22,7 +22,7 @@ tags: ["diyECG", "csharp"]
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2019/03/15/screenshot_thumb.jpg)](https://swharden.com/static/2019/03/15/screenshot.png)
+![](https://swharden.com/static/2019/03/15/screenshot.png)
 
 </div>
 
@@ -32,7 +32,7 @@ tags: ["diyECG", "csharp"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/03/15/DSC_0015_lzn-1_thumb.jpg)](https://swharden.com/static/2019/03/15/DSC_0015_lzn-1.jpg)
+![](https://swharden.com/static/2019/03/15/DSC_0015_lzn-1.jpg)
 
 </div>
 

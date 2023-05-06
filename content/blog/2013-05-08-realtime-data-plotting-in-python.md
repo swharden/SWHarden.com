@@ -19,7 +19,7 @@ __How did I do it?__ Easy. First, I made the GUI with [QtDesigner](http://qt-pro
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/05/08/qtdesigner-python-windows-qwtplot_thumb.jpg)](https://swharden.com/static/2013/05/08/qtdesigner-python-windows-qwtplot.png)
+![](https://swharden.com/static/2013/05/08/qtdesigner-python-windows-qwtplot.png)
 
 </div>
 

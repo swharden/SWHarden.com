@@ -9,7 +9,7 @@ __I build a lot of RF circuits, and often it's convenient to measure and log fre
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/10/10/IMG_8773_thumb.jpg)](https://swharden.com/static/2016/10/10/IMG_8773.jpg)
+![](https://swharden.com/static/2016/10/10/IMG_8773.jpg)
 
 </div>
 
@@ -17,7 +17,7 @@ __The entire circuit is only two microchips!__ I have a few passives to clean up
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/10/10/schem_thumb.jpg)](https://swharden.com/static/2016/10/10/schem.jpg)
+![](https://swharden.com/static/2016/10/10/schem.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ __The connections are intuitive!__ The I2C address is 0x20 when A0, A1, and A2 a
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/10/10/IMG_8777_thumb.jpg)](https://swharden.com/static/2016/10/10/IMG_8777.jpg)
+![](https://swharden.com/static/2016/10/10/IMG_8777.jpg)
 
 </div>
 
@@ -33,7 +33,7 @@ __Here's a quick summary describing how [the code](https://github.com/swharden/R
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/10/10/screenshot_thumb.jpg)](https://swharden.com/static/2016/10/10/screenshot.png)
+![](https://swharden.com/static/2016/10/10/screenshot.png)
 
 </div>
 

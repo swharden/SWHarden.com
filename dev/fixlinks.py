@@ -8,25 +8,17 @@ from article import Article
 
 
 def fix(file: pathlib.Path):
-    year = file.name.split("-")[0]
-    month = file.name.split("-")[1]
-    day = file.name.split("-")[2]
-    base = f"https://swharden.com/static/{year}/{month}/{day}/"
-
     article = Article(file)
+    lines = article.get_lines()
 
-    article.replace("src=\"http", 'IMAGE_IS_OK')
-    article.replace("src=\"", "src=\""+base)
-    article.replace('IMAGE_IS_OK', "src=\"http")
+    for i in range(len(lines)):
+        line = lines[i]
+        if "_thumb.jpg" in line and "[![](" in line:
+            url = line.split("(")[-1].split(")")[0]
+            print(url)
+            lines[i] = f"![]({url})"
 
-    article.replace("href=\"http", 'HREF_IS_OK')
-    article.replace("href=\"", "href=\""+base)
-    article.replace('HREF_IS_OK', "href=\"http")
-
-    article.replace('](http', 'MD_IS_OK')
-    article.replace('](', ']('+base)
-    article.replace('MD_IS_OK', '](http')
-
+    article.set_lines(lines)
     article.save()
 
 

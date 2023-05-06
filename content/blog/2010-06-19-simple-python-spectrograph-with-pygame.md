@@ -10,7 +10,7 @@ tags: ["python", "old"]
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/06/19/simple-spectrograph_thumb.jpg)](https://swharden.com/static/2010/06/19/simple-spectrograph.png)
+![](https://swharden.com/static/2010/06/19/simple-spectrograph.png)
 
 </div>
 

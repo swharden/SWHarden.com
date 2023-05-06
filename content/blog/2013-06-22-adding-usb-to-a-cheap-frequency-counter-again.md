@@ -10,7 +10,7 @@ __Today I rigineered my frequency counter to output frequency to a computer via 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0285_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0285.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0285.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __My original intention was just to reprogram the IC and add serial USART suppor
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0283_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0283.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0283.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __The way the microcontroller reads frequency is via the display itself.__ There
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0288_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0288.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0288.jpg)
 
 </div>
 
@@ -34,8 +34,8 @@ __Here's the board I made. 3 wires go to the FTDI USB module (GND, VCC 5V drawn 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0291_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0291.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0293_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0293.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0291.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0293.jpg)
 
 </div>
 
@@ -43,10 +43,10 @@ __I wasted literally all day on this.__ It was so stupid. The whole time I was k
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0289_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0289.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0287_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0287.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0290_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0290.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0288_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0288.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0289.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0287.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0290.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0288.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ __With everything back together,__ I put the frequency counter back in my workst
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0296_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0296.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0296.jpg)
 
 </div>
 
@@ -173,12 +173,12 @@ __This is super preliminary,__ but I've gone ahead and tested heating/cooling an
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/photo-1-1_thumb.jpg)](https://swharden.com/static/2013/06/22/photo-1-1.jpg)
+![](https://swharden.com/static/2013/06/22/photo-1-1.jpg)
 
 </div>
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/06/22/tf_thumb.jpg)](https://swharden.com/static/2013/06/22/tf.png)
+![](https://swharden.com/static/2013/06/22/tf.png)
 
 </div>

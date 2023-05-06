@@ -9,7 +9,7 @@ __Man, what a long day!__ Work is so tedious sometimes. This week I've been proo
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/05/07/proofread_thumb.jpg)](https://swharden.com/static/2009/05/07/proofread.jpg)
+![](https://swharden.com/static/2009/05/07/proofread.jpg)
 
 </div>
 

@@ -9,7 +9,7 @@ __I'm working late in lab__ (as usual) and I went to open Firefox (my default we
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/01/30/internet_moved_thumb.jpg)](https://swharden.com/static/2009/01/30/internet_moved.png)
+![](https://swharden.com/static/2009/01/30/internet_moved.png)
 
 </div>
 

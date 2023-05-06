@@ -35,8 +35,8 @@ Output graph (python and excel) of temperature when I put a soldering iron near 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/07/09/python1_thumb.jpg)](https://swharden.com/static/2011/07/09/python1.png)
-[![](https://swharden.com/static/2011/07/09/excel_thumb.jpg)](https://swharden.com/static/2011/07/09/excel.jpg)
+![](https://swharden.com/static/2011/07/09/python1.png)
+![](https://swharden.com/static/2011/07/09/excel.jpg)
 
 </div>
 

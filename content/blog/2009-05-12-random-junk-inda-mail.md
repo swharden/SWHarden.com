@@ -9,7 +9,7 @@ date: 2009-05-12 11:49:58
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/05/12/rs232_03_thumb.jpg)](https://swharden.com/static/2009/05/12/rs232_03.jpg)
+![](https://swharden.com/static/2009/05/12/rs232_03.jpg)
 
 </div>
 
@@ -19,7 +19,7 @@ __A little random, but worth noting__ is a cool website I found earlier which de
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/05/12/squareant_thumb.jpg)](https://swharden.com/static/2009/05/12/squareant.jpg)
+![](https://swharden.com/static/2009/05/12/squareant.jpg)
 
 </div>
 

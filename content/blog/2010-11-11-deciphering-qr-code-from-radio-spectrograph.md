@@ -10,7 +10,7 @@ __Although I've been ridiculously busy the last few weeks,__ I've been eying som
 
 <dev class="center border medium">
 
-[![](https://swharden.com/static/2010/11/11/on5ex-odd_thumb.jpg)](https://swharden.com/static/2010/11/11/on5ex-odd.jpg)
+![](https://swharden.com/static/2010/11/11/on5ex-odd.jpg)
 
 </dev>
 
@@ -26,7 +26,7 @@ __I tried using an automated decoder__ at this point (<http://zxing.org/w/decode
 
 <dev class="center border medium">
 
-[![](https://swharden.com/static/2010/11/11/building_thumb.jpg)](https://swharden.com/static/2010/11/11/building.jpg)
+![](https://swharden.com/static/2010/11/11/building.jpg)
 
 </dev>
 
@@ -34,7 +34,7 @@ __However problems came__ when working on those last few rows.  The static was p
 
 <dev class="center border medium">
 
-[![](https://swharden.com/static/2010/11/11/building3_thumb.jpg)](https://swharden.com/static/2010/11/11/building3.jpg)
+![](https://swharden.com/static/2010/11/11/building3.jpg)
 
 </dev>
 
@@ -42,7 +42,7 @@ __Once it was all done,__ I saved the output as orange, then later converted it 
 
 <dev class="center border medium">
 
-[![](https://swharden.com/static/2010/11/11/building2_thumb.jpg)](https://swharden.com/static/2010/11/11/building2.jpg)
+![](https://swharden.com/static/2010/11/11/building2.jpg)
 
 </dev>
 

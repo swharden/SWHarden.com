@@ -10,7 +10,7 @@ __I came across the need for a quick and dirty display to show a 4 digit number 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2014/02/27/IMG_2316_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2316.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2316.jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ __SCHEMATIC?__ If you want it, read this. It's so simple I don't feel like makin
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2014/02/27/common-cathode-7-segment-display-lcd_thumb.jpg)](https://swharden.com/static/2014/02/27/common-cathode-7-segment-display-lcd.jpg)
+![](https://swharden.com/static/2014/02/27/common-cathode-7-segment-display-lcd.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __Here it all is together in my microcontroller programming set up.__ I'll place
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2014/02/27/IMG_2320_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2320.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2320.jpg)
 
 </div>
 
@@ -141,12 +141,12 @@ __Update a two days later... __I found a similarly quick and dirty way to packag
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2014/02/27/IMG_2336_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2336.jpg)
-[![](https://swharden.com/static/2014/02/27/IMG_2351_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2351.jpg)
-[![](https://swharden.com/static/2014/02/27/IMG_2355_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2355.jpg)
-[![](https://swharden.com/static/2014/02/27/IMG_2356_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2356.jpg)
-[![](https://swharden.com/static/2014/02/27/IMG_2362_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2362.jpg)
-[![](https://swharden.com/static/2014/02/27/IMG_2380_thumb.jpg)](https://swharden.com/static/2014/02/27/IMG_2380.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2336.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2351.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2355.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2356.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2362.jpg)
+![](https://swharden.com/static/2014/02/27/IMG_2380.jpg)
 
 </div>
 

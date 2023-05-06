@@ -44,7 +44,7 @@ __The result is a pretty cool way__ to obscure the text. I don't know why you'd 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/07/nearest_thumb.jpg)](https://swharden.com/static/2010/03/07/nearest.png)
+![](https://swharden.com/static/2010/03/07/nearest.png)
 
 </div>
 
@@ -52,7 +52,7 @@ Now let's make it a little bit less pixelated. It's not a cure-all method, but b
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/03/07/bilinear_thumb.jpg)](https://swharden.com/static/2010/03/07/bilinear.png)
+![](https://swharden.com/static/2010/03/07/bilinear.png)
 
 </div>
 
@@ -60,12 +60,12 @@ Then I apply the code below which applies a cool colormap to the pixel values. I
 
 <div class="text-center img-border img-micro">
 
-[![](https://swharden.com/static/2010/03/07/qrss-vd-logo-0_thumb.jpg)](https://swharden.com/static/2010/03/07/qrss-vd-logo-0.png)
-[![](https://swharden.com/static/2010/03/07/qrss-vd-logo-1_thumb.jpg)](https://swharden.com/static/2010/03/07/qrss-vd-logo-1.png)
-[![](https://swharden.com/static/2010/03/07/qrss-vd-logo-2_thumb.jpg)](https://swharden.com/static/2010/03/07/qrss-vd-logo-2.png)
-[![](https://swharden.com/static/2010/03/07/qrss-vd-logo-3_thumb.jpg)](https://swharden.com/static/2010/03/07/qrss-vd-logo-3.png)
-[![](https://swharden.com/static/2010/03/07/qrss-vd-logo-4_thumb.jpg)](https://swharden.com/static/2010/03/07/qrss-vd-logo-4.png)
-[![](https://swharden.com/static/2010/03/07/qrss-vd-logo-5_thumb.jpg)](https://swharden.com/static/2010/03/07/qrss-vd-logo-5.png)
+![](https://swharden.com/static/2010/03/07/qrss-vd-logo-0.png)
+![](https://swharden.com/static/2010/03/07/qrss-vd-logo-1.png)
+![](https://swharden.com/static/2010/03/07/qrss-vd-logo-2.png)
+![](https://swharden.com/static/2010/03/07/qrss-vd-logo-3.png)
+![](https://swharden.com/static/2010/03/07/qrss-vd-logo-4.png)
+![](https://swharden.com/static/2010/03/07/qrss-vd-logo-5.png)
 
 </div>
 

@@ -10,7 +10,7 @@ __Last night I had the honor of speaking for GARS,__ the Gainesville Amateur Rad
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2011/03/17/qrss_presentation_GARS_thumb.jpg)](https://swharden.com/static/2011/03/17/qrss_presentation_GARS.jpg)
+![](https://swharden.com/static/2011/03/17/qrss_presentation_GARS.jpg)
 
 </dev>
 

@@ -12,7 +12,7 @@ I got OOK and FSK working together (the S shape in the middle). I'm also now usi
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/18/W4HBK-OOK_thumb.jpg)](https://swharden.com/static/2019/07/18/W4HBK-OOK.jpg)
+![](https://swharden.com/static/2019/07/18/W4HBK-OOK.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ I got OOK and FSK working together (the S shape in the middle). I'm also now usi
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/18/WD4ELG-Greensboro-NC-OOK_thumb.jpg)](https://swharden.com/static/2019/07/18/WD4ELG-Greensboro-NC-OOK.jpg)
+![](https://swharden.com/static/2019/07/18/WD4ELG-Greensboro-NC-OOK.jpg)
 
 </div>
 
@@ -28,6 +28,6 @@ I kept thinking my oscillator was drifting frequency because the line wasn't str
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2019/07/18/2019-07-19-curved-monitors_thumb.jpg)](https://swharden.com/static/2019/07/18/2019-07-19-curved-monitors.jpg)
+![](https://swharden.com/static/2019/07/18/2019-07-19-curved-monitors.jpg)
 
 </div>

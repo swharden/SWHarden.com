@@ -12,7 +12,7 @@ __I just spent the afternoon reverse-engineering the 72 series TENMA multimeter 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/08/24/IMG_7956_thumb.jpg)](https://swharden.com/static/2016/08/24/IMG_7956.jpg)
+![](https://swharden.com/static/2016/08/24/IMG_7956.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __There was a problem, and this problem took me hours to figure it out,__ but no
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/08/24/IMG_7961_thumb.jpg)](https://swharden.com/static/2016/08/24/IMG_7961.jpg)
+![](https://swharden.com/static/2016/08/24/IMG_7961.jpg)
 
 </div>
 
@@ -40,7 +40,7 @@ __The output is very simple.__ Here it is compared to the commercial TENMA softw
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2016/08/24/screenshot_thumb.jpg)](https://swharden.com/static/2016/08/24/screenshot.jpg)
+![](https://swharden.com/static/2016/08/24/screenshot.jpg)
 ![](https://swharden.com/static/2016/08/24/commercialSoftware.jpg)
 
 </div>
@@ -51,7 +51,7 @@ __I set up an experiment to demonstrate how logging data works.__ I charged a 22
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/08/24/IMG_7981_thumb.jpg)](https://swharden.com/static/2016/08/24/IMG_7981.jpg)
+![](https://swharden.com/static/2016/08/24/IMG_7981.jpg)
 
 </div>
 
@@ -59,7 +59,7 @@ __In this demonstration,__ voltage across the capacitor on the breadboard is bei
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2016/08/24/logDemo_thumb.jpg)](https://swharden.com/static/2016/08/24/logDemo.png)
+![](https://swharden.com/static/2016/08/24/logDemo.png)
 
 </div>
 
@@ -69,7 +69,7 @@ __Now that I know everything is up and running, I can use this device to make so
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/08/24/FullSizeRender-2_thumb.jpg)](https://swharden.com/static/2016/08/24/FullSizeRender-2.jpg)
+![](https://swharden.com/static/2016/08/24/FullSizeRender-2.jpg)
 
 </div>
 
@@ -79,7 +79,7 @@ current stabilizes within 10 minutes:
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/08/24/ocxo-1_thumb.jpg)](https://swharden.com/static/2016/08/24/ocxo-1.png)
+![](https://swharden.com/static/2016/08/24/ocxo-1.png)
 
 </div>
 
@@ -87,7 +87,7 @@ Current is maxed-out for a few minutes, oscillates then stabilizes. 10 A / 600 m
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/08/24/ocxo-2_thumb.jpg)](https://swharden.com/static/2016/08/24/ocxo-2.png)
+![](https://swharden.com/static/2016/08/24/ocxo-2.png)
 
 </div>
 
@@ -95,7 +95,7 @@ once stable, current draw is stable for hours
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/08/24/ocxo-3_thumb.jpg)](https://swharden.com/static/2016/08/24/ocxo-3.png)
+![](https://swharden.com/static/2016/08/24/ocxo-3.png)
 
 </div>
 
@@ -103,28 +103,28 @@ __I concluded that this thing stabilizes to within 10% of its final current draw
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2016/08/24/FullSizeRender-3_thumb.jpg)](https://swharden.com/static/2016/08/24/FullSizeRender-3.jpg)
+![](https://swharden.com/static/2016/08/24/FullSizeRender-3.jpg)
 
 </div>
 
 I measured voltage just downstream of the voltage regulators:
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/08/24/mV1_thumb.jpg)](https://swharden.com/static/2016/08/24/mV1.png)
+![](https://swharden.com/static/2016/08/24/mV1.png)
 
 </div>
 
 During current max-out, the voltage is <<9V
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/08/24/mV2_thumb.jpg)](https://swharden.com/static/2016/08/24/mV2.png)
+![](https://swharden.com/static/2016/08/24/mV2.png)
 
 </div>
 
 Voltage stabilizes after about 10 minutes
 <div class="text-center">
 
-[![](https://swharden.com/static/2016/08/24/mV3_thumb.jpg)](https://swharden.com/static/2016/08/24/mV3.png)
+![](https://swharden.com/static/2016/08/24/mV3.png)
 
 </div>
 

@@ -10,14 +10,14 @@ tags: ["med"]
 
 <div class="text-center img-small">
 
-[![](https://swharden.com/static/2018/08/24/implanted-infusion-port_thumb.jpg)](https://swharden.com/static/2018/08/24/implanted-infusion-port.jpg)
+![](https://swharden.com/static/2018/08/24/implanted-infusion-port.jpg)
 ![](https://swharden.com/static/2018/08/24/port-diagram.jpg)
 
 </div>
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2018/08/24/kane-and-scott_thumb.jpg)](https://swharden.com/static/2018/08/24/kane-and-scott.jpg)
+![](https://swharden.com/static/2018/08/24/kane-and-scott.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ tags: ["med"]
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2018/08/24/xray1-2_thumb.jpg)](https://swharden.com/static/2018/08/24/xray1-2.png)
+![](https://swharden.com/static/2018/08/24/xray1-2.png)
 
 </div>
 
@@ -33,6 +33,6 @@ tags: ["med"]
 
 <div class="text-center img-border img-medium">
 
-[![](https://swharden.com/static/2018/08/24/xray-powerport_thumb.jpg)](https://swharden.com/static/2018/08/24/xray-powerport.png)
+![](https://swharden.com/static/2018/08/24/xray-powerport.png)
 
 </div>

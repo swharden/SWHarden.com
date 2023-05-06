@@ -7,7 +7,7 @@ date: 2009-06-13 17:14:08
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/06/13/ucf_tailgate_2009_thumb.jpg)](https://swharden.com/static/2009/06/13/ucf_tailgate_2009.jpg)
+![](https://swharden.com/static/2009/06/13/ucf_tailgate_2009.jpg)
 
 </div>
 
@@ -15,7 +15,7 @@ __This morning I woke up at 4:45am__, hopped out of bed, and raced to the univer
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/06/13/scopes_thumb.jpg)](https://swharden.com/static/2009/06/13/scopes.jpg)
+![](https://swharden.com/static/2009/06/13/scopes.jpg)
 
 </div>
 
@@ -23,7 +23,7 @@ __My goal was to purchase a \[working\] oscilloscope__, and I lucked-out. I ende
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/06/13/scope_box_thumb.jpg)](https://swharden.com/static/2009/06/13/scope_box.png)
+![](https://swharden.com/static/2009/06/13/scope_box.png)
 
 </div>
 

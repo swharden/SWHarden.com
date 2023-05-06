@@ -26,7 +26,7 @@ __Here's a simple LED-based digital VU meter circuit__ I found, along with some 
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2009/02/02/vu_circuit_thumb.jpg)](https://swharden.com/static/2009/02/02/vu_circuit.png)
+![](https://swharden.com/static/2009/02/02/vu_circuit.png)
 
 </div>
 
@@ -34,6 +34,6 @@ __In other news__ it appears I've been accepted into dental school. I got a voic
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/02/02/accepted_thumb.jpg)](https://swharden.com/static/2009/02/02/accepted.png)
+![](https://swharden.com/static/2009/02/02/accepted.png)
 
 </div>

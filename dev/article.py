@@ -19,6 +19,12 @@ class Article:
     def replace(self, search, replace):
         self.text = self.text.replace(search, replace)
 
+    def get_lines(self):
+        return self.text.split("\n")
+
+    def set_lines(self, lines):
+        self.text = "\n".join(lines)
+
     def save(self):
         with open(self.file, 'w', encoding=self.encoding) as f:
             f.write(self.text)

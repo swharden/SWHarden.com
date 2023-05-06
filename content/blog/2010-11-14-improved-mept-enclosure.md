@@ -10,10 +10,10 @@ __I've been pretty busy lately__, but I drip to the hardware store with the XYL 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/14/IMG_4526_thumb.jpg)](https://swharden.com/static/2010/11/14/IMG_4526.jpg)
-[![](https://swharden.com/static/2010/11/14/IMG_4534_thumb.jpg)](https://swharden.com/static/2010/11/14/IMG_4534.jpg)
-[![](https://swharden.com/static/2010/11/14/IMG_4547_thumb.jpg)](https://swharden.com/static/2010/11/14/IMG_4547.jpg)
-[![](https://swharden.com/static/2010/11/14/IMG_4548_thumb.jpg)](https://swharden.com/static/2010/11/14/IMG_4548.jpg)
+![](https://swharden.com/static/2010/11/14/IMG_4526.jpg)
+![](https://swharden.com/static/2010/11/14/IMG_4534.jpg)
+![](https://swharden.com/static/2010/11/14/IMG_4547.jpg)
+![](https://swharden.com/static/2010/11/14/IMG_4548.jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ __Update:__ Even when being housed outdoors when temperature fluctuations vary g
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/14/qrss_stable_thumb.jpg)](https://swharden.com/static/2010/11/14/qrss_stable.jpg)
+![](https://swharden.com/static/2010/11/14/qrss_stable.jpg)
 
 </div>
 
@@ -29,6 +29,6 @@ __Signal report__: briefly, this is my signal in Alaska courtesy of KL7UK. My si
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/11/14/KL7UK_alaska_thumb.jpg)](https://swharden.com/static/2010/11/14/KL7UK_alaska.jpg)
+![](https://swharden.com/static/2010/11/14/KL7UK_alaska.jpg)
 
 </div>

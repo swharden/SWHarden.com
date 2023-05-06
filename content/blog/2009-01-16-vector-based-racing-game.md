@@ -9,6 +9,6 @@ date: 2009-01-16 20:33:35
 
 <dev class="center border">
 
-[![](https://swharden.com/static/2009/01/16/screenshotsm2_thumb.jpg)](https://swharden.com/static/2009/01/16/screenshotsm2.png)
+![](https://swharden.com/static/2009/01/16/screenshotsm2.png)
 
 </dev>

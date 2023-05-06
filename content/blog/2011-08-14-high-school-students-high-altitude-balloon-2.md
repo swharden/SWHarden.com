@@ -12,7 +12,7 @@ __Last year a group of high school students,__ in collaboration with a seminar c
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/group_thumb.jpg)](https://swharden.com/static/2011/08/14/group.jpg)
+![](https://swharden.com/static/2011/08/14/group.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ Below is a panoramic photo right before the launch - see our balloon on the righ
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/pan_thumb.jpg)](https://swharden.com/static/2011/08/14/pan.jpg)
+![](https://swharden.com/static/2011/08/14/pan.jpg)
 
 </div>
 
@@ -32,8 +32,8 @@ __Android details:__ Most of the Android development was handled by UF student R
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/DSC_6013_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6013.jpg)
-[![](https://swharden.com/static/2011/08/14/IMG_2095_thumb.jpg)](https://swharden.com/static/2011/08/14/IMG_2095.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6013.jpg)
+![](https://swharden.com/static/2011/08/14/IMG_2095.jpg)
 
 </div>
 
@@ -41,7 +41,7 @@ __The device consisted of 4 main components:__ a payload (the styrofoam box in w
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/DSC_6009_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6009.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6009.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ __Kunal demonstrates the__ effectiveness of our parachute with a scientific "run
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/DSC_6015_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6015.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6015.jpg)
 
 </div>
 
@@ -57,10 +57,10 @@ __The radio communication system we used this year__ were a little more commerci
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/DSC_6016_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6016.jpg)
-[![](https://swharden.com/static/2011/08/14/DSC_6042_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6042.jpg)
-[![](https://swharden.com/static/2011/08/14/DSC_6049_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6049.jpg)
-[![](https://swharden.com/static/2011/08/14/DSC_6071_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6071.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6016.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6042.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6049.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6071.jpg)
 
 </div>
 
@@ -68,12 +68,12 @@ __Here are some photos right before the launch.__ It was a sunny day at the UF f
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2011/08/14/DSC_6079_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6079.jpg)
-[![](https://swharden.com/static/2011/08/14/DSC_6119_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6119.jpg)
-[![](https://swharden.com/static/2011/08/14/DSC_6132_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6132.jpg)
-[![](https://swharden.com/static/2011/08/14/pan_thumb.jpg)](https://swharden.com/static/2011/08/14/pan.jpg)
-[![](https://swharden.com/static/2011/08/14/panZoomed_thumb.jpg)](https://swharden.com/static/2011/08/14/panZoomed.jpg)
-[![](https://swharden.com/static/2011/08/14/DSC_6145_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6145.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6079.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6119.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6132.jpg)
+![](https://swharden.com/static/2011/08/14/pan.jpg)
+![](https://swharden.com/static/2011/08/14/panZoomed.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6145.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ __After launch the balloon ascended at a rate of about 500ft/min.__ It spat out 
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/DSC_6151_thumb.jpg)](https://swharden.com/static/2011/08/14/DSC_6151.jpg)
+![](https://swharden.com/static/2011/08/14/DSC_6151.jpg)
 
 </div>
 
@@ -93,7 +93,7 @@ __Here we are in the station... let's get to work!__
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/14/IMG_2118_thumb.jpg)](https://swharden.com/static/2011/08/14/IMG_2118.jpg)
+![](https://swharden.com/static/2011/08/14/IMG_2118.jpg)
 
 </div>
 

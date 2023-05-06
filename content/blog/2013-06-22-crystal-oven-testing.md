@@ -15,8 +15,8 @@ __I wondered how much this on/off heater cycle affected temperature. Is it negli
 
 <div class="text-center img-border img-small">
 
-[![](https://swharden.com/static/2013/06/22/m0ayf-enclosure-oven_thumb.jpg)](https://swharden.com/static/2013/06/22/m0ayf-enclosure-oven.jpg)
-[![](https://swharden.com/static/2013/06/22/w4hbk-crystal-oven_thumb.jpg)](https://swharden.com/static/2013/06/22/w4hbk-crystal-oven.jpg)
+![](https://swharden.com/static/2013/06/22/m0ayf-enclosure-oven.jpg)
+![](https://swharden.com/static/2013/06/22/w4hbk-crystal-oven.jpg)
 
 </div>
 
@@ -33,10 +33,10 @@ __Right off the bat, I realized that this requires a PC interface.__ Even if it'
 
 <div class="text-center img-border img-micro">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0278_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0278.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0279_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0279.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0280_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0280.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0282_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0282.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0278.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0279.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0280.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0282.jpg)
 
 </div>
 
@@ -44,10 +44,10 @@ __That's the data logger circuit I came up with.__ Reading six channels ten time
 
 <div class="text-center img-border img-micro">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0265_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0265.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0264_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0264.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0263_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0263.jpg)
-[![](https://swharden.com/static/2013/06/22/IMG_0262_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0262.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0265.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0264.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0263.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0262.jpg)
 
 </div>
 
@@ -55,13 +55,13 @@ __I then build the temperature controller part of the circuit.__ It's pretty sim
 
 <div class="text-center img-medium">
 
-[![](https://swharden.com/static/2013/06/22/controller_thumb.jpg)](https://swharden.com/static/2013/06/22/controller.png)
+![](https://swharden.com/static/2013/06/22/controller.png)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2013/06/22/IMG_0261_thumb.jpg)](https://swharden.com/static/2013/06/22/IMG_0261.jpg)
+![](https://swharden.com/static/2013/06/22/IMG_0261.jpg)
 
 </div>
 
@@ -69,7 +69,7 @@ __When using a crystal oven configuration, I concluded high high gain (cycling t
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/06/22/high-gain_thumb.jpg)](https://swharden.com/static/2013/06/22/high-gain.png)
+![](https://swharden.com/static/2013/06/22/high-gain.png)
 
 </div>
 
@@ -77,7 +77,7 @@ high gain configuration tends to oscillate every 30 seconds
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/06/22/low-gain_thumb.jpg)](https://swharden.com/static/2013/06/22/low-gain.png)
+![](https://swharden.com/static/2013/06/22/low-gain.png)
 
 </div>
 
@@ -85,7 +85,7 @@ low gain / negative gain configuration is extremely stable (fairly high temperat
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/06/22/low-gain1_thumb.jpg)](https://swharden.com/static/2013/06/22/low-gain1.png)
+![](https://swharden.com/static/2013/06/22/low-gain1.png)
 
 </div>
 
@@ -97,7 +97,7 @@ __I put a "heater sensor" thermistor near the resistors on the case so I could g
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/06/22/case_thumb.jpg)](https://swharden.com/static/2013/06/22/case.png)
+![](https://swharden.com/static/2013/06/22/case.png)
 
 </div>
 
@@ -107,7 +107,7 @@ __CLOSE SENSOR CONTROL, LOW/HIGH GAIN:__ TOP: heater temperature (blue) and encl
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2013/06/22/case-far-in-control_thumb.jpg)](https://swharden.com/static/2013/06/22/case-far-in-control.png)
+![](https://swharden.com/static/2013/06/22/case-far-in-control.png)
 
 </div>
 

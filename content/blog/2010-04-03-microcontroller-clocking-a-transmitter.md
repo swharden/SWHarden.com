@@ -12,7 +12,7 @@ __Here's my idea: __ The core of any transmitter is an oscillator, and in simple
 
 <div class="text-center">
 
-[![](https://swharden.com/static/2010/04/03/NPN_Colpitts_oscillator_collector_coil_thumb.jpg)](https://swharden.com/static/2010/04/03/NPN_Colpitts_oscillator_collector_coil.png)
+![](https://swharden.com/static/2010/04/03/NPN_Colpitts_oscillator_collector_coil.png)
 
 </div>
 
@@ -30,7 +30,7 @@ __Taking it a step further,__ I wonder if I could write code for the microcontro
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/04/03/IMG_3206_thumb.jpg)](https://swharden.com/static/2010/04/03/IMG_3206.png)
+![](https://swharden.com/static/2010/04/03/IMG_3206.png)
 
 </div>
 
@@ -38,12 +38,12 @@ My wife snapped a photo of me working! It's a funny pic - I'm in my own little w
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2010/04/03/IMG_3241_thumb.jpg)](https://swharden.com/static/2010/04/03/IMG_3241.jpg)
+![](https://swharden.com/static/2010/04/03/IMG_3241.jpg)
 
-[![](https://swharden.com/static/2010/04/03/IMG_3245_thumb.jpg)](https://swharden.com/static/2010/04/03/IMG_3245.jpg)
+![](https://swharden.com/static/2010/04/03/IMG_3245.jpg)
 
-[![](https://swharden.com/static/2010/04/03/IMG_3250_thumb.jpg)](https://swharden.com/static/2010/04/03/IMG_3250.jpg)
+![](https://swharden.com/static/2010/04/03/IMG_3250.jpg)
 
-[![](https://swharden.com/static/2010/04/03/IMG_3257_thumb.jpg)](https://swharden.com/static/2010/04/03/IMG_3257.jpg)
+![](https://swharden.com/static/2010/04/03/IMG_3257.jpg)
 
 </div>

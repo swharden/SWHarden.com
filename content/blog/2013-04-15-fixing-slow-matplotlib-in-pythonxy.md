@@ -10,8 +10,8 @@ __I recently migrated to [Python(x,y)](https://code.google.com/p/pythonxy/) and 
 
 <div class="text-center img-small">
 
-[![](https://swharden.com/static/2013/04/15/matplotlib-qt4agg_thumb.jpg)](https://swharden.com/static/2013/04/15/matplotlib-qt4agg.jpg)
-[![](https://swharden.com/static/2013/04/15/matplotlib-tkagg_thumb.jpg)](https://swharden.com/static/2013/04/15/matplotlib-tkagg.jpg)
+![](https://swharden.com/static/2013/04/15/matplotlib-qt4agg.jpg)
+![](https://swharden.com/static/2013/04/15/matplotlib-tkagg.jpg)
 
 </div>
 

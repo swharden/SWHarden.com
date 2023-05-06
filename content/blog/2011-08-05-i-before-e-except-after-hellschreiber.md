@@ -34,7 +34,7 @@ __This is the project I just completed.__ It takes strings of text stored (or dy
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/05/DSCN1663_thumb.jpg)](https://swharden.com/static/2011/08/05/DSCN1663.jpg)
+![](https://swharden.com/static/2011/08/05/DSCN1663.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ __Here's the circuit I'm using.__ It's actually less complicated than shown - al
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/05/DSCN1667_thumb.jpg)](https://swharden.com/static/2011/08/05/DSCN1667.jpg)
+![](https://swharden.com/static/2011/08/05/DSCN1667.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ __This is the receiver I'm using.__ I'm lucky enough to have an all-mode, genera
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2011/08/05/hell_thumb.jpg)](https://swharden.com/static/2011/08/05/hell.png)
+![](https://swharden.com/static/2011/08/05/hell.png)
 
 </div>
 
