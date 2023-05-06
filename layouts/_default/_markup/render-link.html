@@ -1,0 +1,5 @@
+{{ if strings.Contains .Destination ":" }}
+<a href="{{ .Destination }}" target="_blank">{{ .Text | safeHTML }}</a>
+{{ else }}
+<a href="{{ .Page.Permalink }}{{ .Destination }}">{{ .Text | safeHTML }}</a>
+{{ end }}

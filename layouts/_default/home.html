@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate .Site.RegularPages.ByDate.Reverse }}
+
+{{ range $paginator.Pages }}
+{{ partial "article.html" . }}
+{{ end }}
+
+<ul class="pagination pagination flex-wrap m-5">
+    {{ range $paginator.Pagers }}
+    <li class="page-item my-2 {{ if eq . $paginator }}active{{ end }}">
+        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
+    </li>
+    {{ end }}
+</ul>
+
+{{ end }}

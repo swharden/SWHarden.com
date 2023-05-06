@@ -1,0 +1,7 @@
+<p>
+    {{ if strings.Contains .Destination ":" }}
+    <img class="img-fluid" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+    {{ else }}
+    <img class="img-fluid" src="{{.Page.Permalink}}{{ .Destination | safeURL }}" alt="{{ .Text }}" />
+    {{ end }}
+</p>

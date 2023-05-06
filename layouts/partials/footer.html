@@ -1,0 +1,15 @@
+<footer class="container mx-auto my-5">
+
+    {{ if .Next }}
+    <div class="my-3">
+        Newer: <a href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>
+    </div>
+    {{ end }}
+
+    {{ if .Prev }}
+    <div class="my-3">
+        Older: <a href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
+    </div>
+    {{ end }}
+
+</footer>

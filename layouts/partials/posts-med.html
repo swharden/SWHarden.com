@@ -1,0 +1,5 @@
+{{ range where .Site.Pages ".Params.tags" "intersect" (slice "med") }}
+
+{{ partial "article.html" . }}
+
+{{ end }}

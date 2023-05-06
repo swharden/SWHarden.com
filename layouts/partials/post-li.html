@@ -1,0 +1,13 @@
+<div>
+    <a href='{{.Page.Permalink}}'>
+        {{.Page.Title}}
+    </a>
+    <span>
+        {{.Date.Format "January 2, 2006"}}
+    </span>
+    <span>
+        {{ range .Params.tags }}
+        <code><a href='/blog/categories/#{{ anchorize . }}'>{{ . }}</a></code>
+        {{ end }}
+    </span>
+</div>

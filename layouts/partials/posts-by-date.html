@@ -1,0 +1,7 @@
+<ul>
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+    <li>
+        {{ partial "post-li.html" . }}
+    </li>
+    {{ end }}
+</ul>
