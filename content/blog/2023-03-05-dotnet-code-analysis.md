@@ -5,8 +5,6 @@ Date: 2023-03-05 15:20:00
 tags: ["csharp"]
 ---
 
-# Generate .NET Code Metrics from Console Applications
-
 **This page describes how to use the [Microsoft.CodeAnalysis.Metrics](https://www.nuget.org/packages/Microsoft.CodeAnalysis.Metrics/) package to perform source code analysis of .NET assemblies from a console application.** Visual Studio users can perform source code analysis by clicking the "Analyze" dropdown menu and selecting "Calculate Code Metrics", but I sought to automate this process so I can generate custom code analysis reports from console applications as part of my CI pipeline.
 
 ## Performing Code Analysis
@@ -203,9 +201,9 @@ RankTypes("ScottPlot.Metrics.xml", "MaintainabilityIndex", highToLow: false);
 With a little more effort you can generate HTML reports that use tables and headings to highlight useful code metrics and draw attention to types that could benefit from refactoring to improve maintainability.
 
 * View the sample report: [report.html](report.html)
-* Download the code used to generate it: [CodeAnalysisReport.zip](CodeAnalysisReport.zip)
+* Download the code used to generate it: [CodeAnalysisReport.zip](https://swharden.com/static/2023/03/05/CodeAnalysisReport.zip)
 
-<a href="report.html"><img src="report.png" class="border shadow"></a>
+<a href="https://swharden.com/static/2023/03/05/report.html"><img src="https://swharden.com/static/2023/03/05/report.png" class="border shadow"></a>
 
 ## Conclusions
 

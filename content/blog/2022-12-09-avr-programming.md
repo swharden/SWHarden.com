@@ -5,15 +5,9 @@ Date: 2022-12-09 23:45:00
 tags: ["circuit", "microcontroller"]
 ---
 
-# Programming Modern AVR Microcontrollers
-
 **This page describes how to program Microchip's newest series of AVR microcontrollers using official programming gear and software.** I spent many years programming the traditional series of Atmel chips, but now several years after Microchip acquired Atmel I am interested in exploring the capabilities of the latest series of AVR microcontrollers (especially the new AVR DD family). Currently the global chip shortage makes it difficult to source traditional ATMega and STM32 chips, but the newest series of AVR microcontrollers feature an impressive set of peripherals for the price and are available from all the major vendors.
+pressive set of peripherals for the price and are available from all the major vendors.
 
-<div class="w-75 mx-auto">
-
-![](https://www.youtube.com/embed/M-myqg-2c5s)
-
-</div>
 {{<youtube M-myqg-2c5s>}}
 
 ## TLDR
@@ -60,23 +54,23 @@ int main(void)
 
 From page 14 of the [ATTiny826 datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf)
 
-<img src="attiny826-pinout.png" class="img-fluid mx-auto d-block w-75" />
+<img src="https://swharden.com/static/2022/12/09/attiny826-pinout.png" class="img-fluid mx-auto d-block w-75" />
 
 ## SMT ATTiny Breakout Board
 
 **Many of the newer AVR series microcontrollers are not available in breadboard-friendly DIP packages.** I find SOIC-to-DIP breakout boards (available on Amazon and eBay) to be useful for experimenting with chips in SOIC packages. Here I added extra power and PA4 (pin 2) LEDs and 10 kΩ current limiting resistors.
 
-<a href="photos/leds2.jpg">
-<img src="photos/leds2.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/leds2.jpg">
+<img src="https://swharden.com/static/2022/12/09/leds2.jpg" class="img-fluid border shadow my-4" />
 </a>
 
-<a href="photos/scope1.jpg">
-<img src="photos/scope1.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/scope1.jpg">
+<img src="https://swharden.com/static/2022/12/09/scope1.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 **I power the device from the 3.3V or 5V pins on a FT232 USB breakout board.** Although the topic is out of scope for this article, I find it convenient to use FTDI chips to exchange small amounts of data or debug messages between a microcontroller and a modern PC over USB without requiring special drivers.
 
-<img src="ft232-breadboard.jpg" class="img-fluid mx-auto d-block w-50" />
+<img src="https://swharden.com/static/2022/12/09/ft232-breadboard.jpg" class="img-fluid mx-auto d-block w-50" />
 
 ## Why is programming modern AVRs so difficult?
 
@@ -86,27 +80,27 @@ From page 14 of the [ATTiny826 datasheet](https://ww1.microchip.com/downloads/en
 
 **After using $5 ICSP programmers for the last decade I almost fell out of my chair when I saw Microchip's recommended entry-level programmer is over $180!** Digikey sells a "basic" version without cables for $130, but that still seems crazy to me. Also, $50 for a ribbon cable?
 
-<a href="avr-ice.webp">
-<img src="avr-ice.webp" class="img-fluid w-50 d-block mx-auto my-5" />
+<a href="https://swharden.com/static/2022/12/09/avr-ice.webp">
+<img src="https://swharden.com/static/2022/12/09/avr-ice.webp" class="img-fluid w-50 d-block mx-auto my-5" />
 </a>
 
 **I found a kit on Amazon that sells the programmer with a cable for $126.** It was hard for me to press that buy button, but I figured the time I would save by having access to modern and exotic chips during the present global chip shortage would make it worth it. After a couple days of free Prime shipping, it arrived. It was smaller than I thought it would be from the product photos.
 
-<a href="photos/atmel-ice-1.jpg">
-<img src="photos/atmel-ice-1.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/atmel-ice-1.jpg">
+<img src="https://swharden.com/static/2022/12/09/atmel-ice-1.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 **The cable that came with the device seemed a bit hacky at first, but I'm happy to have it.** The female 2.54 mm socket is easy to insert breadboard jumpers into.
 
-<a href="photos/atmel-ice-2.jpg">
-<img src="photos/atmel-ice-2.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/atmel-ice-2.jpg">
+<img src="https://swharden.com/static/2022/12/09/atmel-ice-2.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 **I'm glad this thing is idiot proof.** The very first thing I did after unboxing this programmer was hook it up to my power supply rails using reverse polarity. I misread the pin diagram and confused the _socket_ with the _connector_ (they are mirror images of one another). This is an easy mistake to make though, so here's a picture of the correct orientation. Note the location of the tab on the side of the connector.
 
 Atmel ICE Pinout | Programming Connection
 ---|---
-<a href="atmel-ice-pinout.png"><img src="atmel-ice-pinout.png" class="img-fluid"></a>|<a href="photos/atmel-ice-3.jpg"><img src="photos/atmel-ice-3.jpg" class="img-fluid"></a>
+<a href="https://swharden.com/static/2022/12/09/atmel-ice-pinout.png"><img src="https://swharden.com/static/2022/12/09/atmel-ice-pinout.png" class="img-fluid"></a>|<a href="https://swharden.com/static/2022/12/09/atmel-ice-3.jpg"><img src="https://swharden.com/static/2022/12/09/atmel-ice-3.jpg" class="img-fluid"></a>
 
 * Black: `GND`
 * Red: `Vcc` - This line is used to _sense_ power and not _deliver_ it, so you are responsible for externally powering your board.
@@ -114,20 +108,20 @@ Atmel ICE Pinout | Programming Connection
 
 **The AVR Ice was easy to use with Microchip Studio.** My programmer was detected immediately, a window popped-up and walked me through updating the firmware, and my LED was blinking in no time.
 
-<a href="photos/atmel-ice-4.jpg">
-<img src="photos/atmel-ice-4.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/atmel-ice-4.jpg">
+<img src="https://swharden.com/static/2022/12/09/atmel-ice-4.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 ## MPLAB Snap: Cheap and Convoluted
 
 **Did I really need to spend $126 for an AVR programmer? Amazon carries the MPLAB Snap for $34, but lots of reviews say it doesn't work.** After easily getting the Atmel-ICE programmer up and running I thought it would be a similarly easy experience setting-up the MPLAB Snap for AVR UPDI programming, but boy was I wrong. Now that I know the steps to get this thing working it's not so bad, but the information here was only gathered after hours of frustration. 
 
-<a href="mplab-snap.webp">
-<img src="mplab-snap.webp" class="img-fluid d-block mx-auto w-75" />
+<a href="https://swharden.com/static/2022/12/09/mplab-snap.webp">
+<img src="https://swharden.com/static/2022/12/09/mplab-snap.webp" class="img-fluid d-block mx-auto w-75" />
 </a>
 
-<a href="photos/mplab-snap-1.jpg">
-<img src="photos/mplab-snap-1.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/mplab-snap-1.jpg">
+<img src="https://swharden.com/static/2022/12/09/mplab-snap-1.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 Here are the steps you can take to program modern AVR microcontrollers with UPDI using a MPLAB Snap:
@@ -148,7 +142,7 @@ Here are the steps you can take to program modern AVR microcontrollers with UPDI
 
 Defective may be a strong word, but let's just say the hardware was not designed to enable programming AVR chips using UPDI. Microchip Studio will detect the programmer but if you try to program an AVR you'll get a pop-up error message that provides surprisingly little useful information.
 
-<img src="verify.png" class="mx-auto d-block img-fluid" />
+<img src="https://swharden.com/static/2022/12/09/verify.png" class="mx-auto d-block img-fluid" />
 
 > Atmel Studio was unable to start your debug session. Please verify device selection, interface settings, target power and connections to the target device. Look in the details section for more information.
 > StatusCode:	131107
@@ -161,15 +155,15 @@ Defective may be a strong word, but let's just say the hardware was not designed
 
 Have your glasses? R48 is here:
 
-<a href="photos/mplab-snap-fix.jpg">
-<img src="photos/mplab-snap-fix.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/mplab-snap-fix.jpg">
+<img src="https://swharden.com/static/2022/12/09/mplab-snap-fix.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 
 **These photos were taken after I removed the resistor.** I didn't use hot air. I just touched it a for a few seconds with a soldering iron and wiped it off then threw it away.
 
-<a href="photos/scope2.jpg">
-<img src="photos/scope2.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/scope2.jpg">
+<img src="https://swharden.com/static/2022/12/09/scope2.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 You don't need a microscope, but I'm glad I had one.
@@ -178,8 +172,8 @@ You don't need a microscope, but I'm glad I had one.
 
 You can now program AVR microcontrollers using UPDI with your MPLAB Snap! Blink, LED, blink.
 
-<a href="photos/mplab-snap-2.jpg">
-<img src="photos/mplab-snap-2.jpg" class="img-fluid border shadow my-4" />
+<a href="https://swharden.com/static/2022/12/09/mplab-snap-2.jpg">
+<img src="https://swharden.com/static/2022/12/09/mplab-snap-2.jpg" class="img-fluid border shadow my-4" />
 </a>
 
 **Can you believe this is the officially recommended action?** According to the official Microchip Engineering Technical Note [ETN #36](http://ww1.microchip.com/downloads/en/DeviceDoc/ETN36_MPLAB%20Snap%20AVR%20Interface%20Modification.pdf): MPLAB Snap AVR Interface Modification
@@ -198,7 +192,7 @@ for convenience.
 
 There is no official support for UPDI programming using a serial adapter, but it seems some people have figured out how to do it in some capacity. There was a promising [pyupdi](https://github.com/mraardvark/pyupdi) project, but it is now deprecated. At the time of writing the leading project aiming to enable UPDI programming without official hardware is [pymcuprog](https://github.com/microchip-pic-avr-tools/pymcuprog), but its repository has a single commit dated two months ago and no activity since. Interestingly, [that commit](https://github.com/microchip-pic-avr-tools/pymcuprog/commit/593afdc8e089e39a4fed9f4fb19ae81f5f51e9a5.patch) was made by buildmaster@microchip.com (an unverified email address), so it may not be fair to refer to it as an "unofficial" solution. The long term support of the pymcuprog project remains uncertain, but regardless let's take a closer look at how it works.
 
-![](updi-ftdi-serial-programmer.png)
+![](https://swharden.com/static/2022/12/09/updi-ftdi-serial-programmer.png)
 
 To build a programmer you just need a TTL USB serial adapter and a 1kΩ resistor. These are the steps I used to program a LED blink program using this strategy:
 
