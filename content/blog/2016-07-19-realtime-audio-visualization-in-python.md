@@ -77,7 +77,7 @@ p.terminate()
 
 The results are pretty good! The advantage here is that _no_ libraries are required except PyAudio. For people interested in doing simple math (peak detection, frequency detection, etc.) this is a perfect starting point. Here's a quick cellphone video:
 
-![](https://www.youtube.com/embed/xUzyDPsesK8)
+{{<youtube xUzyDPsesK8>}}
 
 I've made [realtime audio visualization (realtime FFT) scripts with Python before](https://www.swharden.com/wp/2013-05-09-realtime-fft-audio-visualization-with-python/), but 80% of that code was creating a GUI. I want to see data in real time while I'm developing this code, but I _really_ don't want to mess with GUI programming. I then had a crazy idea. Everyone has a web browser, which is a pretty good GUI... with a Python script to analyze audio and save graphs (a lot of them, quickly) and some JavaScript running in a browser to keep refreshing those graphs, I could get an idea of what the audio stream is doing in something kind of like real time. It was intended to be a hack, but I never expected it to work so well! Check this out...
 
@@ -134,7 +134,7 @@ setTimeout('RefreshImage()',50);
 
 I couldn't believe my eyes. It's not elegant, but it's kind of functional!
 
-![](https://www.youtube.com/embed/80lAehBMUbE)
+{{<youtube 80lAehBMUbE>}}
 
 __Why stop there?__ I went ahead and wrote a microphone listening and processing class which makes this stuff easier. My ultimate goal hasn't been revealed yet, but I'm sure it'll be clear in a few weeks. Let's just say there's a lot of use in me visualizing streams of continuous data. Anyway, this class is the truly _terrible_ attempt at a word pun by merging the words "SWH", "ear", and "Hear", into the official title "SWHear" which seems to be [unique on Google](https://www.google.com/search?q=%2Bpython+%2Bswhear). This class is minimal case, but can be easily modified to implement threaded recording (which won't cause the rest of the functions to hang) as well as mathematical manipulation of data, such as FFT. With the same HTML file as used above, here's the new python script and some video of the output:
 
@@ -245,7 +245,7 @@ if __name__=="__main__":
     print("DONE")
 ```
 
-![](https://www.youtube.com/embed/E94MuHtdg6Y)
+{{<youtube E94MuHtdg6Y>}}
 
 __I don't really intend anyone to actually do this,__ but it's a cool alternative to recording a small portion of audio, plotting it in a pop-up matplotlib window, and waiting for the user to close it to record a new fraction. I had a lot more text in here demonstrating real-time FFT, but I'd rather consolidate everything FFT related into a single post. For now, I'm happy pursuing microphone-related python projects with PyAudio.
 

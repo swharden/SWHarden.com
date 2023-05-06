@@ -32,7 +32,7 @@ __The can oscillator (28.704MHz, selected to be in a rarely-used region of the 1
 
 __Although during my tests I power the device from my bench-top power supply__ (just a few LM3805 and LM3812 regulators in a fancy case), it's designed to be run off 3xAAA batteries (for logic) and a 9V battery (for the transmitter). I could have probably used a regulator to drop the 9V to 5V for the MCU and eliminated some extra weight, but I wonder how low the 9V will dip when I draw a heavy RF load? The 3xAAAs seemed like a sure bet, but quite at the expense of weight. I should consider the regulator option further... [ponders]
 
-![](https://www.youtube.com/embed/rRatJBAMgdg)
+{{<youtube rRatJBAMgdg>}}
 
 __There's the device in action while it was in a breadboard.__ I've since wired it up in a perf board (pictured) and left it to transmit into a small string of wire inside my apartment as an antenna as I went to the UF Gator Amateur Radio Club (a few miles away) and tried to tune into it. It produced a stunningly beautiful signal! I can't wait for its first test on a high altitude balloon!  Here it's transmitting CW Morse code the words "scott rocks", separated by appropriate call sign identification every 10 minutes, AJ4VD, my amateur radio license... of course!
 

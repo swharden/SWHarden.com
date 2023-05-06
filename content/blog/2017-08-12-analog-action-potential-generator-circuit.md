@@ -10,7 +10,7 @@ __Few biological cells are as interesting to the electrical engineer as the neur
 
 While contemplating designs for action potential detection and analysis circuitry, I realized that it would be beneficial to be able to _generate_ action-potential-like waveforms on my workbench. The circuit I came up with to do this is a fully analog (technically mixed signal) action potential generator which produces lifelike action potentials.
 
-![](https://www.youtube.com/embed/MBwQrIVJqfs)
+{{<youtube MBwQrIVJqfs>}}
 
 __Cellular Neurophysiology for Electrical Engineers (in 2 sentences):__ Neuron action potentials (self-propagating voltage-triggered depolarizations) in individual neurons are measured in scientific environments using single cell recording tools such as [sharp microelectrodes](http://www.scholarpedia.org/article/Intracellular_recording) and [patch-clamp pipettes](https://en.wikipedia.org/wiki/Patch_clamp). Neurons typically rest around -70mV and when depolarized (typically by external excitatory input) above a threshold they engage in a self-propagating depolarization until they reach approximately +40mV, at which time a self-propagating repolarization occurs (often over-shooting the initial rest potential by several mV), then the cell slowly returns to the rest voltage so after about 50ms the neuron is prepared to fire another action potential. Impassioned budding electrophysiologists may enjoy further reading _[Active Behavior of the Cell Membrane](http://www.bem.fi/book/04/04.htm) _and [_Introduction to Computational Neuroscience_.](http://ecee.colorado.edu/~ecen4831/cnsweb/cns1.html)
 

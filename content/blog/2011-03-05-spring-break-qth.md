@@ -90,7 +90,7 @@ Although I intended the longer antenna for the lower bands (40m, 80m, and why no
 
 __While operating from a portable station in Orlando, Florida__, I'm taking time to relax and investigate (through experimentation) different methods to rapidly deploy wire antennas.  The antenna system described in my last post was taken down, half by me, and half by the storms that slammed central Florida last night and this morning! I also visited a store and purchased some flat 300-Ohm antenna wire (usually used between old TVs and TV antennas) that I hope will serve me well (better than speaker wire, probably less than 50-ohm coax). I used a fishing rod / line to string up the antenna, and here are some photos of the build. At the end you can see a video of my first QSO with this new antenna (OP2A in Belgium, over 4,500 miles away).
 
-![](https://www.youtube.com/embed/-bJO39tESR0)
+{{<youtube -bJO39tESR0>}}
 
 <dev class="center border">
 
@@ -107,11 +107,11 @@ __The end of the week is nearing!__ Tonight my family flies in from Colorado, an
 
 __I did a quick estimate and it looks like I have a little over 200 contacts from this portable station!__ I haven't broken it down by state or country, but I'm excited to dive into the logs a little further down the road. I grabbed a few random videos along the way, so I present the following:
 
-![](https://www.youtube.com/embed/KKItycjg5ys)
+{{<youtube KKItycjg5ys>}}
 
 __Here I cam sending/receiving some very slow CW__ on 30m. This is actually one of my first CW contacts on 30m, as I usually just play with QRSS on 10.140MHz!
 
-![](https://www.youtube.com/embed/aB6oUYDI52s)
+{{<youtube aB6oUYDI52s>}}
 
 __This is just a demonstration__ part for informational purposes and part just for me to have and look back on in the future. I'm sure in the future I'll laugh at the way I operate (I already find it funny how my voice goes up an octave when I pick up a hand mike!), but it is what it is. For newcomers to HF, this represents what can be done just using about 50W of power and a wire antenna hung in a tree!
 

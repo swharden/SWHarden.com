@@ -14,7 +14,7 @@ __As a professional dental student by day and amateur electrical/RF engineer by 
 
 __Today's project is a fun one involving vintage wartime radio equipment, amateur radio computer software, and a healthy dose of microcontrollers!__ My goal is to design a single chip Hellschreiber (technically Feldhellschreiber) transmitter. "Hellschreiber" translates into English as "Light Writer" and is a pun on the name of its inventor, Rudolf Hell, who built the first device in 1920. It was intended to allow messages to be transferred over poor radio links too noisy for intelligible voice or [radioteletype (RTTY)](http://en.wikipedia.org/wiki/Radioteletype) communication. Its cool factor is upped by the fact that it was sometimes used by the German military in conjunction with the [Enigma encryption system](http://en.wikipedia.org/wiki/Enigma_machine) during World War 2! [As an aside, RTTY is still pretty sweet and dates back to the mid 1800s! Check out hardware receivers in [video 1](http://www.youtube.com/watch?v=mN8pkJoDDfI) and [video 2](http://www.youtube.com/watch?v=Ml00ngVwrcU)]
 
-![](https://www.youtube.com/embed/nXLPUbGYDp4)
+{{<youtube nXLPUbGYDp4>}}
 
 __Seeing a battlefield-ready Hellschreiber receiver gives you a good idea of how it works.__ (The video isn't mine, I found it on youtube.) The concept is relatively simple (shown above), and the receiver has only 2 moving parts. A spinning corkscrew presses a ticker tape into ink when it receives a radio signal. As the radio signal beeps on and off, the corkscrew contacts at different positions at different times, and letters are written on the ticker tape! 
 
@@ -28,7 +28,7 @@ The [designers of these things were extraordinarily creative](http://www.nonstop
 
 __Almost a century later, people are still sending messages around the world using Hellschreiber!__ With an [amateur radio license](http://en.wikipedia.org/wiki/Amateur_radio) and an amateur radio transceiver you can tune around special [Hellschreiber calling frequencies](http://www.nonstopsystems.com/radio/frank-radio-dig-mode-freqs.htm) and engage in conversations with other people who enjoy using this unique mode. Computers have modernized the process, allowing you to send Hellschreiber text by typing on your keyboard and receive it by just looking at your screen. My favorite program (free) to do this is Digital Master 780, part of [Ham Radio Deluxe](http://www.ham-radio-deluxe.com/Downloads.aspx).
 
-![](https://www.youtube.com/embed/_MJYwXvwTvY)
+{{<youtube _MJYwXvwTvY>}}
 
 __This is the project I just completed.__ It takes strings of text stored (or dynamically generated) in an array on a microcontroller (I'm using an ATMega48, but the code is almost identical for any ATMEL AVR microcontroller, and easy adapted for other architectures) and turns it into an audio tone using PWM. This audio tone could be fed into a speaker and a microphone across the room could receive it and use the software to show the received data, or the audio could be fed into a radio transmitter and a PC hooked to the receiver could decode the audio.  Either way, the text in the microcontroller is converted to Hellschreiber audio tones ready to be used however you see fit!  Although I designed it as a resilient way to transmit GPS/altitude data from a high altitude balloon using a small, cheap, low-power radio transmitter, this project is just the foundation of a plethora of potential projects!
 

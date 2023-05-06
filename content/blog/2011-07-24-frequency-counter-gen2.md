@@ -8,7 +8,7 @@ tags: ["microcontroller", "circuit", "old"]
 
 __I'm working to further simplify my frequency counter design.__ This one is simpler than [my previous design](http://www.swharden.com/blog/2011-03-14-frequency-counter-finished/) both in hardware and software! Here's a video to demonstrate the device in its current state:
 
-![](https://www.youtube.com/embed/FUdxwntNh1c)
+{{<youtube FUdxwntNh1c>}}
 
 **I utilize the ATMega48's hardware counter which is synchronous with the system clock, so it can only measure frequency less than half of its clock speed.** I solve this issue by dividing the input frequency by 8 and clocking the chip at 12mhz. This allows me to measure frequencies up to about 48MHz, but can be easily adapted to measure over 700MHz (really?) by dividing the input by 128. Division occurs by a 74HC590 8-bit counter (not a 74HC595 as I accidentally said in the video, which is actually a common shift register), allowing easy selection of input divided by 1, 2, 4, 8, 16, 32, 64, or 128. The following image shows the o-scope showing the original signal (bottom) and the divided-by-8 result (top)
 

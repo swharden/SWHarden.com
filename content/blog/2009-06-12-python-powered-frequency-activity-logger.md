@@ -7,7 +7,7 @@ date: 2009-06-12 17:42:32
 
 __I'm often drawn toward projects involving data analysis with Python. __When I found out a fellow ham in Orlando was using his computer to stream a popular local repeater frequency over the internet I got excited because of the potential for generating data from the setup. Since this guy already has his radio connected to his PC's microphone jack, I figured I could write a Python app to check the microphone input to determine if anyone is using the frequency. By recording when people start and stop talking, I can create a log of frequency activity. Later I can write software to visualize this data. I'll talk about that in a later post. For now, here's how I used Python and a Linux box (Ubuntu, with the python-alsaaudio package installed) to generate such logs.
 
-![](https://www.youtube.com/embed/wnqsv03hu3U)
+{{<youtube wnqsv03hu3U>}}
 
 __We can visualize this data__ using some more simple Python code. Long term it would be useful to visualize frequency activity similarly to [how I graphed computer usage at work over the last year](https://swharden.com/static/2009/06/12/2009-05-20-graphing-computer-usage/) but for now since I don't have any large amount of data to work with. I'll just write cote to visualize a QSO (conversation) with respect to time. It should be self-explanatory. This data came from data points displayed in the video (provided at the end of this post too).
 

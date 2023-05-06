@@ -77,7 +77,7 @@ __Here are some photos right before the launch.__ It was a sunny day at the UF f
 
 </div>
 
-![](https://www.youtube.com/embed/BozzCpdTJUk)
+{{<youtube BozzCpdTJUk>}}
 
 __After launch the balloon ascended at a rate of about 500ft/min.__ It spat out GPS data often, and altitude (not encoded with NATO abbreviations) was the easiest to hear as I walked from the UF football stadium to the UF [Gator Amateur Radio Club](http://gatorradio.org) to use their equipment (namely an AZEL-rotor-controlled 70cm yagi antenna attached to an I-Com 706) to listen in as the balloon ascended... but not before a group photo!
 
@@ -89,7 +89,7 @@ __After launch the balloon ascended at a rate of about 500ft/min.__ It spat out 
 
 __Here we are in the station... let's get to work!__
 
-![](https://www.youtube.com/embed/98SHxyvsGB4)
+{{<youtube 98SHxyvsGB4>}}
 
 <div class="text-center img-border">
 

@@ -75,7 +75,7 @@ int main(void)
 
 __Here is video of the output.__ Notice how this display can show English (lowercase/uppercase/numbers) as well as the Japanese character set!
 
-![](https://www.youtube.com/embed/mMEwFSkr1Ko)
+{{<youtube mMEwFSkr1Ko>}}
 
 <blockquote>
 

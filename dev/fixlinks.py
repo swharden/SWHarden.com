@@ -13,16 +13,18 @@ def fix(file: pathlib.Path):
 
     for i in range(len(lines)):
         line = lines[i]
-        if "_thumb.jpg" in line and "[![](" in line:
-            url = line.split("(")[-1].split(")")[0]
-            print(url)
-            lines[i] = f"![]({url})"
+        if "![](" in line and "youtube.com" in line:
+            print(line)
+            id = line.split("/")[-1].split(")")[0]
+            print(id)
+            new = f"{{{{<youtube {id}>}}}}"
+            print(new)
+            lines[i] = new
 
     article.set_lines(lines)
     article.save()
 
-
 if __name__ == "__main__":
     for file in pathlib.Path("content/blog/").glob("*.md"):
-        print(file)
+        # print(file)
         fix(file)

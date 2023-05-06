@@ -8,7 +8,7 @@ tags: ["circuit", "amateur radio", "old"]
 
 __My last entry described my accidental discovery of the PTO__ for QRP purposes. I breadboarded it and was amazed at the results! I went ahead and built this carefully in an enclosure and the output is wonderful. It's strong, it's stable, and it tunes effortlessly over the same range it did before (about 1MHz). The video describes details of the action, and demonstrates the stability of the oscillator by letting you hear it audibly on a nearby receiver.
 
-![](https://www.youtube.com/embed/jm3a1OqNFVI)
+{{<youtube jm3a1OqNFVI>}}
 
 __The fundamental concept and hardware is straightforward.__ Two nuts are soldered into an Altoids tin providing much-needed grounding for the screw (reduces shift when it's touched). Also the wire soldered over the screw is pinched firmly at the base to apply constant pressure to the screw to make it hard to turn and therefore more stable while turning. The inductor is a bunch of turns (no idea how many, about a meter of magnet wire) around a McDonalds straw.
 

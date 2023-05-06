@@ -16,11 +16,11 @@ _This page describes a method of sending data from a microchip to a PC using pul
 
 __MY PROBLEM:__ I want to send data from a simple microcontroller to a PC. While USART and a serial port is the common solution [like I've done before](http://www.swharden.com/blog/2009-05-14-simple-case-avrpc-serial-communication-via-max232/), it's not convenient because it requires a level converter (like a MAX232, about $4), crystal (specific values based on bit and error rate, if you're lucky you might have a right value in your junk box), and an archaic PC which actually has a serial port. A usb serial port adapter sounds clever, but many aren't supported on Linux, Windows Vista, or Windows 7. Also, many small chips (most of the ATTiny series) don't have built in serial capabilities, so it has to be bit-banged in software! Yuk! The second choice would be USB. This requires a crystal too, zener diodes, and bit-banging the USB protocol with something like [V-USB](http://www.obdev.at/products/vusb/index.html) since most of the AVR series don't have built in USB (do they even make breadbordable DIP chips with USB?). Even so, it requires drivers, custom software, cross-platform frustrations, etc. I know PIC has some 18f series chips with USB, but I don't feel like switching architectures just to send a few bytes of data to a PC. FDTI has a [FT232R](http://www.ftdichip.com/Products/ICs/FT232R.htm) chip which is a USB serial port adapter, but it's expensive (about $5) and doesn't come in dip, so no breadboarding! Sure there are adapter boards, but that just adds the cost. I'm not excited about a $5 solution for a $1 microcontroller. I even did [a bit of trolling on AVR Freaks](http://www.avrfreaks.net/index.php?name=PNphpBB2&file=viewtopic&t=109298) to see if anyone could help me out - just more of the same!
 
-![](https://www.youtube.com/embed/I0UEooQH2bw)
+{{<youtube I0UEooQH2bw>}}
 
 __MY SOLUTION:__ Send data through the sound card! USB sound cards are $1.30 (shipped) on eBay! It couldn't be simpler. Send pulses, measure distance between pulses. Short pulses are a zero, longer ones are a 1, and very long pulses are number separators. __A Python solution with PyAudio allows 1 script which will work on Mac, Linux, Windows, etc, and because it calibrates itself, this will work on any chip at any clock rate.__ Data is initiated with calibration pulses so timing is not critical - the PC figures out how fast the data is coming in. Check it out! (scroll way down for a bidirectional communication solution)
 
-![](https://www.youtube.com/embed/WKp0P43uhzY)
+{{<youtube WKp0P43uhzY>}}
 
 Here is a sound card I used for bidirectional communication:
 
@@ -324,7 +324,7 @@ while True:
 
 __What if we want to send data TO the microcontroller?__ The solution is a little more complex, but quite doable. Just add an extra wire to the sound card's speaker output and attach it to PCINT0 (the highest level internal interrupt). This is intended for advanced users, and if you're doing this you probably are better off with USB or serial anyway! ... but heck, why not do it as a proof of concept!
 
-![](https://www.youtube.com/embed/fhsYGRdwIaw)
+{{<youtube fhsYGRdwIaw>}}
 
 Note that the USB sound card speaker output was not powerful enough to trigger the digital input pin of the AVR, so an inverting buffer was made from a single NPN transistor (2n3904). The hardware interrupt was attacked to the collector, and the collector was attached through +5V through a 220 ohm resistor. The emitter was grounded. The base was attached directly to the sound card output. I also tried running the sound card output through a small series capacitor (0.1uF) and biasing the base to ground through a 1Mohm resistor and it worked the same. Hardware, simple. Chip-side software... a little more complex.
 

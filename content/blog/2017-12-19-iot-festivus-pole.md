@@ -87,4 +87,4 @@ if __name__=="__main__":
 
 __This Festivus pole has been up and running for the last few days__ and I'm excited to see how much joy it has brought into my household! Admittedly the Raspberry Pi seems to be overkill, but at the time I was considering having it also output audio every time a tweet is made but I never decided on the clip to use so I omitted the feature. An [ESP8266 WiFi module](https://www.sparkfun.com/products/13678) interfaced with a microntroller can do the same job with more elegance and lower cost, so I may consider improving it next year. Until then, Happy Festivus!
 
-![](https://www.youtube.com/embed/HX55AzGku5Y)
+{{<youtube HX55AzGku5Y>}}

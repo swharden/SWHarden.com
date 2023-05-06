@@ -26,4 +26,4 @@ __I'm absolutely amazed by how much I learned__ back in the days when I was work
 
 __The code is a joke.__ There's no reason for this thing to generate numbers rapidly, so I used the absolute-slowest method for detecting primes possible. The schematic is a joke too.  There's hardly enough current to ignite those LEDs! Notice how the video had to be filmed in a dark room.  Ironically enough also, the crystal isn't even being used! It's just for show! I'm confident I never changed the ATTiny2313's fuse bits to rely on th external crystal, so it's probably running on the 4MHz internal RC oscillator (perhaps with the /8 fuse set by default, so 500kHz?)
 
-![](https://www.youtube.com/embed/k4Req0I7lbY)
+{{<youtube k4Req0I7lbY>}}

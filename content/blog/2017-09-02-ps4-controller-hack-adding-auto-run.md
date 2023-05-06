@@ -10,7 +10,7 @@ tags: ["circuit"]
 
 **Modifying game controllers to do things like automatically rapid fire is nothing new.** I once modified a USB computer mouse to add an extra "rapid fire" button ([link](https://www.swharden.com/wp/2010-12-28-full-auto-rapidfire-mouse-modification/)). Hackaday ran a story about a guy who[ hacked a PS4 controller to add mouse and keyboard functionality](https://hackaday.com/2013/12/12/modifying-a-ps4-dualshock4-controller-to-use-a-mouse-and-keyboard/). Today's hack isn't quite as elaborate, but it's very effective. Here I show how I modified a PlayStation 4 controller to automatically click the L3 button so I am always running. This auto-run functionality mimics the auto-run feature built into many games (like [Titanfall 2](https://www.youtube.com/watch?v=EXwdWuSuiYA) which spoiled me to expect this), but I built the circuit so it can be toggled on and off by clicking the L3 button. After playing Titanfall 2 for the last few months, the recent release of the [Call of Duty WWII](https://www.youtube.com/watch?v=D4Q_XYVescc) beta is driving me crazy as it requires me to click the run button over and over (every two seconds) which, after an afternoon of playing, is actually painful.
 
-![](https://www.youtube.com/embed/v-164sv21Tw)
+{{<youtube v-164sv21Tw>}}
 
 ## Assessing the PS4 Controller
 
@@ -118,6 +118,6 @@ for(;;){ // do this forever
 
 Follow-up #1: After playing the fast-paced and highly dynamic Titanfall 2 for so long, I rapidly became disenchanted with the Call of Duty WWII game-play which now feels slow and monotonous in comparison. Although this auto-sprint controller hack works, I don't really use it because I barely play the game I made it for! I'm going back to exclusively playing Titanfall 2 for now, and if you get the chance I highly recommend giving it a spin!
 
-![](https://www.youtube.com/embed/ktw2k3m7Qko)
+{{<youtube ktw2k3m7Qko>}}
 
 Follow-up #1: Call of DUty WWII added auto-sprint a few months after this post was made

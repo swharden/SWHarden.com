@@ -48,6 +48,6 @@ __An obvious next step__ is microcontroller + LCD (or computer) digitization, bu
 
 __Here's some video of it in action:__
 
-![](https://www.youtube.com/embed/MwkR_Vv0wMA)
+{{<youtube MwkR_Vv0wMA>}}
 
 I'm holding-back the circuit diagram until I work through it a little more. I don't want to mislead people by having them re-create ill-conceived ideas on how to create analog amplifiers. I'll post more as I develop it.

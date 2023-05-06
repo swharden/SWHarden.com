@@ -8,7 +8,7 @@ tags: ["amateur radio", "circuit", "microcontroller", "old"]
 
 __Wow, what a cool project start to finish.__ Simple, cheap, and absolutely useful! ... and not to mention big green numbers which make it look more impressive than it actually is! This is my super-simple frequency counter designed to be used for amateur radio, all for about $10.  It was a project I developed over the last few months and documented all along the way. It's finished I guess, so this will probably be the last post about it! Now for some vids and pics:
 
-![](https://www.youtube.com/embed/KduEGjvXaeY)
+{{<youtube KduEGjvXaeY>}}
 
 __Sure there's room for improvement,__but that's the fun part! This is a solid start and it's cheap as can be. Simply improving software would greatly improve its accuracy. This doesn't use any time-averaging at all! If you had it average 20 readings, it'd probably be much smoother, update every second, and have a higher precision. Also, there's ample room left in the case to build in a transmitter or receiver!
 
@@ -60,7 +60,7 @@ __I guess that sums it up!__ What a fun hack. If you have any questions feel fre
 
 ## SUPPLEMENTAL VIDEO
 
-![](http://www.youtube.com/embed/B0pj717UJPo)
+{{<youtube B0pj717UJPo>}}
 
 __Upon request here's the code!__ It's nothing special, and certainly not very efficient, but it's quite functional. If you re-create this project, I recommend writing your own code rather than flat copying mine. You'll learn a heck of a lot more... and my code for this is really crap XD
 
@@ -155,7 +155,7 @@ int main(){
 
 __... and I know it's unrelated, but:__
 
-![](https://www.youtube.com/embed/_0NIDVJWo0U)
+{{<youtube _0NIDVJWo0U>}}
 
 (I watched this four times - it's so random I love it!)
 

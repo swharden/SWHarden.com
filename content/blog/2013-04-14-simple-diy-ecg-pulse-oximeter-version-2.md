@@ -60,11 +60,11 @@ __In both cases, I need to build a device to amplify small signals__. This is ac
 
 <strong>STAGE 3: final amplifier with low-pass filter.</strong> It has a gain of ~20 (determined by the ratio of the 1.8kOhm to 100Ohm resistors) and lowpass filtering components are provided by the 22uF capacitor across the negative feedback resistor. If you try to run this circuit at 5V and want more gain (more voltage swing), consider increasing the value of the 1.8kOhm resistor (wit the capacitor removed). Once you have a good gain, add different capacitor values until your signal is left but the noise reduced. For 12V, these values work fine. Let's see it in action!
 
-![](http://www.youtube.com/embed/bKAJsZJvMI0)
+{{<youtube bKAJsZJvMI0>}}
 
 <strong>Now for the second half - getting it into the computer.</strong> The cheapest and easiest way to do this is to simply feed the output into a sound card! A sound card is an analog-to-digital converter (ADC) that <em>everybody</em> has and can sample up to 48 thousand samples a second! (overkill for this application) The first thing you should do is add an output potentiometer to allow you to drop the voltage down if it's too big for the sound card (in the case of the oximeter) but but also allow full-volume in the case of sensitive measurements (like ECG). Then open-up sound editing software (I like <a href="http://www.goldwave.com/">GoldWave</a> for Windows or <a href="http://audacity.sourceforge.net/">Audacity</a> for Linux, both of which are free) and record the input. You can do filtering (low-pass filter at 40Hz with a sharp cutoff) to further eliminate any noise that may have sneaked through. Re-sample at 1,000 Hz (1kHz) and save the output as a text file and you're ready to graph it! Check it out.
 
-![](http://www.youtube.com/embed/9BFS9D3x_sY)
+{{<youtube 9BFS9D3x_sY>}}
 
 __Here are the results__ of some actual data recorded and processed with the method shown in the video. let's look at the pulse oximeter first.
 

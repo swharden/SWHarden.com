@@ -8,9 +8,9 @@ tags: ["microcontroller", "circuit", "old"]
 
 __I'm ecstatic!__ Finally I built something that worked the first time.  Well... on the 3rd attempt! The goal was to develop a minimal-cost, minimal complexity frequency counter suitable for amateur radio. Although I think I can still cut cost by eliminating components and downgrading the microcontroller, I'm happy with my first working prototype.
 
-![](https://www.youtube.com/embed/heIkWcM9n0Q)
+{{<youtube heIkWcM9n0Q>}}
 
-![](https://www.youtube.com/embed/EVZcyYnUipQ)
+{{<youtube EVZcyYnUipQ>}}
 
 __I haven't tested it rigorously __ with anything other than square waves, but I imagine that anything over 1PPV is sufficient (the input is through a bypass capacitor, internally biased right at the trigger threshold).  Counting is accomplished by a 74LV8154N  (dual 16-bit counter configured as 32-bit) which displays the count as four selectable bytes presented on 8 parallel pins. The heart of the device is an ATMega16 which handles [multiplexing of the display](http://en.wikipedia.org/wiki/Multiplexed_display) and has a continuously-running 16-bit timer which, upon overflowing, triggers a reset of the counter and measurement of the output.  Software isn't perfect (you can see the timing isn't accurate) but I imagine its inaccuracy can be measured and is a function of frequency such that it can be corrected via software.  Here are some photos...
 

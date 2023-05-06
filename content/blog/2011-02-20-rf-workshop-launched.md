@@ -53,7 +53,7 @@ go in that direction. PCBs imply "finished" circuits, and I don't want to give t
 
 __And of course a video__ - it's a bit on the long and redundant side, but it clearly demonstrates what we're working on at the workshop. Again, note that this board is purely for educational purposes, and the amount of exposed copper in the critical sections (antenna/oscillator) obviously needs to be minimized in more finalized designs.
 
-![](http://www.youtube.com/embed/6rSC0JMR0fs)
+{{<youtube 6rSC0JMR0fs>}}
 
 __Here's my most recent schematic:__
 

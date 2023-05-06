@@ -15,11 +15,11 @@ __I recently had the need to generate analog voltages from the Raspberry PI, whi
 
 ### Video: The Problem (RPi PWM jitters)
 
-![](https://www.youtube.com/embed/AtW2DouoyOg)
+{{<youtube AtW2DouoyOg>}}
 
 ### Video: My Solution (SPI DAC)
 
-![](https://www.youtube.com/embed/iwzXh2V1SP4)
+{{<youtube iwzXh2V1SP4>}}
 
 ### Hardware Connection
 

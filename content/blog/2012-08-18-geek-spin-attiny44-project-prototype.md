@@ -16,11 +16,11 @@ __Some days you feel like working on projects to benefit humanity. The day I mad
 
 __The goal was to create a minature Miku which would perform perfectly in sync with audio coming from a portable music player (iPod or something) and _NOT_ require a computer connection.__ I accomplished it by sending some creative control beeps out of the left channel of the stereo signal. Although I didn't finish the project, I got pretty far with the prototype, so I decided to dig it out of the archives and share it with the world because it's pretty entertaining!
 
-![](https://www.youtube.com/embed/RzqdL5gqaHM)
+{{<youtube RzqdL5gqaHM>}}
 
 (look how close I came to replicating the original:
 
-![](https://www.youtube.com/embed/6ZWwqTnqxdk)
+{{<youtube 6ZWwqTnqxdk>}}
 
 __How did I do it?__ First off, I used servos. If you're not familiar with them, I suggest you look up [how servos work](http://www.servocity.com/html/how_do_servos_work_.html). Perhaps check out [how to control servos with AVR microcontrollers](http://www.engineersgarage.com/embedded/avr-microcontroller-projects/atmega16-servo-motor-circuit). Basically, their position along a rotational axis is determined by the width of a pulse on a 20ms time window. Anyhow, if I only had 1 servo to control (i.e., leek only), I'd have controlled the servo directly with PWM signals in the left channel - no microcontroller needed, easy as pie, problem solved. However, since I needed to control two servos, I had to come up with something a bit more creative. Although I could have probably done this ten different ways, the way I chose to do it was using a series of pre-encoded leek spin and head bobble motions, triggered by control beeps in the left channel of the audio cable. (The right channel was patched through to the speakers.)  Below is a diagram of what I believe I did, although I didn't thoroughly document it at the time, so you might have to use your imagination if you decide to re-create this project.
 
@@ -58,7 +58,7 @@ __A few technical details__ are that I used an ATTiny44a microcontroller (it may
 
 __And how did I find out about this song?__ I actually saw it on the video below which was hosted on wimp.com. I thought the song was catchy, looked it up, and the rest was history. It's worth noting that (perhaps to avoid copyright issues?) the key was shifted two half-steps up. I get a kick out of the way the girl waves her arm in the beginning, mimicking the leek :)
 
-![](https://www.youtube.com/embed/Pk1CTYszDFU)
+{{<youtube Pk1CTYszDFU>}}
 
 __Here are some of the images I made__ which I printed, glued to foam board, and cut out with a razor blade. I'm not sure how useful they are, but they're provided just in case.
 

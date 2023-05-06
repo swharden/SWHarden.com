@@ -14,7 +14,7 @@ __A new project I'm working on requires real-time analysis of soundcard input da
 
 </div>
 
-![](https://www.youtube.com/embed/lDS9rI0o6mM)
+{{<youtube lDS9rI0o6mM>}}
 
 __I made the UI with QT Designer.__ The graphs are _QGraphicsView_ widgets promoted to a pyqtgraph_ PlotWidget_. I describe how to do this [in my previous post](https://www.swharden.com/wp/2016-07-31-live-data-in-pyqt4-with-plotwidget/). Here's the content of the primary program:
 

@@ -20,7 +20,7 @@ __I documented this project thoroughly so others can learn about the design proc
 
 This video is quite extensive. It explores the design process for one-off projects like this, with extra time spent on the difficult parts that often pose the greatest challenges to newcomers (exploring datasheets, banging out I2C commands with a new sensor). I don't see this part of the design process discussed too often in engineering videos, so I hope it will be an insightful and inspiring resource to people just starting to work with custom electronics and prototype design. Another group of people who benefit from watching the video are those who don't know much about the design process of embedded devices, but will quickly realize that building a prototype device to do something as simple as reading a number from a sensor and displaying it on a screen can take an immense amount of insight, work, troubleshooting, and effort to create.
 
-![](https://www.youtube.com/embed/T3ma1n_jhbQ)
+{{<youtube T3ma1n_jhbQ>}}
 
 ## About the MS5611 Temperature and Pressure Sensor
 

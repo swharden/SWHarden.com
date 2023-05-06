@@ -8,13 +8,13 @@ tags: ["microcontroller"]
 
 __At least 99% of my blog entries contain original content I created.__  However, I was so impressed by something I stumbled upon tonight that I absolutely cannot resist sharing it.  It's a project which aims to output audio and video simultaneously from a single microcontroller.  The [author's site](http://www.linusakesson.net/scene/craft/index.php) has all the details, but if you watch the video below you'll be amazed.  (Just get through the 30 second narration at the beginning)  Apparently the guy rendered video in horizontal lines from the software and outputted audio signals between horizontal lines!  Amazing!
 
-![](https://www.youtube.com/embed/sNCqrylNY-0)
+{{<youtube sNCqrylNY-0>}}
 
 __On second thought,__ this was no big deal in the 80's, so why am I so impressed by it now?  The 8-bit microcontrollers this guy is programming is likely on par with the PCs of the 80's.  I guess that in the 70's this would have been amazing because it was cutting edge.  In the 80's this would have been boring because it was commonplace.  In the 2000's, this is amazing because no one in my generation is old enough to remember how amazing this was in the 70's and 80's!
 
 __After researching some similar projects__ I realized I'm becoming fascinated with [chiptune](http://en.wikipedia.org/wiki/Chiptune) synthesizing code, hardware, and music.  It's basically a type of code to tell a synthesizer how to synthesize the music, rather than having it play pre-recorded music.  It's like a merge of a programming language and MIDI.  For non-technical people, it's like giving a microchip the sheet music for all the different instruments of an orchestra and having the microchip play everything from the sheet music, rather than giving it a CD to play.  Here's some video of a PC-based front-end to the audio creation process. Notice how each line represents a time, and how certain codes in certain channels represent notes (hence the MIDI aspect).  Numbers on the far right represent the location of the memory, and notice also how it goes back and forth, replaying certain areas when necessary (to safe space, hence the coding aspect).
 
-![](https://www.youtube.com/embed/17FmzHk_v0g)
+{{<youtube 17FmzHk_v0g>}}
 
 __I can't describe my emotional state right now. It's like I have an extreme nostalgia for an era I never even lived in.__  This chip level audio synthesis stuff sounds amazingly fun to me.  (I've already bookmarked [nolife-radio.com](http://nolife-radio.com/) and [8bitFM.com](http://www.8bitfm.com/)) I feel drawn toward it... but I'm scared to get sucked in. I wish I were a college student in the 80's studying electrical engineering. Here I am, having just gotten a master's in molecular biology and microbiology, and I feel like I wasted six years of my life in the process. I'm about to start dental school in August. Hopefully when I look back from the future I won't feel like I wasted another four years doing _that_.
 

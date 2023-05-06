@@ -19,7 +19,7 @@ __Last week I had the crazy idea__ of sending data from a PC to a microchip thro
 
 __This is part two of a multi-page project.__ To fully understand what I'm trying to accomplish and why I want to accomplish it, read [the first part of the project](http://www.swharden.com/blog/2011-07-26-pcmicrocontroller-wireless-data-transfer/).
 
-![](https://www.youtube.com/embed/wMHR3j4EDQ4)
+{{<youtube wMHR3j4EDQ4>}}
 
 __Finally, I have a working javascript!__ I'd like to thank Tom, Riskable, Ben, and Mike for their input on this script. We got it to a point where we think it's friendly to the majority of browsers and platforms. The idea is simple - enter two bytes to send the chip, it generates it's own checksum (an XOR of the two bytes), and it flashes it out. Here's a photo of the interface, click it for a live demo:
 

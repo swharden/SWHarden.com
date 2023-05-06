@@ -24,7 +24,7 @@ __HERE IS SOME AUDIO__ of some of the strongest signals I received. Pretty good 
 
 # 6/16/2010 - THE FLIGHT
 
-![](https://www.youtube.com/embed/qjLrytsDPjw)
+{{<youtube qjLrytsDPjw>}}
 
 The design team:
 

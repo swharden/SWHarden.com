@@ -10,7 +10,7 @@ This is a multi-part blog entry added over 2 days of time documenting the progre
 
 __It looks like this will be a multi-part blog entry.__ I'm in the process of figuring out how to add USB functionality to this simple device, which will be a fun way for me to express my creativity and think a bit outside the box while gaining some simple electrical engineering experience! Here's the jist of what I'm planning...
 
-![](https://www.youtube.com/embed/L5ZWWcXklHs)
+{{<youtube L5ZWWcXklHs>}}
 
 __After a brief trip__ to Orlando to visit family, I decided to stop by the house of one of my neighbors who worked at the same small engineering company I did when I was first starting college (about the time I decided to peruse biology rather than engineering).  I hadn't seen him in a while and we talked about various electronics things (he's working on an impressive project currently), and before I left he offered me a brown box. "Do you have any use for a function generator?" I got excited and said "sure!" On closer inspection, it was actually a frequency counter, and he said "oh well I don't need one of those anyway" and gave it to me. I was ecstatic! Between [this post](http://www.swharden.com/blog/2011-01-28-home-brew-transceiver-taking-shape/), [this post](http://www.swharden.com/blog/2011-02-04-frequency-counter-working/), [this post](http://www.swharden.com/blog/2011-02-09-minimal-radio-project-continues/), [this post](http://www.swharden.com/blog/2011-02-12-wideband-receiver-works/), and [this final project post](http://www.swharden.com/blog/2011-03-14-frequency-counter-finished/) you can tell that building a frequency counter was really important to me, and that I was never truly satisfied with the result - it wasn't stable to the Hz! I'm excited to finally have a real counter at my workstation. (It's an instek GFC-8010H, 1-120 MHz range.) Now onto figuring out how to build a spectrum analyzer... X_x
 
@@ -104,7 +104,7 @@ __I'm quite excited__, the end product works wonderfully! It looks pretty spiffy
 
 __Here's some video__ showing the device at work!
 
-![](https://www.youtube.com/embed/c6uFN52LGnc)
+{{<youtube c6uFN52LGnc>}}
 
 Of course Python and MatPlotLib can graph it:
 

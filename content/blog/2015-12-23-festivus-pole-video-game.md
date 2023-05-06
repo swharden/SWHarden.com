@@ -24,7 +24,7 @@ __December 23 is Festivus! To commemorate the occasion, I have built a tradition
 
 **Over the years** various Festivus poles (often made of beer cans) have been erected in government buildings alongside the nativity scene and menorah, [including this year in my home state Florida](http://www.fox35orlando.com/home/60908334-story) (the video is a good laugh). Here, I show a Festivus pole I made made from individually illuminated diet coke cans which performs as a simple video game, controlled by a single button. The illuminated can scrolls up and down, and the goal is to push the button when the top can is lit. If successful, the speed increases, and the game continues! It's _hours_ of jolly good fun.
 
-![](https://www.youtube.com/embed/TviqZgyZNnk)
+{{<youtube TviqZgyZNnk>}}
 
 __After playing at my workbench for a while, I figured out a way I could light-up individual coke cans.__ I drilled a dozen holes in each can (with a big one in the back), stuck 3 blue LEDs (wired in parallel with a 220-ohm current limiting resistor in series) in the can, and hooked it up to 12V. This was the motivation I needed to continue...
 

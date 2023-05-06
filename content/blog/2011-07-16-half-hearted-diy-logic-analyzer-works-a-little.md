@@ -8,11 +8,11 @@ tags: ["microcontroller", "circuit", "old"]
 
 __While trying to attack the problem described in the previous entry,__ it became clear that a logic analyzer would be necessary.  I thought I'd try to build one, and my first attempt was so close to being successful, but not quite there.  It records 19 channels (the maximum pins available on the ATMega48 not being occupied by the status LED or USB connection pins) at a rate just under 1,000 samples per second. The USB connection to the PC is obvious, and it utilizes the V-USB project to bit-bang the USB protocol. I'm posting this in part because some of the comments to my entry two posts ago were disheartening, discouraging, and even down-right viscous!  I made a simple way to send numbers to a PC through the sound card, so what? Don't be nasty about it!  Meh, internet people.  Anyway, here's a marginally more proper way to send data to a PC with USB and an AVR (logging and interface designed in python), but I'll probably still get yelled at for it.
 
-![](https://www.youtube.com/embed/TEHF6b5bqj8)
+{{<youtube TEHF6b5bqj8>}}
 
 __As you can see from the video__, it's good but not good enough. If I could get samples at 2,000 per second I'd probably be OK, but it's just not quite fast enough with it's current, ultra-simplistic method of sample recording. I'll figure out a fancier way to build a spectrum analyzer - it's obvious the platform is there, it just needs some refinement.
 
-![](https://www.youtube.com/embed/chyJ3Fw0mPc)
+{{<youtube chyJ3Fw0mPc>}}
 
 Images of the output:
 

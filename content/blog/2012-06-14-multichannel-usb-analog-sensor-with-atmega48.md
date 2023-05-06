@@ -20,7 +20,7 @@ __It is important to me that my design is minimalistic, inexpensive, and functio
 
 __This is my final device.__ It's reading voltage on a single pin, sending this data to a computer through a USB connection, and custom software (written entirely in Python, designed to be a cross-platform solution) displays the signal in real time. Although it's capable of recording and displaying 5 channels at the same time, it's demonstrated displaying only one. Let's check-out a video of it in action:
 
-![](https://www.youtube.com/embed/zPAx4JTCFAc)
+{{<youtube zPAx4JTCFAc>}}
 
 >  This 5-channel realtime USB analog sensor, coupled with custom cross-platform open-source software, will serve as the foundation for a slew of electrophysiological experiments, but can also be easily expanded to serve as an inexpensive multichannel digital oscilloscope. While more advanced solutions exist, this has the advantage of being minimally complex (consisting of a single microchip), inexpensive, and easy to build.
 
@@ -82,10 +82,10 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <p style="text-align: left;"><strong>Unfortunately I lost the schematics</strong> to this device because I formatted the computer that had the Eagle files on it. It should be simple and intuitive enough to be able to design again. The code for the microcontroller and code for the real-time visualization software will be posted below shortly. Below are some videos of this board in use in one form or another:</p>
 
-![](https://www.youtube.com/embed/GJcrXoIC7Q8)
-![](https://www.youtube.com/embed/HsV-LK3KO1U)
-![](https://www.youtube.com/embed/tdf0wzS-H-8)
-![](https://www.youtube.com/embed/VZkWUR-gAZk)
+{{<youtube GJcrXoIC7Q8>}}
+{{<youtube HsV-LK3KO1U>}}
+{{<youtube tdf0wzS-H-8>}}
+{{<youtube VZkWUR-gAZk>}}
 
 __Here is the code that is loaded onto the microcontroller:__
 

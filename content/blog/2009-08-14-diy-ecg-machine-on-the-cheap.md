@@ -41,15 +41,15 @@ The goal of this project is to generate an extremely cheap, functional ECG machi
 
 #### ECG Introduction
 
-![](https://www.youtube.com/embed/6-zNMup_pgk)
+{{<youtube 6-zNMup_pgk>}}
 
 #### Recording my ECG
 
-![](https://www.youtube.com/embed/izet7cgtMjU)
+{{<youtube izet7cgtMjU>}}
 
 #### Video 3/3: Analyzing my ECG
 
-![](https://www.youtube.com/embed/Q4y20Lu3rn0)
+{{<youtube Q4y20Lu3rn0>}}
 
 ## ECG Theory
 

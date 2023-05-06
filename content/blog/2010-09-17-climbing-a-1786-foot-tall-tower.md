@@ -7,6 +7,6 @@ date: 2010-09-17 08:40:38
 
 __When I saw this,__ I had to share it.
 
-![](https://www.youtube.com/embed/RDNGZVmhkTo)
+{{<youtube RDNGZVmhkTo>}}
 
 ... and no, that's not me!

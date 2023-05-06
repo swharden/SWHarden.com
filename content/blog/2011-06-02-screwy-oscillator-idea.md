@@ -18,7 +18,7 @@ __I'm resuming work on my simple transmitter/receiver projects,__ but I'm workin
 
 __I had tremendous success__ using a variable _inductor_ for coarse tuning! The inductor is nothing more than a screw entering and exiting the center of an air core inductor. I can't claim all the credit, because I got the idea from [this photo](http://www.vk2zay.net/article/45) on one of the coolest websites on the planet, [Alan Yates' Lab](http://www.vk2zay.net). It looks like Alan got the idea from [this](http://www.wa6otp.com/pto.htm) page... This is so useful! Is this common HAM knowledge? Why am I, someone who's been into RF circuitry for a couple of years now, JUST learning about this? I'm documenting it because I haven't seen it out there on the web, and I feel it should be represented more! Here's a video of it in action:
 
-![](https://www.youtube.com/embed/5JjF8-hjL9E)
+{{<youtube 5JjF8-hjL9E>}}
 
 This is the circuit I was using: 
 

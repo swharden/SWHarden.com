@@ -19,7 +19,7 @@ __I'm no stranger to visualizing linear data in the frequency-domain.__ Between 
 
 __The code behind it is a little jumbled, but it works.__ For recording, I wrote a class "SwhRecorder" which uses threading to continuously record audio and save it as a numpy array. When the class is loaded and started, your GUI can wait until it sees _newAudio_ become _True_, then it can grab _audio_ directly, or use fft() to pull the spectral component (which is what I do in the video). Note that my fft() relies on [numpy.fft.fft()](http://docs.scipy.org/doc/numpy/reference/generated/numpy.fft.fft.html). The return is a nearly-symmetrical mirror image of the frequency components, which (get ready to cringe mathematicians) I simply split into two arrays, reverse one of them, and add together. To turn this absolute value into dB, I'd take the log10(fft) and multiply it by 20. You know, if you're into that kind of thing, you should really check out a [post I made about FFT theory and analyzing audio data in python](http://www.swharden.com/blog/2010-06-23-insights-into-ffts-imaginary-numbers-and-accurate-spectrographs/).
 
-![](https://www.youtube.com/embed/vQ1e47VXxZg)
+{{<youtube vQ1e47VXxZg>}}
 
 __Here's the meat of the code.__ To run it, you should really grab the zip file at the bottom of the page. I'll start with the recorder class:
 

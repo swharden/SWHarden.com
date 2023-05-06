@@ -18,7 +18,7 @@ __Since I ran out of steam__ from working so much on [QRSS VD](http://www.swhard
 
 ### Converting Argo captures into continuous images:
 
-![](https://www.youtube.com/embed/Xyo10SyHtfU)
+{{<youtube Xyo10SyHtfU>}}
 
 
 ### example output:
@@ -31,7 +31,7 @@ __Since I ran out of steam__ from working so much on [QRSS VD](http://www.swhard
 
 ### Doing the same thing, with ultra-narrow images:
 
-![](https://www.youtube.com/embed/5jcZzIMtR-0)
+{{<youtube 5jcZzIMtR-0>}}
 
 ### File produced:
 
@@ -43,7 +43,7 @@ __Since I ran out of steam__ from working so much on [QRSS VD](http://www.swhard
 
 ### Using QRSS Stacker to project images:
 
-![](https://www.youtube.com/embed/-hiezkSFd4k)
+{{<youtube -hiezkSFd4k>}}
 
 ### Another example output:
 

@@ -41,7 +41,7 @@ __Initial tests were done__ using the pins as digital inputs. This was difficult
 
 __My first test__ involved reading the data from the image above. The clock is on the bottom line, data is on the top. Every time the clock transitions from black to white, the value of the data at that point is read (white=1, black=0) and the number is placed on a screen.  Here's what it looks like in action:
 
-![](https://www.youtube.com/embed/lvVjsMMCx0U)
+{{<youtube lvVjsMMCx0U>}}
 
 __Hopefully soon we can get a JavaScript interface going!__ Rather than swiping I'd like to just point this at the screen and let JS flash some squares for my device to read. This will allow virtually unlimited amounts of data to be transferred, albeit slowly, to the micro-controller. Here's a preliminary sketch of how to send strings.
 

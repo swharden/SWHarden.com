@@ -16,4 +16,4 @@ tags: ["med"]
 
 **I found one of K. Lennert’s [early publications](http://www.bloodjournal.org/content/bloodjournal/68/3/663.full.pdf) from 1986 especially interesting.** There are earlier publications, but this one is open-access. Its title describes condition as “a monoclonal proliferation of helper T cells“, and in its text further characterizes it as “special variant of Hodgkin’s disease characterized by a high percentage of epithelioid cells and rarely containing the Reed-Sternberg cells characteristic of classical Hodgkin’s disease.”
 
-![](https://www.youtube.com/embed/6ih0GTBGq7A)
+{{<youtube 6ih0GTBGq7A>}}

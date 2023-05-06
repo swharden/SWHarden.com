@@ -8,7 +8,7 @@ tags: ["amateur radio", "circuit", "old"]
 
 __Today is a very special day,__ as it's the day I first made a contact with a radio transmitter I built completely on my own! The plans were copied from no where (although the concepts were obviously learned elsewhere), so it's somewhat of a unique design (likely because it's not very good!). I'll be the first to admit there is MUCH room for improvement, but my goal was to design and build a multi-band transmitter which would produce RF (not necessarily efficiently) at multiple bands by dropping in crystals of different frequencies.
 
-![](https://www.youtube.com/embed/u4nI0cwSP0Q)
+{{<youtube u4nI0cwSP0Q>}}
 
 __My first QSO was with Bob, KC8MFF in West Virginia at 5pm today on 7MHz.__ He heard me calling CQ and replied! He gave me a 559 which made my happy. I was sending about 8 watts at the time into a Mosley Pro 67 Yagi at 180FT and receiving from a 40m dipole at 150FT at the W4DFU Gator Amateur Radio Club station in Gainesville, FL.  Although he's was about 650 miles away, I hope to make a more significant contact as the band opens up later tonight. It's such an exciting feeling! The aluminum plate gets very hot (even with the fan) and there's a slight smell of smoke whenever I transmit, but it adds to the fun I guess!  Here's some information about the build, though I'm confident it's less than optimal.
 

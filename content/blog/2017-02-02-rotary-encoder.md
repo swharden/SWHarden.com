@@ -12,7 +12,7 @@ __Rotary encoders are a convenient way to add complex input functionality to sma
 
 __A few years ago I [made a video](https://www.youtube.com/watch?v=DREGVc00FY8) discussing how rotary shaft encoders work and how to interface them with microcontrollers.__ Although I'm happy it has over 13,000 views, I'm disappointed I never posted the code or schematics on my website (despite the fact I said on the video I would). A few years later I couldn't find the original code anymore, and now that I'm working on a project using these devices I decided to document a simple case usage of this component.
 
-![](https://www.youtube.com/embed/ZGIQm1tDnRw)
+{{<youtube ZGIQm1tDnRw>}}
 
 This post is intended to be a resource for future me just as much as it is anyone who finds it via Google or YouTube. This project will permanently live in a "rotary encoder" folder of my AVR projects GitHub page: [AVR-projects](https://github.com/swharden/AVR-projects). For good measure, I made a follow-up YouTube video which describes a more simple rotary encoder example and that has working links to this code.
 
