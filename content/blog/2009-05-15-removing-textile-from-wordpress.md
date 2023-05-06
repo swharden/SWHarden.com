@@ -24,7 +24,7 @@ replacements=   ["r"," "],["n"," n "],["*:","* :"],["_:","_ :"],
                 #These are the easy replacements
 
 def fixLinks(line):
-    ## replace ["links":URL] with [&lt;a href="URL"&gt;links&lt;/a&gt;]. ##
+    ## replace ["links":URL] with [&lt;a href="https://swharden.com/static/2009/05/15/URL"&gt;links&lt;/a&gt;]. ##
     words = line.split(" ")
     for i in range(len(words)):
         word = words[i]
@@ -40,7 +40,7 @@ def fixLinks(line):
             for char in ".),'":
                 if word[1][-1]==char: extra=char
             if len(extra)&gt;0: word[1]=word[1][:-1]
-            word_new='&lt;a href="%s"&gt;%s&lt;/a&gt;'%(word[1],word[0])+extra
+            word_new='&lt;a href="https://swharden.com/static/2009/05/15/%s"&gt;%s&lt;/a&gt;'%(word[1],word[0])+extra
             line=line.replace(word_orig,word_new)
     return line
 
@@ -84,6 +84,6 @@ __I certainly held my breath while the thing ran.__  As I previously mentioned, 
 
 <div class="text-center img-border">
 
-[![](hostingwork_thumb.jpg)](hostingwork.jpg)
+[![](https://swharden.com/static/2009/05/15/hostingwork_thumb.jpg)](https://swharden.com/static/2009/05/15/hostingwork.jpg)
 
 </div>

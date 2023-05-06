@@ -12,7 +12,7 @@ tags: ["circuit", "diyECG"]
 
 <div class="text-center img-border">
 
-![](ltspice-ecg-simulator.png)
+![](https://swharden.com/static/2020/09/27/ltspice-ecg-simulator.png)
 
 </div>
 
@@ -30,7 +30,7 @@ tags: ["circuit", "diyECG"]
 
 ## Resources
 
-* LTSpice file for this project: [ecg.asc](ecg.asc)
+* LTSpice file for this project: [ecg.asc](https://swharden.com/static/2020/09/27/ecg.asc)
 
 * You will need the LM741 model found on the [Using MOD Files in LTSpice](https://swharden.com/blog/2020-09-26-ltspice-mod-files/) page
 

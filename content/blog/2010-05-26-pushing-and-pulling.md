@@ -10,7 +10,7 @@ __I found a way__ to quadruple the output power of my QRSS transmitter without c
 
 <div class="text-center img-border">
 
-[![](qrss_amplified1_thumb.jpg)](qrss_amplified1.jpg)
+[![](https://swharden.com/static/2010/05/26/qrss_amplified1_thumb.jpg)](https://swharden.com/static/2010/05/26/qrss_amplified1.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ First of all, this is the waveform before and after amplification with the 74HC2
 
 <div class="text-center img-border">
 
-[![](qrss_74hc2401_thumb.jpg)](qrss_74hc2401.jpg)
+[![](https://swharden.com/static/2010/05/26/qrss_74hc2401_thumb.jpg)](https://swharden.com/static/2010/05/26/qrss_74hc2401.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ Here you can see the test circuit I'm using. It should be self-explanatory.
 
 <div class="text-center img-border">
 
-[![](qrss_inPhase1_thumb.jpg)](qrss_inPhase1.jpg)
+[![](https://swharden.com/static/2010/05/26/qrss_inPhase1_thumb.jpg)](https://swharden.com/static/2010/05/26/qrss_inPhase1.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ Here's the output of the microcontroller compared to the in-phase output of the 
 
 <div class="text-center img-border">
 
-[![](qrss_out_of_phase1_thumb.jpg)](qrss_out_of_phase1.jpg)
+[![](https://swharden.com/static/2010/05/26/qrss_out_of_phase1_thumb.jpg)](https://swharden.com/static/2010/05/26/qrss_out_of_phase1.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ Here are the two outputs of the 74HC240. 4 of the gates are used to create outpu
 
 <div class="text-center img-border">
 
-[![](qrss_out_of_phase_overlap1_thumb.jpg)](qrss_out_of_phase_overlap1.jpg)
+[![](https://swharden.com/static/2010/05/26/qrss_out_of_phase_overlap1_thumb.jpg)](https://swharden.com/static/2010/05/26/qrss_out_of_phase_overlap1.jpg)
 
 </div>
 

@@ -14,7 +14,7 @@ __This is the circuit came up with.__ My goal was to make it cheaply and what I 
 
 <div class="text-center img-border">
 
-[![](precision-thermometer-LM335-LM324-microcontroller_thumb.jpg)](precision-thermometer-LM335-LM324-microcontroller.jpg)
+[![](https://swharden.com/static/2013/06/10/precision-thermometer-LM335-LM324-microcontroller_thumb.jpg)](https://swharden.com/static/2013/06/10/precision-thermometer-LM335-LM324-microcontroller.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __On the microcontroller side, analog-to-digital measurement is summed-up pretty
 
 <div class="text-center">
 
-![](photo-3.jpg)
+![](https://swharden.com/static/2013/06/10/photo-3.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __To get the values to the computer, I used the USART capability of my microcont
 
 <div class="text-center">
 
-[![](finger-touch_thumb.jpg)](finger-touch.png)
+[![](https://swharden.com/static/2013/06/10/finger-touch_thumb.jpg)](https://swharden.com/static/2013/06/10/finger-touch.png)
 
 </div>
 
@@ -40,7 +40,7 @@ __I spent a while considering fancy ways to send the data__ (checksums, frame he
 
 <div class="text-center">
 
-[![](ac2_thumb.jpg)](ac2.png)
+[![](https://swharden.com/static/2013/06/10/ac2_thumb.jpg)](https://swharden.com/static/2013/06/10/ac2.png)
 
 </div>
 

@@ -10,17 +10,17 @@ tags: ["blazor", "csharp"]
 
 <div class="text-center">
 
-[![](blazor-mystify.gif)](app)
+[![](https://swharden.com/static/2021/01/09/blazor-mystify.gif)](https://swharden.com/static/2021/01/09/app)
 
 </div>
 
 ### Live Demo
 
-* [Mystify your Browser with Blazor](app/) 👈 ***Launch the demo***
+* [Mystify your Browser with Blazor](https://swharden.com/static/2021/01/09/app/) 👈 ***Launch the demo***
 
 ## The C# Graphics Model
 
-The point of this article is to discuss strategies for rendering graphics using client-side Blazor and WebAssembly, so I won't detail how the polygons are tracked here. Source code for these classes can be viewed on GitHub ([MystifyBlazor/Models](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-09-blazor-mystify/MystifyBlazor/Models)) or downloaded with this project ([blazor-mystify.zip](blazor-mystify.zip)).
+The point of this article is to discuss strategies for rendering graphics using client-side Blazor and WebAssembly, so I won't detail how the polygons are tracked here. Source code for these classes can be viewed on GitHub ([MystifyBlazor/Models](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-09-blazor-mystify/MystifyBlazor/Models)) or downloaded with this project ([blazor-mystify.zip](https://swharden.com/static/2021/01/09/blazor-mystify.zip)).
 
 * [`Models/Color.cs`](https://github.com/swharden/Csharp-Data-Visualization/blob/master/examples/2021-01-09-blazor-mystify/MystifyBlazor/Models/Color.cs) - Represents a color and has methods to help with hue-shifting
 
@@ -195,8 +195,8 @@ Vanilla JavaScript will probably always be faster at rendering graphics in the b
 
 ## Resources
 
-* Download this project: [blazor-mystify.zip](blazor-mystify.zip)
+* Download this project: [blazor-mystify.zip](https://swharden.com/static/2021/01/09/blazor-mystify.zip)
 
-* Launch the demo: [Mystify your Browser with Blazor](app/)
+* Launch the demo: [Mystify your Browser with Blazor](https://swharden.com/static/2021/01/09/app/)
 
 * Browse source on GitHub: [C# Data Visualization: MystifyBlazor](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-09-blazor-mystify/)

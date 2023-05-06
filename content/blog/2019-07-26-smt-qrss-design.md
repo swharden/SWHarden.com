@@ -12,7 +12,7 @@ This page documents development of a voltage-controlled oscillator suitable for 
 
 <div class="text-center">
 
-[![](varactor-tuning-aj4vd-v1_thumb.jpg)](varactor-tuning-aj4vd-v1.png)
+[![](https://swharden.com/static/2019/07/26/varactor-tuning-aj4vd-v1_thumb.jpg)](https://swharden.com/static/2019/07/26/varactor-tuning-aj4vd-v1.png)
 
 </div>
 
@@ -24,19 +24,19 @@ This page documents development of a voltage-controlled oscillator suitable for 
 
 <div class="text-center">
 
-[![](qrss-oscillator_thumb.jpg)](qrss-oscillator.png)
+[![](https://swharden.com/static/2019/07/26/qrss-oscillator_thumb.jpg)](https://swharden.com/static/2019/07/26/qrss-oscillator.png)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](pcb-design_thumb.jpg)](pcb-design.png)
+[![](https://swharden.com/static/2019/07/26/pcb-design_thumb.jpg)](https://swharden.com/static/2019/07/26/pcb-design.png)
 
 </div>
 
 <div class="text-center">
 
-[![](pcb-3d_thumb.jpg)](pcb-3d.png)
+[![](https://swharden.com/static/2019/07/26/pcb-3d_thumb.jpg)](https://swharden.com/static/2019/07/26/pcb-3d.png)
 
 </div>
 
@@ -51,9 +51,9 @@ I'm glad I used a SMA connector, but in hindsight I should have laid it out side
 
 <div class="text-center img-border">
 
-[![](2019-07-26-a_thumb.jpg)](2019-07-26-a.jpg)
-[![](2019-07-26-b_thumb.jpg)](2019-07-26-b.jpg)
-[![](2019-07-26-c_thumb.jpg)](2019-07-26-c.jpg)
+[![](https://swharden.com/static/2019/07/26/2019-07-26-a_thumb.jpg)](https://swharden.com/static/2019/07/26/2019-07-26-a.jpg)
+[![](https://swharden.com/static/2019/07/26/2019-07-26-b_thumb.jpg)](https://swharden.com/static/2019/07/26/2019-07-26-b.jpg)
+[![](https://swharden.com/static/2019/07/26/2019-07-26-c_thumb.jpg)](https://swharden.com/static/2019/07/26/2019-07-26-c.jpg)
 
 </div>
 
@@ -89,7 +89,7 @@ After the above considerations, this is what I came up with. I made it on a brea
 
 <div class="text-center">
 
-[![](oven-aj4vd-resistor-heater_thumb.jpg)](oven-aj4vd-resistor-heater.png)
+[![](https://swharden.com/static/2019/07/26/oven-aj4vd-resistor-heater_thumb.jpg)](https://swharden.com/static/2019/07/26/oven-aj4vd-resistor-heater.png)
 
 </div>
 
@@ -111,8 +111,8 @@ After the above considerations, this is what I came up with. I made it on a brea
 
 <div class="text-center img-border">
 
-[![](2019-07-26-d_thumb.jpg)](2019-07-26-d.jpg)
-[![](2019-07-26-e_thumb.jpg)](2019-07-26-e.jpg)
+[![](https://swharden.com/static/2019/07/26/2019-07-26-d_thumb.jpg)](https://swharden.com/static/2019/07/26/2019-07-26-d.jpg)
+[![](https://swharden.com/static/2019/07/26/2019-07-26-e_thumb.jpg)](https://swharden.com/static/2019/07/26/2019-07-26-e.jpg)
 
 </div>
 

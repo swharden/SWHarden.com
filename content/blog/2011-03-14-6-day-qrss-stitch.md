@@ -10,7 +10,7 @@ __Has this been done before?__ I don't know how useful it is, but I did it just 
 
 <dev class="center border">
 
-[![](6-day-sml_thumb.jpg)](6-day-sml.jpg)
+[![](https://swharden.com/static/2011/03/14/6-day-sml_thumb.jpg)](https://swharden.com/static/2011/03/14/6-day-sml.jpg)
 
 </dev>
 
@@ -18,7 +18,7 @@ Higher resolution image here:
 
 <dev class="center border">
 
-[![](6-day-bit_thumb.jpg)](6-day-bit.jpg)
+[![](https://swharden.com/static/2011/03/14/6-day-bit_thumb.jpg)](https://swharden.com/static/2011/03/14/6-day-bit.jpg)
 
 </dev>
 

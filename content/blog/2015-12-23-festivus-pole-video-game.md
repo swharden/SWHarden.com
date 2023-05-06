@@ -10,7 +10,7 @@ __December 23 is Festivus! To commemorate the occasion, I have built a tradition
 
 <div class="text-center img-border">
 
-![](full.gif)
+![](https://swharden.com/static/2015/12/23/full.gif)
 
 </div>
 
@@ -18,7 +18,7 @@ __December 23 is Festivus! To commemorate the occasion, I have built a tradition
 
 <div class="text-center img-border img-small">
 
-![](strike.jpg)
+![](https://swharden.com/static/2015/12/23/strike.jpg)
 
 </div>
 
@@ -30,12 +30,12 @@ __After playing at my workbench for a while, I figured out a way I could light-u
 
 <div class="text-center img-border img-small">
 
-[![](a_thumb.jpg)](a.jpg)
-[![](b_thumb.jpg)](b.jpg)
-[![](c_thumb.jpg)](c.jpg)
-[![](d_thumb.jpg)](d.jpg)
-[![](e_thumb.jpg)](e.jpg)
-[![](f_thumb.jpg)](f.jpg)
+[![](https://swharden.com/static/2015/12/23/a_thumb.jpg)](https://swharden.com/static/2015/12/23/a.jpg)
+[![](https://swharden.com/static/2015/12/23/b_thumb.jpg)](https://swharden.com/static/2015/12/23/b.jpg)
+[![](https://swharden.com/static/2015/12/23/c_thumb.jpg)](https://swharden.com/static/2015/12/23/c.jpg)
+[![](https://swharden.com/static/2015/12/23/d_thumb.jpg)](https://swharden.com/static/2015/12/23/d.jpg)
+[![](https://swharden.com/static/2015/12/23/e_thumb.jpg)](https://swharden.com/static/2015/12/23/e.jpg)
+[![](https://swharden.com/static/2015/12/23/f_thumb.jpg)](https://swharden.com/static/2015/12/23/f.jpg)
 
 </div>
 
@@ -43,7 +43,7 @@ __Now for the design.__ I found a junk box 12V DC wall-wart power supply which I
 
 <div class="text-center img-border">
 
-[![](festivus-pole-video-game-schematic_thumb.jpg)](festivus-pole-video-game-schematic.png)
+[![](https://swharden.com/static/2015/12/23/festivus-pole-video-game-schematic_thumb.jpg)](https://swharden.com/static/2015/12/23/festivus-pole-video-game-schematic.png)
 
 </div>
 
@@ -51,11 +51,11 @@ __To build the circuit,__ I used perf-board and all through-hole components. It'
 
 <div class="text-center img-border img-small">
 
-[![](IMG_4350_thumb.jpg)](IMG_4350.jpg)
-[![](IMG_4352_thumb.jpg)](IMG_4352.jpg)
-[![](IMG_4362_thumb.jpg)](IMG_4362.jpg)
-[![](IMG_4364_thumb.jpg)](IMG_4364.jpg)
-[![](IMG_4366_thumb.jpg)](IMG_4366.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4350_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4350.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4352_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4352.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4362_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4362.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4364_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4364.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4366_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4366.jpg)
 
 </div>
 
@@ -63,12 +63,12 @@ __The installation had to be classy.__ To stabilize the fixture, I used epoxy re
 
 <div class="text-center img-border img-small">
 
-[![](IMG_4402_thumb.jpg)](IMG_4402.jpg)
-[![](IMG_4403_thumb.jpg)](IMG_4403.jpg)
-[![](IMG_4404_thumb.jpg)](IMG_4404.jpg)
-[![](IMG_4406_thumb.jpg)](IMG_4406.jpg)
-[![](IMG_4396_thumb.jpg)](IMG_4396.jpg)
-[![](IMG_4375_thumb.jpg)](IMG_4375.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4402_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4402.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4403_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4403.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4404_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4404.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4406_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4406.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4396_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4396.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4375_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4375.jpg)
 
 </div>
 
@@ -76,8 +76,8 @@ __It's ready to play!__ Sit back, relax, and challenge your friends to see who c
 
 <div class="text-center img-border">
 
-[![](IMG_4401_thumb.jpg)](IMG_4401.jpg)
-[![](IMG_4408_thumb.jpg)](IMG_4408.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4401_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4401.jpg)
+[![](https://swharden.com/static/2015/12/23/IMG_4408_thumb.jpg)](https://swharden.com/static/2015/12/23/IMG_4408.jpg)
 
 </div>
 

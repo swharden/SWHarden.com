@@ -14,7 +14,7 @@ __I'm impressed __ how well the transmitter/receiver worked! For only a few mill
 
 <div class="text-center img-border">
 
-[![](balloon_track_thumb.jpg)](balloon_track.jpg)
+[![](https://swharden.com/static/2010/07/14/balloon_track_thumb.jpg)](https://swharden.com/static/2010/07/14/balloon_track.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ The design team:
 
 <div class="text-center img-border">
 
-[![](DSC_7127_thumb.jpg)](DSC_7127.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7127_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7127.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ The design team:
 
 <div class="text-center img-border">
 
-[![](DSC_7210_thumb.jpg)](DSC_7210.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7210_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7210.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ The design team:
 
 <div class="text-center img-border">
 
-[![](DSC_7232_thumb.jpg)](DSC_7232.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7232_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7232.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ The design team:
 
 <div class="text-center img-border">
 
-[![](DSC_7248_thumb.jpg)](DSC_7248.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7248_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7248.jpg)
 
 </div>
 
@@ -62,7 +62,7 @@ The transmitter in its final position:
 
 <div class="text-center img-border">
 
-[![](DSC_7250_thumb.jpg)](DSC_7250.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7250_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7250.jpg)
 
 </div>
 
@@ -72,9 +72,9 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 <div class="text-center img-border">
 
-[![](DSC_7253_thumb.jpg)](DSC_7253.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7253_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7253.jpg)
 
-[![](DSC_7279_thumb.jpg)](DSC_7279.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7279_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7279.jpg)
 
 </div>
 
@@ -82,7 +82,7 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 <div class="text-center img-border">
 
-[![](DSC_7294_thumb.jpg)](DSC_7294.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7294_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7294.jpg)
 
 </div>
 
@@ -90,7 +90,7 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 <div class="text-center img-border">
 
-[![](DSC_7297_thumb.jpg)](DSC_7297.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7297_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7297.jpg)
 
 </div>
 
@@ -98,7 +98,7 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 <div class="text-center img-border">
 
-[![](DSC_7365_thumb.jpg)](DSC_7365.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7365_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7365.jpg)
 
 </div>
 
@@ -106,7 +106,7 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 <div class="text-center img-border">
 
-[![](DSC_7334_thumb.jpg)](DSC_7334.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7334_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7334.jpg)
 
 </div>
 
@@ -116,8 +116,8 @@ __Here you can see me__ (center arrow) showing the students how to receive the M
 
 <div class="text-center img-border">
 
-[![](DSC_7082_thumb.jpg)](DSC_7082.jpg)
-[![](72hc240_qrp_amplifier_thumb.jpg)](72hc240_qrp_amplifier.jpg)
+[![](https://swharden.com/static/2010/07/14/DSC_7082_thumb.jpg)](https://swharden.com/static/2010/07/14/DSC_7082.jpg)
+[![](https://swharden.com/static/2010/07/14/72hc240_qrp_amplifier_thumb.jpg)](https://swharden.com/static/2010/07/14/72hc240_qrp_amplifier.jpg)
 
 </div>
 
@@ -125,7 +125,7 @@ __I amped-up the output of the oscillator__ using an octal buffer chip (74HC240)
 
 <div class="text-center img-border">
 
-[![](01_closeup_thumb.jpg)](01_closeup.jpg)
+[![](https://swharden.com/static/2010/07/14/01_closeup_thumb.jpg)](https://swharden.com/static/2010/07/14/01_closeup.jpg)
 
 </div>
 
@@ -133,7 +133,7 @@ Closeup of the transmitter showing the oscillator at 29.4912 MHz, the Atmel ATTi
 
 <div class="text-center img-border">
 
-[![](02_workstation_thumb.jpg)](02_workstation.jpg)
+[![](https://swharden.com/static/2010/07/14/02_workstation_thumb.jpg)](https://swharden.com/static/2010/07/14/02_workstation.jpg)
 
 </div>
 
@@ -141,7 +141,7 @@ __This is my desk__ where I work from home. Note the styrofoam box in the backgr
 
 <div class="text-center img-border">
 
-[![](03_room_thumb.jpg)](03_room.jpg)
+[![](https://swharden.com/static/2010/07/14/03_room_thumb.jpg)](https://swharden.com/static/2010/07/14/03_room.jpg)
 
 </div>
 
@@ -153,7 +153,7 @@ __Here's the test setup.__ The transmitter is on the blue pad on the right, and 
 
 <div class="text-center img-border">
 
-[![](06_scope_thumb.jpg)](06_scope.jpg)
+[![](https://swharden.com/static/2010/07/14/06_scope_thumb.jpg)](https://swharden.com/static/2010/07/14/06_scope.jpg)
 
 </div>
 
@@ -165,7 +165,7 @@ __Notes about power:__ First of all, the actual power output isn't 115mW. The re
 
 <div class="text-center img-border">
 
-[![](balloon_transmitter_final_thumb.jpg)](balloon_transmitter_final.png)
+[![](https://swharden.com/static/2010/07/14/balloon_transmitter_final_thumb.jpg)](https://swharden.com/static/2010/07/14/balloon_transmitter_final.png)
 
 </div>
 
@@ -175,7 +175,7 @@ __Last week I spoke with a student in the UF aerospace engineering department wh
 
 <div class="text-center img-border">
 
-[![](balloon_transmitter_thumb.jpg)](balloon_transmitter.png)
+[![](https://swharden.com/static/2010/07/14/balloon_transmitter_thumb.jpg)](https://swharden.com/static/2010/07/14/balloon_transmitter.png)
 
 </div>
 
@@ -266,7 +266,7 @@ __I'm now wondering if I should further amplify this signal's output power.__ Pe
 
 <div class="text-center img-border">
 
-[![](hackaday_swharden_thumb.jpg)](hackaday_swharden.png)
+[![](https://swharden.com/static/2010/07/14/hackaday_swharden_thumb.jpg)](https://swharden.com/static/2010/07/14/hackaday_swharden.png)
 
 </div>
 

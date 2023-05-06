@@ -9,8 +9,8 @@ __After a day of tinkering I finally figured out how to control a HD44780 displa
 
 <div class="text-center img-border">
 
-[![](attiny_2313_lcd_hd44780_thumb.jpg)](attiny_2313_lcd_hd44780.jpg)
-[![](attiny_2313_lcd_hd44780_2_thumb.jpg)](attiny_2313_lcd_hd44780_2.jpg)
+[![](https://swharden.com/static/2009/05/17/attiny_2313_lcd_hd44780_thumb.jpg)](https://swharden.com/static/2009/05/17/attiny_2313_lcd_hd44780.jpg)
+[![](https://swharden.com/static/2009/05/17/attiny_2313_lcd_hd44780_2_thumb.jpg)](https://swharden.com/static/2009/05/17/attiny_2313_lcd_hd44780_2.jpg)
 
 </div>
 

@@ -9,7 +9,7 @@ date: 2009-04-02 10:26:38
 
 <div class="text-center img-border">
 
-[![](visitbyday_thumb.jpg)](visitbyday.png)
-[![](visitsites_thumb.jpg)](visitsites.png)
+[![](https://swharden.com/static/2009/04/02/visitbyday_thumb.jpg)](https://swharden.com/static/2009/04/02/visitbyday.png)
+[![](https://swharden.com/static/2009/04/02/visitsites_thumb.jpg)](https://swharden.com/static/2009/04/02/visitsites.png)
 
 </div>

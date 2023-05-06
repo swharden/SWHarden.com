@@ -16,7 +16,7 @@ __Cellular Neurophysiology for Electrical Engineers (in 2 sentences):__ Neuron a
 
 <div class="text-center img-border">
 
-![](a.gif)
+![](https://swharden.com/static/2017/08/12/a.gif)
 
 </div>
 
@@ -24,7 +24,7 @@ __The circuit I describe here produces waveforms which visually mimic action pot
 
 <div class="text-center img-border">
 
-[![](circuit_hand_thumb.jpg)](circuit_hand.jpg)
+[![](https://swharden.com/static/2017/08/12/circuit_hand_thumb.jpg)](https://swharden.com/static/2017/08/12/circuit_hand.jpg)
 
 </div>
 
@@ -32,8 +32,8 @@ __The analog action potential simulator circuit I came up with creates a continu
 
 <div class="text-center img-border">
 
-[![](scope_b_thumb.jpg)](scope_b.jpg)
-[![](scope_a_thumb.jpg)](scope_a.jpg)
+[![](https://swharden.com/static/2017/08/12/scope_b_thumb.jpg)](https://swharden.com/static/2017/08/12/scope_b.jpg)
+[![](https://swharden.com/static/2017/08/12/scope_a_thumb.jpg)](https://swharden.com/static/2017/08/12/scope_a.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ Between the capacitance of the rectification diode, input capacitance of the tra
 
 <div class="text-center img-border">
 
-[![](breadboard_thumb.jpg)](breadboard.jpg)
+[![](https://swharden.com/static/2017/08/12/breadboard_thumb.jpg)](https://swharden.com/static/2017/08/12/breadboard.jpg)
 
 </div>
 
@@ -50,9 +50,9 @@ __This circuit produces similar output when simulated.__ I'm using [LTspice](htt
 
 <div class="text-center img-border">
 
-[![](circuit_thumb.jpg)](circuit.png)
-[![](sim_trace2_thumb.jpg)](sim_trace2.png)
-[![](sim_trace_thumb.jpg)](sim_trace.png)
+[![](https://swharden.com/static/2017/08/12/circuit_thumb.jpg)](https://swharden.com/static/2017/08/12/circuit.png)
+[![](https://swharden.com/static/2017/08/12/sim_trace2_thumb.jpg)](https://swharden.com/static/2017/08/12/sim_trace2.png)
+[![](https://swharden.com/static/2017/08/12/sim_trace_thumb.jpg)](https://swharden.com/static/2017/08/12/sim_trace.png)
 
 </div>
 
@@ -78,7 +78,7 @@ For example, add a <a href="https://www.adafruit.com/product/439">TSL2561 I2C di
 
 <div class="text-center img-border img-medium">
 
-[![](File_000-2_thumb.jpg)](File_000-2.jpeg)
+[![](https://swharden.com/static/2017/08/12/File_000-2_thumb.jpg)](https://swharden.com/static/2017/08/12/File_000-2.jpeg)
 
 </div>
 
@@ -105,7 +105,7 @@ plt.savefig("graph.png")
 
 <div class="text-center img-medium">
 
-[![](graph_thumb.jpg)](graph.png)
+[![](https://swharden.com/static/2017/08/12/graph_thumb.jpg)](https://swharden.com/static/2017/08/12/graph.png)
 
 </div>
 
@@ -114,42 +114,42 @@ __Let's make some noise!__ Just to see what it would look like, I created a circ
 An inverting buffer created a fast and a slow clock to produce 4-bit pseudo-random numbers:
 <div class="text-center img-border img-medium">
 
-[![](File_000-5_thumb.jpg)](File_000-5.jpeg)
+[![](https://swharden.com/static/2017/08/12/File_000-5_thumb.jpg)](https://swharden.com/static/2017/08/12/File_000-5.jpeg)
 
 </div>
 
 reminder how an inverting buffer can act as an oscillator:
 <div class="text-center">
 
-[![](schmitt-trigger-osc_thumb.jpg)](schmitt-trigger-osc.png)
+[![](https://swharden.com/static/2017/08/12/schmitt-trigger-osc_thumb.jpg)](https://swharden.com/static/2017/08/12/schmitt-trigger-osc.png)
 
 </div>
 
 the full circuit realized on the breadboard:
 <div class="text-center img-border">
 
-[![](File_004_thumb.jpg)](File_004.jpeg)
+[![](https://swharden.com/static/2017/08/12/File_004_thumb.jpg)](https://swharden.com/static/2017/08/12/File_004.jpeg)
 
 </div>
 
 output of the 4-bit pseudo-random number generator:
 <div class="text-center img-border">
 
-[![](File_001_thumb.jpg)](File_001.jpeg)
+[![](https://swharden.com/static/2017/08/12/File_001_thumb.jpg)](https://swharden.com/static/2017/08/12/File_001.jpeg)
 
 </div>
 
 4-bit output smoothed through a single-stage RC filter:
 <div class="text-center img-border">
 
-[![](File_002_thumb.jpg)](File_002.jpeg)
+[![](https://swharden.com/static/2017/08/12/File_002_thumb.jpg)](https://swharden.com/static/2017/08/12/File_002.jpeg)
 
 </div>
 
 noise combined with action potential waveforms:
 <div class="text-center img-border">
 
-[![](File_003_thumb.jpg)](File_003.jpeg)
+[![](https://swharden.com/static/2017/08/12/File_003_thumb.jpg)](https://swharden.com/static/2017/08/12/File_003.jpeg)
 
 </div>
 

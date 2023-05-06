@@ -10,8 +10,8 @@ __I don't want to spend lots of money for a HF antenna, and even if I did my apa
 
 <div class="text-center img-border img-small">
 
-[![](dipole_apartment_1_thumb.jpg)](dipole_apartment_1.jpg)
-[![](dipole_apartment_2_thumb.jpg)](dipole_apartment_2.png)
+[![](https://swharden.com/static/2010/02/07/dipole_apartment_1_thumb.jpg)](https://swharden.com/static/2010/02/07/dipole_apartment_1.jpg)
+[![](https://swharden.com/static/2010/02/07/dipole_apartment_2_thumb.jpg)](https://swharden.com/static/2010/02/07/dipole_apartment_2.png)
 
 </div>
 
@@ -19,10 +19,10 @@ __The beauty of this antenna is four-fold.__ First, it's cheap (a few bucks wort
 
 <div class="text-center img-border img-micro">
 
-[![](IMG_3084_thumb.jpg)](IMG_3084.jpg)
-[![](IMG_3091_thumb.jpg)](IMG_3091.jpg)
-[![](IMG_3075_thumb.jpg)](IMG_3075.jpg)
-[![](IMG_3074_thumb.jpg)](IMG_3074.jpg)
+[![](https://swharden.com/static/2010/02/07/IMG_3084_thumb.jpg)](https://swharden.com/static/2010/02/07/IMG_3084.jpg)
+[![](https://swharden.com/static/2010/02/07/IMG_3091_thumb.jpg)](https://swharden.com/static/2010/02/07/IMG_3091.jpg)
+[![](https://swharden.com/static/2010/02/07/IMG_3075_thumb.jpg)](https://swharden.com/static/2010/02/07/IMG_3075.jpg)
+[![](https://swharden.com/static/2010/02/07/IMG_3074_thumb.jpg)](https://swharden.com/static/2010/02/07/IMG_3074.jpg)
 
 </div>
 

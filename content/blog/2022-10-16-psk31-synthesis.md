@@ -9,12 +9,12 @@ tags: ["amateur radio", "csharp"]
 
 **PSK-31 is a narrow-bandwidth digital mode which encodes text as an audio tone that varies phase at a known rate.** To learn more about this digital mode and solve a challenging programming problem, I'm going to write a PSK-31 encoder and decoder from scratch using the C# programming language. All code created for this project is open-source, available from my [PSK Experiments GitHub Repository](https://github.com/swharden/psk-experiments), and released under the permissive MIT license. This page documents my progress and notes things I learn along the way.
 
-<a href="psk-waterfall2.jpg"><img src="psk-waterfall2.jpg"></a>
+<a href="https://swharden.com/static/2022/10/16/psk-waterfall2.jpg"><img src="https://swharden.com/static/2022/10/16/psk-waterfall2.jpg"></a>
 
 ## Encoding Bits as Phase Shifts
 
 <!--
-<img src="bpsk.png" class="w-75 d-block mx-auto my-3">
+<img src="https://swharden.com/static/2022/10/16/bpsk.png" class="w-75 d-block mx-auto my-3">
 -->
 
 * PSK31 messages have a continuous carrier tone
@@ -23,7 +23,7 @@ tags: ["amateur radio", "csharp"]
 
 * If a symbol changes phase from its previous symbol it is a `0`, otherwise it is a `1`
 
-<a href="theory.png"><img src="theory.png" class="d-block mx-auto"></a>
+<a href="https://swharden.com/static/2022/10/16/theory.png"><img src="https://swharden.com/static/2022/10/16/theory.png" class="d-block mx-auto"></a>
 
 ## Amplitude Modulation Silences Phase Transitions
 
@@ -33,13 +33,13 @@ Although a continuous phase-shifting tone of constant amplitude can successfully
 
 Hard phase transitions (splatter) | Soft phase transitions (cleaner)
 ---|---
-<img src="splatter.png">|<img src="no-splatter.png">
+<img src="https://swharden.com/static/2022/10/16/splatter.png">|<img src="https://swharden.com/static/2022/10/16/no-splatter.png">
 
 </div>
 
 To reduce spectral artifacts that result from abruptly changing phase, phase transitions are silenced by shaping the waveform envelope as a sine wave so it is silent at the transition. This way the maximum rate of phase shifts is a sine wave with a period of half the baud rate. This is why the opening of a PSK31 message (a series of logical `0` bits) sounds like two tones: It's the carrier sine wave with an envelope shaped like a sine wave with a period of 31.25/2 Hz. These two tones separated by approximately 15 Hz are visible in the spectrogram (waterfall).
 
-![](modulation.png)
+![](https://swharden.com/static/2022/10/16/modulation.png)
 
 ## Encoding Text as Bits
 
@@ -341,34 +341,34 @@ public double[] GetWaveformBPSK(double[] phases)
 
 I wrapped the functionality above in a Windows Forms GUI that allows the user to type a message, specify frequency, baud rate, and whether or not to refine the envelope to reduce splatter, then either play or save the result. An interactive [ScottPlot Chart](https://scottplot.net) allows the user to inspect the waveform.
 
-* **Download PSK31 Encoder: [PSK31-encoder.zip](PSK31-encoder.zip)**
+* **Download PSK31 Encoder: [PSK31-encoder.zip](https://swharden.com/static/2022/10/16/PSK31-encoder.zip)**
 
 * **PSK31 Encoder Source Code: [PSK Experiments on GitHub](https://github.com/swharden/psk-experiments)**
 
-![](screenshot.png)
+![](https://swharden.com/static/2022/10/16/screenshot.png)
 
 ## Sample PSK-31 Transmissions
 
 These audio files encode the text _The Quick Brown Fox Jumped Over The Lazy Dog 1234567890 Times!_ in 1kHz BPSK at various baud rates.
 
-* PSK-31: [dog31.wav](dog31.wav)
-* PSK-63: [dog63.wav](dog63.wav)
-* PSK-125: [dog125.wav](dog125.wav)
-* PSK-256: [dog256.wav](dog256.wav)
+* PSK-31: [dog31.wav](https://swharden.com/static/2022/10/16/dog31.wav)
+* PSK-63: [dog63.wav](https://swharden.com/static/2022/10/16/dog63.wav)
+* PSK-125: [dog125.wav](https://swharden.com/static/2022/10/16/dog125.wav)
+* PSK-256: [dog256.wav](https://swharden.com/static/2022/10/16/dog256.wav)
 
 ### Non-Standard Baud Rates
 
 **Let's see what PSK-3 sounds like.** This mode encodes data at a rate of 3 bits per second. Note that Varicode characters may require up to ten bits, so this is pretty slow. On the other hand the side tones are closer to the carrier and the total bandwidth is much smaller. The message here has been shortened to just my callsign, AJ4VD.
 
-* PSK-3: [psk3.wav](psk3.wav)
+* PSK-3: [psk3.wav](https://swharden.com/static/2022/10/16/psk3.wav)
 
 ## Encode PSK-31 In Your Browser
 
 After implementing the C# encoder described above I created a JavaScript version (as per <a href="https://en.wikipedia.org/wiki/Jeff_Atwood">Atwood's Law</a>).
 
-* Try it on your phone or computer! [**Launch PskJS**](pskjs)
+* Try it on your phone or computer! [**Launch PskJS**](https://swharden.com/static/2022/10/16/pskjs)
 
-<a href="pskjs"><img src="pskjs.png" class="d-block mx-auto my-3"></a>
+<a href="https://swharden.com/static/2022/10/16/pskjs"><img src="https://swharden.com/static/2022/10/16/pskjs.png" class="d-block mx-auto my-3"></a>
 
 ## Decoding PSK-31
 
@@ -378,27 +378,27 @@ The simplest way to decode PSK-31 transmissions leans on the fact that we alread
 
 <div class="row">
 	<div class="col">
-		<a href="psk31-receiver.html"><img src="py-fft.png" class="img-fluid"></a>
+		<a href="https://swharden.com/static/2022/10/16/psk31-receiver.html"><img src="https://swharden.com/static/2022/10/16/py-fft.png" class="img-fluid"></a>
 	</div>
 	<div class="col">
-		<a href="psk31-receiver.html"><img src="py-iq.png" class="img-fluid"></a>
+		<a href="https://swharden.com/static/2022/10/16/psk31-receiver.html"><img src="https://swharden.com/static/2022/10/16/py-iq.png" class="img-fluid"></a>
 	</div>
 	<div class="col">
-		<a href="psk31-receiver.html"><img src="py-eyediagram.png" class="img-fluid"></a>
+		<a href="https://swharden.com/static/2022/10/16/psk31-receiver.html"><img src="https://swharden.com/static/2022/10/16/py-eyediagram.png" class="img-fluid"></a>
 	</div>
 </div>
 
-There are more advanced techniques to improve BPSK decoding, such as continuously adjusting frequency and phase alignment (synchronization). A [Costas loop](https://en.wikipedia.org/wiki/Costas_loop) can help lock onto the carrier frequency while preserving its phase. Visit [**Simple BPSK31 Decoding with Python**](psk31-receiver.html) for an excellent demonstration of how to decode BPSK31 using these advanced techniques.
+There are more advanced techniques to improve BPSK decoding, such as continuously adjusting frequency and phase alignment (synchronization). A [Costas loop](https://en.wikipedia.org/wiki/Costas_loop) can help lock onto the carrier frequency while preserving its phase. Visit [**Simple BPSK31 Decoding with Python**](https://swharden.com/static/2022/10/16/psk31-receiver.html) for an excellent demonstration of how to decode BPSK31 using these advanced techniques.
 
 A crude C# implementation of a BPSK decoded is available on GitHub in the [PSK Experiments](https://github.com/swharden/psk-experiments) repository
 
-![](psk-decode.png)
+![](https://swharden.com/static/2022/10/16/psk-decode.png)
 
 ## Encoding PSK-31 in Hardware
 
 Since BPSK is just a carrier that applies periodic 180º phase-shifts, it's easy to generate in hardware by directly modulating the signal source. A good example of this is [KA7OEI's PSK31 transmitter](http://www.ka7oei.com/psk_bm_tx.html) which feeds the output of an oscillator through an even or odd number of NAND gates (from a [74HC00](https://www.mouser.com/datasheet/2/308/74HC00-105628.pdf)) to produce two signals of opposite phase.
 
-![](pic-psk31.png)
+![](https://swharden.com/static/2022/10/16/pic-psk31.png)
 
 ## Quadrature Phase Shift Keying (QPSK)
 
@@ -406,7 +406,7 @@ Since BPSK is just a carrier that applies periodic 180º phase-shifts, it's easy
 
 QPSK encoding/decoding and convolutional encoding/decoding are outside the scope of this page, but excellent information exists on the [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_(QPSK)) and in the US Naval Academy's [EC314 Lesson 23: Digital Modulation](https://www.usna.edu/ECE/ec312/Lessons/wireless/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) document.
 
-<a href="qpsk.png"><img src="qpsk.png" class="mx-auto d-block"></a>
+<a href="https://swharden.com/static/2022/10/16/qpsk.png"><img src="https://swharden.com/static/2022/10/16/qpsk.png" class="mx-auto d-block"></a>
 
 ## PSK-31 in 2022
 
@@ -450,7 +450,7 @@ After all that, it turns out PSK-31 isn't that popular anymore. These days it se
 
 * [GNURadio PSK31 Decoder](https://sdradventure.wordpress.com/2011/10/15/gnuradio-psk31-decoder-part-1/) by VA7STH
 
-* [Simple BPSK31](psk31-receiver.html) - a fantastic Jupyter notebook demonstrating BPSK decoding with Python
+* [Simple BPSK31](https://swharden.com/static/2022/10/16/psk31-receiver.html) - a fantastic Jupyter notebook demonstrating BPSK decoding with Python
 
 * [PySDR: Digital Modulation](https://pysdr.org/content/digital_modulation.html) - a summary of signal modulation types
 

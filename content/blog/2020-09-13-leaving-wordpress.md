@@ -10,7 +10,7 @@ tags: ["php"]
 
 <div class="text-center">
 
-[![](github_thumb.jpg)](github.png)
+[![](https://swharden.com/static/2020/09/13/github_thumb.jpg)](https://swharden.com/static/2020/09/13/github.png)
 
 </div>
 
@@ -26,7 +26,7 @@ tags: ["php"]
 
 Wordpress (slow) | Markdown (fast)
 ---|---
-<div style='text-align: center;'><img src="benchmark-slow.png"></div> | <div style='text-align: center;'><img src="benchmark-fast.png"></div>
+<div style='text-align: center;'><img src="https://swharden.com/static/2020/09/13/benchmark-slow.png"></div> | <div style='text-align: center;'><img src="https://swharden.com/static/2020/09/13/benchmark-fast.png"></div>
 
 </div>
 
@@ -50,7 +50,7 @@ Along the way I had a few laughs at the ridiculousness of some of my old content
 
 After reviewing all of my posts I now have a really good understanding of the evolution of the technologies I used to serve my website over the years. Here's a summary of the major events:
 
-* It started as a blog on GeoCities, with the [oldest surviving post](../2001-06-16-geocities-hardentechnologies-1) dating to June 2001. Back then adding content meant editing HTML files and using FTP to upload changes. 
+* It started as a blog on GeoCities, with the [oldest surviving post](https://swharden.com/static/2020/09/13/../2001-06-16-geocities-hardentechnologies-1) dating to June 2001. Back then adding content meant editing HTML files and using FTP to upload changes. 
 
 * In 2002 I started hosting my website from a server at my house. Initially it was served with Windows/IIS using ASP for comments pages. On October 19, 2002 I switched to FreeBSD/Apache using PHP for comments pages.
 

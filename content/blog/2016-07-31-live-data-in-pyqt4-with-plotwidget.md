@@ -10,8 +10,8 @@ __After spending a day comparing performance of MatplotlibWidget with PlotWidget
 
 <div class="text-center img-border img-small">
 
-![](demo2.gif)
-[![](demo2cmd_thumb.jpg)](demo2cmd.png)
+![](https://swharden.com/static/2016/07/31/demo2.gif)
+[![](https://swharden.com/static/2016/07/31/demo2cmd_thumb.jpg)](https://swharden.com/static/2016/07/31/demo2cmd.png)
 
 </div>
 
@@ -26,7 +26,7 @@ __When designing the GUI with QT Designer, add a QGraphicsView widget then assig
 
 <div class="text-center img-border">
 
-[![](promoted_thumb.jpg)](promoted.png)
+[![](https://swharden.com/static/2016/07/31/promoted_thumb.jpg)](https://swharden.com/static/2016/07/31/promoted.png)
 
 </div>
 

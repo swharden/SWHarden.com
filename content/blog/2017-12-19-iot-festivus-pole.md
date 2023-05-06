@@ -10,7 +10,7 @@ The <em>Internet of Things</em> now includes Festivus poles! **Festivus is a hol
 
 <div class="text-center img-border img-small">
 
-[![](723_thumb.jpg)](723.jpg)
+[![](https://swharden.com/static/2017/12/19/723_thumb.jpg)](https://swharden.com/static/2017/12/19/723.jpg)
 
 </div>
 
@@ -18,8 +18,8 @@ __The IoT Festivus Pole is powered by a Raspberry Pi__ (a Pi 2 Model B, although
 
 <div class="text-center img-small">
 
-![](festivus_miracle.gif)
-![](729.jpeg)
+![](https://swharden.com/static/2017/12/19/festivus_miracle.gif)
+![](https://swharden.com/static/2017/12/19/729.jpeg)
 
 </div>
 
@@ -27,8 +27,8 @@ __To build the Festivus pole__ I got a piece of wood and a steel conduit pipe fr
 
 <div class="text-center img-border">
 
-[![](725_thumb.jpg)](725.jpg)
-[![](726_thumb.jpg)](726.jpg)
+[![](https://swharden.com/static/2017/12/19/725_thumb.jpg)](https://swharden.com/static/2017/12/19/725.jpg)
+[![](https://swharden.com/static/2017/12/19/726_thumb.jpg)](https://swharden.com/static/2017/12/19/726.jpg)
 
 </div>
 
@@ -36,9 +36,9 @@ __Adding the computer was easy!__ Internet capability was provided via a USB WiF
 
 <div class="text-center img-border">
 
-[![](728_thumb.jpg)](728.jpg)
-[![](719_thumb.jpg)](719.jpg)
-[![](726_thumb.jpg)](726.jpg)
+[![](https://swharden.com/static/2017/12/19/728_thumb.jpg)](https://swharden.com/static/2017/12/19/728.jpg)
+[![](https://swharden.com/static/2017/12/19/719_thumb.jpg)](https://swharden.com/static/2017/12/19/719.jpg)
+[![](https://swharden.com/static/2017/12/19/726_thumb.jpg)](https://swharden.com/static/2017/12/19/726.jpg)
 
 </div>
 

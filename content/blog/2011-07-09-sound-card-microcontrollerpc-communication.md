@@ -10,7 +10,7 @@ _This page describes a method of sending data from a microchip to a PC using pul
 
 <div class="text-center img-border">
 
-![](DSCN1532.jpg)
+![](https://swharden.com/static/2011/07/09/DSCN1532.jpg)
 
 </div>
 
@@ -26,8 +26,8 @@ Here is a sound card I used for bidirectional communication:
 
 <div class="text-center img-border">
 
-![](DSCN1466.jpg)
-![](DSCN1470.jpg)
+![](https://swharden.com/static/2011/07/09/DSCN1466.jpg)
+![](https://swharden.com/static/2011/07/09/DSCN1470.jpg)
 
 </div>
 
@@ -35,8 +35,8 @@ Output graph (python and excel) of temperature when I put a soldering iron near 
 
 <div class="text-center img-border">
 
-[![](python1_thumb.jpg)](python1.png)
-[![](excel_thumb.jpg)](excel.jpg)
+[![](https://swharden.com/static/2011/07/09/python1_thumb.jpg)](https://swharden.com/static/2011/07/09/python1.png)
+[![](https://swharden.com/static/2011/07/09/excel_thumb.jpg)](https://swharden.com/static/2011/07/09/excel.jpg)
 
 </div>
 

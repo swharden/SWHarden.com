@@ -92,7 +92,7 @@ At the end you have a beautiful figure:
 
 <div class="text-center img-border">
 
-![](benchmark.png)
+![](https://swharden.com/static/2021/06/03/benchmark.png)
 
 </div>
 
@@ -108,7 +108,7 @@ Because of old hardware limitations, bitmap widths _in memory_ (also called the 
 
 <div class="text-center">
 
-![](image-byte-position.png)
+![](https://swharden.com/static/2021/06/03/image-byte-position.png)
 
 </div>
 

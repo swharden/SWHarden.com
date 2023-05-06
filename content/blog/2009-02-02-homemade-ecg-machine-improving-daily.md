@@ -16,9 +16,9 @@ __I've been working on a homemade ECG machine over the last month.__ [This is th
 
 <div class="text-center img-border">
 
-![](vu_meter.jpg)
+![](https://swharden.com/static/2009/02/02/vu_meter.jpg)
 
-![](vu_meter2.jpg)
+![](https://swharden.com/static/2009/02/02/vu_meter2.jpg)
 
 </div>
 
@@ -26,14 +26,14 @@ __Here's a simple LED-based digital VU meter circuit__ I found, along with some 
 
 <div class="text-center">
 
-[![](vu_circuit_thumb.jpg)](vu_circuit.png)
+[![](https://swharden.com/static/2009/02/02/vu_circuit_thumb.jpg)](https://swharden.com/static/2009/02/02/vu_circuit.png)
 
 </div>
 
-__In other news__ it appears I've been accepted into dental school. I got a voicemail this morning at 8am, another one at 12:30pm, and apparently one on my parents' answering machine (I listed them as an alternate number), then they sent me an email! Naturally it was the email I noticed first. Here's a snapshot from my inbox, [phone call 1](1.mp3) and [phone call 2](2.mp3).
+__In other news__ it appears I've been accepted into dental school. I got a voicemail this morning at 8am, another one at 12:30pm, and apparently one on my parents' answering machine (I listed them as an alternate number), then they sent me an email! Naturally it was the email I noticed first. Here's a snapshot from my inbox, [phone call 1](https://swharden.com/static/2009/02/02/1.mp3) and [phone call 2](https://swharden.com/static/2009/02/02/2.mp3).
 
 <div class="text-center img-border">
 
-[![](accepted_thumb.jpg)](accepted.png)
+[![](https://swharden.com/static/2009/02/02/accepted_thumb.jpg)](https://swharden.com/static/2009/02/02/accepted.png)
 
 </div>

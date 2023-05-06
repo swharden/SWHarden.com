@@ -10,7 +10,7 @@ tags: ["circuit"]
 
 ## Step 1: Download a Model (.mod) File
 
-I found [`LM741.MOD`](LM741.MOD) available on the TI's [LM741 product page](https://www.ti.com/product/LM741).
+I found [`LM741.MOD`](https://swharden.com/static/2020/09/26/LM741.MOD) available on the TI's [LM741 product page](https://www.ti.com/product/LM741).
 
 Save it wherever you want, but you will need to know the full path to this file later.
 
@@ -37,7 +37,7 @@ Click the ".op" button on the toolbar, then add `.include` followed by the full 
 
 <div class="text-center img-border">
 
-![](op2.png)
+![](https://swharden.com/static/2020/09/26/op2.png)
 
 </div>
 
@@ -47,7 +47,7 @@ We know the part we are including is a 5-pin op-amp, so we can start by placing 
 
 <div class="text-center img-border">
 
-![](opamp.png)
+![](https://swharden.com/static/2020/09/26/opamp.png)
 
 </div>
 
@@ -57,7 +57,7 @@ Right-click the op-amp and update its `Value` to match the name of the subcircui
 
 <div class="text-center img-border">
 
-![](name.png)
+![](https://swharden.com/static/2020/09/26/name.png)
 
 </div>
 
@@ -67,6 +67,6 @@ Your new component will run using the properties of the model you downloaded.
 
 <div class="text-center img-border">
 
-![](ltspice-lm741.png)
+![](https://swharden.com/static/2020/09/26/ltspice-lm741.png)
 
 </div>

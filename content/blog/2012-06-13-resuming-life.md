@@ -13,7 +13,7 @@ __I feel it is important to address some of the recent changes in my life in a c
 
 <div class="text-center img-border">
 
-[![](12-2_thumb.jpg)](12-2.jpg)
+[![](https://swharden.com/static/2012/06/13/12-2_thumb.jpg)](https://swharden.com/static/2012/06/13/12-2.jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ __I began a new [Ph.D. program in Neuroscience](http://idp.med.ufl.edu/about/neu
 
 <div class="text-center img-border">
 
-[![](2012-04-23_08.57.33_thumb.jpg)](2012-04-23_08.57.33.jpg)
+[![](https://swharden.com/static/2012/06/13/2012-04-23_08.57.33_thumb.jpg)](https://swharden.com/static/2012/06/13/2012-04-23_08.57.33.jpg)
 
 </div>
 
@@ -29,8 +29,8 @@ __It looks like I'm kind of sick.__ To make a long story short, I'm in a strange
 
 <div class="text-center img-border img-small">
 
-[![](4-pet-ct-too_thumb.jpg)](4-pet-ct-too.jpg)
-[![](IMG_5851_thumb.jpg)](IMG_5851.jpg)
+[![](https://swharden.com/static/2012/06/13/4-pet-ct-too_thumb.jpg)](https://swharden.com/static/2012/06/13/4-pet-ct-too.jpg)
+[![](https://swharden.com/static/2012/06/13/IMG_5851_thumb.jpg)](https://swharden.com/static/2012/06/13/IMG_5851.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __I've had some interesting medical experiences over the last few months.__ The 
 
 <div class="text-center img-border">
 
-[![](IMG_0440_thumb.jpg)](IMG_0440.jpg)
+[![](https://swharden.com/static/2012/06/13/IMG_0440_thumb.jpg)](https://swharden.com/static/2012/06/13/IMG_0440.jpg)
 
 </div>
 
@@ -50,19 +50,19 @@ __The truth is__, when Angelina died, life stopped. I stopped answering email, I
 
 <div class="text-center img-border img-medium">
 
-[![](angelina_carve_thumb.jpg)](angelina_carve.jpg)
+[![](https://swharden.com/static/2012/06/13/angelina_carve_thumb.jpg)](https://swharden.com/static/2012/06/13/angelina_carve.jpg)
 
 </div>
 
 <div class="text-center img-border img-small">
 
-[![](angelina_solder_thumb.jpg)](angelina_solder.jpg)
+[![](https://swharden.com/static/2012/06/13/angelina_solder_thumb.jpg)](https://swharden.com/static/2012/06/13/angelina_solder.jpg)
 
 </div>
 
 <div class="text-center img-border img-medium">
 
-[![](angelina_soldering_thumb.jpg)](angelina_soldering.jpg)
+[![](https://swharden.com/static/2012/06/13/angelina_soldering_thumb.jpg)](https://swharden.com/static/2012/06/13/angelina_soldering.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ __Angelina left a few special reminders on my workbench.__ A few months after sh
 
 <div class="text-center img-border">
 
-[![](09_thumb.jpg)](09.jpg)
+[![](https://swharden.com/static/2012/06/13/09_thumb.jpg)](https://swharden.com/static/2012/06/13/09.jpg)
 
 </div>
 
@@ -78,7 +78,7 @@ __One of the things I've done__ that's really helped me a lot is to get out of m
 
 <div class="text-center img-border">
 
-[![](01_thumb.jpg)](01.jpg)
+[![](https://swharden.com/static/2012/06/13/01_thumb.jpg)](https://swharden.com/static/2012/06/13/01.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ __I marched in the UF homecoming parade__ with the University of Florida [Gator 
 
 <div class="text-center img-border">
 
-[![](02_thumb.jpg)](02.jpg)
+[![](https://swharden.com/static/2012/06/13/02_thumb.jpg)](https://swharden.com/static/2012/06/13/02.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@ __I participated in the "out of the darkness" walk for suicide awareness__ spons
 
 <div class="text-center img-border">
 
-[![](03_thumb.jpg)](03.jpg)
+[![](https://swharden.com/static/2012/06/13/03_thumb.jpg)](https://swharden.com/static/2012/06/13/03.jpg)
 
 </div>
 
@@ -102,7 +102,7 @@ __I participated in the "out of the darkness" walk for suicide awareness__ spons
 
 <div class="text-center img-border">
 
-[![](10_thumb.jpg)](10.jpg)
+[![](https://swharden.com/static/2012/06/13/10_thumb.jpg)](https://swharden.com/static/2012/06/13/10.jpg)
 
 </div>
 
@@ -110,7 +110,7 @@ __I practiced advanced suturing techniques utilizing a pig jaw.__ I actually mes
 
 <div class="text-center img-border">
 
-[![](14_thumb.jpg)](14.jpg)
+[![](https://swharden.com/static/2012/06/13/14_thumb.jpg)](https://swharden.com/static/2012/06/13/14.jpg)
 
 </div>
 
@@ -118,19 +118,19 @@ __I practiced advanced suturing techniques utilizing a pig jaw.__ I actually mes
 
 <div class="text-center img-border">
 
-[![](26_thumb.jpg)](26.jpg)
+[![](https://swharden.com/static/2012/06/13/26_thumb.jpg)](https://swharden.com/static/2012/06/13/26.jpg)
 
 </div>
 
 <div class="text-center img-border img-micro">
 
-[![](25_thumb.jpg)](25.jpg)
-[![](27_thumb.jpg)](27.jpg)
-[![](28_thumb.jpg)](28.jpg)
-[![](30_thumb.jpg)](30.jpg)
-[![](24_thumb.jpg)](24.jpg)
-[![](31_thumb.jpg)](31.jpg)
-[![](011_thumb.jpg)](011.jpg)
+[![](https://swharden.com/static/2012/06/13/25_thumb.jpg)](https://swharden.com/static/2012/06/13/25.jpg)
+[![](https://swharden.com/static/2012/06/13/27_thumb.jpg)](https://swharden.com/static/2012/06/13/27.jpg)
+[![](https://swharden.com/static/2012/06/13/28_thumb.jpg)](https://swharden.com/static/2012/06/13/28.jpg)
+[![](https://swharden.com/static/2012/06/13/30_thumb.jpg)](https://swharden.com/static/2012/06/13/30.jpg)
+[![](https://swharden.com/static/2012/06/13/24_thumb.jpg)](https://swharden.com/static/2012/06/13/24.jpg)
+[![](https://swharden.com/static/2012/06/13/31_thumb.jpg)](https://swharden.com/static/2012/06/13/31.jpg)
+[![](https://swharden.com/static/2012/06/13/011_thumb.jpg)](https://swharden.com/static/2012/06/13/011.jpg)
 
 </div>
 
@@ -138,7 +138,7 @@ __I started getting into electronics again a couple months ago.__ I learned how 
 
 <div class="text-center img-border img-medium">
 
-![](2011-12-04_12.55.16.jpg)
+![](https://swharden.com/static/2012/06/13/2011-12-04_12.55.16.jpg)
 
 </div>
 
@@ -146,7 +146,7 @@ I get my hair cut in my friend's kitchen. His name is Don and he is a dental stu
 
 <div class="text-center img-border img-small">
 
-[![](IMG_0284_thumb.jpg)](IMG_0284.jpg)
+[![](https://swharden.com/static/2012/06/13/IMG_0284_thumb.jpg)](https://swharden.com/static/2012/06/13/IMG_0284.jpg)
 
 </div>
 
@@ -154,7 +154,7 @@ I operated the W4DFU radio station during the CQWW contest.
 
 <div class="text-center img-border img-medium">
 
-[![](DSC_6218_thumb.jpg)](DSC_6218.jpg)
+[![](https://swharden.com/static/2012/06/13/DSC_6218_thumb.jpg)](https://swharden.com/static/2012/06/13/DSC_6218.jpg)
 
 </div>
 
@@ -162,7 +162,7 @@ I also visited a museum. Can you believe I went my entire life without ever actu
 
 <div class="text-center img-border">
 
-![](space.jpg)
+![](https://swharden.com/static/2012/06/13/space.jpg)
 
 </div>
 
@@ -170,7 +170,7 @@ __The photo from space__ is the result of a a successful retrieval of a camera t
 
 <div class="text-center img-border img-small">
 
-[![](IMG_6603_thumb.jpg)](IMG_6603.jpg)
+[![](https://swharden.com/static/2012/06/13/IMG_6603_thumb.jpg)](https://swharden.com/static/2012/06/13/IMG_6603.jpg)
 
 </div>
 
@@ -178,7 +178,7 @@ __The photo from space__ is the result of a a successful retrieval of a camera t
 
 <div class="text-center img-border">
 
-[![](2012-03-14-23.03.53_thumb.jpg)](2012-03-14-23.03.53.jpg)
+[![](https://swharden.com/static/2012/06/13/2012-03-14-23.03.53_thumb.jpg)](https://swharden.com/static/2012/06/13/2012-03-14-23.03.53.jpg)
 
 </div>
 
@@ -195,8 +195,8 @@ if "sml_" in fname: continue
 cmd="convert -resize 300 %s sml_%s"%(fname,fname)
 print cmd #note that this requires ImageMagik installed
 os.system(cmd)
-out+='<a href="%s">'%(fname)
-out+='<img src="sml_%s"></a><br>'%(fname)
+out+='<a href="https://swharden.com/static/2012/06/13/%s">'%(fname)
+out+='<img src="https://swharden.com/static/2012/06/13/sml_%s"></a><br>'%(fname)
 out+='%s<br><br><br>n'%(os.path.split(fname)[1])
 out+="</body></html>"
 f=open("pics.html",'w')
@@ -209,6 +209,6 @@ __What do I plan to do from here?__ I'm starting my PhD program in August, and I
 
 <div class="text-center img-border">
 
-[![](DSC_5878_thumb.jpg)](DSC_5878.jpg)
+[![](https://swharden.com/static/2012/06/13/DSC_5878_thumb.jpg)](https://swharden.com/static/2012/06/13/DSC_5878.jpg)
 
 </div>

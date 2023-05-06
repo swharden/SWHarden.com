@@ -11,8 +11,8 @@ tags: ["old"]
 
 <div class="text-center img-medium img-border">
 
-![](images/gigdisk.jpg)
-![](images/smallstack.jpg)
+![](https://swharden.com/static/2005/08/12/images/gigdisk.jpg)
+![](https://swharden.com/static/2005/08/12/images/smallstack.jpg)
 
 </div>
 
@@ -33,13 +33,13 @@ Spine|`2.360` inches|`0.113` inches
 
 If you have Photoshop you can download one of the blank MiniDisc label templates I created.
 
-* Download: [Single Label (miniDiscLabel.psd)](images/miniDiscLabel.psd)
-* Download: [Sheet of Six (miniDiscLabelSheet.psd)](images/miniDiscLabelSheet.psd)
+* Download: [Single Label (miniDiscLabel.psd)](https://swharden.com/static/2005/08/12/images/miniDiscLabel.psd)
+* Download: [Sheet of Six (miniDiscLabelSheet.psd)](https://swharden.com/static/2005/08/12/images/miniDiscLabelSheet.psd)
 
 <div class="text-center img-small">
 
-![](images/miniDiscLabel.png)
-![](images/miniDiscLabelSheet.png)
+![](https://swharden.com/static/2005/08/12/images/miniDiscLabel.png)
+![](https://swharden.com/static/2005/08/12/images/miniDiscLabelSheet.png)
 
 </div>
 
@@ -50,7 +50,7 @@ If you have Photoshop you can download one of the blank MiniDisc label templates
 
 <div class="text-center">
 
-![](images/photoshopping.gif)
+![](https://swharden.com/static/2005/08/12/images/photoshopping.gif)
 
 </div>
 
@@ -60,8 +60,8 @@ The labels I've been making lately have been printed on [Avery's White Full Shee
 
 <div class="text-center">
 
-![](images/paper_small.jpg)
-![](images/printersettings.jpg)
+![](https://swharden.com/static/2005/08/12/images/paper_small.jpg)
+![](https://swharden.com/static/2005/08/12/images/printersettings.jpg)
 
 </div>
 
@@ -71,7 +71,7 @@ The labels I've been making lately have been printed on [Avery's White Full Shee
 
 <div class="text-center">
 
-![](images/cutter_small.jpg)
+![](https://swharden.com/static/2005/08/12/images/cutter_small.jpg)
 
 </div>
 
@@ -79,7 +79,7 @@ The labels I've been making lately have been printed on [Avery's White Full Shee
 
 <div class="text-center">
 
-![](images/printed_small.jpg)
+![](https://swharden.com/static/2005/08/12/images/printed_small.jpg)
 
 </div>
 
@@ -87,7 +87,7 @@ Notice how I cut a 0.5mm border around the edge of the image in preparation for 
 
 <div class="text-center img-medium img-border">
 
-![](images/edge.jpg)
+![](https://swharden.com/static/2005/08/12/images/edge.jpg)
 
 </div>
 
@@ -95,7 +95,7 @@ Notice how I cut a 0.5mm border around the edge of the image in preparation for 
 
 <div class="text-center img-medium img-border">
 
-![](images/corner.jpg)
+![](https://swharden.com/static/2005/08/12/images/corner.jpg)
 
 </div>
 
@@ -103,7 +103,7 @@ Notice how I cut a 0.5mm border around the edge of the image in preparation for 
 
 <div class="text-center img-medium img-border">
 
-![](images/cut.jpg)
+![](https://swharden.com/static/2005/08/12/images/cut.jpg)
 
 </div>
 
@@ -113,7 +113,7 @@ Notice how I cut a 0.5mm border around the edge of the image in preparation for 
 
 <div class="text-center img-medium img-border">
 
-![](images/snipcorner.jpg)
+![](https://swharden.com/static/2005/08/12/images/snipcorner.jpg)
 
 </div>
 
@@ -121,7 +121,7 @@ In the photo below notice how I'm using that little corner slice to my advantage
 
 <div class="text-center img-medium img-border">
 
-![](images/snipspine.jpg)
+![](https://swharden.com/static/2005/08/12/images/snipspine.jpg)
 
 </div>
 
@@ -131,7 +131,7 @@ In the photo below notice how I'm using that little corner slice to my advantage
 
 <div class="text-center img-medium img-border">
 
-![](images/flat.jpg)
+![](https://swharden.com/static/2005/08/12/images/flat.jpg)
 
 </div>
 
@@ -139,7 +139,7 @@ In the photo below notice how I'm using that little corner slice to my advantage
 
 <div class="text-center img-medium img-border">
 
-![](images/prettyslim.jpg)
+![](https://swharden.com/static/2005/08/12/images/prettyslim.jpg)
 
 </div>
 
@@ -147,14 +147,14 @@ In the photo below notice how I'm using that little corner slice to my advantage
 
 <div class="text-center img-small img-border">
 
-![](images/prettynice.jpg)
-![](images/finished_sideways.jpg)
+![](https://swharden.com/static/2005/08/12/images/prettynice.jpg)
+![](https://swharden.com/static/2005/08/12/images/finished_sideways.jpg)
 
 </div>
 
 <div class="text-center img-medium img-border">
 
-![](images/inhand.jpg)
+![](https://swharden.com/static/2005/08/12/images/inhand.jpg)
 
 </div>
 

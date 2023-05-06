@@ -272,7 +272,7 @@ XML Summary: Display the value of a nullable integer
 
 A simple-case working demo of these concepts can be downloaded here:
 
-* [**XmlDocDemo.zip**](XmlDocDemo.zip) (4kb)
+* [**XmlDocDemo.zip**](https://swharden.com/static/2021/01/31/XmlDocDemo.zip) (4kb)
 
 ### Documentation Generators
 

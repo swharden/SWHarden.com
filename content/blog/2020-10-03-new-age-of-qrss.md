@@ -22,7 +22,7 @@ tags: ["qrss", "amateur radio"]
 
 <div class="text-center img-border">
 
-![](lopora-signals2.jpg)
+![](https://swharden.com/static/2020/10/03/lopora-signals2.jpg)
 
 </div>
 
@@ -32,7 +32,7 @@ tags: ["qrss", "amateur radio"]
 
 <div class="text-center">
 
-![](fskview.png)
+![](https://swharden.com/static/2020/10/03/fskview.png)
 
 </div>
 
@@ -42,7 +42,7 @@ tags: ["qrss", "amateur radio"]
 
 <div class="text-center img-medium">
 
-![](qrp-labs-kit-schematic.jpg)
+![](https://swharden.com/static/2020/10/03/qrp-labs-kit-schematic.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ tags: ["qrss", "amateur radio"]
 
 <div class="text-center img-border img-medium">
 
-![](qrp-labs-kit-photo.jpg)
+![](https://swharden.com/static/2020/10/03/qrp-labs-kit-photo.jpg)
 
 </div>
 
@@ -60,13 +60,13 @@ tags: ["qrss", "amateur radio"]
 
 <div class="text-center img-medium">
 
-![](rf-reflection-airplane.png)
+![](https://swharden.com/static/2020/10/03/rf-reflection-airplane.png)
 
 </div>
 
 <div class="text-center img-medium img-border">
 
-![](rf-reflection-airplane.jpg)
+![](https://swharden.com/static/2020/10/03/rf-reflection-airplane.jpg)
 
 </div>
 
@@ -153,6 +153,6 @@ Similar QRSS frequency tables:
 
 <div class="text-center img-border">
 
-![](smt-qrss.jpg)
+![](https://swharden.com/static/2020/10/03/smt-qrss.jpg)
 
 </div>

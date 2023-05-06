@@ -10,7 +10,7 @@ __It's so awesome__ that such a small device can send such a low power signal so
 
 <div class="text-center img-border">
 
-[![](aj4vd_gator_essex_thumb.jpg)](aj4vd_gator_essex.jpg)
+[![](https://swharden.com/static/2010/05/28/aj4vd_gator_essex_thumb.jpg)](https://swharden.com/static/2010/05/28/aj4vd_gator_essex.jpg)
 
 </div>
 

@@ -13,7 +13,7 @@ __Last week I had the crazy idea__ of sending data from a PC to a microchip thro
 
 <div class="text-center img-border">
 
-[![](DSCN1657_thumb.jpg)](DSCN1657.jpg)
+[![](https://swharden.com/static/2011/07/31/DSCN1657_thumb.jpg)](https://swharden.com/static/2011/07/31/DSCN1657.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __Finally, I have a working javascript!__ I'd like to thank Tom, Riskable, Ben, 
 
 <div class="text-center img-border">
 
-![](flasher_interface.jpg)
+![](https://swharden.com/static/2011/07/31/flasher_interface.jpg)
 
 </div>
 

@@ -12,7 +12,7 @@ This week I strung-up a 30m dipole in the attic and built an oscillator, keyer, 
 
 <div class="text-center img-border">
 
-[![](W4HBK-Pensacola-FL-USA_thumb.jpg)](W4HBK-Pensacola-FL-USA.jpg)
+[![](https://swharden.com/static/2019/07/13/W4HBK-Pensacola-FL-USA_thumb.jpg)](https://swharden.com/static/2019/07/13/W4HBK-Pensacola-FL-USA.jpg)
 
 </div>
 
@@ -20,6 +20,6 @@ This week I strung-up a 30m dipole in the attic and built an oscillator, keyer, 
 
 <div class="text-center img-border">
 
-[![](WD4ELG-Greensboro-NC-USA_thumb.jpg)](WD4ELG-Greensboro-NC-USA.jpg)
+[![](https://swharden.com/static/2019/07/13/WD4ELG-Greensboro-NC-USA_thumb.jpg)](https://swharden.com/static/2019/07/13/WD4ELG-Greensboro-NC-USA.jpg)
 
 </div>

@@ -183,14 +183,14 @@ To get started using .NET workbooks, install the [.NET Interactive Notebooks ext
 
 Previously users had to create custom HTML formatters to properly display DataFrames in .NET Interactive Notebooks, but these days it works right out of the box.
 
-> 💡 See [demo.html](demo.html) for a full length demonstration notebook
+> 💡 See [demo.html](https://swharden.com/static/2022/05/01/demo.html) for a full length demonstration notebook
 
 ```cs
 // visualize the DataFrame
 df
 ```
 
-![](dataframe-notebook.jpg)
+![](https://swharden.com/static/2022/05/01/dataframe-notebook.jpg)
 
 ## Append a Row
 
@@ -339,9 +339,9 @@ plt.YLabel("Height");
 plt
 ```
 
-![](scottplot-notebook.png)
+![](https://swharden.com/static/2022/05/01/scottplot-notebook.png)
 
-> 💡 See [demo.html](demo.html) for a full length demonstration notebook
+> 💡 See [demo.html](https://swharden.com/static/2022/05/01/demo.html) for a full length demonstration notebook
 
 If you are only working inside a Notebook and you want all your plots to be HTML and JavaScript, [XPlot.Plotly](https://towardsdatascience.com/getting-started-with-c-dataframe-and-xplot-ploty-6ea6ce0ce8e3) is a good tool to use.
 
@@ -359,7 +359,7 @@ Although I typically reach for Python to perform exploratory data science, it's 
 
 ## Resources
 
-* [Example notebook for this project](demo.html)
+* [Example notebook for this project](https://swharden.com/static/2022/05/01/demo.html)
 
 * [Source code for this project](https://github.com/swharden/Csharp-Data-Visualization/tree/main/projects/dataframe)
 

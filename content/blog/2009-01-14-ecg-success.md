@@ -14,7 +14,7 @@ __I kept working on my DIY ECG machine__ (I had to change the values of some of 
 
 <div class="text-center">
 
-[![](gotit_thumb.jpg)](gotit.png)
+[![](https://swharden.com/static/2009/01/14/gotit_thumb.jpg)](https://swharden.com/static/2009/01/14/gotit.png)
 
 </div>
 

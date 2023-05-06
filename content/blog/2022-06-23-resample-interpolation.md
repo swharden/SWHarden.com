@@ -32,7 +32,7 @@ double[] sampleXs = Enumerable.Range(0, 20)
 double[] sampleYs = sampleXs.Select(x => f(x)).ToArray();
 ```
 
-<img src="1-samples-only.png" class="mx-auto d-block mb-5">
+<img src="https://swharden.com/static/2022/06/23/1-samples-only.png" class="mx-auto d-block mb-5">
 
 ### Resample for Evenly-Spaced Data
 
@@ -46,15 +46,15 @@ I then generate an interpolated spline using my sampled data points as the input
 (double[] xs, double[] ys) = Cubic.Interpolate1D(sampleXs, sampleYs, count: 50);
 ```
 
-<img src="2-resample-only.png" class="mx-auto d-block mb-5">
+<img src="https://swharden.com/static/2022/06/23/2-resample-only.png" class="mx-auto d-block mb-5">
 
 The generated points line-up perfectly with the sampled data.
 
-<img src="2-resample.png" class="mx-auto d-block mb-5">
+<img src="https://swharden.com/static/2022/06/23/2-resample.png" class="mx-auto d-block mb-5">
 
 There is slight deviation from the theoretical signal (and it's larger where there is more missing data) but this is an unsurprising result considering the original samples had large gaps of missing data.
 
-<img src="3-comparison.png" class="mx-auto d-block mb-5">
+<img src="https://swharden.com/static/2022/06/23/3-comparison.png" class="mx-auto d-block mb-5">
 
 ## Source Code
 

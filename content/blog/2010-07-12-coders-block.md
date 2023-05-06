@@ -10,7 +10,7 @@ __I like the idea__ of writing a set of tools for scientific frequency analysis 
 
 <div class="text-center img-border">
 
-![](qrss_aj4vd_belgium.jpg)
+![](https://swharden.com/static/2010/07/12/qrss_aj4vd_belgium.jpg)
 
 </div>
 

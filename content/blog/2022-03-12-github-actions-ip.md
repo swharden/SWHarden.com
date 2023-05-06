@@ -26,7 +26,7 @@ jobs:
         run: curl https://api.ipify.org
 ```
 
-<img src="ip.jpg" class="shadow rounded mx-auto d-block my-5">
+<img src="https://swharden.com/static/2022/03/12/ip.jpg" class="shadow rounded mx-auto d-block my-5">
 
 There are published/shared Actions which do something similar (e.g., [haythem/public-ip](https://github.com/marketplace/actions/public-ip)) but whenever possible I avoid these because they are a potential vector for supply chain attacks (a compromised action could access secrets in environment variables).
 

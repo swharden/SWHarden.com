@@ -10,7 +10,7 @@ __I decided to sit down and build something last night__, and I'm surprised by h
 
 <div class="text-center img-border">
 
-[![](IMG_4916_thumb.jpg)](IMG_4916.jpg)
+[![](https://swharden.com/static/2011/01/10/IMG_4916_thumb.jpg)](https://swharden.com/static/2011/01/10/IMG_4916.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __First, I needed an oscillator.__ I had an easy source of one because I had a p
 
 <div class="text-center img-border">
 
-[![](IMG_4906_thumb.jpg)](IMG_4906.jpg)
+[![](https://swharden.com/static/2011/01/10/IMG_4906_thumb.jpg)](https://swharden.com/static/2011/01/10/IMG_4906.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __I ended-up getting a nice sine wave from the XTAL1 pin__, although it was less
 
 <div class="text-center img-border">
 
-[![](IMG_4908_thumb.jpg)](IMG_4908.jpg)
+[![](https://swharden.com/static/2011/01/10/IMG_4908_thumb.jpg)](https://swharden.com/static/2011/01/10/IMG_4908.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ __The result is about 20mW of power with no tuned circuit!__ This means it will 
 
 <div class="text-center img-border">
 
-[![](IMG_4910_thumb.jpg)](IMG_4910.jpg)
+[![](https://swharden.com/static/2011/01/10/IMG_4910_thumb.jpg)](https://swharden.com/static/2011/01/10/IMG_4910.jpg)
 
 </div>
 
@@ -44,7 +44,7 @@ __Amplifying the signal was pretty easy as well.__ The 5V signal output of the b
 
 <div class="text-center img-border">
 
-[![](IMG_4911_thumb.jpg)](IMG_4911.jpg)
+[![](https://swharden.com/static/2011/01/10/IMG_4911_thumb.jpg)](https://swharden.com/static/2011/01/10/IMG_4911.jpg)
 
 </div>
 
@@ -52,17 +52,17 @@ __In retrospect__ I'm doubting that 5V is enough to fully activate the IRF510. I
 
 <div class="text-center img-border">
 
-[![](IMG_4917_thumb.jpg)](IMG_4917.jpg)
+[![](https://swharden.com/static/2011/01/10/IMG_4917_thumb.jpg)](https://swharden.com/static/2011/01/10/IMG_4917.jpg)
 
 </div>
 
 It's putting out about a watt and a half into 50 ohms. How cool? Adding a code key is trivial, as the 74hc240 has "gate enable" pins for easy on/off control - even from a microcontroller! Food for thought... 73!
 
-`` UPDATE `` - I decided to slap a 10.140MHz (QRSS window) crystal in there and see what happened. I saw my signal locally (AJ4VD/W4DFU grabber), but not elsewhere, so I left it up for about a day. [Vince Adams, N9VN]() spotted it in IL (about 1,000 miles away) and made a post on a mailing list asking who it was. Awesome! Note that for QRSS I used a lower-current power supply, so I don't actually know what power output was, but I'd estimate it to be about 500mW.
+`` UPDATE `` - I decided to slap a 10.140MHz (QRSS window) crystal in there and see what happened. I saw my signal locally (AJ4VD/W4DFU grabber), but not elsewhere, so I left it up for about a day. [Vince Adams, N9VN](https://swharden.com/static/2011/01/10/) spotted it in IL (about 1,000 miles away) and made a post on a mailing list asking who it was. Awesome! Note that for QRSS I used a lower-current power supply, so I don't actually know what power output was, but I'd estimate it to be about 500mW.
 
 <div class="text-center img-border">
 
-[![](n9vn_thumb.jpg)](n9vn.jpg)
+[![](https://swharden.com/static/2011/01/10/n9vn_thumb.jpg)](https://swharden.com/static/2011/01/10/n9vn.jpg)
 
 </div>
 

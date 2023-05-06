@@ -10,7 +10,7 @@ __I was presented with a need to rapidly develop a pulse generator to take a TTL
 
 <div class="text-center img-border">
 
-[![](pics-10017_thumb.jpg)](pics-10017.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10017_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10017.jpg)
 
 </div>
 
@@ -18,8 +18,8 @@ __I was presented with a need to rapidly develop a pulse generator to take a TTL
 
 <div class="text-center img-border">
 
-[![](pics-10000_thumb.jpg)](pics-10000.jpg)
-[![](pics-10001_thumb.jpg)](pics-10001.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10000_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10000.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10001_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10001.jpg)
 
 </div>
 
@@ -27,7 +27,7 @@ __I designed the enclosure before I designed the circuit.__ Metal enclosures are
 
 <div class="text-center img-border">
 
-[![](schem_thumb.jpg)](schem.jpg)
+[![](https://swharden.com/static/2017/08/02/schem_thumb.jpg)](https://swharden.com/static/2017/08/02/schem.jpg)
 
 </div>
 
@@ -35,8 +35,8 @@ __The circuit demonstrates the general flow of this device: a microcontroller-co
 
 <div class="text-center img-border">
 
-[![](pics-10004_thumb.jpg)](pics-10004.jpg)
-[![](pics-10003_thumb.jpg)](pics-10003.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10004_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10004.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10003_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10003.jpg)
 
 </div>
 
@@ -46,8 +46,8 @@ __Should I have optically isolated the input?__ Well, probably not... the applic
 
 <div class="text-center img-border">
 
-[![](pics-10008_thumb.jpg)](pics-10008.jpg)
-[![](pics-10007_thumb.jpg)](pics-10007.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10008_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10008.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10007_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10007.jpg)
 
 </div>
 
@@ -55,8 +55,8 @@ __I added a header to allow me to program the microcontroller with a programmer 
 
 <div class="text-center img-border">
 
-[![](pics-10010_thumb.jpg)](pics-10010.jpg)
-[![](pics-10009_thumb.jpg)](pics-10009.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10010_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10010.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10009_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10009.jpg)
 
 </div>
 
@@ -129,8 +129,8 @@ __I didn't think to check my height profile!__ I got lucky, and things fit fine.
 
 <div class="text-center img-border">
 
-[![](pics-10014_thumb.jpg)](pics-10014.jpg)
-[![](pics-10015_thumb.jpg)](pics-10015.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10014_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10014.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10015_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10015.jpg)
 
 </div>
 
@@ -138,8 +138,8 @@ __The finished product looks great!__ Never underestimate the power of [clear la
 
 <div class="text-center img-border">
 
-[![](pics-10017_thumb.jpg)](pics-10017.jpg)
-[![](pics-10018_thumb.jpg)](pics-10018.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10017_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10017.jpg)
+[![](https://swharden.com/static/2017/08/02/pics-10018_thumb.jpg)](https://swharden.com/static/2017/08/02/pics-10018.jpg)
 
 </div>
 

@@ -11,9 +11,9 @@ __Angelina's funeral__ was held in Jackson, Tennessee (the home town of much of 
 
 <div class="text-center img-border">
 
-![](snow.jpg)
-![](angelina3.jpg)
-![](angelina.jpg)
-![](angelina2.jpg)
+![](https://swharden.com/static/2011/08/23/snow.jpg)
+![](https://swharden.com/static/2011/08/23/angelina3.jpg)
+![](https://swharden.com/static/2011/08/23/angelina.jpg)
+![](https://swharden.com/static/2011/08/23/angelina2.jpg)
 
 </div>

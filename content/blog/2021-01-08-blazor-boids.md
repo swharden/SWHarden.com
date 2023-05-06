@@ -10,15 +10,15 @@ tags: ["blazor", "csharp"]
 
 <div class="text-center">
 
-[![](blazor-boids.gif)](app)
+[![](https://swharden.com/static/2021/01/08/blazor-boids.gif)](https://swharden.com/static/2021/01/08/app)
 
 </div>
 
 ### Live Demo
 
-* Boids with default settings: [app/](app/)
+* Boids with default settings: [app/](https://swharden.com/static/2021/01/08/app/)
 
-* Boids with custom settings: [app/?boids=100&predators=5](app/?boids=100&predators=5)
+* Boids with custom settings: [app/?boids=100&predators=5](https://swharden.com/static/2021/01/08/app/?boids=100&predators=5)
 
 * Pro tip: resize your window really small and watch what happens!
 
@@ -46,7 +46,7 @@ In this project I used C# to model the field of boids, converted the field to JS
 
 ## Source Code
 
-The full source code can be downloaded here ([blazor-boids.zip](blazor-boids.zip)) or navigated on GitHub [C# Data Visualization: Blazor Boids](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids). The C# code for `Boid` and `BoidField` can be found there. What I'll focus on here is the key Blazor code required to manage the model and render it using JavaScript.
+The full source code can be downloaded here ([blazor-boids.zip](https://swharden.com/static/2021/01/08/blazor-boids.zip)) or navigated on GitHub [C# Data Visualization: Blazor Boids](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids). The C# code for `Boid` and `BoidField` can be found there. What I'll focus on here is the key Blazor code required to manage the model and render it using JavaScript.
 
 ### index.razor
 
@@ -193,13 +193,13 @@ Two JavaScript functions are added to the HTML:
 
 ### Blazor Boids
 
-* Launch _Blazor Boids_ with default settings: [app/](app/)
+* Launch _Blazor Boids_ with default settings: [app/](https://swharden.com/static/2021/01/08/app/)
 
-* Launch _Blazor Boids_ with custom settings: [app/?boids=100&predators=5](app/?boids=100&predators=5)
+* Launch _Blazor Boids_ with custom settings: [app/?boids=100&predators=5](https://swharden.com/static/2021/01/08/app/?boids=100&predators=5)
 
 ### Blazor Source Code
 
-* Download source: [blazor-boids.zip](blazor-boids.zip)
+* Download source: [blazor-boids.zip](https://swharden.com/static/2021/01/08/blazor-boids.zip)
 
 * View source on GitHub: [C# Data Visualization: Blazor Boids](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids)
 
@@ -211,7 +211,7 @@ Two JavaScript functions are added to the HTML:
 
 <div class="text-center">
 
-[![](boids-csharp-opengl.png)](https://swharden.com/CsharpDataVis/boids/boids.md.html)
+[![](https://swharden.com/static/2021/01/08/boids-csharp-opengl.png)](https://swharden.com/CsharpDataVis/boids/boids.md.html)
 
 </div>
 

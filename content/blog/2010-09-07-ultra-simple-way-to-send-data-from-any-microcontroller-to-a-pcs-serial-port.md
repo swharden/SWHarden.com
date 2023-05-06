@@ -10,7 +10,7 @@ __This weekend I had a need, and I met it with parts I had on hand.__ Simply put
 
 <div class="text-center img-border img-medium">
 
-[![](IMG_3919_thumb.jpg)](IMG_3919.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3919_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3919.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ This is my bare-bones solution to easily sending data from ANY microcontroller t
 
 <div class="text-center img-medium">
 
-[![](schematic_fixed2_thumb.jpg)](schematic_fixed2.jpg)
+[![](https://swharden.com/static/2010/09/07/schematic_fixed2_thumb.jpg)](https://swharden.com/static/2010/09/07/schematic_fixed2.jpg)
 
 </div>
 
@@ -38,13 +38,13 @@ __Pulling-down the clock:__ Note that the 100k resistor shown pulling the [CLOCK
 
 <div class="text-center">
 
-![](serial_example.jpg)
+![](https://swharden.com/static/2010/09/07/serial_example.jpg)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](IMG_3907_thumb.jpg)](IMG_3907.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3907_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3907.jpg)
 
 </div>
 
@@ -59,13 +59,13 @@ Remember that I'm powering this entirely from USB power. The layout is simple: A
 
 <div class="text-center img-border img-micro">
 
-[![](IMG_3905_thumb.jpg)](IMG_3905.jpg)
-[![](IMG_3891_thumb.jpg)](IMG_3891.jpg)
-[![](IMG_3899_thumb.jpg)](IMG_3899.jpg)
-[![](IMG_3904_thumb.jpg)](IMG_3904.jpg)
-[![](IMG_3907_thumb.jpg)](IMG_3907.jpg)
-[![](IMG_3922_thumb.jpg)](IMG_3922.jpg)
-[![](IMG_3919_thumb.jpg)](IMG_3919.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3905_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3905.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3891_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3891.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3899_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3899.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3904_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3904.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3907_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3907.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3922_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3922.jpg)
+[![](https://swharden.com/static/2010/09/07/IMG_3919_thumb.jpg)](https://swharden.com/static/2010/09/07/IMG_3919.jpg)
 
 </div>
 

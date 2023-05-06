@@ -10,7 +10,7 @@ __My microcontroller-powered prime number calculator is complete!__ Although I'm
 
 <div class="text-center img-border">
 
-[![](primepic1_thumb.jpg)](primepic1.jpg)
+[![](https://swharden.com/static/2009/07/06/primepic1_thumb.jpg)](https://swharden.com/static/2009/07/06/primepic1.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __This device generates large prime numbers (v) while keeping track of how many 
 
 <div class="text-center img-border">
 
-[![](primepic2_thumb.jpg)](primepic2.jpg)
+[![](https://swharden.com/static/2009/07/06/primepic2_thumb.jpg)](https://swharden.com/static/2009/07/06/primepic2.jpg)
 
 </div>
 
@@ -34,6 +34,6 @@ __I'll post more__ pictures, videos, and the code behind this device when it's a
 
 <div class="text-center img-border">
 
-[![](primepic3_thumb.jpg)](primepic3.jpg)
+[![](https://swharden.com/static/2009/07/06/primepic3_thumb.jpg)](https://swharden.com/static/2009/07/06/primepic3.jpg)
 
 </div>

@@ -10,7 +10,7 @@ __I'm working on a project which requires I measure temperature via a computer, 
 
 <div class="text-center img-border img-medium">
 
-[![](busPirate_LM75A_thumb.jpg)](busPirate_LM75A.jpeg)
+[![](https://swharden.com/static/2017/02/04/busPirate_LM75A_thumb.jpg)](https://swharden.com/static/2017/02/04/busPirate_LM75A.jpeg)
 
 </div>
 
@@ -41,8 +41,8 @@ Before automating anything, I figured out what I2C address this chip was using a
 
 <div class="text-center img-border img-small">
 
-[![](BusPirate_i2c_read_thumb.jpg)](BusPirate_i2c_read.png)
-[![](BusPirate_i2c_scan_thumb.jpg)](BusPirate_i2c_scan.png)
+[![](https://swharden.com/static/2017/02/04/BusPirate_i2c_read_thumb.jpg)](https://swharden.com/static/2017/02/04/BusPirate_i2c_read.png)
+[![](https://swharden.com/static/2017/02/04/BusPirate_i2c_scan_thumb.jpg)](https://swharden.com/static/2017/02/04/BusPirate_i2c_scan.png)
 
 </div>
 
@@ -52,7 +52,7 @@ __There should be an easy way to capture this data from Python.__ The Bus Pirate
 
 <div class="text-center">
 
-[![](demo_thumb.jpg)](demo.png)
+[![](https://swharden.com/static/2017/02/04/demo_thumb.jpg)](https://swharden.com/static/2017/02/04/demo.png)
 
 </div>
 
@@ -147,50 +147,50 @@ This project now now ready for an actual application test. I made a simple heate
 ### Drilled Slots Facilitate SMT Placement
 <div class="text-center img-border">
 
-[![](File_000_thumb.jpg)](File_000.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_000_thumb.jpg)](https://swharden.com/static/2017/02/04/File_000.jpeg)
 
 </div>
 
 ### All Components Soldered
 <div class="text-center img-border">
 
-[![](File_001_thumb.jpg)](File_001.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_001_thumb.jpg)](https://swharden.com/static/2017/02/04/File_001.jpeg)
 
 </div>
 
 ### Heater Mates with Sensor Board
 <div class="text-center img-border">
 
-[![](File_003_thumb.jpg)](File_003.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_003_thumb.jpg)](https://swharden.com/static/2017/02/04/File_003.jpeg)
 
 </div>
 
 ### Headers are Easily Accessible
 <div class="text-center img-border">
 
-[![](File_002_thumb.jpg)](File_002.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_002_thumb.jpg)](https://swharden.com/static/2017/02/04/File_002.jpeg)
 
 </div>
 
 ### LED Indicates Heater Current
 <div class="text-center img-border">
 
-[![](File_004_thumb.jpg)](File_004.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_004_thumb.jpg)](https://swharden.com/static/2017/02/04/File_004.jpeg)
 
 </div>
 
 ### Styrofoam Igloo
 <div class="text-center img-border">
 
-[![](File_005_thumb.jpg)](File_005.jpeg)
-[![](File_006_thumb.jpg)](File_006.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_005_thumb.jpg)](https://swharden.com/static/2017/02/04/File_005.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_006_thumb.jpg)](https://swharden.com/static/2017/02/04/File_006.jpeg)
 
 </div>
 
 ### Temperature Control Circuit
 <div class="text-center img-border">
 
-[![](File_007_thumb.jpg)](File_007.jpeg)
+[![](https://swharden.com/static/2017/02/04/File_007_thumb.jpg)](https://swharden.com/static/2017/02/04/File_007.jpeg)
 
 </div>
 
@@ -198,7 +198,7 @@ __I ran an experiment to compare open-air heating/cooling vs. igloo conditions, 
 
 <div class="text-center">
 
-[![](experiment2_thumb.jpg)](experiment2.png)
+[![](https://swharden.com/static/2017/02/04/experiment2_thumb.jpg)](https://swharden.com/static/2017/02/04/experiment2.png)
 
 </div>
 
@@ -214,7 +214,7 @@ Power (12V) was applied to the LM7805 over the red-shaded region. It looks like 
 
 <div class="text-center">
 
-[![](data_thumb.jpg)](data.png)
+[![](https://swharden.com/static/2017/02/04/data_thumb.jpg)](https://swharden.com/static/2017/02/04/data.png)
 
 </div>
 
@@ -224,7 +224,7 @@ This topic probably doesn't belong inside this post, but it didn't fit anywhere 
 
 <div class="text-center">
 
-![](circuit2.jpg)
+![](https://swharden.com/static/2017/02/04/circuit2.jpg)
 
 </div>
 
@@ -240,9 +240,9 @@ temperature=(data[0]*256+data[1])/32; // convert two bytes to temperature
 
 <div class="text-center img-border">
 
-[![](circuit_thumb.jpg)](circuit.jpg)
+[![](https://swharden.com/static/2017/02/04/circuit_thumb.jpg)](https://swharden.com/static/2017/02/04/circuit.jpg)
 
-[![](demo-1_thumb.jpg)](demo-1.png)
+[![](https://swharden.com/static/2017/02/04/demo-1_thumb.jpg)](https://swharden.com/static/2017/02/04/demo-1.png)
 
 </div>
 

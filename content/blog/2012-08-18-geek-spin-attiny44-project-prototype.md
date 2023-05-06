@@ -10,7 +10,7 @@ __Some days you feel like working on projects to benefit humanity. The day I mad
 
 <div class="text-center img-border">
 
-![](leek-spin.gif)
+![](https://swharden.com/static/2012/08/18/leek-spin.gif)
 
 </div>
 
@@ -26,7 +26,7 @@ __How did I do it?__ First off, I used servos. If you're not familiar with them,
 
 <div class="text-center img-border">
 
-![](2012-08-18-15.21.34-525x289.jpg)
+![](https://swharden.com/static/2012/08/18/2012-08-18-15.21.34-525x289.jpg)
 
 </div>
 
@@ -35,7 +35,7 @@ __The idea is that by sending bursts of sine waves,__ the circuit can rectify th
 
 <div class="text-center img-border">
 
-![](geek_spin.gif)
+![](https://swharden.com/static/2012/08/18/geek_spin.gif)
 
 </div>
 
@@ -45,12 +45,12 @@ __A few technical details__ are that I used an ATTiny44a microcontroller (it may
 
 <div class="text-center img-border img-micro">
 
-[![](01_findpic_thumb.jpg)](01_findpic.png)
-[![](02_dropbg_thumb.jpg)](02_dropbg.jpg)
-[![](08_hairtop_thumb.jpg)](08_hairtop.jpg)
-[![](06_blockskirt_thumb.jpg)](06_blockskirt.jpg)
-[![](body_thumb.jpg)](body.png)
-[![](hairtop_thumb.jpg)](hairtop.png)
+[![](https://swharden.com/static/2012/08/18/01_findpic_thumb.jpg)](https://swharden.com/static/2012/08/18/01_findpic.png)
+[![](https://swharden.com/static/2012/08/18/02_dropbg_thumb.jpg)](https://swharden.com/static/2012/08/18/02_dropbg.jpg)
+[![](https://swharden.com/static/2012/08/18/08_hairtop_thumb.jpg)](https://swharden.com/static/2012/08/18/08_hairtop.jpg)
+[![](https://swharden.com/static/2012/08/18/06_blockskirt_thumb.jpg)](https://swharden.com/static/2012/08/18/06_blockskirt.jpg)
+[![](https://swharden.com/static/2012/08/18/body_thumb.jpg)](https://swharden.com/static/2012/08/18/body.png)
+[![](https://swharden.com/static/2012/08/18/hairtop_thumb.jpg)](https://swharden.com/static/2012/08/18/hairtop.png)
 
 </div>
 

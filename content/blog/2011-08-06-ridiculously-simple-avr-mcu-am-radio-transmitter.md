@@ -10,7 +10,7 @@ __I was brainstorming some RF circuits today__ and I had the desire to create a 
 
 <div class="text-center img-medium">
 
-[![](schem_thumb.jpg)](schem.jpg)
+[![](https://swharden.com/static/2011/08/06/schem_thumb.jpg)](https://swharden.com/static/2011/08/06/schem.jpg)
 
 </div>
 __The circuitry is textbook simple.__ Appropriately configured, the AVR generates 5V square waves from its CKOUT pin. Although a pretty shape, they're not powerful enough on their own to be heard across a room, so I needed an amplifier stage. A class C amplifier provided by a 2n7000 is commonly done in the low power amateur radio (QRP) community, so I went with it. A 2n7000 N-channel MOSFET with a 220-ohm resistor on the drain and the CKOUT directly into the gate did a fine job (I've used this design for 10MHz QRSS transmitters before), and I was able to modulate its amplitude by feeding the voltage from a MCU pin (turned on/off rapidly) through a decoupling capacitor into the drain of the MOSFET. I couldn't have asked for a simpler result!
@@ -22,7 +22,7 @@ __This code sends a message in Morse code.__ It seems too easy!  Applications ar
 
 <div class="text-center img-border">
 
-[![](DSCN1670_thumb.jpg)](DSCN1670.jpg)
+[![](https://swharden.com/static/2011/08/06/DSCN1670_thumb.jpg)](https://swharden.com/static/2011/08/06/DSCN1670.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __Again, this transmitter can be heard on a standard AM radio tuned to about 100
 
 <div class="text-center img-border">
 
-[![](schem2_thumb.jpg)](schem2.jpg)
+[![](https://swharden.com/static/2011/08/06/schem2_thumb.jpg)](https://swharden.com/static/2011/08/06/schem2.jpg)
 
 </div>
 

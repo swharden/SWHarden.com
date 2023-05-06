@@ -10,7 +10,7 @@ __It's been my goal for quite some time__ to design a simple, easy-to-replicate 
 
 <div class="text-center img-border">
 
-[![](DSCN1718_thumb.jpg)](DSCN1718.jpg)
+[![](https://swharden.com/static/2011/08/14/DSCN1718_thumb.jpg)](https://swharden.com/static/2011/08/14/DSCN1718.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __Here's my solution.__ I don't normally build things on perf-board (I prefer sl
 
 <div class="text-center img-border">
 
-[![](DSCN1701_thumb.jpg)](DSCN1701.jpg)
+[![](https://swharden.com/static/2011/08/14/DSCN1701_thumb.jpg)](https://swharden.com/static/2011/08/14/DSCN1701.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __The can oscillator (28.704MHz, selected to be in a rarely-used region of the 1
 
 <div class="text-center img-border">
 
-[![](DSCN1717_thumb.jpg)](DSCN1717.jpg)
+[![](https://swharden.com/static/2011/08/14/DSCN1717_thumb.jpg)](https://swharden.com/static/2011/08/14/DSCN1717.jpg)
 
 </div>
 
@@ -46,6 +46,6 @@ __Notes about filtering:__ The output of this transmitter is quite harmonic-rich
 
 <div class="text-center img-border">
 
-[![](DSCN1707_thumb.jpg)](DSCN1707.jpg)
+[![](https://swharden.com/static/2011/08/14/DSCN1707_thumb.jpg)](https://swharden.com/static/2011/08/14/DSCN1707.jpg)
 
 </div>

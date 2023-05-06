@@ -14,7 +14,7 @@ This page contains notes about the analytical methods [LJPcalc](https://swharden
 
 ## Table of Contents
 
-![](TOC)
+![](https://swharden.com/static/2021/01/13/TOC)
 
 ## LJP Calculation Notes
 
@@ -24,7 +24,7 @@ LJPcalc calculates the liquid junction potential according to the stationary Ner
 
 ### LJPcalc Ion Mobility Library
 
-LJPcalc uses an extensive [ion mobility library](../iontable)
+LJPcalc uses an extensive [ion mobility library](https://swharden.com/static/2021/01/13/../iontable)
 
 The ion mobility table is stored in Markdown format. Not only does Markdown make it easy to display the table nicely in a browser, 
 but it also makes the table easy to edit in any text editor. Users desiring to use their own ion mobilities or add new ions to the table
@@ -85,7 +85,7 @@ with the bath, and that concentration of chloride (if using Ag/AgCl electrodes) 
 
 <div align="center">
 
-![](ljp.png)
+![](https://swharden.com/static/2021/01/13/ljp.png)
 
 </div>
 

@@ -9,7 +9,7 @@ Date: 2021-10-12 20:45:00
 **I spent 2016 new years eve celebrating the occasion with a few entomologists.** Shortly after watching the ball drop in New York we changed the TV back to David Attenborough's [Life of Insects](https://www.youtube.com/watch?v=Cs1Xs3Eheag), and I was amazed at what I saw! There was a short segment on _leaf insects_ and I was impressed by the camouflage of these small creatures. I wanted to see more so I google image-searched and clicked on the websites that came up. One of the websites was an ebay listing for ten leaf insect eggs (for about $10 USD) and I couldn't avoid that "BUY IT NOW" button. I remember pointing to the TV and announcing to the room, "Aren't those things cool? I just bought ten."
 
 <div class="text-center img-border">
-<img src="ebay.png" />
+<img src="https://swharden.com/static/2021/10/13/ebay.png" />
 </div>
 
 > **WARNING:** This listing may have been illegal. Leaf insects are invasive in some parts of the world, and transferring non-native species between countries can be dangerous to the local ecosystem and is often prohibited by law.

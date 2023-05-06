@@ -12,7 +12,7 @@ __This is a proof-of-concept demonstration, and part of a larger project.__ I th
 
 <div class="text-center img-border">
 
-[![](c31_thumb.jpg)](c31.jpg)
+[![](https://swharden.com/static/2013/05/19/c31_thumb.jpg)](https://swharden.com/static/2013/05/19/c31.jpg)
 
 </div>
 
@@ -37,13 +37,13 @@ To send a packet:
   *   indicate number end by sending C.
 *   tell PC to release the signal by sending ten Cs.
 
-Decoding is the same thing in reverse. I use an [eBay sound card at $1.29](search.ebay.com/usb-sound-card) (with free shipping) to get the signal into the PC. </span> Synchronization is required to allow the PC to know that real data (not noise) is starting. Sending the same number twice (once with reversed bit polarity) is a proof-checking mechanisms that lets us throw-out data that isn’t accurate.
+Decoding is the same thing in reverse. I use an [eBay sound card at $1.29](https://swharden.com/static/2013/05/19/search.ebay.com/usb-sound-card) (with free shipping) to get the signal into the PC. </span> Synchronization is required to allow the PC to know that real data (not noise) is starting. Sending the same number twice (once with reversed bit polarity) is a proof-checking mechanisms that lets us throw-out data that isn’t accurate.
 
 __From a software side,__ I’m using PyAudio to collect data from the sound card, and the PythonXY distribution to handle analysis with numpy, scipy, and plotting with QwtPlot, and general GUI functionality with PyQt. I think that’s about everything.
 
 <div class="text-center img-border">
 
-[![](SHRFP_thumb.jpg)](SHRFP.png)
+[![](https://swharden.com/static/2013/05/19/SHRFP_thumb.jpg)](https://swharden.com/static/2013/05/19/SHRFP.png)
 
 </div>
 

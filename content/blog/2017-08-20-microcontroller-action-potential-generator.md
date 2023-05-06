@@ -14,7 +14,7 @@ __The core of this circuit is a capacitor which is charged and discharged by tog
 
 <div class="text-center img-border">
 
-[![](action-potential-generator-circuit_thumb.jpg)](action-potential-generator-circuit.jpg)
+[![](https://swharden.com/static/2017/08/20/action-potential-generator-circuit_thumb.jpg)](https://swharden.com/static/2017/08/20/action-potential-generator-circuit.jpg)
 
 </div>
 
@@ -40,8 +40,8 @@ __Programming the microcontroller__ was accomplished after it was soldered into 
 
 <div class="text-center img-border">
 
-[![](ap-generator-programmer_thumb.jpg)](ap-generator-programmer.jpg)
-[![](ap-generator-programmer-close_thumb.jpg)](ap-generator-programmer-close.jpg)
+[![](https://swharden.com/static/2017/08/20/ap-generator-programmer_thumb.jpg)](https://swharden.com/static/2017/08/20/ap-generator-programmer.jpg)
+[![](https://swharden.com/static/2017/08/20/ap-generator-programmer-close_thumb.jpg)](https://swharden.com/static/2017/08/20/ap-generator-programmer-close.jpg)
 
 </div>
 
@@ -50,8 +50,8 @@ __I am very pleased with how well this project turned out!__ I now have an easy 
 
 <div class="text-center img-border">
 
-[![](ap-generator-running_thumb.jpg)](ap-generator-running.jpg)
-[![](ap-generator-running-2_thumb.jpg)](ap-generator-running-2.jpg)
+[![](https://swharden.com/static/2017/08/20/ap-generator-running_thumb.jpg)](https://swharden.com/static/2017/08/20/ap-generator-running.jpg)
+[![](https://swharden.com/static/2017/08/20/ap-generator-running-2_thumb.jpg)](https://swharden.com/static/2017/08/20/ap-generator-running-2.jpg)
 
 </div>
 

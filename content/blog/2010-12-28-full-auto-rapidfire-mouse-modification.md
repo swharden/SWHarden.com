@@ -14,7 +14,7 @@ __There's a summary of the project in video form.__ Some details of the project 
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-1_thumb.jpg)](rapidfire_mouse_mod-1.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-1_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-1.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __Here you can see the original circuit board in the mouse. __The microchip on t
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-2_thumb.jpg)](rapidfire_mouse_mod-2.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-2_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-2.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __Here's the underside.__ It helped me identify good locations to grab +5V and G
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-3_thumb.jpg)](rapidfire_mouse_mod-3.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-3_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-3.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __This is the microcontroller I decided to use for the project.__ It's an ATTiny
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-4_thumb.jpg)](rapidfire_mouse_mod-4.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-4_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-4.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ __I slap the chip in the homebrew development board__ (a glorified AVR-ISP mkII)
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-5_thumb.jpg)](rapidfire_mouse_mod-5.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-5_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-5.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ __After programming, I glued the microchip__ upside-down in the mouse case and s
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-6_thumb.jpg)](rapidfire_mouse_mod-6.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-6_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-6.jpg)
 
 </div>
 
@@ -62,7 +62,7 @@ __BIG PROBLEM!__ It didn't work *AT ALL*. Why? Didn't know... I checked the o-sc
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-7_thumb.jpg)](rapidfire_mouse_mod-7.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-7_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-7.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ __Here's a good view of the transistor. __ Simply put, when the microcontroller 
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-8_thumb.jpg)](rapidfire_mouse_mod-8.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-8_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-8.jpg)
 
 </div>
 
@@ -78,7 +78,7 @@ __Here you can clearly see the programmer pins I added.__ This lets me quickly a
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-9_thumb.jpg)](rapidfire_mouse_mod-9.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-9_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-9.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ __When it's all said and done, it's surprisingly slick and functional. __ I'm us
 
 <div class="text-center img-border">
 
-[![](rapidfire_mouse_mod-10_thumb.jpg)](rapidfire_mouse_mod-10.jpg)
+[![](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-10_thumb.jpg)](https://swharden.com/static/2010/12/28/rapidfire_mouse_mod-10.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@ __There's the schematic.__  Grabbing 5v and GND from a usb mouse is trivial. Hec
 
 <div class="text-center">
 
-![](ATtiny25-45-85V.jpg)
+![](https://swharden.com/static/2010/12/28/ATtiny25-45-85V.jpg)
 
 </div>
 

@@ -10,7 +10,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border img-small">
 
-[![](livehere_thumb.jpg)](livehere.jpg)
+[![](https://swharden.com/static/2017/09/09/livehere_thumb.jpg)](https://swharden.com/static/2017/09/09/livehere.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ tags: ["circuit"]
 
 <div class="text-center">
 
-[![](hurricaine-diy-led-candle_thumb.jpg)](hurricaine-diy-led-candle.jpg)
+[![](https://swharden.com/static/2017/09/09/hurricaine-diy-led-candle_thumb.jpg)](https://swharden.com/static/2017/09/09/hurricaine-diy-led-candle.jpg)
 
 </div>
 
@@ -28,7 +28,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border img-medium">
 
-[![](063_thumb.jpg)](063.jpg)
+[![](https://swharden.com/static/2017/09/09/063_thumb.jpg)](https://swharden.com/static/2017/09/09/063.jpg)
 
 </div>
 
@@ -40,8 +40,8 @@ tags: ["circuit"]
 
 <div class="text-center img-border img-small">
 
-[![](081_thumb.jpg)](081.jpg)
-[![](078_thumb.jpg)](078.jpg)
+[![](https://swharden.com/static/2017/09/09/081_thumb.jpg)](https://swharden.com/static/2017/09/09/081.jpg)
+[![](https://swharden.com/static/2017/09/09/078_thumb.jpg)](https://swharden.com/static/2017/09/09/078.jpg)
 
 </div>
 
@@ -51,8 +51,8 @@ I'll use some scratch match to predict how long this device will stay lit. I'll 
 
 <div class="text-center img-border img-small">
 
-[![](088_thumb.jpg)](088.jpg)
-[![](091_thumb.jpg)](091.jpg)
+[![](https://swharden.com/static/2017/09/09/088_thumb.jpg)](https://swharden.com/static/2017/09/09/088.jpg)
+[![](https://swharden.com/static/2017/09/09/091_thumb.jpg)](https://swharden.com/static/2017/09/09/091.jpg)
 
 </div>
 
@@ -64,6 +64,6 @@ I'll use some scratch match to predict how long this device will stay lit. I'll 
 
 <div class="text-center img-border">
 
-[![](IMG_0303_thumb.jpg)](IMG_0303.jpg)
+[![](https://swharden.com/static/2017/09/09/IMG_0303_thumb.jpg)](https://swharden.com/static/2017/09/09/IMG_0303.jpg)
 
 </div>

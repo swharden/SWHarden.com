@@ -9,9 +9,9 @@ __I'm extremely excited about my new purchase!__  I found this on Craigslist of 
 
 <div class="text-center img-medium img-border">
 
-[![](probe_thumb.jpg)](probe.jpg)
-[![](canned-3.5mhz_thumb.jpg)](canned-3.5mhz.jpg)
-[![](tektronix_cutting_edge_thumb.jpg)](tektronix_cutting_edge.jpg)
+[![](https://swharden.com/static/2010/09/10/probe_thumb.jpg)](https://swharden.com/static/2010/09/10/probe.jpg)
+[![](https://swharden.com/static/2010/09/10/canned-3.5mhz_thumb.jpg)](https://swharden.com/static/2010/09/10/canned-3.5mhz.jpg)
+[![](https://swharden.com/static/2010/09/10/tektronix_cutting_edge_thumb.jpg)](https://swharden.com/static/2010/09/10/tektronix_cutting_edge.jpg)
 
 </div>
 

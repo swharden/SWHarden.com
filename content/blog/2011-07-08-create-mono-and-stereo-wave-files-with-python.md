@@ -44,9 +44,9 @@ __The output__ is two sound files which look like this:
 
 <div class="text-center img-border">
 
-[![](mono_thumb.jpg)](mono.png)
+[![](https://swharden.com/static/2011/07/08/mono_thumb.jpg)](https://swharden.com/static/2011/07/08/mono.png)
 
-[![](stereo_thumb.jpg)](stereo.png)
+[![](https://swharden.com/static/2011/07/08/stereo_thumb.jpg)](https://swharden.com/static/2011/07/08/stereo.png)
 
 </div>
 

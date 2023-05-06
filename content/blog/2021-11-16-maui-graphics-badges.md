@@ -7,12 +7,12 @@ tags: ["csharp", "maui", "graphics"]
 
 # Status Badges with Maui.Graphics
 
-**Status badges are popular decorators on GitHub readme pages and project websites.** [Badgen.net](https://badgen.net) and [shields.io](https://shields.io) are popular HTTP APIs for dynamically generating SVG status badges. In this article we will use the new `Microsoft.Maui.Graphics` package to generate status badges from a C# console application. This application can be downloaded: [**BadgeApp.zip**](BadgeApp.zip)
+**Status badges are popular decorators on GitHub readme pages and project websites.** [Badgen.net](https://badgen.net) and [shields.io](https://shields.io) are popular HTTP APIs for dynamically generating SVG status badges. In this article we will use the new `Microsoft.Maui.Graphics` package to generate status badges from a C# console application. This application can be downloaded: [**BadgeApp.zip**](https://swharden.com/static/2021/11/16/BadgeApp.zip)
 
 <div class="text-center">
 
-![](images/demo1.png)
-![](images/demo1b.png)
+![](https://swharden.com/static/2021/11/16/images/demo1.png)
+![](https://swharden.com/static/2021/11/16/images/demo1b.png)
 
 </div>
 
@@ -30,7 +30,7 @@ tags: ["csharp", "maui", "graphics"]
 </svg>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="#info-fill"/></svg>
+  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="https://swharden.com/static/2021/11/16/#info-fill"/></svg>
   <div>
     <strong>UPDATE:</strong> This article was written when <code>Microsoft.Maui.Graphics</code> was still in preview. See <a href="https://swharden.com/blog/2022-05-25-maui-graphics/" class="fw-bold">Drawing with Maui Graphics (blog post)</a> and <a href="https://swharden.com/csdv/" class="fw-bold">C# Data Visualization (website)</a> for updated code examples and information about using this library.
   </div>
@@ -152,7 +152,7 @@ myBadge.SavePng("demo.png");
 
 <div class="text-center">
 
-![](images/demo1.png)
+![](https://swharden.com/static/2021/11/16/images/demo1.png)
 
 </div>
 
@@ -170,7 +170,7 @@ myBadge.SavePng("demo1b.png");
 
 <div class="text-center">
 
-![](images/demo1b.png)
+![](https://swharden.com/static/2021/11/16/images/demo1b.png)
 
 </div>
 
@@ -187,15 +187,15 @@ myBadge.SavePng("demo5.png", scale: 5);
 
 <div class="text-center">
 
-![](images/demo1.png)
-![](images/demo2.png)
-![](images/demo5.png)
+![](https://swharden.com/static/2021/11/16/images/demo1.png)
+![](https://swharden.com/static/2021/11/16/images/demo2.png)
+![](https://swharden.com/static/2021/11/16/images/demo5.png)
 
 </div>
 
 ## Resources
 
-* Download this application: [**BadgeApp.zip**](BadgeApp.zip)
+* Download this application: [**BadgeApp.zip**](https://swharden.com/static/2021/11/16/BadgeApp.zip)
 
 * [How to `MeasureString()` with Maui.Graphics](https://swharden.com/blog/2021-10-16-maui-graphics-measurestring/)
 

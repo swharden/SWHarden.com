@@ -121,7 +121,7 @@ for (int x = 0; x < bmp.Width; x++)
 bmp.Save("random-rgb.bmp");
 ```
 
-![](SkiaSharp-random-rgb.jpg)
+![](https://swharden.com/static/2022/11/04/SkiaSharp-random-rgb.jpg)
 
 ### Rainbow
 ```cs
@@ -141,7 +141,7 @@ for (int x = 0; x < bmp.Width; x++)
 bmp.Save("rainbow.bmp");
 ```
 
-![](SkiaSharp-rainbow.jpg)
+![](https://swharden.com/static/2022/11/04/SkiaSharp-rainbow.jpg)
 
 ### Rectangles
 ```cs
@@ -168,7 +168,7 @@ for (int i = 0; i < 1000; i++)
 bmp.Save("rectangles.bmp");
 ```
 
-![](SkiaSharp-rectangles.jpg)
+![](https://swharden.com/static/2022/11/04/SkiaSharp-rectangles.jpg)
 
 ## Interfacing Graphics Libraries
 

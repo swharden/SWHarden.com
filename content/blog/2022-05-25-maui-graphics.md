@@ -9,7 +9,7 @@ tags: ["csharp", "graphics", "maui"]
 
 **This week Microsoft officially released .NET Maui and the new `Microsoft.Maui.Graphics` library which can draw 2D graphics in any .NET application (not just Maui apps).** This page offers a quick look at how to use this new library to draw graphics using SkiaSharp in a .NET 6 console application. The [C# Data Visualization](https://swharden.com/csdv/) site has additional examples for drawing and animating graphics using `Microsoft.Maui.Graphics` in Windows Forms and WPF applications.
 
-<img src="maui-graphics-quickstart.png" class="mx-auto my-5 d-block shadow">
+<img src="https://swharden.com/static/2022/05/25/maui-graphics-quickstart.png" class="mx-auto my-5 d-block shadow">
 
 The code below is a full .NET 6 console application demonstrating common graphics tasks (setting colors, drawing shapes, rendering text, etc.) and was used to generate the image above.
 
@@ -100,7 +100,7 @@ After working with this library while it was being developed over the last few m
 </svg>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="#info-fill"/></svg>
+  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="https://swharden.com/static/2022/05/25/#info-fill"/></svg>
   <div>
     <strong>Note:</strong> This section was last reviewed on April 25, 2022 and improvements may have been made since this text was written.
   </div>

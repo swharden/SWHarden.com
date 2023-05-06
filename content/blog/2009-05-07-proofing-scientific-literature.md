@@ -9,7 +9,7 @@ __Man, what a long day!__ Work is so tedious sometimes. This week I've been proo
 
 <div class="text-center img-border">
 
-[![](proofread_thumb.jpg)](proofread.jpg)
+[![](https://swharden.com/static/2009/05/07/proofread_thumb.jpg)](https://swharden.com/static/2009/05/07/proofread.jpg)
 
 </div>
 
@@ -17,7 +17,7 @@ __This is what I'm currently working on.__ The light bubbles on the right are de
 
 <div class="text-center img-border">
 
-![](pixie2.jpg)
+![](https://swharden.com/static/2009/05/07/pixie2.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ __Last night I assembled a Pixie II__ circuit similar to the one pictured here. 
 
 <div class="text-center">
 
-![](pixie2transceiver.gif)
+![](https://swharden.com/static/2009/05/07/pixie2transceiver.gif)
 
 </div>
 

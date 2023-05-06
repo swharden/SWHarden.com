@@ -14,7 +14,7 @@ __I want to create a microcontroller application__ which will utilize informatio
 
 <div class="text-center">
 
-![](pulse-oximeter-wavelength.jpg)
+![](https://swharden.com/static/2012/12/06/pulse-oximeter-wavelength.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ __Here's what the device looks like assembled in a breadboard:__
 
 <div class="text-center img-border img-medium">
 
-[![](IMG_5919_thumb.jpg)](IMG_5919.jpg)
+[![](https://swharden.com/static/2012/12/06/IMG_5919_thumb.jpg)](https://swharden.com/static/2012/12/06/IMG_5919.jpg)
 
 </div>
 
@@ -33,8 +33,8 @@ __I made a sensor__ by drilling appropriately-sized holes in a clothespin for th
 
 <div class="text-center img-border img-small">
 
-[![](IMG_5920_thumb.jpg)](IMG_5920.jpg)
-[![](IMG_5924_thumb.jpg)](IMG_5924.jpg)
+[![](https://swharden.com/static/2012/12/06/IMG_5920_thumb.jpg)](https://swharden.com/static/2012/12/06/IMG_5920.jpg)
+[![](https://swharden.com/static/2012/12/06/IMG_5924_thumb.jpg)](https://swharden.com/static/2012/12/06/IMG_5924.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ __An obvious next step__ is microcontroller + LCD (or computer) digitization, bu
 
 <div class="text-center img-border img-medium">
 
-![](pulse-scope.jpg)
+![](https://swharden.com/static/2012/12/06/pulse-scope.jpg)
 
 </div>
 

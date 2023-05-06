@@ -11,7 +11,7 @@ __How long does a particular bit of Morse code take to transmit at a certain spe
 
 <div class="text-center">
 
-[![](qrss-calclator_thumb.jpg)](qrss-calclator.png)
+[![](https://swharden.com/static/2013/06/23/qrss-calclator_thumb.jpg)](https://swharden.com/static/2013/06/23/qrss-calclator.png)
 
 </div>
 
@@ -37,7 +37,7 @@ __How ready am I to implement this in the microchip? __Pretty darn close. I've g
 
 <div class="text-center img-border">
 
-[![](photo-11_thumb.jpg)](photo-11.jpg)
+[![](https://swharden.com/static/2013/06/23/photo-11_thumb.jpg)](https://swharden.com/static/2013/06/23/photo-11.jpg)
 
 </div>
 

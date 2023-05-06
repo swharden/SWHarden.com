@@ -14,7 +14,7 @@ __It is important to me that my design is minimalistic, inexpensive, and functio
 
 <div class="text-center img-border">
 
-[![](011_thumb.jpg)](011.jpg)
+[![](https://swharden.com/static/2012/06/14/011_thumb.jpg)](https://swharden.com/static/2012/06/14/011.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <div class="text-center img-border img-small">
 
-[![](031_thumb.jpg)](031.jpg)
+[![](https://swharden.com/static/2012/06/14/031_thumb.jpg)](https://swharden.com/static/2012/06/14/031.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <div class="text-center img-border">
 
-[![](041_thumb.jpg)](041.jpg)
+[![](https://swharden.com/static/2012/06/14/041_thumb.jpg)](https://swharden.com/static/2012/06/14/041.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <div class="text-center img-border">
 
-[![](051_thumb.jpg)](051.jpg)
+[![](https://swharden.com/static/2012/06/14/051_thumb.jpg)](https://swharden.com/static/2012/06/14/051.jpg)
 
 </div>
 
@@ -60,7 +60,7 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <div class="text-center img-border">
 
-[![](091_thumb.jpg)](091.jpg)
+[![](https://swharden.com/static/2012/06/14/091_thumb.jpg)](https://swharden.com/static/2012/06/14/091.jpg)
 
 </div>
 
@@ -68,7 +68,7 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <div class="text-center img-border">
 
-[![](101_thumb.jpg)](101.jpg)
+[![](https://swharden.com/static/2012/06/14/101_thumb.jpg)](https://swharden.com/static/2012/06/14/101.jpg)
 
 </div>
 
@@ -76,7 +76,7 @@ __Below is a simplified description of the circuit__ that is employed in this pr
 
 <div class="text-center img-border">
 
-[![](111_thumb.jpg)](111.jpg)
+[![](https://swharden.com/static/2012/06/14/111_thumb.jpg)](https://swharden.com/static/2012/06/14/111.jpg)
 
 </div>
 

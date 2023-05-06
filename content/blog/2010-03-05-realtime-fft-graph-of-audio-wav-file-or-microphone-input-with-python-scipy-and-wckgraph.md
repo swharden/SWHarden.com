@@ -10,7 +10,7 @@ __I'm stretching the limits of what these software platforms were designed to to
 
 <div class="text-center">
 
-![](python-real-time-tk-wav-fft.gif)
+![](https://swharden.com/static/2010/03/05/python-real-time-tk-wav-fft.gif)
 
 </div>
 

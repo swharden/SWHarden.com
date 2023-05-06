@@ -10,7 +10,7 @@ __I successfully created a speaker/microphone/transmit button circuit for the pu
 
 <div class="text-center img-border">
 
-[![](puxing_thumb.jpg)](puxing.png)
+[![](https://swharden.com/static/2009/04/22/puxing_thumb.jpg)](https://swharden.com/static/2009/04/22/puxing.png)
 
 </div>
 
@@ -18,7 +18,7 @@ The microphone is a 20-cent [electret microphone](http://en.wikipedia.org/wiki/E
 
 <div class="text-center img-border">
 
-![](headset.jpg)
+![](https://swharden.com/static/2009/04/22/headset.jpg)
 
 </div>
 

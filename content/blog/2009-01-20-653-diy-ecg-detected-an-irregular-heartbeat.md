@@ -14,7 +14,7 @@ __Am I going to die?__ It's unlikely. Upon analyzing ~20 minutes of heartbeat da
 
 <div class="text-center">
 
-[![](murm2_thumb.jpg)](murm2.png)
+[![](https://swharden.com/static/2009/01/20/murm2_thumb.jpg)](https://swharden.com/static/2009/01/20/murm2.png)
 
 </div>
 

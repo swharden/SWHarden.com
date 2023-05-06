@@ -9,6 +9,6 @@ date: 2008-11-22 15:36:16
 
 <div class="text-center img-border">
 
-![](unetbootin.jpg)
+![](https://swharden.com/static/2008/11/22/unetbootin.jpg)
 
 </div>

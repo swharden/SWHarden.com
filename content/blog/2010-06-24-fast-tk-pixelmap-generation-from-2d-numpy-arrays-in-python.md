@@ -10,7 +10,7 @@ __I had TKinter all wrong!__ While my initial tests with PyGame's rapid ability 
 
 <div class="text-center img-border">
 
-[![](glade_python_improving_thumb.jpg)](glade_python_improving.png)
+[![](https://swharden.com/static/2010/06/24/glade_python_improving_thumb.jpg)](https://swharden.com/static/2010/06/24/glade_python_improving.png)
 
 </div>
 

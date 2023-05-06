@@ -97,7 +97,7 @@ Dictionary<string, int> GetMetricByType(XElement assembly, string metricName)
 
 ## Querying Code Analysis Results
 
-**Specific metrics of interest will vary, but here are some code examples demonstrating how to parse the code metrics file to display useful information.** For these examples I run the code analysis command above to generate [ScottPlot.Metrics.xml](ScottPlot.Metrics.xml.zip) from the [ScottPlot](https://scottplot.net) code base and use the code above to generate various reports.
+**Specific metrics of interest will vary, but here are some code examples demonstrating how to parse the code metrics file to display useful information.** For these examples I run the code analysis command above to generate [ScottPlot.Metrics.xml](https://swharden.com/static/2023/03/05/ScottPlot.Metrics.xml.zip) from the [ScottPlot](https://scottplot.net) code base and use the code above to generate various reports.
 
 ### Rank Types by Cyclomatic Complexity
 
@@ -200,7 +200,7 @@ RankTypes("ScottPlot.Metrics.xml", "MaintainabilityIndex", highToLow: false);
 
 With a little more effort you can generate HTML reports that use tables and headings to highlight useful code metrics and draw attention to types that could benefit from refactoring to improve maintainability.
 
-* View the sample report: [report.html](report.html)
+* View the sample report: [report.html](https://swharden.com/static/2023/03/05/report.html)
 * Download the code used to generate it: [CodeAnalysisReport.zip](https://swharden.com/static/2023/03/05/CodeAnalysisReport.zip)
 
 <a href="https://swharden.com/static/2023/03/05/report.html"><img src="https://swharden.com/static/2023/03/05/report.png" class="border shadow"></a>

@@ -12,7 +12,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center">
 
-[![](pc-frequency-counter-schem_thumb.jpg)](pc-frequency-counter-schem.png)
+[![](https://swharden.com/static/2016/09/05/pc-frequency-counter-schem_thumb.jpg)](https://swharden.com/static/2016/09/05/pc-frequency-counter-schem.png)
 
 </div>
 
@@ -20,7 +20,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center">
 
-[![](neo-60-gps-1pps_thumb.jpg)](neo-60-gps-1pps.jpg)
+[![](https://swharden.com/static/2016/09/05/neo-60-gps-1pps_thumb.jpg)](https://swharden.com/static/2016/09/05/neo-60-gps-1pps.jpg)
 
 </div>
 
@@ -28,7 +28,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8207_thumb.jpg)](IMG_8207.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8207_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8207.jpg)
 
 </div>
 
@@ -36,7 +36,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](ss_thumb.jpg)](ss.png)
+[![](https://swharden.com/static/2016/09/05/ss_thumb.jpg)](https://swharden.com/static/2016/09/05/ss.png)
 
 </div>
 
@@ -48,8 +48,8 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8277_thumb.jpg)](IMG_8277.jpg)
-[![](IMG_8282_thumb.jpg)](IMG_8282.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8277_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8277.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8282_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8282.jpg)
 
 </div>
 
@@ -57,7 +57,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8330_thumb.jpg)](IMG_8330.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8330_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8330.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8286_thumb.jpg)](IMG_8286.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8286_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8286.jpg)
 
 </div>
 
@@ -73,7 +73,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8297_thumb.jpg)](IMG_8297.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8297_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8297.jpg)
 
 </div>
 
@@ -81,7 +81,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8316_thumb.jpg)](IMG_8316.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8316_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8316.jpg)
 
 </div>
 
@@ -89,7 +89,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8318_thumb.jpg)](IMG_8318.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8318_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8318.jpg)
 
 </div>
 
@@ -97,7 +97,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8335_thumb.jpg)](IMG_8335.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8335_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8335.jpg)
 
 </div>
 
@@ -105,7 +105,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8335_thumb.jpg)](IMG_8335.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8335_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8335.jpg)
 
 </div>
 
@@ -113,7 +113,7 @@ tags: ["amateur radio", "circuit", "python", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8344_thumb.jpg)](IMG_8344.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8344_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8344.jpg)
 
 </div>
 
@@ -133,7 +133,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-[![](IMG_8401_thumb.jpg)](IMG_8401.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8401_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8401.jpg)
 
 </div>
 
@@ -141,7 +141,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-[![](IMG_8402_thumb.jpg)](IMG_8402.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8402_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8402.jpg)
 
 </div>
 
@@ -149,7 +149,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-[![](IMG_8403_thumb.jpg)](IMG_8403.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8403_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8403.jpg)
 
 </div>
 
@@ -157,7 +157,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border img-small">
 
-[![](FullSizeRender-2_thumb.jpg)](FullSizeRender-2.jpg)
+[![](https://swharden.com/static/2016/09/05/FullSizeRender-2_thumb.jpg)](https://swharden.com/static/2016/09/05/FullSizeRender-2.jpg)
 
 </div>
 
@@ -165,7 +165,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-[![](IMG_8404_thumb.jpg)](IMG_8404.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8404_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8404.jpg)
 
 </div>
 
@@ -173,7 +173,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-[![](IMG_8405_thumb.jpg)](IMG_8405.jpg)
+[![](https://swharden.com/static/2016/09/05/IMG_8405_thumb.jpg)](https://swharden.com/static/2016/09/05/IMG_8405.jpg)
 
 </div>
 
@@ -181,7 +181,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-![](serial-combine.jpg)
+![](https://swharden.com/static/2016/09/05/serial-combine.jpg)
 
 </div>
 
@@ -189,7 +189,7 @@ The NEO-M8 GPS module is [capable of outputting serial data](https://www.u-blox.
 
 <div class="text-center img-border">
 
-[![](combined-python_thumb.jpg)](combined-python.png)
+[![](https://swharden.com/static/2016/09/05/combined-python_thumb.jpg)](https://swharden.com/static/2016/09/05/combined-python.png)
 
 </div>
 

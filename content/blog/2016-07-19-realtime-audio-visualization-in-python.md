@@ -45,7 +45,7 @@ p.terminate()
 
 <div class="text-center img-border">
 
-[![](01_thumb.jpg)](01.png)
+[![](https://swharden.com/static/2016/07/19/01_thumb.jpg)](https://swharden.com/static/2016/07/19/01.png)
 
 </div>
 
@@ -120,12 +120,12 @@ __Here's the HTML file with JavaScript to keep reloading the image...__
 <html>
 <script language="javascript">
 function RefreshImage(){
-document.pic0.src="03.png?a=" + String(Math.random()*99999999);
+document.pic0.src="https://swharden.com/static/2016/07/19/03.png?a=" + String(Math.random()*99999999);
 setTimeout('RefreshImage()',50);
 }
 </script>
 <body onload="RefreshImage()">
-<img name="pic0" src="03.png">
+<img name="pic0" src="https://swharden.com/static/2016/07/19/03.png">
 </body>
 </html>
 ```
@@ -389,6 +389,6 @@ while True:
 
 <div class="text-center img-border">
 
-[![](audio-graphical_thumb.jpg)](audio-graphical.png)
+[![](https://swharden.com/static/2016/07/19/audio-graphical_thumb.jpg)](https://swharden.com/static/2016/07/19/audio-graphical.png)
 
 </div>

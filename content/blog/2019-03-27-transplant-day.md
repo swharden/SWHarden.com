@@ -10,7 +10,7 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](IMG_0045_thumb.jpg)](IMG_0045.jpg)
+[![](https://swharden.com/static/2019/03/27/IMG_0045_thumb.jpg)](https://swharden.com/static/2019/03/27/IMG_0045.jpg)
 
 </div>
 

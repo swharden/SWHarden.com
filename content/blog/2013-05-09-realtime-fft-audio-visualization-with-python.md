@@ -13,7 +13,7 @@ __I'm no stranger to visualizing linear data in the frequency-domain.__ Between 
 
 <div class="text-center img-border">
 
-[![](realtime-fft-spectrum-python-pyqwt-graph_thumb.jpg)](realtime-fft-spectrum-python-pyqwt-graph.png)
+[![](https://swharden.com/static/2013/05/09/realtime-fft-spectrum-python-pyqwt-graph_thumb.jpg)](https://swharden.com/static/2013/05/09/realtime-fft-spectrum-python-pyqwt-graph.png)
 
 </div>
 
@@ -179,7 +179,7 @@ _Note that by commenting-out the FFT line and using "c.setData(SR.xs,SR.audio)" 
 
 <div class="text-center img-border">
 
-[![](pcm_thumb.jpg)](pcm.png)
+[![](https://swharden.com/static/2013/05/09/pcm_thumb.jpg)](https://swharden.com/static/2013/05/09/pcm.png)
 
 </div>
 
@@ -187,7 +187,7 @@ _Note that by commenting-out the FFT line and using "c.setData(SR.xs,SR.audio)" 
 
 Finally, here’s the zip file. It contains everything you need to run the program on your own computer (including the UI scripts which are not written on this page)
 
-**DOWNLOAD:** [SWHRecorder.zip](SWHRecorder.zip)
+**DOWNLOAD:** [SWHRecorder.zip](https://swharden.com/static/2013/05/09/SWHRecorder.zip)
 
 _If you make a cool project based on this one, I'd love to hear about it. Good luck!_
 

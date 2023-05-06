@@ -10,14 +10,14 @@ __My project is coming along nicely.__ This isn't an incredibly robust spectrogr
 
 <div class="text-center img-border">
 
-[![](spectrogram-scrollbars_thumb.jpg)](spectrogram-scrollbars.png)
+[![](https://swharden.com/static/2010/03/05/spectrogram-scrollbars_thumb.jpg)](https://swharden.com/static/2010/03/05/spectrogram-scrollbars.png)
 
 </div>
 
 <div class="text-center img-border img-small">
 
-[![](nofilter_thumb.jpg)](nofilter.png)
-[![](filter_thumb.jpg)](filter.png)
+[![](https://swharden.com/static/2010/03/05/nofilter_thumb.jpg)](https://swharden.com/static/2010/03/05/nofilter.png)
+[![](https://swharden.com/static/2010/03/05/filter_thumb.jpg)](https://swharden.com/static/2010/03/05/filter.png)
 
 </div>
 

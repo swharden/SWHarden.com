@@ -16,7 +16,7 @@ __The first step in removing noise is understanding it.__ Most of the noise in m
 
 <div class="text-center">
 
-[![](diy_ecg4_thumb.jpg)](diy_ecg4.png)
+[![](https://swharden.com/static/2009/01/15/diy_ecg4_thumb.jpg)](https://swharden.com/static/2009/01/15/diy_ecg4.png)
 
 </div>
 
@@ -24,7 +24,7 @@ __The ECG came out better than expected!__ The graph above shows the power spect
 
 <div class="text-center">
 
-[![](diy_ecg3_thumb.jpg)](diy_ecg3.png)
+[![](https://swharden.com/static/2009/01/15/diy_ecg3_thumb.jpg)](https://swharden.com/static/2009/01/15/diy_ecg3.png)
 
 </div>
 

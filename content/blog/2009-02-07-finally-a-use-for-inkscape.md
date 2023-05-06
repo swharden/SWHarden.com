@@ -9,7 +9,7 @@ __After a few weeks of using InkScape,__ slowly working through documentation, t
 
 <div class="text-center img-border">
 
-[![](inkscape_brain_thumb.jpg)](inkscape_brain.jpg)
+[![](https://swharden.com/static/2009/02/07/inkscape_brain_thumb.jpg)](https://swharden.com/static/2009/02/07/inkscape_brain.jpg)
 
 </div>
 
@@ -18,6 +18,6 @@ I used an existing image as a reference, made half a brain, and can mirror it wh
 
 <div class="text-center">
 
-[![](braintest2_thumb.jpg)](braintest2.png)
+[![](https://swharden.com/static/2009/02/07/braintest2_thumb.jpg)](https://swharden.com/static/2009/02/07/braintest2.png)
 
 </div>

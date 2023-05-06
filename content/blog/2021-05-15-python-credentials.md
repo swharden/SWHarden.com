@@ -165,7 +165,7 @@ I find this technique particularly useful when the username and password are sto
 
 <div class="text-center">
 
-![](tk-password-dialog.png)
+![](https://swharden.com/static/2021/05/15/tk-password-dialog.png)
 
 </div>
 
@@ -220,7 +220,7 @@ Environment variables are one of the better ways of managing credentials with Py
 
 <div class="text-center">
 
-![](environment-variables.png)
+![](https://swharden.com/static/2021/05/15/environment-variables.png)
 
 </div>
 

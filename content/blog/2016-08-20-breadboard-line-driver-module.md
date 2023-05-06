@@ -12,7 +12,7 @@ __Line driver chips are one of my go-tos for quickly amplifying digital signals 
 
 <div class="text-center img-medium">
 
-[![](schematic_thumb.jpg)](schematic.jpg)
+[![](https://swharden.com/static/2016/08/20/schematic_thumb.jpg)](https://swharden.com/static/2016/08/20/schematic.jpg)
 
 </div>
 
@@ -20,9 +20,9 @@ This is the circuit I commonly build. I have one variant on hand for RF (extreme
 
 <div class="text-center img-border img-small">
 
-[![](IMG_7890_thumb.jpg)](IMG_7890.jpg)
-[![](IMG_7894_thumb.jpg)](IMG_7894.jpg)
-[![](IMG_7897_thumb.jpg)](IMG_7897.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7890_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7890.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7894_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7894.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7897_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7897.jpg)
 
 </div>
 
@@ -30,9 +30,9 @@ __Although I have made this entirely floating, I prefer using copper-clad board.
 
 <div class="text-center img-border img-small">
 
-[![](IMG_7898_thumb.jpg)](IMG_7898.jpg)
-[![](IMG_7900_thumb.jpg)](IMG_7900.jpg)
-[![](IMG_7909_thumb.jpg)](IMG_7909.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7898_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7898.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7900_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7900.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7909_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7909.jpg)
 
 </div>
 
@@ -40,7 +40,7 @@ __The best way to replicate this is to look at the picture.__ It's surprisingly 
 
 <div class="text-center img-border">
 
-[![](IMG_7904_thumb.jpg)](IMG_7904.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7904_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7904.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ __Although I often use it in a breadboard, it's easy to stick in a project.__ Si
 
 <div class="text-center img-border">
 
-[![](IMG_7912_thumb.jpg)](IMG_7912.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7912_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7912.jpg)
 
 </div>
 
@@ -56,7 +56,7 @@ I glued this board inside my temporary project enclosure (which admittedly looks
 
 <div class="text-center img-border img-small">
 
-[![](IMG_7943_thumb.jpg)](IMG_7943.jpg)
-[![](IMG_7948_thumb.jpg)](IMG_7948.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7943_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7943.jpg)
+[![](https://swharden.com/static/2016/08/20/IMG_7948_thumb.jpg)](https://swharden.com/static/2016/08/20/IMG_7948.jpg)
 
 </div>

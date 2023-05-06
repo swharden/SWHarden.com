@@ -9,11 +9,11 @@ __I'm often drawn toward projects involving data analysis with Python. __When I 
 
 ![](https://www.youtube.com/embed/wnqsv03hu3U)
 
-__We can visualize this data__ using some more simple Python code. Long term it would be useful to visualize frequency activity similarly to [how I graphed computer usage at work over the last year](2009-05-20-graphing-computer-usage/) but for now since I don't have any large amount of data to work with. I'll just write cote to visualize a QSO (conversation) with respect to time. It should be self-explanatory. This data came from data points displayed in the video (provided at the end of this post too).
+__We can visualize this data__ using some more simple Python code. Long term it would be useful to visualize frequency activity similarly to [how I graphed computer usage at work over the last year](https://swharden.com/static/2009/06/12/2009-05-20-graphing-computer-usage/) but for now since I don't have any large amount of data to work with. I'll just write cote to visualize a QSO (conversation) with respect to time. It should be self-explanatory. This data came from data points displayed in the video (provided at the end of this post too).
 
 <div class="text-center">
 
-[![](qsographpng_thumb.jpg)](qsographpng.png)
+[![](https://swharden.com/static/2009/06/12/qsographpng_thumb.jpg)](https://swharden.com/static/2009/06/12/qsographpng.png)
 
 </div>
 

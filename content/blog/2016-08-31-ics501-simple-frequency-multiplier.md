@@ -10,7 +10,7 @@ tags: ["circuit", "old"]
 
 <div class="text-center img-medium">
 
-[![](datasheet_thumb.jpg)](datasheet.jpg)
+[![](https://swharden.com/static/2016/08/31/datasheet_thumb.jpg)](https://swharden.com/static/2016/08/31/datasheet.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ tags: ["circuit", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8104_thumb.jpg)](IMG_8104.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8104_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8104.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ tags: ["circuit", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8111_thumb.jpg)](IMG_8111.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8111_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8111.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ tags: ["circuit", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8113_thumb.jpg)](IMG_8113.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8113_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8113.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ tags: ["circuit", "old"]
 
 <div class="text-center img-border">
 
-[![](IMG_8121_thumb.jpg)](IMG_8121.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8121_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8121.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ tags: ["circuit", "old"]
 
 <div class="text-center img-border">
 
-[![](ics501-demo_thumb.jpg)](ics501-demo.png)
+[![](https://swharden.com/static/2016/08/31/ics501-demo_thumb.jpg)](https://swharden.com/static/2016/08/31/ics501-demo.png)
 
 </div>
 
@@ -62,7 +62,7 @@ The frequency isn't exactly 1MHz because the adjustment pin of the can oscillato
 
 <div class="text-center img-border img-small">
 
-[![](IMG_8179_thumb.jpg)](IMG_8179.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8179_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8179.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ The frequency isn't exactly 1MHz because the adjustment pin of the can oscillato
 
 <div class="text-center img-border">
 
-[![](IMG_8175_thumb.jpg)](IMG_8175.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8175_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8175.jpg)
 
 </div>
 
@@ -78,7 +78,7 @@ The frequency isn't exactly 1MHz because the adjustment pin of the can oscillato
 
 <div class="text-center img-border">
 
-[![](IMG_8162_thumb.jpg)](IMG_8162.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8162_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8162.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ The frequency isn't exactly 1MHz because the adjustment pin of the can oscillato
 
 <div class="text-center img-border">
 
-[![](IMG_8161_thumb.jpg)](IMG_8161.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8161_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8161.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@ The frequency isn't exactly 1MHz because the adjustment pin of the can oscillato
 
 <div class="text-center img-border">
 
-![](SDS00018.jpg)
+![](https://swharden.com/static/2016/08/31/SDS00018.jpg)
 
 </div>
 
@@ -102,7 +102,7 @@ I had the USB drive in the thing so I went ahead and pushed the print button. He
 
 <div class="text-center img-border">
 
-![](SDS00005.jpg)
+![](https://swharden.com/static/2016/08/31/SDS00005.jpg)
 
 </div>
 
@@ -110,7 +110,7 @@ I had the USB drive in the thing so I went ahead and pushed the print button. He
 
 <div class="text-center img-border">
 
-[![](IMG_8166_thumb.jpg)](IMG_8166.jpg)
+[![](https://swharden.com/static/2016/08/31/IMG_8166_thumb.jpg)](https://swharden.com/static/2016/08/31/IMG_8166.jpg)
 
 </div>
 

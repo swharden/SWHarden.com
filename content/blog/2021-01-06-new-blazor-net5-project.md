@@ -22,7 +22,7 @@ Extensive details can be found on Microsoft's official [Migrate from ASP.NET Cor
 
 Here is a new project running .NET 5.0.1 with Bootstrap 5.0 alpha:
 
-* [**NewBlazorApp-net5.0.1.zip**](NewBlazorApp-net5.0.1.zip)
+* [**NewBlazorApp-net5.0.1.zip**](https://swharden.com/static/2021/01/06/NewBlazorApp-net5.0.1.zip)
 
 To change the project name/namespace:
 * Rename the `.sln` and `.csproj` files

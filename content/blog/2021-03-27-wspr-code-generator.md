@@ -11,12 +11,12 @@ tags: ["blazor", "amateur radio", "qrss"]
 
 **[WsprSharp](https://github.com/swharden/WsprSharp) is a WSPR encoding library implemented in C#.** I created this library learn more about the WSPR protocol. I also made a web application (using Blazor WebAssembly) to make it easy to generate WSPR transmissions online: [WSPR Code Generator](https://swharden.com/software/wspr-code-generator)
 
-[![](wspr-code-generator.png)](https://swharden.com/software/wspr-code-generator)
+[![](https://swharden.com/static/2021/03/27/wspr-code-generator.png)](https://swharden.com/software/wspr-code-generator)
 
 
 ### WSPR Transmission Information
 
-![](wspr-spectrogram.png)
+![](https://swharden.com/static/2021/03/27/wspr-spectrogram.png)
 
 * One packet is 110.6 sec continuous wave
 * Frequency shifts between 4 tones 

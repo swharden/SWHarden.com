@@ -10,7 +10,7 @@ __Wow, I can't believe I took-on such a massive challenge this week!__ Ironicall
 
 <div class="text-center img-border img-small">
 
-[![](gotit_thumb.jpg)](gotit.jpg)
+[![](https://swharden.com/static/2010/03/06/gotit_thumb.jpg)](https://swharden.com/static/2010/03/06/gotit.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __The image above is the actual-size display of the image below.__ The image bel
 
 <div class="text-center img-border">
 
-[![](qrss_big_thumb.jpg)](qrss_big.jpg)
+[![](https://swharden.com/static/2010/03/06/qrss_big_thumb.jpg)](https://swharden.com/static/2010/03/06/qrss_big.jpg)
 
 </div>
 

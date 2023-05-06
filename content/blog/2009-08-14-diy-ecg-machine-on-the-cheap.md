@@ -16,8 +16,8 @@ __You've probably seen somebody in a hospital hooked up to a bunch of wires used
 
 <div class="text-center img-small">
 
-[![](ecgman_thumb.jpg)](ecgman.png)
-![](ecg_principle_slow.gif)
+[![](https://swharden.com/static/2009/08/14/ecgman_thumb.jpg)](https://swharden.com/static/2009/08/14/ecgman.png)
+![](https://swharden.com/static/2009/08/14/ecg_principle_slow.gif)
 
 </div>
 
@@ -33,7 +33,7 @@ The goal of this project is to generate an extremely cheap, functional ECG machi
 
 <div class="text-center">
 
-[![](ecg31_thumb.jpg)](ecg31.png)
+[![](https://swharden.com/static/2009/08/14/ecg31_thumb.jpg)](https://swharden.com/static/2009/08/14/ecg31.png)
 
 </div>
 
@@ -63,7 +63,7 @@ __Digitization:__ Once amplified, the ECG signal along with a bunch of noise is 
 
 ## Parts/Cost
 
-I'll be upfront and say that I spent $0.00 making my ECG machine, because I was able to salvage all the parts I needed from a pile of old circuit boards. If you need specific components, check your local RadioShack. If that's a no-go, hit-up [Digikey](http://www.DigiKey.com) (it's probably cheaper too). Also, resistor values are flexible. Use mine as a good starter set, and vary them to suit your needs. If you buy everything from [Digikey](www.DigiKey.com), the total cost of this project would be about $1. For now, here's a list of all the parts you need:
+I'll be upfront and say that I spent $0.00 making my ECG machine, because I was able to salvage all the parts I needed from a pile of old circuit boards. If you need specific components, check your local RadioShack. If that's a no-go, hit-up [Digikey](http://www.DigiKey.com) (it's probably cheaper too). Also, resistor values are flexible. Use mine as a good starter set, and vary them to suit your needs. If you buy everything from [Digikey](https://swharden.com/static/2009/08/14/www.DigiKey.com), the total cost of this project would be about $1. For now, here's a list of all the parts you need:
 
 *   1x low voltage op-amp [LM358N](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=LM358NFS-ND) $0.40
 *   1x 100kOhm resistor (brn,blk,yel) virtually free
@@ -78,7 +78,7 @@ __Keep in mind that I'm not an electrical engineer__ (I have a masters in molecu
 
 <div class="text-center img-border">
 
-[![](img_2694_thumb.jpg)](img_2694.jpg)
+[![](https://swharden.com/static/2009/08/14/img_2694_thumb.jpg)](https://swharden.com/static/2009/08/14/img_2694.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ __This is pretty much it.__ First off is a power source. If you want to be safe,
 
 <div class="text-center img-border">
 
-[![](img_2686_thumb.jpg)](img_2686.jpg)
+[![](https://swharden.com/static/2009/08/14/img_2686_thumb.jpg)](https://swharden.com/static/2009/08/14/img_2686.jpg)
 
 </div>
 
@@ -96,7 +96,7 @@ __Note how I left room in the center of the circuit board.__ That was intentiona
 
 <div class="text-center">
 
-[![](simple_ecg_circuit_thumb.jpg)](simple_ecg_circuit.png)
+[![](https://swharden.com/static/2009/08/14/simple_ecg_circuit_thumb.jpg)](https://swharden.com/static/2009/08/14/simple_ecg_circuit.png)
 
 </div>
 
@@ -106,7 +106,7 @@ __This is the circuit diagram.__ This is a classical high-gain analog differenti
 
 <div class="text-center">
 
-[![](simple_ecg_circuit2_thumb.jpg)](simple_ecg_circuit2.png)
+[![](https://swharden.com/static/2009/08/14/simple_ecg_circuit2_thumb.jpg)](https://swharden.com/static/2009/08/14/simple_ecg_circuit2.png)
 
 </div>
 
@@ -116,7 +116,7 @@ __This is how I used my LM358N__ to create the circuit above. Note that there is
 
 <div class="text-center img-border">
 
-[![](img_2704_thumb.jpg)](img_2704.jpg)
+[![](https://swharden.com/static/2009/08/14/img_2704_thumb.jpg)](https://swharden.com/static/2009/08/14/img_2704.jpg)
 
 </div>
 
@@ -124,7 +124,7 @@ __You can make electrodes out of anything conductive.__ The most recent graphs w
 
 <div class="text-center img-border">
 
-![](diy_ecg7.jpg)
+![](https://swharden.com/static/2009/08/14/diy_ecg7.jpg)
 
 </div>
 
@@ -148,7 +148,7 @@ __Now you're ready to analyze!__ Plop your .snd file in the same folder as my \[
 
 <div class="text-center">
 
-[![](diy_ecg_sample_trace_thumb.jpg)](diy_ecg_sample_trace.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_sample_trace_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_sample_trace.png)
 
 </div>
 
@@ -156,7 +156,7 @@ __This is a small region of the ECG trace.__ The "R" peak is most obvious, but t
 
 <div class="text-center">
 
-[![](diy_ecg_heart_rate_over_time_thumb.jpg)](diy_ecg_heart_rate_over_time.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_heart_rate_over_time_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_heart_rate_over_time.png)
 
 </div>
 
@@ -164,7 +164,7 @@ __Your heart rate fluctuates a lot over time!__ By plotting the inverse of your 
 
 <div class="text-center">
 
-[![](diy_ecg_rr_beat_interval_thumb.jpg)](diy_ecg_rr_beat_interval.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_rr_beat_interval_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_rr_beat_interval.png)
 
 </div>
 
@@ -172,7 +172,7 @@ __This is the RRI plot__ where the value of each RRI (in milliseconds) is repres
 
 <div class="text-center">
 
-[![](diy_ecg_poincare_plot_thumb.jpg)](diy_ecg_poincare_plot.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_poincare_plot_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_poincare_plot.png)
 
 </div>
 
@@ -180,7 +180,7 @@ __A [Poincare Plot](http://en.wikipedia.org/wiki/Poincar%C3%A9_plot)__ is a comm
 
 <div class="text-center">
 
-[![](diy_ecg_rr_deviation_histogram_thumb.jpg)](diy_ecg_rr_deviation_histogram.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_rr_deviation_histogram_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_rr_deviation_histogram.png)
 
 </div>
 
@@ -188,7 +188,7 @@ __The frequency of occurrence__ of various RRIs can be expressed by a histogram.
 
 <div class="text-center">
 
-[![](diy_ecg_power_spectrum_raw_thumb.jpg)](diy_ecg_power_spectrum_raw.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_power_spectrum_raw_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_power_spectrum_raw.png)
 
 </div>
 
@@ -196,7 +196,7 @@ __Taking the [Fast Fourier Transformation](http://en.wikipedia.org/wiki/Fast_Fou
 
 <div class="text-center">
 
-[![](diy_ecg_power_spectrum_weighted_thumb.jpg)](diy_ecg_power_spectrum_weighted.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_power_spectrum_weighted_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_power_spectrum_weighted.png)
 
 </div>
 
@@ -210,7 +210,7 @@ __Please, if you try this don't die.__ The last thing I want is to have some kid
 
 <div class="text-center">
 
-[![](diy_ecg_circuit_thumb.jpg)](diy_ecg_circuit.png)
+[![](https://swharden.com/static/2009/08/14/diy_ecg_circuit_thumb.jpg)](https://swharden.com/static/2009/08/14/diy_ecg_circuit.png)
 
 </div>
 

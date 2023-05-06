@@ -10,7 +10,7 @@ __A majority of the microcontroller programming I do these days involves writing
 
 <div class="text-center img-border">
 
-[![](2013-05-05-22.57.01_thumb.jpg)](2013-05-05-22.57.01.jpg)
+[![](https://swharden.com/static/2013/05/07/2013-05-05-22.57.01_thumb.jpg)](https://swharden.com/static/2013/05/07/2013-05-05-22.57.01.jpg)
 
 </div>
 
@@ -55,7 +55,7 @@ __Here's how I program the AVR.__ I used [AVRDudess](http://blog.zakkemble.co.uk
 
 <div class="text-center img-border">
 
-[![](2013-05-05-22.56.20_thumb.jpg)](2013-05-05-22.56.20.jpg)
+[![](https://swharden.com/static/2013/05/07/2013-05-05-22.56.20_thumb.jpg)](https://swharden.com/static/2013/05/07/2013-05-05-22.56.20.jpg)
 
 </div>
 
@@ -63,6 +63,6 @@ __And finally, the result.__ A blinking LED. Up and running programming AVR micr
 
 <div class="text-center img-border">
 
-[![](2013-05-05-23.05.53_thumb.jpg)](2013-05-05-23.05.53.jpg)
+[![](https://swharden.com/static/2013/05/07/2013-05-05-23.05.53_thumb.jpg)](https://swharden.com/static/2013/05/07/2013-05-05-23.05.53.jpg)
 
 </div>

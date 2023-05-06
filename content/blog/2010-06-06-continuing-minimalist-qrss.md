@@ -10,9 +10,9 @@ __I'm still working on this project,__ and although progress is slow I'm learnin
 
 <div class="text-center img-border">
 
-[![](DSCN0776_thumb.jpg)](DSCN0776.jpg)
-[![](OnOffDNA_thumb.jpg)](OnOffDNA.png)
-[![](dnareport_thumb.jpg)](dnareport.jpg)
+[![](https://swharden.com/static/2010/06/06/DSCN0776_thumb.jpg)](https://swharden.com/static/2010/06/06/DSCN0776.jpg)
+[![](https://swharden.com/static/2010/06/06/OnOffDNA_thumb.jpg)](https://swharden.com/static/2010/06/06/OnOffDNA.png)
+[![](https://swharden.com/static/2010/06/06/dnareport_thumb.jpg)](https://swharden.com/static/2010/06/06/dnareport.jpg)
 
 </div>
 

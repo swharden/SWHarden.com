@@ -12,7 +12,7 @@ __I'm resuming work on my simple transmitter/receiver projects,__ but I'm workin
 
 <div class="text-center img-border">
 
-[![](DSCN1335_thumb.jpg)](DSCN1335.jpg)
+[![](https://swharden.com/static/2011/06/02/DSCN1335_thumb.jpg)](https://swharden.com/static/2011/06/02/DSCN1335.jpg)
 
 </div>
 
@@ -24,7 +24,7 @@ This is the circuit I was using:
 
 <div class="text-center img-border">
 
-[![](DSCN1334_thumb.jpg)](DSCN1334.jpg)
+[![](https://swharden.com/static/2011/06/02/DSCN1334_thumb.jpg)](https://swharden.com/static/2011/06/02/DSCN1334.jpg)
 
 </div>
 
@@ -32,7 +32,7 @@ This is what it looked like before the glue or screw:
 
 <div class="text-center img-border">
 
-[![](DSCN1307_thumb.jpg)](DSCN1307.jpg)
+[![](https://swharden.com/static/2011/06/02/DSCN1307_thumb.jpg)](https://swharden.com/static/2011/06/02/DSCN1307.jpg)
 
 </div>
 
@@ -40,7 +40,7 @@ Here's the variable inductor enveloped in hot glue before it cooled and turned w
 
 <div class="text-center img-border">
 
-[![](DSCN1316_thumb.jpg)](DSCN1316.jpg)
+[![](https://swharden.com/static/2011/06/02/DSCN1316_thumb.jpg)](https://swharden.com/static/2011/06/02/DSCN1316.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ At the end of the day, it looks nice!
 
 <div class="text-center img-border">
 
-[![](DSCN1339_thumb.jpg)](DSCN1339.jpg)
+[![](https://swharden.com/static/2011/06/02/DSCN1339_thumb.jpg)](https://swharden.com/static/2011/06/02/DSCN1339.jpg)
 
 </div>
 

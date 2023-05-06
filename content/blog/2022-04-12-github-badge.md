@@ -156,7 +156,7 @@ Although the project page is simple, I wanted it to look nice. There are so many
 
 Here's the Open Graph banner I came up with:
 
-<img src="banner.png" class="d-inline-block mx-auto">
+<img src="https://swharden.com/static/2022/04/12/banner.png" class="d-inline-block mx-auto">
 
 ## Conclusions
 

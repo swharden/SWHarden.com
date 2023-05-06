@@ -10,7 +10,7 @@ __While working to perfect my temperature-controlled manned experimental propaga
 
 <div class="text-center img-border"> 
 
-[![](IMG_4559_thumb.jpg)](IMG_4559.jpg)
+[![](https://swharden.com/static/2010/11/24/IMG_4559_thumb.jpg)](https://swharden.com/static/2010/11/24/IMG_4559.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ EDIT: the voltage reference diagram is wrong at the bottom involving the zener d
 
 <div class="text-center"> 
 
-![](aref.jpg)
+![](https://swharden.com/static/2010/11/24/aref.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-border">
 
-[![](IMG_4575_thumb.jpg)](IMG_4575.jpg)
+[![](https://swharden.com/static/2010/11/24/IMG_4575_thumb.jpg)](https://swharden.com/static/2010/11/24/IMG_4575.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-border"> 
 
-![](logger.jpg)
+![](https://swharden.com/static/2010/11/24/logger.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-border"> 
 
-[![](IMG_4564_thumb.jpg)](IMG_4564.jpg)
+[![](https://swharden.com/static/2010/11/24/IMG_4564_thumb.jpg)](https://swharden.com/static/2010/11/24/IMG_4564.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center"> 
 
-[![](lm335-microcontroller-graph-annotated_thumb.jpg)](lm335-microcontroller-graph-annotated.png)
+[![](https://swharden.com/static/2010/11/24/lm335-microcontroller-graph-annotated_thumb.jpg)](https://swharden.com/static/2010/11/24/lm335-microcontroller-graph-annotated.png)
 
 </div>
 
@@ -62,7 +62,7 @@ Notes on power stability  - The output of the sensor is measured with the ADC (a
 
 <div class="text-center img-medium"> 
 
-[![](atmega48pinout_thumb.jpg)](atmega48pinout.png)
+[![](https://swharden.com/static/2010/11/24/atmega48pinout_thumb.jpg)](https://swharden.com/static/2010/11/24/atmega48pinout.png)
 
 </div>
 
@@ -258,7 +258,7 @@ void init_usart (unsigned long baud)
 
 <div class="text-center"> 
 
-[![](3traces_thumb.jpg)](3traces.png)
+[![](https://swharden.com/static/2010/11/24/3traces_thumb.jpg)](https://swharden.com/static/2010/11/24/3traces.png)
 
 </div>
 
@@ -266,6 +266,6 @@ void init_usart (unsigned long baud)
 
 <div class="text-center"> 
 
-[![](insulated3_thumb.jpg)](insulated3.png)
+[![](https://swharden.com/static/2010/11/24/insulated3_thumb.jpg)](https://swharden.com/static/2010/11/24/insulated3.png)
 
 </div>

@@ -11,7 +11,7 @@ __I love using python for handing data. Displaying it isn't always as easy.__ Py
 
 <div class="text-center img-border">
 
-![](f.gif)
+![](https://swharden.com/static/2013/05/08/f.gif)
 
 </div>
 
@@ -19,7 +19,7 @@ __How did I do it?__ Easy. First, I made the GUI with [QtDesigner](http://qt-pro
 
 <div class="text-center img-border">
 
-[![](qtdesigner-python-windows-qwtplot_thumb.jpg)](qtdesigner-python-windows-qwtplot.png)
+[![](https://swharden.com/static/2013/05/08/qtdesigner-python-windows-qwtplot_thumb.jpg)](https://swharden.com/static/2013/05/08/qtdesigner-python-windows-qwtplot.png)
 
 </div>
 

@@ -12,7 +12,7 @@ I've been spending a lot of time creating a [DIY ECGs](http://www.swharden.com/b
 
 <div class="text-center">
 
-[![](filtering_thumb.jpg)](filtering.png)
+[![](https://swharden.com/static/2009/01/21/filtering_thumb.jpg)](https://swharden.com/static/2009/01/21/filtering.png)
 
 </div>
 
@@ -24,7 +24,7 @@ __Here's some Python code you may find useful.__ The image below is the output o
 
 <div class="text-center img-border">
 
-[![](sig_thumb.jpg)](sig.png)
+[![](https://swharden.com/static/2009/01/21/sig_thumb.jpg)](https://swharden.com/static/2009/01/21/sig.png)
 
 </div>
 

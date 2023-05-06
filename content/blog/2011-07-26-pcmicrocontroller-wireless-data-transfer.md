@@ -10,7 +10,7 @@ __Several days ago I had a crazy idea.__ I was driving to Orlando to pick my wif
 
 <div class="text-center img-border">
 
-[![](DSCN1652_thumb.jpg)](DSCN1652.jpg)
+[![](https://swharden.com/static/2011/07/26/DSCN1652_thumb.jpg)](https://swharden.com/static/2011/07/26/DSCN1652.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ __The circuit is as simple as it gets.__
 
 <div class="text-center">
 
-[![](PHOTOTRANSISTOR-MICROCONTROLLER-CIRCUIT_thumb.jpg)](PHOTOTRANSISTOR-MICROCONTROLLER-CIRCUIT.png)
+[![](https://swharden.com/static/2011/07/26/PHOTOTRANSISTOR-MICROCONTROLLER-CIRCUIT_thumb.jpg)](https://swharden.com/static/2011/07/26/PHOTOTRANSISTOR-MICROCONTROLLER-CIRCUIT.png)
 
 </div>
 
@@ -27,7 +27,7 @@ A phototransistor is exactly what it says, a photo (light-triggered) transistor 
 
 <div class="text-center">
 
-[![](hardcode_thumb.jpg)](hardcode.jpg)
+[![](https://swharden.com/static/2011/07/26/hardcode_thumb.jpg)](https://swharden.com/static/2011/07/26/hardcode.jpg)
 
 </div>
 
@@ -35,7 +35,7 @@ __Initial tests were done__ using the pins as digital inputs. This was difficult
 
 <div class="text-center img-border">
 
-[![](DSCN1651_thumb.jpg)](DSCN1651.jpg)
+[![](https://swharden.com/static/2011/07/26/DSCN1651_thumb.jpg)](https://swharden.com/static/2011/07/26/DSCN1651.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ __Hopefully soon we can get a JavaScript interface going!__ Rather than swiping 
 
 <div class="text-center">
 
-[![](string_thumb.jpg)](string.png)
+[![](https://swharden.com/static/2011/07/26/string_thumb.jpg)](https://swharden.com/static/2011/07/26/string.png)
 
 </div>
 

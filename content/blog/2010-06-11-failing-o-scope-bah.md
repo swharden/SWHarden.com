@@ -9,9 +9,9 @@ __My oscilloscope decided to die on my right as I finally was able to view my 10
 
 <div class="text-center img-border">
 
-[![](panelfront_thumb.jpg)](panelfront.jpg)
+[![](https://swharden.com/static/2010/06/11/panelfront_thumb.jpg)](https://swharden.com/static/2010/06/11/panelfront.jpg)
 
-[![](ron_thumb.jpg)](ron.jpg)
+[![](https://swharden.com/static/2010/06/11/ron_thumb.jpg)](https://swharden.com/static/2010/06/11/ron.jpg)
 
 </div>
 

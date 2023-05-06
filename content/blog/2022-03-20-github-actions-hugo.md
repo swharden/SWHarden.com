@@ -166,7 +166,7 @@ I use additional arguments (see [rsync documentation](https://linux.die.net/man/
   run: rsync --archive --delete --stats -e 'ssh -p 12345' website/public/ ${{ secrets.REMOTE_DEST }}
 ```
 
-<img src="github-actions-hugo-rsync-deploy.jpg" class="border shadow d-block mx-auto my-4">
+<img src="https://swharden.com/static/2022/03/20/github-actions-hugo-rsync-deploy.jpg" class="border shadow d-block mx-auto my-4">
 
 ## Conclusions
 

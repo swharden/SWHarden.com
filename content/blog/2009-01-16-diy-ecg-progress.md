@@ -14,7 +14,7 @@ __Last night I finished building my DIY ECG as a prototype__ (I finally got the 
 
 <div class="text-center img-border">
 
-![](diy_ecg5.jpg)
+![](https://swharden.com/static/2009/01/16/diy_ecg5.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __I made the prototype__ by drilling holes in a small rectangular piece of a non
 
 <div class="text-center img-border">
 
-![](diy_ecg6.jpg)
+![](https://swharden.com/static/2009/01/16/diy_ecg6.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __This is the back of the device__ which shows my crummy soldering. I'm a molecu
 
 <div class="text-center img-border">
 
-![](diy_ecg7.jpg)
+![](https://swharden.com/static/2009/01/16/diy_ecg7.jpg)
 
 </div>
 

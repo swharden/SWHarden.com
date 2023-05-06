@@ -10,7 +10,7 @@ __I wrote a script to generate and display LUTs with Python.__ There has been a 
 
 <div class="text-center img-border">
 
-[![](Blin_Glin_Rlin_scale_thumb.jpg)](Blin_Glin_Rlin_scale.png)
+[![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin_scale_thumb.jpg)](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin_scale.png)
 
 </div>
 
@@ -18,7 +18,7 @@ __For my QRSS needs,__ I desire a colormap which is aesthetically pleasing but c
 
 <div class="text-center img-border">
 
-![](Blin_Glin_Rlin.jpg-green.jpg)
+![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin.jpg-green.jpg)
 
 </div>
 
@@ -27,8 +27,8 @@ __ORIGINAL DATA:__
 
 <div class="text-center img-border">
 
-[![](Blin_Glin_Rlin_graph_thumb.jpg)](Blin_Glin_Rlin_graph.png)
-![](Blin_Glin_Rlin.jpg)
+[![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin_graph_thumb.jpg)](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin_graph.png)
+![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin.jpg)
 
 </div>
 
@@ -36,11 +36,11 @@ Note that it looks nice, shows weak signals, doesn't get blown-out by strong sig
 
 <div class="text-center img-border">
 
-![](Blin_Glin_Rlin.jpg-blue.jpg)
-![](Blin_Glin_Rlin.jpg-red.jpg)
-![](Blin_Glin_Rlin.jpg-green.jpg)
-[![](Bsin_Glin_Rsin_graph_thumb.jpg)](Bsin_Glin_Rsin_graph.png)
-![](Bsin_Glin_Rsin.jpg)
+![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin.jpg-blue.jpg)
+![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin.jpg-red.jpg)
+![](https://swharden.com/static/2010/05/10/Blin_Glin_Rlin.jpg-green.jpg)
+[![](https://swharden.com/static/2010/05/10/Bsin_Glin_Rsin_graph_thumb.jpg)](https://swharden.com/static/2010/05/10/Bsin_Glin_Rsin_graph.png)
+![](https://swharden.com/static/2010/05/10/Bsin_Glin_Rsin.jpg)
 
 </div>
 

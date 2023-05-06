@@ -10,7 +10,7 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](bone-marrow-transplant-stem-cell-collection-apheresis_thumb.jpg)](bone-marrow-transplant-stem-cell-collection-apheresis.jpg)
+[![](https://swharden.com/static/2019/01/02/bone-marrow-transplant-stem-cell-collection-apheresis_thumb.jpg)](https://swharden.com/static/2019/01/02/bone-marrow-transplant-stem-cell-collection-apheresis.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](chemotherapy-lymphoma-enhanced-words_thumb.jpg)](chemotherapy-lymphoma-enhanced-words.png)
+[![](https://swharden.com/static/2019/01/02/chemotherapy-lymphoma-enhanced-words_thumb.jpg)](https://swharden.com/static/2019/01/02/chemotherapy-lymphoma-enhanced-words.png)
 
 </div>
 
@@ -26,7 +26,7 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](scott-harden-and-kane-barr_thumb.jpg)](scott-harden-and-kane-barr.jpg)
+[![](https://swharden.com/static/2019/01/02/scott-harden-and-kane-barr_thumb.jpg)](https://swharden.com/static/2019/01/02/scott-harden-and-kane-barr.jpg)
 
 </div>
 

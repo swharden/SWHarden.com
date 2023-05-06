@@ -10,6 +10,6 @@ If the transmitter frequency is stable, transmissions start every 10 minutes, an
 
 <div class="text-center">
 
-[![](qrss-stitch-and-stack-screenshot_thumb.jpg)](qrss-stitch-and-stack-screenshot.jpg)
+[![](https://swharden.com/static/2019/07/20/qrss-stitch-and-stack-screenshot_thumb.jpg)](https://swharden.com/static/2019/07/20/qrss-stitch-and-stack-screenshot.jpg)
 
 </div>

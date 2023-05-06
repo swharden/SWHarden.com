@@ -14,7 +14,7 @@ __I followed-through on yesterday's post__ and actually tried to build an ECG ma
 
 <div class="text-center img-border">
 
-![](opampecg.gif)
+![](https://swharden.com/static/2009/01/14/opampecg.gif)
 
 </div>
 
@@ -22,7 +22,7 @@ __I used just one of the 4 available op-amps from a LM324.__ I built this, hooke
 
 <div class="text-center img-border">
 
-[![](noise_thumb.jpg)](noise.png)
+[![](https://swharden.com/static/2009/01/14/noise_thumb.jpg)](https://swharden.com/static/2009/01/14/noise.png)
 
 </div>
 

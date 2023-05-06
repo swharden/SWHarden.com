@@ -10,7 +10,7 @@ tags: ["circuit"]
 
 <div class="text-center img-medium">
 
-[![](curved2_thumb.jpg)](curved2.jpg)
+[![](https://swharden.com/static/2019/08/03/curved2_thumb.jpg)](https://swharden.com/static/2019/08/03/curved2.jpg)
 
 </div>
 
@@ -18,7 +18,7 @@ tags: ["circuit"]
 
 <div class="text-center">
 
-[![](DSC_0132_thumb.jpg)](DSC_0132.jpg)
+[![](https://swharden.com/static/2019/08/03/DSC_0132_thumb.jpg)](https://swharden.com/static/2019/08/03/DSC_0132.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border img-medium">
 
-[![](2019-08-04-output_thumb.jpg)](2019-08-04-output.png)
+[![](https://swharden.com/static/2019/08/03/2019-08-04-output_thumb.jpg)](https://swharden.com/static/2019/08/03/2019-08-04-output.png)
 
 </div>
 
@@ -44,7 +44,7 @@ tags: ["circuit"]
 
 ### Maximum Counting Frequency
 
-**According to the SN74LV8154 datasheet** the minimum expected maximum input frequency (f<sub>MAX</sub>) is 40 MHz. To count higher frequencies, a high-speed prescaler could be added to the input to divide-down the input signal to a frequency this counter can range. This was [discussed]() in the original issue that kicked-off this project, and [Onno Hoekstra (PA2OHH)](https://www.qsl.net/pa2ohh/) recommended the [SAB6456](https://doc.lagout.org/electronics/doc/ic_various/SAB6456.PDF) divide-by-64/divide-by-256 prescaler which supports up to 1 GHz input frequency. However, present availability seems to be limited. A similar chip, or even a pair of octal flip-flops that work in the GHZ range could achieve this functionality.
+**According to the SN74LV8154 datasheet** the minimum expected maximum input frequency (f<sub>MAX</sub>) is 40 MHz. To count higher frequencies, a high-speed prescaler could be added to the input to divide-down the input signal to a frequency this counter can range. This was [discussed](https://swharden.com/static/2019/08/03/) in the original issue that kicked-off this project, and [Onno Hoekstra (PA2OHH)](https://www.qsl.net/pa2ohh/) recommended the [SAB6456](https://doc.lagout.org/electronics/doc/ic_various/SAB6456.PDF) divide-by-64/divide-by-256 prescaler which supports up to 1 GHz input frequency. However, present availability seems to be limited. A similar chip, or even a pair of octal flip-flops that work in the GHZ range could achieve this functionality.
 
 ## Design
 
@@ -52,7 +52,7 @@ tags: ["circuit"]
 
 <div class="text-center">
 
-[![](schematic_thumb.jpg)](schematic.png)
+[![](https://swharden.com/static/2019/08/03/schematic_thumb.jpg)](https://swharden.com/static/2019/08/03/schematic.png)
 
 </div>
 
@@ -62,7 +62,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-![](front-end.jpg)
+![](https://swharden.com/static/2019/08/03/front-end.jpg)
 
 </div>
 
@@ -72,7 +72,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-![](front-end-wave.jpg)
+![](https://swharden.com/static/2019/08/03/front-end-wave.jpg)
 
 </div>
 
@@ -93,19 +93,19 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](pcb-dsn_thumb.jpg)](pcb-dsn.png)
+[![](https://swharden.com/static/2019/08/03/pcb-dsn_thumb.jpg)](https://swharden.com/static/2019/08/03/pcb-dsn.png)
 
 </div>
 
 <div class="text-center">
 
-[![](pcb-rndr_thumb.jpg)](pcb-rndr.png)
+[![](https://swharden.com/static/2019/08/03/pcb-rndr_thumb.jpg)](https://swharden.com/static/2019/08/03/pcb-rndr.png)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](DSC_0128_thumb.jpg)](DSC_0128.jpg)
+[![](https://swharden.com/static/2019/08/03/DSC_0128_thumb.jpg)](https://swharden.com/static/2019/08/03/DSC_0128.jpg)
 
 </div>
 

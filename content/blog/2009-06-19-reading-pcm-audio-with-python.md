@@ -34,7 +34,7 @@ __This will produce a graph that looks like this:__
 
 <div class="text-center">
 
-[![](audiograph_thumb.jpg)](audiograph.png)
+[![](https://swharden.com/static/2009/06/19/audiograph_thumb.jpg)](https://swharden.com/static/2009/06/19/audiograph.png)
 
 </div>
 
@@ -50,7 +50,7 @@ __Let's get fancy and use this concept to determine the number of seconds in a 1
 
 <div class="text-center">
 
-[![](secpermin_thumb.jpg)](secpermin.png)
+[![](https://swharden.com/static/2009/06/19/secpermin_thumb.jpg)](https://swharden.com/static/2009/06/19/secpermin.png)
 
 </div>
 

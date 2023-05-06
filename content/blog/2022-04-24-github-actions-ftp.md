@@ -43,7 +43,7 @@ This workflow uses [GitHub Encrypted Secrets](https://docs.github.com/en/actions
 * `FTP_USERNAME` - a string like `login@example.com`
 * `FTP_PASSWORD` - a string like `superSecret123`
 
-<img src="github-actions-ftp.jpg" class="d-block border shadow my-5 mx-auto" />
+<img src="https://swharden.com/static/2022/04/24/github-actions-ftp.jpg" class="d-block border shadow my-5 mx-auto" />
 
 ## How to Verify the Host Certificate
 

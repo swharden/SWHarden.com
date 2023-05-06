@@ -7,15 +7,15 @@ date: 2009-06-13 17:14:08
 
 <div class="text-center img-border">
 
-[![](ucf_tailgate_2009_thumb.jpg)](ucf_tailgate_2009.jpg)
+[![](https://swharden.com/static/2009/06/13/ucf_tailgate_2009_thumb.jpg)](https://swharden.com/static/2009/06/13/ucf_tailgate_2009.jpg)
 
 </div>
 
-__This morning I woke up at 4:45am__, hopped out of bed, and raced to the university parking lot for field day. It's pretty much a flea market with an emphasis in ham radio and associated electronics. This is a panorama of the parking lot the tailgate was held in, taken from the roof of a parking garage at about 9am. The [UCF ARC](www.k4ucf.ucf.edu/) (the amateur radio club which sponsored the event) is stationed under the white tent.
+__This morning I woke up at 4:45am__, hopped out of bed, and raced to the university parking lot for field day. It's pretty much a flea market with an emphasis in ham radio and associated electronics. This is a panorama of the parking lot the tailgate was held in, taken from the roof of a parking garage at about 9am. The [UCF ARC](https://swharden.com/static/2009/06/13/www.k4ucf.ucf.edu/) (the amateur radio club which sponsored the event) is stationed under the white tent.
 
 <div class="text-center img-border">
 
-[![](scopes_thumb.jpg)](scopes.jpg)
+[![](https://swharden.com/static/2009/06/13/scopes_thumb.jpg)](https://swharden.com/static/2009/06/13/scopes.jpg)
 
 </div>
 
@@ -23,7 +23,7 @@ __My goal was to purchase a \[working\] oscilloscope__, and I lucked-out. I ende
 
 <div class="text-center img-border">
 
-[![](scope_box_thumb.jpg)](scope_box.png)
+[![](https://swharden.com/static/2009/06/13/scope_box_thumb.jpg)](https://swharden.com/static/2009/06/13/scope_box.png)
 
 </div>
 

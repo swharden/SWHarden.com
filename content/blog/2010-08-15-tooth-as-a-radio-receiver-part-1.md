@@ -14,7 +14,7 @@ __It was noted that Lucy recently had several temporary lead fillings__ installe
 
 <div class="text-center img-border">
 
-[![](IMG_5554_thumb.jpg)](IMG_5554.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5554_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5554.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __First, I start with a jar of teeth.__ Yeah, this is mine. Don't ask how I got 
 
 <div class="text-center img-border">
 
-[![](IMG_5562_thumb.jpg)](IMG_5562.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5562_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5562.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __I started by sectioning the tooth mesio-distally__ using a slow-speed air-driv
 
 <div class="text-center img-border">
 
-[![](IMG_5563_thumb.jpg)](IMG_5563.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5563_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5563.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __This is my test subject.__ It's a maxillary left first premolar. My goal is to
 
 <div class="text-center img-border">
 
-[![](IMG_5567_thumb.jpg)](IMG_5567.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5567_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5567.jpg)
 
 </div>
 
@@ -52,15 +52,15 @@ __From the other side, you can see enamel gets thicker toward one side of the to
 
 <div class="text-center img-border">
 
-[![](IMG_5570_thumb.jpg)](IMG_5570.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5570_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5570.jpg)
 
-[![](IMG_5573_thumb.jpg)](IMG_5573.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5573_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5573.jpg)
 
-[![](IMG_5577_thumb.jpg)](IMG_5577.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5577_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5577.jpg)
 
-[![](IMG_5578_thumb.jpg)](IMG_5578.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5578_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5578.jpg)
 
-[![](IMG_5583_thumb.jpg)](IMG_5583.jpg)
+[![](https://swharden.com/static/2010/08/15/IMG_5583_thumb.jpg)](https://swharden.com/static/2010/08/15/IMG_5583.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ __SUCCESS!__ I can't believe I gave up that easily! I'd actually started moving 
 
 <div class="text-center img-border">
 
-[![](DSCN1732_thumb.jpg)](DSCN1732.jpg)
+[![](https://swharden.com/static/2010/08/15/DSCN1732_thumb.jpg)](https://swharden.com/static/2010/08/15/DSCN1732.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@ __There's a simple [1N914 diode](http://www.fairchildsemi.com/ds/1N/1N914.pdf) w
 
 <div class="text-center img-border">
 
-[![](DSCN1733_thumb.jpg)](DSCN1733.jpg)
+[![](https://swharden.com/static/2010/08/15/DSCN1733_thumb.jpg)](https://swharden.com/static/2010/08/15/DSCN1733.jpg)
 
 </div>
 

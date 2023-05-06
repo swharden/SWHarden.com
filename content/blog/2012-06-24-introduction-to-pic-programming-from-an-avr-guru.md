@@ -10,7 +10,7 @@ __I'm not ashamed to say it: I'm a bit of an ATMEL guy.__ [AVR microcontrollers]
 
 <div class="text-center">
 
-![](150-28-DIP1-200x128.jpg)
+![](https://swharden.com/static/2012/06/24/150-28-DIP1-200x128.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ __I decided to take the plunge and start gaining some experience with the PIC pl
 
 <div class="text-center">
 
-![](2012-06-24-15.57.56-525x393.jpg)
+![](https://swharden.com/static/2012/06/24/2012-06-24-15.57.56-525x393.jpg)
 
 </div>
 
@@ -61,7 +61,7 @@ __A couple notes about the code:__ the WDT=OFF disables the [watchdog timer](htt
 
 <div class="text-center img-medium">
 
-[![](pic-ledblink_thumb.jpg)](pic-ledblink.png)
+[![](https://swharden.com/static/2012/06/24/pic-ledblink_thumb.jpg)](https://swharden.com/static/2012/06/24/pic-ledblink.png)
 
 </div>
 

@@ -10,7 +10,7 @@ __A new project I'm working on requires real-time analysis of soundcard input da
 
 <div class="text-center img-border img-small">
 
-![](demo-1.gif)
+![](https://swharden.com/static/2016/07/31/demo-1.gif)
 
 </div>
 
@@ -76,6 +76,6 @@ All files used for this project are [in a GitHub folder](https://github.com/swha
 
 <div class="text-center img-border">
 
-[![](widget_thumb.jpg)](widget.png)
+[![](https://swharden.com/static/2016/07/31/widget_thumb.jpg)](https://swharden.com/static/2016/07/31/widget.png)
 
 </div>

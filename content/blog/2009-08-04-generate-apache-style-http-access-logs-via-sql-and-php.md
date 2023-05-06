@@ -10,7 +10,7 @@ __Does your web hosting company block access to access.log, the text file contai
 
 <div class="text-center img-border">
 
-[![](sql_php_http_log_viewer_thumb.jpg)](sql_php_http_log_viewer.jpg)
+[![](https://swharden.com/static/2009/08/04/sql_php_http_log_viewer_thumb.jpg)](https://swharden.com/static/2009/08/04/sql_php_http_log_viewer.jpg)
 
 </div>
 
@@ -185,12 +185,12 @@ $i++;
 </html>
 ```
 
-__And you're done!__  This example is a simplified, bare bones example.  You can take this a long way if you'd like.  My goal is lite & flexible.  A quick query from [Python](http://www.python.org) and [Matplotlib](matplotlib.sourceforge.net/) (for example) yields gorgeous visual representations of otherwise-convoluted data!
+__And you're done!__  This example is a simplified, bare bones example.  You can take this a long way if you'd like.  My goal is lite & flexible.  A quick query from [Python](http://www.python.org) and [Matplotlib](https://swharden.com/static/2009/08/04/matplotlib.sourceforge.net/) (for example) yields gorgeous visual representations of otherwise-convoluted data!
 <a href="http://www.SWHarden.com/blog/images/graph_time.png" onclick="javascript:urchinTracker ('/outbound/article/www.SWHarden.com');">
 
 <div class="text-center">
 
-[![](graph_time_thumb.jpg)](graph_time.png)
+[![](https://swharden.com/static/2009/08/04/graph_time_thumb.jpg)](https://swharden.com/static/2009/08/04/graph_time.png)
 
 </div>
 

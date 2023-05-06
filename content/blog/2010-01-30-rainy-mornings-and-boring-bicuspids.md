@@ -10,7 +10,7 @@ __Dental school is taking a lot of time away from me.__ I try my best to compart
 
 <div class="text-center img-border">
 
-[![](Ten_Tec_Century_21_thumb.jpg)](Ten_Tec_Century_21.jpg)
+[![](https://swharden.com/static/2010/01/30/Ten_Tec_Century_21_thumb.jpg)](https://swharden.com/static/2010/01/30/Ten_Tec_Century_21.jpg)
 
 </div>
 
@@ -18,14 +18,14 @@ __I made my first Morse code contact__ from my apartment! This is the radio I'm 
 
 <div class="text-center img-border">
 
-[![](antennaBig_thumb.jpg)](antennaBig.jpg)
+[![](https://swharden.com/static/2010/01/30/antennaBig_thumb.jpg)](https://swharden.com/static/2010/01/30/antennaBig.jpg)
 
 </div>
 
 <div class="text-center img-border img-small">
 
-[![](antennaBigger_thumb.jpg)](antennaBigger.jpg)
-[![](antennaCoil_thumb.jpg)](antennaCoil.jpg)
+[![](https://swharden.com/static/2010/01/30/antennaBigger_thumb.jpg)](https://swharden.com/static/2010/01/30/antennaBigger.jpg)
+[![](https://swharden.com/static/2010/01/30/antennaCoil_thumb.jpg)](https://swharden.com/static/2010/01/30/antennaCoil.jpg)
 
 </div>
 

@@ -10,7 +10,7 @@ __My expression is completely flat right now.__ I simply cannot believe I'm abou
 
 <div class="text-center img-border">
 
-[![](flowering_primes_thumb.jpg)](flowering_primes.png)
+[![](https://swharden.com/static/2010/08/11/flowering_primes_thumb.jpg)](https://swharden.com/static/2010/08/11/flowering_primes.png)
 
 </div>
 

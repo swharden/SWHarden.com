@@ -11,7 +11,7 @@ tags: ["blazor", "csharp"]
 
 Live Demo: [LJPcalc](https://swharden.com/LJPcalc/) ([source code](https://github.com/swharden/LJPcalc))
 
-<img src="blazor-load-progress-v2.gif" class="mx-auto d-block border shadow my-5">
+<img src="https://swharden.com/static/2022/05/29/blazor-load-progress-v2.gif" class="mx-auto d-block border shadow my-5">
 
 ## Step 1: Add a progress bar
 
@@ -42,12 +42,12 @@ See [Bootstrap's progressbar page](https://getbootstrap.com/docs/5.2/components/
 Edit index.html and identify where your app loads Blazor resources:
 
 ```html
-<script src="_framework/blazor.webassembly.js"></script>
+<script src="https://swharden.com/static/2022/05/29/_framework/blazor.webassembly.js"></script>
 ```
 
 Update that script so it does _not_ download automatically:
 ```html
-<script src="_framework/blazor.webassembly.js" autostart="false"></script>
+<script src="https://swharden.com/static/2022/05/29/_framework/blazor.webassembly.js" autostart="false"></script>
 ```
 
 ## Step 3: Create a Blazor Startup Script

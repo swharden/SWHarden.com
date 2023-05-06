@@ -12,7 +12,7 @@ __I got a big bag of fresh, new, copper clad PC board__ and I now wish I purchas
 
 <div class="text-center img-border">
 
-[![](IMG_5278_thumb.jpg)](IMG_5278.jpg)
+[![](https://swharden.com/static/2011/02/09/IMG_5278_thumb.jpg)](https://swharden.com/static/2011/02/09/IMG_5278.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ As you can see, it's running on 9V batteries! The frequency counter has its own 
 
 <div class="text-center img-border">
 
-[![](IMG_5275_thumb.jpg)](IMG_5275.jpg)
+[![](https://swharden.com/static/2011/02/09/IMG_5275_thumb.jpg)](https://swharden.com/static/2011/02/09/IMG_5275.jpg)
 
 </div>
 
@@ -28,7 +28,7 @@ I now have a small battery powered handheld frequency counter. SWEET! I need to 
 
 <div class="text-center img-border">
 
-[![](IMG_5261_thumb.jpg)](IMG_5261.jpg)
+[![](https://swharden.com/static/2011/02/09/IMG_5261_thumb.jpg)](https://swharden.com/static/2011/02/09/IMG_5261.jpg)
 
 </div>
 
@@ -36,7 +36,7 @@ This is the receiver component. It's about as simple as it gets. No antenna or h
 
 <div class="text-center img-border">
 
-[![](IMG_5263_thumb.jpg)](IMG_5263.jpg)
+[![](https://swharden.com/static/2011/02/09/IMG_5263_thumb.jpg)](https://swharden.com/static/2011/02/09/IMG_5263.jpg)
 
 </div>
 
@@ -44,7 +44,7 @@ For this board, I added a buffer chip (74HC240) to take the pretty sine wave and
 
 <div class="text-center img-border">
 
-[![](IMG_5284_thumb.jpg)](IMG_5284.jpg)
+[![](https://swharden.com/static/2011/02/09/IMG_5284_thumb.jpg)](https://swharden.com/static/2011/02/09/IMG_5284.jpg)
 
 </div>
 
@@ -52,6 +52,6 @@ The quality of the oscillator is reflected in the smoothness of the sine wave (p
 
 <div class="text-center img-border">
 
-[![](IMG_5282_thumb.jpg)](IMG_5282.jpg)
+[![](https://swharden.com/static/2011/02/09/IMG_5282_thumb.jpg)](https://swharden.com/static/2011/02/09/IMG_5282.jpg)
 
 </div>

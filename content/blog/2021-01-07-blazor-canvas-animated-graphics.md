@@ -10,12 +10,12 @@ tags: ["blazor", "csharp"]
 
 <div class="text-center">
 
-[![](blazor-canvas-demo.gif)](app)
+[![](https://swharden.com/static/2021/01/07/blazor-canvas-demo.gif)](https://swharden.com/static/2021/01/07/app)
 
 </div>
 
-* [**View the live demo**](app)
-* [**Download the source code**](blazor-canvas.zip)
+* [**View the live demo**](https://swharden.com/static/2021/01/07/app)
+* [**Download the source code**](https://swharden.com/static/2021/01/07/blazor-canvas.zip)
 
 ## Strategy
 
@@ -245,8 +245,8 @@ For simplicity it's demonstrated here using a code-behind, but a clearer strateg
 
 * **A hybrid JavaScript/C# architecture is be possible** involving exchange of graphics model _data_, whereby JavaScript is used to render a model but C# is used to advanced the model. This could be achieved with a single interop call passing model data as JSON. This is explored in the later blog posts [Mystify your Browser with Blazor](https://swharden.com/blog/2021-01-09-blazor-mystify/) and [Boids in your Browser with Blazor](https://swharden.com/blog/2021-01-08-blazor-boids/).
 
-* **Live demo of this project**: [Ball field demo](app)
+* **Live demo of this project**: [Ball field demo](https://swharden.com/static/2021/01/07/app)
 
-* **Source code for this project**: [blazor-canvas.zip](app)
+* **Source code for this project**: [blazor-canvas.zip](https://swharden.com/static/2021/01/07/app)
 
 * **C# Data Visualization:** https://github.com/swharden/Csharp-Data-Visualization

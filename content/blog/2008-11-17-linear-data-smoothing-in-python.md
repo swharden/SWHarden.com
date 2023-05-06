@@ -29,7 +29,7 @@ Provide a list and it will return a smoother version of the data. The Gaussian s
 
 <div class="text-center">
 
-[![](smooth_thumb.jpg)](smooth.png)
+[![](https://swharden.com/static/2008/11/17/smooth_thumb.jpg)](https://swharden.com/static/2008/11/17/smooth.png)
 
 </div>
 
@@ -108,7 +108,7 @@ This data needs smoothing. Below is a visual representation of the differences i
 
 <div class="text-center">
 
-[![](smooth2_thumb.jpg)](smooth2.png)
+[![](https://swharden.com/static/2008/11/17/smooth2_thumb.jpg)](https://swharden.com/static/2008/11/17/smooth2.png)
 
 </div>
 

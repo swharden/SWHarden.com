@@ -9,7 +9,7 @@ __I put the transmitter from the previous post to the test.__ I changed the circ
 
 <div class="text-center img-border">
 
-[![](qrss_fade_thumb.jpg)](qrss_fade.png)
+[![](https://swharden.com/static/2009/05/04/qrss_fade_thumb.jpg)](https://swharden.com/static/2009/05/04/qrss_fade.png)
 
 </div>
 
@@ -17,7 +17,7 @@ __In retrospect, I should have run Argo at my apartment and drove the _transmitt
 
 <div class="text-center img-border">
 
-[![](firsttransmap_thumb.jpg)](firsttransmap.png)
+[![](https://swharden.com/static/2009/05/04/firsttransmap_thumb.jpg)](https://swharden.com/static/2009/05/04/firsttransmap.png)
 
 </div>
 

@@ -12,10 +12,10 @@ Here is some sample output:
 
 <div class="text-center">
 
-[![](test_24hr-1_thumb.jpg)](test_24hr-1.png)
-[![](test_average_thumb.jpg)](test_average.png)
-[![](test_alltime-1_thumb.jpg)](test_alltime-1.png)
-[![](test_60min_thumb.jpg)](test_60min.png)
+[![](https://swharden.com/static/2009/07/26/test_24hr-1_thumb.jpg)](https://swharden.com/static/2009/07/26/test_24hr-1.png)
+[![](https://swharden.com/static/2009/07/26/test_average_thumb.jpg)](https://swharden.com/static/2009/07/26/test_average.png)
+[![](https://swharden.com/static/2009/07/26/test_alltime-1_thumb.jpg)](https://swharden.com/static/2009/07/26/test_alltime-1.png)
+[![](https://swharden.com/static/2009/07/26/test_60min_thumb.jpg)](https://swharden.com/static/2009/07/26/test_60min.png)
 
 </div>
 

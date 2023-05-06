@@ -9,7 +9,7 @@ __While continuing to investigate__ my options for the new version of QRSS VD, I
 
 <div class="text-center img-border">
 
-[![](glade_python_improving_thumb.jpg)](glade_python_improving.png)
+[![](https://swharden.com/static/2010/06/26/glade_python_improving_thumb.jpg)](https://swharden.com/static/2010/06/26/glade_python_improving.png)
 
 </div>
 

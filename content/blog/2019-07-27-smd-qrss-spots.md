@@ -16,7 +16,7 @@ I was really strong on VE1VDM's grabber last night, but I found it interesting t
 
 <div class="text-center img-border">
 
-[![](VE1VDM.1907290830.35415d51dc_thumb.jpg)](VE1VDM.1907290830.35415d51dc.jpg)
+[![](https://swharden.com/static/2019/07/27/VE1VDM.1907290830.35415d51dc_thumb.jpg)](https://swharden.com/static/2019/07/27/VE1VDM.1907290830.35415d51dc.jpg)
 
 </div>
 
@@ -24,7 +24,7 @@ I was really strong on VE1VDM's grabber last night, but I found it interesting t
 
 <div class="text-center img-border">
 
-[![](VE1VDM.1907290940_thumb.jpg)](VE1VDM.1907290940.jpg)
+[![](https://swharden.com/static/2019/07/27/VE1VDM.1907290940_thumb.jpg)](https://swharden.com/static/2019/07/27/VE1VDM.1907290940.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ I spotted my signal across the Atlantic. It's pretty weak, but you can just make
 
 <div class="text-center img-border">
 
-[![](EA8BVP1.1907302050_thumb.jpg)](EA8BVP1.1907302050.jpg)
+[![](https://swharden.com/static/2019/07/27/EA8BVP1.1907302050_thumb.jpg)](https://swharden.com/static/2019/07/27/EA8BVP1.1907302050.jpg)
 
 </div>
 
@@ -44,13 +44,13 @@ I spotted my signal in Sweden. This hint of my transmitter was captured by SA6BS
 
 <div class="text-center img-border">
 
-[![](SA6BSS-AJ4VD_thumb.jpg)](SA6BSS-AJ4VD.jpg)
+[![](https://swharden.com/static/2019/07/27/SA6BSS-AJ4VD_thumb.jpg)](https://swharden.com/static/2019/07/27/SA6BSS-AJ4VD.jpg)
 
 </div>
 
 <div class="text-center img-border img-medium">
 
-[![](globe_thumb.jpg)](globe.png)
+[![](https://swharden.com/static/2019/07/27/globe_thumb.jpg)](https://swharden.com/static/2019/07/27/globe.png)
 
 </div>
 
@@ -62,6 +62,6 @@ I spotted my signal in Switzerland
 
 <div class="text-center img-border">
 
-[![](HB9EHO_thumb.jpg)](HB9EHO.jpg)
+[![](https://swharden.com/static/2019/07/27/HB9EHO_thumb.jpg)](https://swharden.com/static/2019/07/27/HB9EHO.jpg)
 
 </div>

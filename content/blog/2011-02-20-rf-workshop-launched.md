@@ -11,7 +11,7 @@ __The _Radio Active Workshop_ kicked off a couple weeks ago__ in the engineering
 
 <div class="text-center img-border">
 
-[![](rag1_thumb.jpg)](rag1.jpg)
+[![](https://swharden.com/static/2011/02/20/rag1_thumb.jpg)](https://swharden.com/static/2011/02/20/rag1.jpg)
 
 </div>
 
@@ -19,7 +19,7 @@ __This was the first time__ many students worked on copper boards, as most of th
 
 <div class="text-center img-border">
 
-[![](rag2_thumb.jpg)](rag2.jpg)
+[![](https://swharden.com/static/2011/02/20/rag2_thumb.jpg)](https://swharden.com/static/2011/02/20/rag2.jpg)
 
 </div>
 
@@ -27,7 +27,7 @@ __One thing that struck me as a challenge__ is the difference in levels of exper
 
 <div class="text-center img-border">
 
-[![](rag3_thumb.jpg)](rag3.jpg)
+[![](https://swharden.com/static/2011/02/20/rag3_thumb.jpg)](https://swharden.com/static/2011/02/20/rag3.jpg)
 
 </div>
 
@@ -36,7 +36,7 @@ __There are many other projects__ which would be fun to work on! A cheap and sim
 
 <div class="text-center img-border">
 
-[![](angelina_harden_2_thumb.jpg)](angelina_harden_2.jpg)
+[![](https://swharden.com/static/2011/02/20/angelina_harden_2_thumb.jpg)](https://swharden.com/static/2011/02/20/angelina_harden_2.jpg)
 
 </div>
 
@@ -46,8 +46,8 @@ go in that direction. PCBs imply "finished" circuits, and I don't want to give t
 
 <div class="text-center img-border">
 
-[![](DSCN1256_thumb.jpg)](DSCN1256.jpg)
-[![](DSCN1251_thumb.jpg)](DSCN1251.jpg)
+[![](https://swharden.com/static/2011/02/20/DSCN1256_thumb.jpg)](https://swharden.com/static/2011/02/20/DSCN1256.jpg)
+[![](https://swharden.com/static/2011/02/20/DSCN1251_thumb.jpg)](https://swharden.com/static/2011/02/20/DSCN1251.jpg)
 
 </div>
 
@@ -59,7 +59,7 @@ __Here's my most recent schematic:__
 
 <div class="text-center img-border">
 
-[![](sa612_rx_thumb.jpg)](sa612_rx.jpg)
+[![](https://swharden.com/static/2011/02/20/sa612_rx_thumb.jpg)](https://swharden.com/static/2011/02/20/sa612_rx.jpg)
 
 </div>
 

@@ -9,7 +9,7 @@ __One of my recent fascinations__ __is QRSS, a super-low power mode of transmiss
 
 <div class="text-center img-border">
 
-![](parallelism.jpg)
+![](https://swharden.com/static/2009/03/04/parallelism.jpg)
 
 </div>
 

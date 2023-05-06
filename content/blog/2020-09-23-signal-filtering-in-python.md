@@ -6,11 +6,11 @@ tags: ["python"]
 
 # Signal Filtering in Python
 
-**Over a decade ago I posted code demonstrating how to filter data in Python, but there have been many improvements since then.** My original posts ([1](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), [2](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/), [3](https://swharden.com/blog/2010-06-20-smoothing-window-data-averaging-in-python-moving-triangle-tecnique/), [4](https://swharden.com/blog/2010-06-24-detrending-data-in-python-with-numpy/)) required creating discrete filtering functions, but modern approaches can leverage Numpy and Scipy to do this more easily and efficiently. In this article we will use [`scipy.signal.filtfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html) to apply low-pass, high-pass, and band-pass filters to reduce noise in an ECG signal (stored in [ecg.wav](ecg.wav) (created as part of my [Sound Card ECG](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/) project).
+**Over a decade ago I posted code demonstrating how to filter data in Python, but there have been many improvements since then.** My original posts ([1](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), [2](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/), [3](https://swharden.com/blog/2010-06-20-smoothing-window-data-averaging-in-python-moving-triangle-tecnique/), [4](https://swharden.com/blog/2010-06-24-detrending-data-in-python-with-numpy/)) required creating discrete filtering functions, but modern approaches can leverage Numpy and Scipy to do this more easily and efficiently. In this article we will use [`scipy.signal.filtfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html) to apply low-pass, high-pass, and band-pass filters to reduce noise in an ECG signal (stored in [ecg.wav](https://swharden.com/static/2020/09/23/ecg.wav) (created as part of my [Sound Card ECG](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/) project).
 
 <div class="text-center">
 
-![](signal-lowpass-filter.png)
+![](https://swharden.com/static/2020/09/23/signal-lowpass-filter.png)
 
 </div>
 
@@ -33,7 +33,7 @@ filtered = scipy.signal.filtfilt(b, a, data)
 
 <div class="text-center">
 
-![](signal-lowpass-ecg.png)
+![](https://swharden.com/static/2020/09/23/signal-lowpass-ecg.png)
 
 </div>
 
@@ -77,7 +77,7 @@ plt.show()
 
 <div class="text-center">
 
-![](signal-lowpass-cutoff.png)
+![](https://swharden.com/static/2020/09/23/signal-lowpass-cutoff.png)
 
 </div>
 
@@ -106,7 +106,7 @@ plt.show()
 
 <div class="text-center">
 
-![](signal-method-gust.png)
+![](https://swharden.com/static/2020/09/23/signal-method-gust.png)
 
 </div>
 
@@ -127,7 +127,7 @@ filteredBandPass = scipy.signal.lfilter(b, a, data)
 
 <div class="text-center">
 
-![](signal-lowpass-highpass-bandpass.png)
+![](https://swharden.com/static/2020/09/23/signal-lowpass-highpass-bandpass.png)
 
 </div>
 
@@ -149,7 +149,7 @@ filtered = np.convolve(window, data, mode='valid')
 
 <div class="text-center">
 
-![](signal-convolution-filter.png)
+![](https://swharden.com/static/2020/09/23/signal-convolution-filter.png)
 
 </div>
 
@@ -171,11 +171,11 @@ plt.title("Filtered")
 
 ## Resources
 
-* Sample data: [ecg.wav](ecg.wav)
+* Sample data: [ecg.wav](https://swharden.com/static/2020/09/23/ecg.wav)
 
 * [Sound Card ECG](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
 
-* Jupyter notebook for this page: [signal-filtering.ipynb](signal-filtering.ipynb)
+* Jupyter notebook for this page: [signal-filtering.ipynb](https://swharden.com/static/2020/09/23/signal-filtering.ipynb)
 
 * SciPy Cookbook: [Filtfilt](https://scipy-cookbook.readthedocs.io/items/FiltFilt.html), [Buterworth Bandpass Filter](https://scipy-cookbook.readthedocs.io/items/ButterworthBandpass.html)
 

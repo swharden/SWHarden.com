@@ -18,7 +18,7 @@ tags: ["circuit"]
 
 <div class="text-center">
 
-[![](teardown_thumb.jpg)](teardown.jpg)
+[![](https://swharden.com/static/2017/09/02/teardown_thumb.jpg)](https://swharden.com/static/2017/09/02/teardown.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](069_thumb.jpg)](069.jpg)
+[![](https://swharden.com/static/2017/09/02/069_thumb.jpg)](https://swharden.com/static/2017/09/02/069.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](095_thumb.jpg)](095.jpg)
+[![](https://swharden.com/static/2017/09/02/095_thumb.jpg)](https://swharden.com/static/2017/09/02/095.jpg)
 
 </div>
 
@@ -44,7 +44,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](145_thumb.jpg)](145.jpg)
+[![](https://swharden.com/static/2017/09/02/145_thumb.jpg)](https://swharden.com/static/2017/09/02/145.jpg)
 
 </div>
 
@@ -52,7 +52,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](158_thumb.jpg)](158.jpg)
+[![](https://swharden.com/static/2017/09/02/158_thumb.jpg)](https://swharden.com/static/2017/09/02/158.jpg)
 
 </div>
 
@@ -60,7 +60,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](161_thumb.jpg)](161.jpg)
+[![](https://swharden.com/static/2017/09/02/161_thumb.jpg)](https://swharden.com/static/2017/09/02/161.jpg)
 
 </div>
 
@@ -68,7 +68,7 @@ tags: ["circuit"]
 
 <div class="text-center img-border">
 
-[![](166_thumb.jpg)](166.jpg)
+[![](https://swharden.com/static/2017/09/02/166_thumb.jpg)](https://swharden.com/static/2017/09/02/166.jpg)
 
 </div>
 

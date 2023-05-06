@@ -8,7 +8,7 @@ tags: ["amateur radio", "qrss"]
 
 <div class="text-center img-border">
 
-![](qrss.jpg)
+![](https://swharden.com/static/2009/04/15/qrss.jpg)
 
 </div>
 
@@ -16,7 +16,7 @@ __I've taken the plunge__ into the geek world by becoming a licensed amateur rad
 
 <div class="text-center img-border">
 
-[![](radiospec_thumb.jpg)](radiospec.png)
+[![](https://swharden.com/static/2009/04/15/radiospec_thumb.jpg)](https://swharden.com/static/2009/04/15/radiospec.png)
 
 </div>
 

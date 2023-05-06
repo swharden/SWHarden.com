@@ -17,7 +17,7 @@ __Here's a video demonstrating how the output is shown in real time with custom 
 
 <div class="text-center">
 
-[![](ECG_1470609065_thumb.jpg)](ECG_1470609065.png)
+[![](https://swharden.com/static/2016/08/08/ECG_1470609065_thumb.jpg)](https://swharden.com/static/2016/08/08/ECG_1470609065.png)
 
 </div>
 
@@ -25,7 +25,7 @@ __Here's a video demonstrating how the output is shown in real time with custom 
 
 <div class="text-center">
 
-[![](circuit_thumb.jpg)](circuit.jpg)
+[![](https://swharden.com/static/2016/08/08/circuit_thumb.jpg)](https://swharden.com/static/2016/08/08/circuit.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ __The circuit is simple, but a lot of time and thought and experimentation went 
 
 <div class="text-center img-border">
 
-[![](IMG_7574_thumb.jpg)](IMG_7574.jpg)
+[![](https://swharden.com/static/2016/08/08/IMG_7574_thumb.jpg)](https://swharden.com/static/2016/08/08/IMG_7574.jpg)
 
 </div>
 
@@ -56,7 +56,7 @@ __For those of you who would rather see a picture than a schematic__, here's a d
 
 <div class="text-center">
 
-[![](design_thumb.jpg)](design.jpg)
+[![](https://swharden.com/static/2016/08/08/design_thumb.jpg)](https://swharden.com/static/2016/08/08/design.jpg)
 
 </div>
 
@@ -64,7 +64,7 @@ __The most comfortable electrodes I used were made for muscle simulators.__ A fr
 
 <div class="text-center img-border">
 
-[![](IMG_7576_thumb.jpg)](IMG_7576.jpg)
+[![](https://swharden.com/static/2016/08/08/IMG_7576_thumb.jpg)](https://swharden.com/static/2016/08/08/IMG_7576.jpg)
 
 </div>
 
@@ -74,8 +74,8 @@ __You can make your own electrodes for $0.03!__ Okay that's a terrible joke, but
 
 <div class="text-center img-border img-small">
 
-[![](IMG_7527_thumb.jpg)](IMG_7527.jpg)
-[![](IMG_7570-1_thumb.jpg)](IMG_7570-1.jpg)
+[![](https://swharden.com/static/2016/08/08/IMG_7527_thumb.jpg)](https://swharden.com/static/2016/08/08/IMG_7527.jpg)
+[![](https://swharden.com/static/2016/08/08/IMG_7570-1_thumb.jpg)](https://swharden.com/static/2016/08/08/IMG_7570-1.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ This ECG was recorded using pennies as electrodes:
 
 <div class="text-center">
 
-[![](ECG_1470611901_thumb.jpg)](ECG_1470611901.png)
+[![](https://swharden.com/static/2016/08/08/ECG_1470611901_thumb.jpg)](https://swharden.com/static/2016/08/08/ECG_1470611901.png)
 
 </div>
 

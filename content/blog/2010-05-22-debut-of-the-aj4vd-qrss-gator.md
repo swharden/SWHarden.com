@@ -10,7 +10,7 @@ __I re-wrote the code__ from the previous entry to do several things. Once of wh
 
 <div class="text-center img-border">
 
-[![](aj4vd_gator_thumb.jpg)](aj4vd_gator.png)
+[![](https://swharden.com/static/2010/05/22/aj4vd_gator_thumb.jpg)](https://swharden.com/static/2010/05/22/aj4vd_gator.png)
 
 </div>
 

@@ -10,7 +10,7 @@ tags: ["science", "circuit"]
 
 <div class="text-center">
 
-![](whole-cell-voltage-clamp-diagram.png)
+![](https://swharden.com/static/2020/10/11/whole-cell-voltage-clamp-diagram.png)
 
 </div>
 
@@ -58,7 +58,7 @@ tags: ["science", "circuit"]
 
 <div class="text-center img-border">
 
-![](voltage-clamp-circuit.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-circuit.png)
 
 </div>
 
@@ -70,7 +70,7 @@ tags: ["science", "circuit"]
 
 <div class="text-center img-border">
 
-![](voltage-clamp-simulation.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-simulation.png)
 
 </div>
 
@@ -84,7 +84,7 @@ tags: ["science", "circuit"]
 
 <div class="text-center img-border">
 
-![](voltage-clamp-filter.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-filter.png)
 
 </div>
 
@@ -112,7 +112,7 @@ Notice I use math to get the difference of `Vout` and `Vcmd`, but in practice th
 
 <div class="text-center img-border">
 
-![](voltage-clamp-Cp100-Cf0.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-Cp100-Cf0.png)
 
 </div>
 
@@ -120,7 +120,7 @@ Notice I use math to get the difference of `Vout` and `Vcmd`, but in practice th
 
 <div class="text-center img-border">
 
-![](voltage-clamp-Cp100-Cf1.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-Cp100-Cf1.png)
 
 </div>
 
@@ -130,8 +130,8 @@ Notice I use math to get the difference of `Vout` and `Vcmd`, but in practice th
 
 <div class="text-center img-border">
 
-![](two-electrode-circuit.png)
-![](two-electrode-simulation.png)
+![](https://swharden.com/static/2020/10/11/two-electrode-circuit.png)
+![](https://swharden.com/static/2020/10/11/two-electrode-simulation.png)
 
 </div>
 
@@ -169,7 +169,7 @@ Iclamp = l.getData('I(Rf)') * 1e12  # pA
 
 <div class="text-center">
 
-![](voltage-clamp-simple-fig1.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-simple-fig1.png)
 
 </div>
 
@@ -203,7 +203,7 @@ plt.show()
 
 <div class="text-center">
 
-![](voltage-clamp-memtest-circuit.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-memtest-circuit.png)
 
 </div>
 
@@ -213,7 +213,7 @@ Now let's run the simulation and save the output...
 
 <div class="text-center">
 
-![](voltage-clamp-memtest-simulation.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-memtest-simulation.png)
 
 </div>
 
@@ -221,7 +221,7 @@ I created a diagram to make it easier to refer to components of the membrane tes
 
 <div class="text-center">
 
-![](voltage-clamp-square-membrane-test.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-square-membrane-test.png)
 
 </div>
 
@@ -239,7 +239,7 @@ I<sub>t</sub> = I<sub>d</sub> * exp(-t / τ<sub>clamp</sub>) + I<sub>ss</sub>
 
 <div class="text-center">
 
-![](voltage-clamp-simple-fig5.png)
+![](https://swharden.com/static/2020/10/11/voltage-clamp-simple-fig5.png)
 
 </div>
 
@@ -250,7 +250,7 @@ I<sub>t</sub> = I<sub>d</sub> * exp(-t / τ<sub>clamp</sub>) + I<sub>ss</sub>
 I<sub>t</sub> = m \* exp(-t / tau) + b
 
 
-![](mt1.png)
+![](https://swharden.com/static/2020/10/11/mt1.png)
 
 </div>
 
@@ -348,7 +348,7 @@ Accuracy of this value will be improved when we apply leak current correction de
 
 <div class="text-center">
 
-![](mt2.png)
+![](https://swharden.com/static/2020/10/11/mt2.png)
 
 </div>
 
@@ -405,7 +405,7 @@ Ra^2 - Ra * Rt + Rt * (Tau/Cm) = 0
 
 <div class="text-center">
 
-![](mtramp1.png)
+![](https://swharden.com/static/2020/10/11/mtramp1.png)
 
 </div>
 
@@ -413,7 +413,7 @@ Ra^2 - Ra * Rt + Rt * (Tau/Cm) = 0
 
 <div class="text-center">
 
-![](mtramp2.png)
+![](https://swharden.com/static/2020/10/11/mtramp2.png)
 
 </div>
 
@@ -421,7 +421,7 @@ Ra^2 - Ra * Rt + Rt * (Tau/Cm) = 0
 
 <div class="text-center">
 
-![](mtramp3.png)
+![](https://swharden.com/static/2020/10/11/mtramp3.png)
 
 </div>
 
@@ -461,7 +461,7 @@ Cm (ramp)|150 pF|149.993 pF|<.01%
 
 * [The Patch-clamp Technique Explained And Exercised With The Use Of Simple Electrical Equivalent Circuits](https://mdc.custhelp.com/euf/assets/images/KB864_ModelCells.pdf) by Dirk L Ypey and Louis J. DeFelice
  
-* [Series Resistance Compensation](Drexel_Gao_Lab_Series_Resistance_Compensation.pdf) by [Wen-Jun Gao](https://drexel.edu/medicine/about/departments/neurobiology-anatomy/research/gao-lab/)
+* [Series Resistance Compensation](https://swharden.com/static/2020/10/11/Drexel_Gao_Lab_Series_Resistance_Compensation.pdf) by [Wen-Jun Gao](https://drexel.edu/medicine/about/departments/neurobiology-anatomy/research/gao-lab/)
 
 * [How to correct for series resistance (and whole cell capacitance) in real cells](http://www.billconnelly.net/?p=616) by [Bill Connelly](https://www.utas.edu.au/profiles/staff/health/bill-connelly)
 

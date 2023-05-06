@@ -10,9 +10,9 @@ __I've been using a new HF antenna recently__ with surprisingly good results. Ho
 
 <div class="text-center img-border">
 
-[![](IMG_4631_thumb.jpg)](IMG_4631.jpg)
-[![](IMG_4632_thumb.jpg)](IMG_4632.jpg)
-[![](arrows_thumb.jpg)](arrows.jpg)
+[![](https://swharden.com/static/2010/11/29/IMG_4631_thumb.jpg)](https://swharden.com/static/2010/11/29/IMG_4631.jpg)
+[![](https://swharden.com/static/2010/11/29/IMG_4632_thumb.jpg)](https://swharden.com/static/2010/11/29/IMG_4632.jpg)
+[![](https://swharden.com/static/2010/11/29/arrows_thumb.jpg)](https://swharden.com/static/2010/11/29/arrows.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ __Notice that I only wrapped the highest element with wire.__ (The arrows in the
 
 <div class="text-center img-border">
 
-[![](antenna-stitched_thumb.jpg)](antenna-stitched.jpg)
+[![](https://swharden.com/static/2010/11/29/antenna-stitched_thumb.jpg)](https://swharden.com/static/2010/11/29/antenna-stitched.jpg)
 
 </div>
 

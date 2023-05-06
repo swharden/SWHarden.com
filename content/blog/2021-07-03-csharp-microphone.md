@@ -69,7 +69,7 @@ private static string GetBars(double fraction, int barCount = 35)
 
 <div class="text-center">
 
-![](microphone-mono.gif)
+![](https://swharden.com/static/2021/07/03/microphone-mono.gif)
 
 </div>
 
@@ -103,7 +103,7 @@ private static void ShowPeakStereo(object sender, NAudio.Wave.WaveInEventArgs ar
 
 <div class="text-center">
 
-![](microphone-stereo.gif)
+![](https://swharden.com/static/2021/07/03/microphone-stereo.gif)
 
 </div>
 

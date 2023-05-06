@@ -10,8 +10,8 @@ tags: ["med"]
 
 <div class="text-center img-border img-medium">
 
-[![](IMG_4565_thumb.jpg)](IMG_4565.jpg)
-[![](IMG_0016_thumb.jpg)](IMG_0016.jpg)
+[![](https://swharden.com/static/2019/03/26/IMG_4565_thumb.jpg)](https://swharden.com/static/2019/03/26/IMG_4565.jpg)
+[![](https://swharden.com/static/2019/03/26/IMG_0016_thumb.jpg)](https://swharden.com/static/2019/03/26/IMG_0016.jpg)
 
 </div>
 
@@ -19,6 +19,6 @@ tags: ["med"]
 
 <div class="text-center img-border">
 
-[![](IMG_0022_thumb.jpg)](IMG_0022.jpg)
+[![](https://swharden.com/static/2019/03/26/IMG_0022_thumb.jpg)](https://swharden.com/static/2019/03/26/IMG_0022.jpg)
 
 </div>

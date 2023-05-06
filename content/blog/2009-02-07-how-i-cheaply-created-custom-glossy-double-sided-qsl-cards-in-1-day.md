@@ -14,7 +14,7 @@ __Once I got a HF rig for my apartment__ (a Century 21 CW-only HF rig which puts
 
 <div class="text-center img-border">
 
-[![](12_donefront_thumb.jpg)](12_donefront.jpg)
+[![](https://swharden.com/static/2009/02/07/12_donefront_thumb.jpg)](https://swharden.com/static/2009/02/07/12_donefront.jpg)
 
 </div>
 
@@ -22,9 +22,9 @@ __Step 1: Design the cards with the correct dimensions.__ The most cost-effectiv
 
 <div class="text-center img-border">
 
-[![](florida_thumb.jpg)](florida.png)
+[![](https://swharden.com/static/2009/02/07/florida_thumb.jpg)](https://swharden.com/static/2009/02/07/florida.png)
 
-[![](01_qsl_photos_thumb.jpg)](01_qsl_photos.jpg)
+[![](https://swharden.com/static/2009/02/07/01_qsl_photos_thumb.jpg)](https://swharden.com/static/2009/02/07/01_qsl_photos.jpg)
 
 </div>
 
@@ -32,7 +32,7 @@ __Step 2: Print the reverse side on full-size label paper.__ All I needed was so
 
 <div class="text-center img-border">
 
-[![](03_backs_thumb.jpg)](03_backs.jpg)
+[![](https://swharden.com/static/2009/02/07/03_backs_thumb.jpg)](https://swharden.com/static/2009/02/07/03_backs.jpg)
 
 </div>
 
@@ -40,13 +40,13 @@ Here's what the adhesive paper looked like after printing:
 
 <div class="text-center img-border">
 
-[![](04_cutback_thumb.jpg)](04_cutback.jpg)
+[![](https://swharden.com/static/2009/02/07/04_cutback_thumb.jpg)](https://swharden.com/static/2009/02/07/04_cutback.jpg)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](05_back_thumb.jpg)](05_back.jpg)
+[![](https://swharden.com/static/2009/02/07/05_back_thumb.jpg)](https://swharden.com/static/2009/02/07/05_back.jpg)
 
 </div>
 
@@ -54,13 +54,13 @@ __Step 3: Attach backings to QSL cards.__ This part is easy if you have a paper 
 
 <div class="text-center img-border">
 
-[![](06_peel_thumb.jpg)](06_peel.jpg)
+[![](https://swharden.com/static/2009/02/07/06_peel_thumb.jpg)](https://swharden.com/static/2009/02/07/06_peel.jpg)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](07_overhang_thumb.jpg)](07_overhang.jpg)
+[![](https://swharden.com/static/2009/02/07/07_overhang_thumb.jpg)](https://swharden.com/static/2009/02/07/07_overhang.jpg)
 
 </div>
 
@@ -68,13 +68,13 @@ Next, peel and stick on the backs of cards. Don't worry about overhang, we'll ta
 
 <div class="text-center img-border">
 
-[![](09_cut_thumb.jpg)](09_cut.jpg)
+[![](https://swharden.com/static/2009/02/07/09_cut_thumb.jpg)](https://swharden.com/static/2009/02/07/09_cut.jpg)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](10_nice_thumb.jpg)](10_nice.jpg)
+[![](https://swharden.com/static/2009/02/07/10_nice_thumb.jpg)](https://swharden.com/static/2009/02/07/10_nice.jpg)
 
 </div>
 
@@ -82,7 +82,7 @@ __Step 4: Trim the edges.__ Make sure you do this step _after _applying the stic
 
 <div class="text-center img-border">
 
-[![](11_niceback_thumb.jpg)](11_niceback.jpg)
+[![](https://swharden.com/static/2009/02/07/11_niceback_thumb.jpg)](https://swharden.com/static/2009/02/07/11_niceback.jpg)
 
 </div>
 
@@ -90,7 +90,7 @@ How nice does that look? If you did your math correctly, your new dimensions sho
 
 <div class="text-center img-border">
 
-[![](12_silver2_thumb.jpg)](12_silver2.jpg)
+[![](https://swharden.com/static/2009/02/07/12_silver2_thumb.jpg)](https://swharden.com/static/2009/02/07/12_silver2.jpg)
 
 </div>
 
@@ -98,7 +98,7 @@ __Step 5: fill-out information.__ I decided to use a metallic Sharpie to write t
 
 <div class="text-center img-border">
 
-[![](14_scribe_thumb.jpg)](14_scribe.jpg)
+[![](https://swharden.com/static/2009/02/07/14_scribe_thumb.jpg)](https://swharden.com/static/2009/02/07/14_scribe.jpg)
 
 </div>
 

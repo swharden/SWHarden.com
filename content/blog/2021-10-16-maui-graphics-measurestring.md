@@ -25,7 +25,7 @@ Code here demonstrates how I measure the pixel size of a string using `Maui.Grap
 </svg>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="#info-fill"/></svg>
+  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="https://swharden.com/static/2021/10/16/#info-fill"/></svg>
   <div>
     <strong>UPDATE:</strong> This article was written when <code>Microsoft.Maui.Graphics</code> was still in preview. See <a href="https://swharden.com/blog/2022-05-25-maui-graphics/" class="fw-bold">Drawing with Maui Graphics (blog post)</a> and <a href="https://swharden.com/csdv/" class="fw-bold">C# Data Visualization (website)</a> for updated code examples and information about using this library.
   </div>
@@ -76,7 +76,7 @@ Console.WriteLine(filePath);
 
 <div class="text-center">
 
-![](2022-02-19-maui-graphics-measure-string.png)
+![](https://swharden.com/static/2021/10/16/2022-02-19-maui-graphics-measure-string.png)
 
 </div>
 

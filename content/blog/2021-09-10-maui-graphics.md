@@ -13,7 +13,7 @@ By creating a graphics model using only `Maui.Graphics` dependencies, users can 
 
 <div class="text-center">
 
-![](maui-graphics-balls.gif)
+![](https://swharden.com/static/2021/09/10/maui-graphics-balls.gif)
 
 </div>
 
@@ -33,7 +33,7 @@ By creating a graphics model using only `Maui.Graphics` dependencies, users can 
 </svg>
 
 <div class="alert alert-primary d-flex align-items-center" role="alert">
-  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="#info-fill"/></svg>
+  <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="https://swharden.com/static/2021/09/10/#info-fill"/></svg>
   <div>
     <strong>UPDATE:</strong> This article was written when <code>Microsoft.Maui.Graphics</code> was still in preview. See <a href="https://swharden.com/blog/2022-05-25-maui-graphics/" class="fw-bold">Drawing with Maui Graphics (blog post)</a> and <a href="https://swharden.com/csdv/" class="fw-bold">C# Data Visualization (website)</a> for updated code examples and information about using this library.
   </div>
@@ -57,7 +57,7 @@ We need to get the windows forms MAUI control and all its dependencies. At the t
 
 <div class="text-center img-border">
 
-![](vs-maui.png)
+![](https://swharden.com/static/2021/09/10/vs-maui.png)
 
 </div>
 
@@ -123,7 +123,7 @@ public partial class Form1 : Form
 
 <div class="text-center">
 
-![](maui-graphics-winforms.gif)
+![](https://swharden.com/static/2021/09/10/maui-graphics-winforms.gif)
 
 </div>
 
@@ -156,7 +156,7 @@ public partial class MainWindow : Window
 
 <div class="text-center">
 
-![](maui-graphics-wpf.gif)
+![](https://swharden.com/static/2021/09/10/maui-graphics-wpf.gif)
 
 </div>
 
@@ -166,7 +166,7 @@ Since our project is configured to display the same graphics model with both Win
 
 <div class="text-center">
 
-![](maui-graphics-balls.gif)
+![](https://swharden.com/static/2021/09/10/maui-graphics-balls.gif)
 
 </div>
 
@@ -286,19 +286,19 @@ public class Ball
 
 ## Download This Project 
 
-* **Source Code:** [**Balls.zip**](2021-09-12-Balls.zip) (10 kB)
+* **Source Code:** [**Balls.zip**](https://swharden.com/static/2021/09/10/2021-09-12-Balls.zip) (10 kB)
 
-* **WinForms (GDI) Demo:** [**Balls-WinForms.exe**](2021-09-12-Balls.exe-WinForms.zip) (237 kB)
+* **WinForms (GDI) Demo:** [**Balls-WinForms.exe**](https://swharden.com/static/2021/09/10/2021-09-12-Balls.exe-WinForms.zip) (237 kB)
 
-* **WPF (Skia) Demo:** [**Balls-WPF.exe**](2021-09-12-Balls.exe-WPF.zip) (13 MB)
+* **WPF (Skia) Demo:** [**Balls-WPF.exe**](https://swharden.com/static/2021/09/10/2021-09-12-Balls.exe-WPF.zip) (13 MB)
 
 > To build this project from source code you currently have to download [Maui.Graphics source from GitHub](https://github.com/dotnet/Microsoft.Maui.Graphics) and edit the solution file to point to the correct directory containing these projects. This will get a lot easier after Microsoft puts their WinForms and WPF controls on NuGet.
 
 ## Coding Challenge
 
-**Can you recreate this classic screensaver using Maui.Graphics?** Bonus points if the user can customize the number of shapes, the number of corners each shape has, and the number of lines drawn in each shape's history. It's a fun problem and I encourage you to give it a go! Here's how I did it: [mystify-maui.zip](2021-09-13-mystify-maui.zip)
+**Can you recreate this classic screensaver using Maui.Graphics?** Bonus points if the user can customize the number of shapes, the number of corners each shape has, and the number of lines drawn in each shape's history. It's a fun problem and I encourage you to give it a go! Here's how I did it: [mystify-maui.zip](https://swharden.com/static/2021/09/10/2021-09-13-mystify-maui.zip)
 
-![](maui-mystify.mp4)
+![](https://swharden.com/static/2021/09/10/maui-mystify.mp4)
 
 ## Resources
 

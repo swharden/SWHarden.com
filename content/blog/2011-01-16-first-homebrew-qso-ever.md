@@ -14,7 +14,7 @@ __My first QSO was with Bob, KC8MFF in West Virginia at 5pm today on 7MHz.__ He 
 
 <div class="text-center img-border">
 
-[![](IMG_4946_thumb.jpg)](IMG_4946.jpg)
+[![](https://swharden.com/static/2011/01/16/IMG_4946_thumb.jpg)](https://swharden.com/static/2011/01/16/IMG_4946.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __I'll preface this by stating__ that my goal was to produce an _experimental pl
 
 <div class="text-center">
 
-[![](30m_40m_80m_transmitter_10watt_aj4vd_thumb.jpg)](30m_40m_80m_transmitter_10watt_aj4vd.jpg)
+[![](https://swharden.com/static/2011/01/16/30m_40m_80m_transmitter_10watt_aj4vd_thumb.jpg)](https://swharden.com/static/2011/01/16/30m_40m_80m_transmitter_10watt_aj4vd.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ One of my desires was to create a transmitter which could be built at minimal co
 
 <div class="text-center img-border">
 
-[![](IMG_4928_thumb.jpg)](IMG_4928.jpg)
+[![](https://swharden.com/static/2011/01/16/IMG_4928_thumb.jpg)](https://swharden.com/static/2011/01/16/IMG_4928.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __The overall schematic__ represents a crystal clocking a microcontroller at the
 
 <div class="text-center img-border">
 
-[![](IMG_4939_thumb.jpg)](IMG_4939.jpg)
+[![](https://swharden.com/static/2011/01/16/IMG_4939_thumb.jpg)](https://swharden.com/static/2011/01/16/IMG_4939.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ __Future work will be invested into__ adding an iambic keyer property to the mic
 
 <div class="text-center img-border">
 
-[![](IMG_4940_thumb.jpg)](IMG_4940.jpg)
+[![](https://swharden.com/static/2011/01/16/IMG_4940_thumb.jpg)](https://swharden.com/static/2011/01/16/IMG_4940.jpg)
 
 </div>
 
@@ -58,6 +58,6 @@ __PS:__ The image below is of a MOSFET I exploded in the development process. To
 
 <div class="text-center img-border">
 
-[![](mosfet_die_thumb.jpg)](mosfet_die.jpg)
+[![](https://swharden.com/static/2011/01/16/mosfet_die_thumb.jpg)](https://swharden.com/static/2011/01/16/mosfet_die.jpg)
 
 </div>

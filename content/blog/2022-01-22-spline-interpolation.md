@@ -11,7 +11,7 @@ tags: ["csharp"]
 
 <div class='text-center'>
 
-![](screenshot.gif)
+![](https://swharden.com/static/2022/01/22/screenshot.gif)
 
 </div>
 
@@ -167,7 +167,7 @@ plt.SaveFig("interpolation.png");
 
 <div class='text-center'>
 
-![](interpolation.png)
+![](https://swharden.com/static/2022/01/22/interpolation.png)
 
 </div>
 
@@ -177,7 +177,7 @@ There are many different methods that can smooth data. Common methods include [B
 
 <div class='text-center'>
 
-![](csharp-spline-interpolation.png)
+![](https://swharden.com/static/2022/01/22/csharp-spline-interpolation.png)
 
 </div>
 

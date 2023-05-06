@@ -10,13 +10,13 @@ tags: ["blazor", "csharp"]
 
 <div class="text-center">
 
-[![](blazor-google-charts.jpg)](app)
+[![](https://swharden.com/static/2021/01/12/blazor-google-charts.jpg)](https://swharden.com/static/2021/01/12/app)
 
 </div>
 
-* [Google Charts with Blazor Demo](app) 👈 Try it live!
+* [Google Charts with Blazor Demo](https://swharden.com/static/2021/01/12/app) 👈 Try it live!
 
-* Source code: [blazor-google-charts.zip](blazor-google-charts.zip)
+* Source code: [blazor-google-charts.zip](https://swharden.com/static/2021/01/12/blazor-google-charts.zip)
 
 ## index.razor
 
@@ -151,9 +151,9 @@ We can't call our existing `createNewChart()` method because that expects data (
 
 ## Resources
 
-* Live demo: [Google Charts with Blazor Demo](app)
+* Live demo: [Google Charts with Blazor Demo](https://swharden.com/static/2021/01/12/app)
 
-* Source code: [blazor-google-charts.zip](blazor-google-charts.zip)
+* Source code: [blazor-google-charts.zip](https://swharden.com/static/2021/01/12/blazor-google-charts.zip)
 
 * Source code on GitHub: [/examples/2021-01-10-blazor-google-charts](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-10-blazor-google-charts)
 

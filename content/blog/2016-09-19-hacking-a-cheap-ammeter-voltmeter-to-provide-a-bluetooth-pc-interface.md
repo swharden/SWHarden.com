@@ -14,7 +14,7 @@ __I love analyzing data, so any time I work with a device that _measures_ someth
 
 <div class="text-center img-border">
 
-[![](IMG_8436_thumb.jpg)](IMG_8436.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8436_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8436.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __This is what one of these modules looks like, and how it is intended to be use
 
 <div class="text-center img-border">
 
-[![](IMG_8134_thumb.jpg)](IMG_8134.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8134_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8134.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ __The side of the display indicates which model it is.__ Note that if you wish t
 
 <div class="text-center img-border">
 
-[![](IMG_8138_thumb.jpg)](IMG_8138.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8138_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8138.jpg)
 
 </div>
 
@@ -38,7 +38,7 @@ __On the back you can see all of the important components.__ There's a large cur
 
 <div class="text-center img-border">
 
-[![](IMG_8142_thumb.jpg)](IMG_8142.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8142_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8142.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@ __I snapped the device out of its plastic frame__ to be able to access the pins 
 
 <div class="text-center img-border">
 
-[![](IMG_8154_thumb.jpg)](IMG_8154.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8154_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8154.jpg)
 
 </div>
 
@@ -54,7 +54,7 @@ __I then soldered-on headers to help with reverse-engineering the signals.__ Not
 
 <div class="text-center img-border">
 
-[![](IMG_8443_thumb.jpg)](IMG_8443.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8443_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8443.jpg)
 
 </div>
 
@@ -62,7 +62,7 @@ __These headers made it easy to attach my 16-channel logic analyzer.__ I'm using
 
 <div class="text-center img-border">
 
-[![](IMG_8447_thumb.jpg)](IMG_8447.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8447_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8447.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ __Connections are straightforward.__ I began probing only a single display. This
 
 <div class="text-center img-border">
 
-[![](IMG_8460_thumb.jpg)](IMG_8460.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8460_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8460.jpg)
 
 </div>
 
@@ -78,7 +78,7 @@ __After gazing at the screen of squiggly lines,__ I was able to piece together w
 
 <div class="text-center img-border">
 
-[![](IMG_8463_thumb.jpg)](IMG_8463.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8463_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8463.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ __I'll be honest and say that I cheated a bit,__ using a very high value current
 
 <div class="text-center img-border img-small">
 
-[![](IMG_8594_thumb.jpg)](IMG_8594.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8594_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8594.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@ __Here's what I came up with!__ It's not that complicated: 16 pins control all t
 
 <div class="text-center img-border">
 
-[![](logic_thumb.jpg)](logic.png)
+[![](https://swharden.com/static/2016/09/19/logic_thumb.jpg)](https://swharden.com/static/2016/09/19/logic.png)
 
 </div>
 
@@ -102,7 +102,7 @@ __Knowing this,__ I can intentionally probe a few segments of a single character
 
 <div class="text-center img-border">
 
-[![](IMG_8471_thumb.jpg)](IMG_8471.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8471_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8471.jpg)
 
 </div>
 
@@ -110,7 +110,7 @@ __Now it was time to make my device! I started with a new panel meter and an emp
 
 <div class="text-center img-border">
 
-[![](IMG_8482_thumb.jpg)](IMG_8482.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8482_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8482.jpg)
 
 </div>
 
@@ -118,7 +118,7 @@ __I soldered wires to intercept the signal__ as it left the device's microcontro
 
 <div class="text-center img-border">
 
-[![](IMG_8517_thumb.jpg)](IMG_8517.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8517_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8517.jpg)
 
 </div>
 
@@ -126,7 +126,7 @@ __I then soldered the wires directly to my microcontroller.__ I also have an ext
 
 <div class="text-center img-border">
 
-[![](IMG_8548_thumb.jpg)](IMG_8548.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8548_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8548.jpg)
 
 </div>
 
@@ -134,7 +134,7 @@ __Now you can see__ the power regulation (LM7805) providing power to the MCU and
 
 <div class="text-center img-border">
 
-[![](IMG_8554_thumb.jpg)](IMG_8554.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8554_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8554.jpg)
 
 </div>
 
@@ -142,7 +142,7 @@ __The bluetooth adapter expects 3.3V signals,__ so I added a quick and easy zene
 
 <div class="text-center img-border">
 
-[![](IMG_8557_thumb.jpg)](IMG_8557.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8557_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8557.jpg)
 
 </div>
 
@@ -150,7 +150,7 @@ __Since the chip was unstable__ transmitting 9600 baud, I tightened it up using 
 
 <div class="text-center img-border">
 
-[![](IMG_8563_thumb.jpg)](IMG_8563.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8563_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8563.jpg)
 
 </div>
 
@@ -158,7 +158,7 @@ __A quick reprogram__ to set the AVR fuses to switch from internal clock to exte
 
 <div class="text-center img-border">
 
-[![](IMG_8559_thumb.jpg)](IMG_8559.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8559_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8559.jpg)
 
 </div>
 
@@ -166,7 +166,7 @@ __I packed it all in__ then added hot glue around the primary components (not sh
 
 <div class="text-center img-border">
 
-[![](IMG_8581_thumb.jpg)](IMG_8581.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8581_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8581.jpg)
 
 </div>
 
@@ -174,7 +174,7 @@ __I tested on a big piece of electrical equipent I'm building on the other side 
 
 <div class="text-center img-border img-small">
 
-[![](IMG_8584_thumb.jpg)](IMG_8584.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8584_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8584.jpg)
 
 </div>
 
@@ -182,7 +182,7 @@ __I'm using [RealTerm](http://realterm.sourceforge.net/)__ to access the serial 
 
 <div class="text-center img-border img-small">
 
-[![](IMG_8590_thumb.jpg)](IMG_8590.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8590_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8590.jpg)
 
 </div>
 
@@ -190,7 +190,7 @@ __A quick python script__ lets me graph the voltage/current relationship with re
 
 <div class="text-center">
 
-[![](demo_thumb.jpg)](demo.png)
+[![](https://swharden.com/static/2016/09/19/demo_thumb.jpg)](https://swharden.com/static/2016/09/19/demo.png)
 
 </div>
 
@@ -198,7 +198,7 @@ __Here's some data__ which shows the relationship between voltage (red trace) pr
 
 <div class="text-center img-border">
 
-[![](IMG_8599_thumb.jpg)](IMG_8599.jpg)
+[![](https://swharden.com/static/2016/09/19/IMG_8599_thumb.jpg)](https://swharden.com/static/2016/09/19/IMG_8599.jpg)
 
 </div>
 

@@ -9,7 +9,7 @@ __Here's a schematic of the prime number calculator I'm working on.__ Last night
 
 <div class="text-center">
 
-[![](text5130_thumb.jpg)](text5130.png)
+[![](https://swharden.com/static/2009/06/30/text5130_thumb.jpg)](https://swharden.com/static/2009/06/30/text5130.png)
 
 </div>
 

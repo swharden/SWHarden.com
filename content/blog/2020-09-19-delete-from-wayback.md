@@ -9,7 +9,7 @@ date: 2020-09-19
 
 <div class="text-center img-border">
 
-[![](delete-waybackmachine_thumb.jpg)](delete-waybackmachine.png)
+[![](https://swharden.com/static/2020/09/19/delete-waybackmachine_thumb.jpg)](https://swharden.com/static/2020/09/19/delete-waybackmachine.png)
 
 </div>
 

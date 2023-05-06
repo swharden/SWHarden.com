@@ -10,13 +10,13 @@ __Two hours after getting home from work__ I'm already basking in the newfound c
 
 <div class="text-center img-border">
 
-[![](img_13771_thumb.jpg)](img_13771.jpg)
+[![](https://swharden.com/static/2009/04/01/img_13771_thumb.jpg)](https://swharden.com/static/2009/04/01/img_13771.jpg)
 
 </div>
 
 <div class="text-center img-border">
 
-[![](picaxe_all_thumb.jpg)](picaxe_all.jpg)
+[![](https://swharden.com/static/2009/04/01/picaxe_all_thumb.jpg)](https://swharden.com/static/2009/04/01/picaxe_all.jpg)
 
 </div>
 
@@ -26,7 +26,7 @@ __Here's the little setup__ with the main control unit and a DC to DC regulated 
 
 <div class="text-center img-border">
 
-[![](picaxe_panel_thumb.jpg)](picaxe_panel.jpg)
+[![](https://swharden.com/static/2009/04/01/picaxe_panel_thumb.jpg)](https://swharden.com/static/2009/04/01/picaxe_panel.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ __Here's the main control box.__ Notice the "2-way lighted switches" which I des
 
 <div class="text-center img-border">
 
-[![](picaxe_artsy_thumb.jpg)](picaxe_artsy.jpg)
+[![](https://swharden.com/static/2009/04/01/picaxe_artsy_thumb.jpg)](https://swharden.com/static/2009/04/01/picaxe_artsy.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ __Getting a little artsy__ with my photographs now... this is the core of the de
 
 <div class="text-center img-border">
 
-[![](picaxe_power_thumb.jpg)](picaxe_power.jpg)
+[![](https://swharden.com/static/2009/04/01/picaxe_power_thumb.jpg)](https://swharden.com/static/2009/04/01/picaxe_power.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ __This is a 5v regulated power supply__ I built. The headphone adapter is for ea
 
 <div class="text-center img-border">
 
-[![](jpole_antenna_diy_thumb.jpg)](jpole_antenna_diy.jpg)
+[![](https://swharden.com/static/2009/04/01/jpole_antenna_diy_thumb.jpg)](https://swharden.com/static/2009/04/01/jpole_antenna_diy.jpg)
 
 </div>
 
@@ -58,7 +58,7 @@ I've slightly improved the connection between my radio's coax cable to the J-pol
 
 <div class="text-center img-border">
 
-[![](jpole_location_thumb.jpg)](jpole_location.jpg)
+[![](https://swharden.com/static/2009/04/01/jpole_location_thumb.jpg)](https://swharden.com/static/2009/04/01/jpole_location.jpg)
 
 </div>
 

@@ -11,7 +11,7 @@ Consider realtime spectrograph software like [QRSS VD](http://www.swharden.com/b
 
 <div class="text-center img-border">
 
-![](qt-scrolling-spectrograph.gif)
+![](https://swharden.com/static/2013/06/03/qt-scrolling-spectrograph.gif)
 
 </div>
 

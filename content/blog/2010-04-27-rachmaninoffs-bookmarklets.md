@@ -57,7 +57,7 @@ __My microchips arrived in the mail!__ I'm so excited. It's just in time too, I'
 
 <div class="text-center img-small">
 
-[![](attiny44a_thumb.jpg)](attiny44a.jpg)
+[![](https://swharden.com/static/2010/04/27/attiny44a_thumb.jpg)](https://swharden.com/static/2010/04/27/attiny44a.jpg)
 
 </div>
 

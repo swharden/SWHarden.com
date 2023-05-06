@@ -11,7 +11,7 @@ tags: ["csharp", "graphics"]
 
 <div class="text-center">
 
-![](point-inside-rotated-rectangle.gif)
+![](https://swharden.com/static/2022/02/01/point-inside-rotated-rectangle.gif)
 
 </div>
 
@@ -95,7 +95,7 @@ Consider 4 triangles formed by lines between the point and the 4 corners...
 
 <div class="text-center">
 
-![](rectangle-point-inside.png)
+![](https://swharden.com/static/2022/02/01/rectangle-point-inside.png)
 
 </div>
 
@@ -103,7 +103,7 @@ Consider 4 triangles formed by lines between the point and the 4 corners...
 
 <div class="text-center">
 
-![](rectangle-point-outside.png)
+![](https://swharden.com/static/2022/02/01/rectangle-point-outside.png)
 
 </div>
 

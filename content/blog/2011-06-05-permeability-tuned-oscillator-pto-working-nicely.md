@@ -14,7 +14,7 @@ __The fundamental concept and hardware is straightforward.__ Two nuts are solder
 
 <div class="text-center img-border">
 
-[![](DSCN1350_thumb.jpg)](DSCN1350.jpg)
+[![](https://swharden.com/static/2011/06/05/DSCN1350_thumb.jpg)](https://swharden.com/static/2011/06/05/DSCN1350.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ __Alltogether it's a simple colpitts oscillator__ with a MPF102 JFET at its hear
 
 <div class="text-center img-border">
 
-[![](DSCN1356_thumb.jpg)](DSCN1356.jpg)
+[![](https://swharden.com/static/2011/06/05/DSCN1356_thumb.jpg)](https://swharden.com/static/2011/06/05/DSCN1356.jpg)
 
 </div>
 
@@ -30,6 +30,6 @@ __The result?__ Pretty darn stable (by CW QSO standards).  That's without any re
 
 <div class="text-center img-border">
 
-[![](DSCN1357_thumb.jpg)](DSCN1357.jpg)
+[![](https://swharden.com/static/2011/06/05/DSCN1357_thumb.jpg)](https://swharden.com/static/2011/06/05/DSCN1357.jpg)
 
 </div>

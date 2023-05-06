@@ -10,7 +10,7 @@ __I recently had the desire__ to be able to see data from an ATMEL AVR microcont
 
 <div class="text-center img-border">
 
-[![](serialcircuit_thumb.jpg)](serialcircuit.png)
+[![](https://swharden.com/static/2009/05/14/serialcircuit_thumb.jpg)](https://swharden.com/static/2009/05/14/serialcircuit.png)
 
 </div>
 
@@ -19,7 +19,7 @@ __Here's a more general schematic:__
 
 <div class="text-center">
 
-![](max232_serial_microcontroller.gif)
+![](https://swharden.com/static/2009/05/14/max232_serial_microcontroller.gif)
 
 </div>
 
@@ -29,7 +29,7 @@ __Determining the speed of serial communication__ is important.  This is depende
 
 <div class="text-center">
 
-![](ubrrformula.gif)
+![](https://swharden.com/static/2009/05/14/ubrrformula.gif)
 
 </div>
 
@@ -37,7 +37,7 @@ __The datasheet of your microcontroller__ may list a lot of common crystal frequ
 
 <div class="text-center">
 
-![](ubrr-table.gif)
+![](https://swharden.com/static/2009/05/14/ubrr-table.gif)
 
 </div>
 
@@ -77,7 +77,7 @@ __Once you load it, it's ready to roll!__  It continuously dumps letters to the 
 
 <div class="text-center img-border">
 
-[![](avr_serial_console_thumb.jpg)](avr_serial_console.jpg)
+[![](https://swharden.com/static/2009/05/14/avr_serial_console_thumb.jpg)](https://swharden.com/static/2009/05/14/avr_serial_console.jpg)
 
 </div>
 
@@ -85,7 +85,7 @@ __This is the circuit__ which generates the output of the previous image.  I hav
 
 <div class="text-center img-border">
 
-[![](avr_max232_thumb.jpg)](avr_max232.jpg)
+[![](https://swharden.com/static/2009/05/14/avr_max232_thumb.jpg)](https://swharden.com/static/2009/05/14/avr_max232.jpg)
 
 </div>
 

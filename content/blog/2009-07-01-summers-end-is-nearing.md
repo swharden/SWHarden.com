@@ -8,7 +8,7 @@ tags: ["microcontroller"]
 
 <div class="text-center img-border">
 
-[![](scott_working_thumb.jpg)](scott_working.png)
+[![](https://swharden.com/static/2009/07/01/scott_working_thumb.jpg)](https://swharden.com/static/2009/07/01/scott_working.png)
 
 </div>
 
@@ -16,8 +16,8 @@ __My favorite summer yet is reaching its end.__ With about a month and a half be
 
 <div class="text-center img-border">
 
-[![](wiremess_thumb.jpg)](wiremess.jpg)
-[![](lightson_thumb.jpg)](lightson.jpg)
+[![](https://swharden.com/static/2009/07/01/wiremess_thumb.jpg)](https://swharden.com/static/2009/07/01/wiremess.jpg)
+[![](https://swharden.com/static/2009/07/01/lightson_thumb.jpg)](https://swharden.com/static/2009/07/01/lightson.jpg)
 
 </div>
 
@@ -27,7 +27,7 @@ Since this project is on pause, I began work hacking a [VFD](http://en.wikipedia
 
 <div class="text-center">
 
-[![](vfd_thumb.jpg)](vfd.jpg)
+[![](https://swharden.com/static/2009/07/01/vfd_thumb.jpg)](https://swharden.com/static/2009/07/01/vfd.jpg)
 
 </div>
 

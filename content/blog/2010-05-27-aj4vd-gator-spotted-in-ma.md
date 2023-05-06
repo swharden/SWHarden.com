@@ -10,11 +10,11 @@ __That's over 1,00 miles on a few milliwatts!__ The transmitter is the ridiculou
 
 <div class="text-center img-border img-medium">
 
-![](map.jpg)
+![](https://swharden.com/static/2010/05/27/map.jpg)
 
-[![](gatorSeen_thumb.jpg)](gatorSeen.jpg)
-[![](actual_thumb.jpg)](actual.jpg)
-[![](IMG_3456_thumb.jpg)](IMG_3456.jpg)
+[![](https://swharden.com/static/2010/05/27/gatorSeen_thumb.jpg)](https://swharden.com/static/2010/05/27/gatorSeen.jpg)
+[![](https://swharden.com/static/2010/05/27/actual_thumb.jpg)](https://swharden.com/static/2010/05/27/actual.jpg)
+[![](https://swharden.com/static/2010/05/27/IMG_3456_thumb.jpg)](https://swharden.com/static/2010/05/27/IMG_3456.jpg)
 
 </div>
 

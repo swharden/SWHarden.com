@@ -28,7 +28,7 @@ I started logging grabber updates in September 2018, allowing me to reflect on t
 
 <div class="text-center">
 
-![](grabbers-per-day.png)
+![](https://swharden.com/static/2020/12/14/grabbers-per-day.png)
 
 </div>
 
@@ -36,7 +36,7 @@ In 2020 our community saw ***155 active grabber stations***! On average there we
 
 <div class="text-center">
 
-![](grabs-per-day.png)
+![](https://swharden.com/static/2020/12/14/grabs-per-day.png)
 
 </div>
 
@@ -44,7 +44,7 @@ In 2020 QRSS Plus analyzed a mean of 6,041 spectrograms per day. In total, QRSS 
 
 <div class="text-center">
 
-![](grabbers-leader.png)
+![](https://swharden.com/static/2020/12/14/grabbers-leader.png)
 
 </div>
 
@@ -52,7 +52,7 @@ This bar graph depicts the top 50 most active grabber stations ranked according 
 
 <div class="text-center">
 
-![](qrss-2020-pie.png)
+![](https://swharden.com/static/2020/12/14/qrss-2020-pie.png)
 
 </div>
 
@@ -73,7 +73,7 @@ QRSS is a growing hobby, and if the rise in grabbers over the last few years is 
 ### Notes and Resources
 * Data includes Jan 1 2020 through Dec 11 2020
 * Stations with <1000 unique uploads were excluded from most analyses
-* Summary data (a table of unique images per day per station) is available: [qrss-plus-2020.xlsx](qrss-plus-2020.xlsx)
+* Summary data (a table of unique images per day per station) is available: [qrss-plus-2020.xlsx](https://swharden.com/static/2020/12/14/qrss-plus-2020.xlsx)
 * Bar graphs, scatter plots, and line charts were created with [ScottPlot](https://swharden.com/scottplot)
 * QRSS Plus is [open source on GitHub](https://github.com/swharden/qrssplus)
 * A modern introduction to QRSS: [The New Age of QRSS](https://swharden.com/blog/2020-10-03-new-age-of-qrss)

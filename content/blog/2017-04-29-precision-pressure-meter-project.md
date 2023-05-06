@@ -6,15 +6,15 @@ tags: ["microcontroller", "circuit"]
 
 # Precision Pressure Meter Project
 
-__I just completed building a device capable of measuring temperature to one hundredth of a degree Celsius and pressure to one ten-thousandth of a PSI!__ This project is centered around a [MS5611 temperature sensor breakout board](http://www.icstation.com/ms5611-pressure-altitude-sensor-module-24bit-converter-p-10426.html) which was small enough to fit inside of a [plastic syringe](#links). The result is a small and inexpensive pressure sensor in a convenient form factor with a twist connector (a [Luer-Lok](https://en.wikipedia.org/wiki/Luer_taper) fitting) that can be rapidly attached to existing tubing setups. Although the screw attachment would work well for industrial or scientific applications, I found that the inner connector (the non-threaded plastic nub with 6% taper) made a snug and air-tight connection with my [CO2-impermanent aquarium tubing](http://www.ebay.com/sch/i.html?_nkw=CO2+aquarium+tubing). The MS5611 breakout board is small enough to fit inside a 10 mL syringe!
+__I just completed building a device capable of measuring temperature to one hundredth of a degree Celsius and pressure to one ten-thousandth of a PSI!__ This project is centered around a [MS5611 temperature sensor breakout board](http://www.icstation.com/ms5611-pressure-altitude-sensor-module-24bit-converter-p-10426.html) which was small enough to fit inside of a [plastic syringe](https://swharden.com/static/2017/04/29/#links). The result is a small and inexpensive pressure sensor in a convenient form factor with a twist connector (a [Luer-Lok](https://en.wikipedia.org/wiki/Luer_taper) fitting) that can be rapidly attached to existing tubing setups. Although the screw attachment would work well for industrial or scientific applications, I found that the inner connector (the non-threaded plastic nub with 6% taper) made a snug and air-tight connection with my [CO2-impermanent aquarium tubing](http://www.ebay.com/sch/i.html?_nkw=CO2+aquarium+tubing). The MS5611 breakout board is small enough to fit inside a 10 mL syringe!
 
 <div class="text-center img-border">
 
-[![](20170423_171551_thumb.jpg)](20170423_171551.jpg)
+[![](https://swharden.com/static/2017/04/29/20170423_171551_thumb.jpg)](https://swharden.com/static/2017/04/29/20170423_171551.jpg)
 
 </div>
 
-__I documented this project thoroughly so others can learn about the design process__ that goes into making one-off prototypes like this. The video is quite long considering how simple the task seems (read a number from a sensor and display it on a screen), but it gives a lot of tips and insights into rapidly making professional looking one-off projects like this. Reading datasheets can be intimidating for newcomers too, and this video walks through how to figure out how to bang out I2C commands to a new sensor using a [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - a _really_ convenient tool to have for electrical engineering hobbyists like me! After it's working well with the sensor/computer interface you can move to the microcontroller level with confidence. Since no one has posted code for how to interface this sensor directly with the microcontroller platform I intended to use (AVR-GCC, notably _not_ Arduino), my build process started by poking around with a [Bus Pirate](#tools) to learn how to interact with the device using  I2C commands. Once I was able to initiate temperature and pressure readings and pull its values by hand using the Bus Pirate, I wrote a Python script to automate the process (using PySerial to interact with the Bus Pirate) and allow recording and graphing of real-time pressure and temperature information. I then used a [logic analyzer](#tools) to glance at the data exchanged between the Bus Pirate and the pressure sensor (mostly for my own satisfaction, and to help with debugging in the future). Finally, I ditched the computer and had an ATMega328 microcontroller pull temperature/pressure readings and display them on a [16x2 HD44780 character LCD display](#components) beautifully framed with a [laser-cut LCD bezel](#components) (from Tindie user [widgeneering](https://www.tindie.com/stores/WIDGENEERING/)). I used a USB connector to give the device power (though there's no reason it couldn't run off of 3xAA batteries) and CAT5 cable as a convenient connector between the display and the sensor. After assembling everything and [making some labels](#tools), the final product looks quite professional!
+__I documented this project thoroughly so others can learn about the design process__ that goes into making one-off prototypes like this. The video is quite long considering how simple the task seems (read a number from a sensor and display it on a screen), but it gives a lot of tips and insights into rapidly making professional looking one-off projects like this. Reading datasheets can be intimidating for newcomers too, and this video walks through how to figure out how to bang out I2C commands to a new sensor using a [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - a _really_ convenient tool to have for electrical engineering hobbyists like me! After it's working well with the sensor/computer interface you can move to the microcontroller level with confidence. Since no one has posted code for how to interface this sensor directly with the microcontroller platform I intended to use (AVR-GCC, notably _not_ Arduino), my build process started by poking around with a [Bus Pirate](https://swharden.com/static/2017/04/29/#tools) to learn how to interact with the device using  I2C commands. Once I was able to initiate temperature and pressure readings and pull its values by hand using the Bus Pirate, I wrote a Python script to automate the process (using PySerial to interact with the Bus Pirate) and allow recording and graphing of real-time pressure and temperature information. I then used a [logic analyzer](https://swharden.com/static/2017/04/29/#tools) to glance at the data exchanged between the Bus Pirate and the pressure sensor (mostly for my own satisfaction, and to help with debugging in the future). Finally, I ditched the computer and had an ATMega328 microcontroller pull temperature/pressure readings and display them on a [16x2 HD44780 character LCD display](https://swharden.com/static/2017/04/29/#components) beautifully framed with a [laser-cut LCD bezel](https://swharden.com/static/2017/04/29/#components) (from Tindie user [widgeneering](https://www.tindie.com/stores/WIDGENEERING/)). I used a USB connector to give the device power (though there's no reason it couldn't run off of 3xAA batteries) and CAT5 cable as a convenient connector between the display and the sensor. After assembling everything and [making some labels](https://swharden.com/static/2017/04/29/#tools), the final product looks quite professional!
 
 ## Project Summary Video
 
@@ -30,10 +30,10 @@ When run through an algorithm (given a whole page in the datasheet), the 6 facto
 
 <div class="text-center img-border img-small">
 
-![](10426_1_4531.jpg)
-![](10426_3_5984.jpg)
-[![](WIN_20170312_21_36_07_Pro_thumb.jpg)](WIN_20170312_21_36_07_Pro.jpg)
-[![](WIN_20170312_21_32_56_Pro_thumb.jpg)](WIN_20170312_21_32_56_Pro.jpg)
+![](https://swharden.com/static/2017/04/29/10426_1_4531.jpg)
+![](https://swharden.com/static/2017/04/29/10426_3_5984.jpg)
+[![](https://swharden.com/static/2017/04/29/WIN_20170312_21_36_07_Pro_thumb.jpg)](https://swharden.com/static/2017/04/29/WIN_20170312_21_36_07_Pro.jpg)
+[![](https://swharden.com/static/2017/04/29/WIN_20170312_21_32_56_Pro_thumb.jpg)](https://swharden.com/static/2017/04/29/WIN_20170312_21_32_56_Pro.jpg)
 
 </div>
 
@@ -53,13 +53,13 @@ __This was a great use for my Bus Pirate! __Without the [Bus Pirate](http://dang
 
 <div class="text-center img-border">
 
-[![](270_thumb.jpg)](270.jpg)
+[![](https://swharden.com/static/2017/04/29/270_thumb.jpg)](https://swharden.com/static/2017/04/29/270.jpg)
 
 </div>
 
 __Here are the commands I use with the Bus Pirate to connect with the sensor.__ If you can't get this part to work, I don't recommend challenging using a microcontroller to pull I2C data from this part! This is kind of fool proof, so this stage not working means you've read the datasheet incorrectly and don't know how to interact with the sensor as well as you thought you did, or that there is a hardware or connectivity issue with the circuit. All of this is in the video posted above, so watching that part of the video may help you get an idea of what it looks like interacting with circuits like this with a Bus Pirate. Also, be sure to review the [Bus Pirate I2C guide](http://dangerousprototypes.com/blog/bus-pirate-manual/i2c-guide/).
 
-*   Open [RealTerm](#software) and connect to the Bus Pirate
+*   Open [RealTerm](https://swharden.com/static/2017/04/29/#software) and connect to the Bus Pirate
 
     *   change display mode to Ansi
     *   set baud to 115200 baud (no parity, 8 bits, 1 stop bit)
@@ -80,7 +80,7 @@ __Here are the commands I use with the Bus Pirate to connect with the sensor.__ 
 
 <div class="text-center">
 
-[![](realterm3_thumb.jpg)](realterm3.png)
+[![](https://swharden.com/static/2017/04/29/realterm3_thumb.jpg)](https://swharden.com/static/2017/04/29/realterm3.png)
 
 </div>
 
@@ -92,19 +92,19 @@ __My application requires me to sense pressure in air-tight tubing.__ My solutio
 
 <div class="text-center img-border">
 
-[![](310_thumb.jpg)](310.jpg)
-[![](316_thumb.jpg)](316.jpg)
-[![](327_thumb.jpg)](327.jpg)
+[![](https://swharden.com/static/2017/04/29/310_thumb.jpg)](https://swharden.com/static/2017/04/29/310.jpg)
+[![](https://swharden.com/static/2017/04/29/316_thumb.jpg)](https://swharden.com/static/2017/04/29/316.jpg)
+[![](https://swharden.com/static/2017/04/29/327_thumb.jpg)](https://swharden.com/static/2017/04/29/327.jpg)
 
 </div>
 
 ## Sniffing I2C with a Logic Analyzer
 
-__Right off the bat my Bus Pirate could pull sensor data but the C code I wrote running on a microcontroller could not.__ What gives? Was the sensor hooked up wrong? Was the microcontroller sending the wrong commands? Were the commands not being read by the microcontroller properly? Were the messages not being transmitted to the LCD display properly? There are so many points for failure and such limited hardware debugging (I'm not using [JTAG](https://en.wikipedia.org/wiki/JTAG)) that my first go-to was my [logic analyzer](#tools). As you can probably tell by the video I don't use this thing too often, but good gosh when I do it usually saves me hours of head scratching.
+__Right off the bat my Bus Pirate could pull sensor data but the C code I wrote running on a microcontroller could not.__ What gives? Was the sensor hooked up wrong? Was the microcontroller sending the wrong commands? Were the commands not being read by the microcontroller properly? Were the messages not being transmitted to the LCD display properly? There are so many points for failure and such limited hardware debugging (I'm not using [JTAG](https://en.wikipedia.org/wiki/JTAG)) that my first go-to was my [logic analyzer](https://swharden.com/static/2017/04/29/#tools). As you can probably tell by the video I don't use this thing too often, but good gosh when I do it usually saves me hours of head scratching.
 
 <div class="text-center img-border">
 
-[![](20170423_210831_thumb.jpg)](20170423_210831.jpg)
+[![](https://swharden.com/static/2017/04/29/20170423_210831_thumb.jpg)](https://swharden.com/static/2017/04/29/20170423_210831.jpg)
 
 </div>
 
@@ -112,7 +112,7 @@ __In this case, I immediately saw__ that the I2C lines were always low (!) and r
 
 <div class="text-center img-border">
 
-[![](saleae_thumb.jpg)](saleae.jpg)
+[![](https://swharden.com/static/2017/04/29/saleae_thumb.jpg)](https://swharden.com/static/2017/04/29/saleae.jpg)
 
 </div>
 
@@ -122,10 +122,10 @@ __I still can't get over how good the silver aluminium looks against the black l
 
 <div class="text-center img-border">
 
-[![](20170408_120421_thumb.jpg)](20170408_120421.jpg)
-[![](20170408_120633_thumb.jpg)](20170408_120633.jpg)
-[![](342_thumb.jpg)](342.jpg)
-[![](20170408_124012_thumb.jpg)](20170408_124012.jpg)
+[![](https://swharden.com/static/2017/04/29/20170408_120421_thumb.jpg)](https://swharden.com/static/2017/04/29/20170408_120421.jpg)
+[![](https://swharden.com/static/2017/04/29/20170408_120633_thumb.jpg)](https://swharden.com/static/2017/04/29/20170408_120633.jpg)
+[![](https://swharden.com/static/2017/04/29/342_thumb.jpg)](https://swharden.com/static/2017/04/29/342.jpg)
+[![](https://swharden.com/static/2017/04/29/20170408_124012_thumb.jpg)](https://swharden.com/static/2017/04/29/20170408_124012.jpg)
 
 </div>
 
@@ -133,7 +133,7 @@ __I then proceeded to epoxy the connectors__ I wanted (USB and Ethernet) and dri
 
 <div class="text-center img-border">
 
-[![](20170409_132514_HDR_thumb.jpg)](20170409_132514_HDR.jpg)
+[![](https://swharden.com/static/2017/04/29/20170409_132514_HDR_thumb.jpg)](https://swharden.com/static/2017/04/29/20170409_132514_HDR.jpg)
 
 </div>
 
@@ -141,7 +141,7 @@ __I used CAT5 to carry I2C, which I understand is a bit iffy.__ I2C is designed 
 
 <div class="text-center img-border">
 
-[![](20170420_212832_thumb.jpg)](20170420_212832.jpg)
+[![](https://swharden.com/static/2017/04/29/20170420_212832_thumb.jpg)](https://swharden.com/static/2017/04/29/20170420_212832.jpg)
 
 </div>
 
@@ -149,13 +149,13 @@ __I had to use a slightly larger aluminum enclosure__ than I initially wanted be
 
 <div class="text-center img-border">
 
-[![](20170422_172610_thumb.jpg)](20170422_172610.jpg)
+[![](https://swharden.com/static/2017/04/29/20170422_172610_thumb.jpg)](https://swharden.com/static/2017/04/29/20170422_172610.jpg)
 
 </div>
 
 ## Programming the Microcontroller
 
-__Let's just say I programmed the microchip to do exactly what we did with the Bus Pirate.__ The code is messy as heck (and even is using two different I2C libraries to signal on the same I2C line!) but it works and the prototype is done and sealed so I don't really have a lot of reason to fine-tune the software. The full project can be [found on the GitHub page](#links), and a few relevant lines of code are below.
+__Let's just say I programmed the microchip to do exactly what we did with the Bus Pirate.__ The code is messy as heck (and even is using two different I2C libraries to signal on the same I2C line!) but it works and the prototype is done and sealed so I don't really have a lot of reason to fine-tune the software. The full project can be [found on the GitHub page](https://swharden.com/static/2017/04/29/#links), and a few relevant lines of code are below.
 
 __Here are a few key points about the microcontroller software:__
 
@@ -207,7 +207,7 @@ __It's great to have an inexpensive precision temperature and pressure sensor de
 
 <div class="text-center img-border">
 
-[![](20170329_232145_thumb.jpg)](20170329_232145.jpg)
+[![](https://swharden.com/static/2017/04/29/20170329_232145_thumb.jpg)](https://swharden.com/static/2017/04/29/20170329_232145.jpg)
 
 </div>
 
@@ -215,7 +215,7 @@ __It's great to have an inexpensive precision temperature and pressure sensor de
 
 <div class="text-center img-border">
 
-[![](20170423_214443_thumb.jpg)](20170423_214443.jpg)
+[![](https://swharden.com/static/2017/04/29/20170423_214443_thumb.jpg)](https://swharden.com/static/2017/04/29/20170423_214443.jpg)
 
 </div>
 
