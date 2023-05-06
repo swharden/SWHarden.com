@@ -14,6 +14,7 @@ tags: ["circuit", "microcontroller"]
 ![](https://www.youtube.com/embed/M-myqg-2c5s)
 
 </div>
+{{<youtube M-myqg-2c5s>}}
 
 ## TLDR
 
