@@ -24,3 +24,9 @@ CanonifyURLs = true
     noHl = false
     style = 'emacs' #https://xyproto.github.io/splash/docs/all.html
     tabWidth = 4
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    path = "blog/feed"
+    baseName = "index"
