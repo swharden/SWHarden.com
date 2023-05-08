@@ -9,12 +9,24 @@
         {{ end }}
     </div>
 
-    <!-- TODO: use new feature -->
+    {{ if in .Params.tags "obsolete" }}
+    <div class="alert alert-primary" role="alert">
+        <h4 class="alert-heading">⚠️ WARNING: This page is obsolete</h4>
+        <p class="mb-0">
+            Articles typically receive this designation when the technology they describe is no longer relevant, code
+            provided is later deemed to be of poor quality, or the topics discussed are better presented in future
+            articles. Articles like this are retained for the sake of preservation, but their content should be
+            critically assessed.
+        </p>
+    </div>
+    {{ end }}
+
     {{ .Content }}
 
     <hr class="mt-5" />
     <div>
-        <a href='https://github.com/swharden/SWHarden.com/blob/main/content/{{ path.Clean .File.Path }}'>Edit this page on GitHub</a>
+        <a href='https://github.com/swharden/SWHarden.com/blob/main/content/{{ path.Clean .File.Path }}'>Edit this page
+            on GitHub</a>
     </div>
 
 </article>
