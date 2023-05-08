@@ -404,7 +404,7 @@ Since BPSK is just a carrier that applies periodic 180º phase-shifts, it's easy
 
 **Unlike the 0º and 180º phases of binary phase shift keying (BPSK), quadrature phase shift keying (QPSK) encodes extra data into each symbol by uses a larger number of phases.** When QPSK-31 is used in amateur radio these extra bits aren't used to send messages faster but instead send them more reliably using convolutional coding and error correction. These additional features come at a cost (an extra 3 dB SNR is required), and in practice QPSK is not used as much by amateur radio operators.
 
-QPSK encoding/decoding and convolutional encoding/decoding are outside the scope of this page, but excellent information exists on the [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_(QPSK)) and in the US Naval Academy's [EC314 Lesson 23: Digital Modulation](https://www.usna.edu/ECE/ec312/Lessons/wireless/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) document.
+QPSK encoding/decoding and convolutional encoding/decoding are outside the scope of this page, but excellent information exists on the [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_%28QPSK%29) and in the US Naval Academy's [EC314 Lesson 23: Digital Modulation](https://www.projectfpga.com/resources/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) document.
 
 <a href="https://swharden.com/static/2022/10/16/qpsk.png"><img src="https://swharden.com/static/2022/10/16/qpsk.png" class="mx-auto d-block"></a>
 
@@ -420,15 +420,13 @@ After all that, it turns out PSK-31 isn't that popular anymore. These days it se
 
 * Software: [fldigi](http://www.w1hkj.com/) - Supports PSK31 and other digital modes
 
-* Software: [Digital Master 780](https://swharden.com/blog/2022-10-14-ham-radio-deluxe) - A Windows application that supports PSK31 and other digital modes bundled with Ham Radio Deluxe 5.0 (the last free version)
-
 * Software: [WinPSK](https://www.moetronix.com/ae4jy/winpsk.htm) - open source PSK31 software for Windows
 
 * Software: [PSKCore DLL](http://www.moetronix.com/ae4jy/pskcoredll.htm) - A Windows DLL that can be included in other software to add support for PSK31
 
 * Software: [jacobwgillespie/psk31](https://github.com/jacobwgillespie/psk31) - Example PSK31 message generate using JavaScript
 
-* [Digital Modulation](https://www.usna.edu/ECE/ec312/Lessons/wireless/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) (US Naval Academy, EC314 Lesson 23) - A good description of quadrature PSK and higher order phase-shift encoding.
+* [Digital Modulation](https://www.projectfpga.com/resources/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) (US Naval Academy, EC314 Lesson 23) - A good description of quadrature PSK and higher order phase-shift encoding.
 
 * [PSK-31 Specification](http://www.arrl.org/psk31-spec) (ARRL) - theory, varicode table, and convolutional code table.
 
@@ -440,13 +438,13 @@ After all that, it turns out PSK-31 isn't that popular anymore. These days it se
 
 * [Wikipedia: Varicode](https://en.wikipedia.org/wiki/Varicode) includes a table of all symbols
 
-* [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_(QPSK))
+* [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_%28QPSK%29)
 
 * [PSK31 Fundamentals](http://aintel.bi.ehu.es/psk31theory.html) and [PSK31 Setup](https://myplace.frontier.com/~nb6z/psk31.htm) by Peter Martinez, G3PLX
 
 * [Varicode](http://math0.wvstateu.edu/~baker/cs240/info/varicode.html) - West Virginia State University CS240
 
-* [Introduction to PSK31](https://sites.google.com/site/psk31matlabproject/introduction-to-psk) by engineering students at Walla Walla University
+* [Introduction to PSK31](http://fweb.wallawalla.edu/class-wiki/index.php/PSK31_Demodulation) by engineering students at Walla Walla University
 
 * [GNURadio PSK31 Decoder](https://sdradventure.wordpress.com/2011/10/15/gnuradio-psk31-decoder-part-1/) by VA7STH
 
