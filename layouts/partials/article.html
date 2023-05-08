@@ -9,6 +9,12 @@
         {{ end }}
     </div>
 
+    <!-- TODO: use new feature -->
     {{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `<a href="#${2}">${1}</a> ${3}` | safeHTML }}
+
+    <hr class="mt-5" />
+    <div>
+        <a href='https://github.com/swharden/SWHarden.com/blob/main/content/{{ path.Clean .File.Path }}'>Edit this page on GitHub</a>
+    </div>
 
 </article>

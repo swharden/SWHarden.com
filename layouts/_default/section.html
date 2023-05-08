@@ -1,5 +1,7 @@
 {{ define "main" }}
 
-{{ .Content }}
+<article class="bg-white border shadow p-3 mb-5">
+    {{partial "posts-by-date.html" . }}
+</article>
 
 {{ end }}

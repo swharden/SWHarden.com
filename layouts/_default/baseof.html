@@ -7,6 +7,9 @@
     <title>{{ .Title }}</title>
     <meta name='description' content='{{ .Description }}' />
 
+    <!-- DO NOT INDEX TEST SITE -->
+    <meta name="robots" content="noindex">
+
     {{ if .Paginator }}
     {{ if ne .Paginator.PageNumber 1 }}
     <meta name="robots" content="noindex, follow">
@@ -79,18 +82,22 @@
 
 <body class="bg-light m-0 p-0">
 
+    <!--
     <section class="h-50 w-100" id="backsplash">
         <div class="h-100 w-100" style="background-color: #003366; opacity: .985;"></div>
     </section>
+    -->
 
     <main class="container-fluid p-0" style="position: relative; max-width: 1000px;">
 
         {{ partial "menu.html" . }}
 
+        <!--
         <header class="my-0 pt-5 pb-4 px-3">
             <h1 class="text-light display-4 mb-0 pb-0 lh-1"><a href='/' class="text-light">SWHarden.com</a></h1>
             <div class="text-light fs-5 fw-light" style="opacity: .5;">The personal website of Scott W Harden</div>
         </header>
+        -->
 
         <!-- NOTE: keep article out of this template to support multi-article pages -->
         {{ block "main" . }}
