@@ -29,7 +29,10 @@
 
         article img {
             max-width: 100%;
-            margin: 3rem;
+            margin: auto;
+            margin-top: 3rem;
+            margin-bottom: 3rem;
+            display: block;
         }
 
         p code {
@@ -61,6 +64,37 @@
 
         article h3 a {
             color: inherit;
+        }
+
+        .img-small img {
+            max-width: 35% !important;
+            margin: 1em !important;
+            display: inline-block;
+        }
+
+        article .img-micro img {
+            max-width: 25% !important;
+            max-height: 12em !important;
+            margin: .5em !important;
+            display: inline-block;
+        }
+
+        .img-border img {
+            border: 1px solid black;
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, .2);
+            margin-top: 1em;
+            margin-bottom: 2em;
+        }
+
+        .gallery {
+            text-align: center;
+            margin-top: 3rem;
+            margin-bottom: 3rem;
+        }
+
+        .gallery img {
+            margin: 0px;
+            display: inline-block;
         }
 
         blockquote {
