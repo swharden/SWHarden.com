@@ -30,3 +30,6 @@ CanonifyURLs = true
     mediatype = "application/rss"
     path = "blog/feed"
     baseName = "index"
+
+[permalinks]
+   tags = "/blog/tag/:slug/"

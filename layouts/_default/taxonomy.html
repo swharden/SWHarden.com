@@ -1,4 +1,11 @@
 {{ define "main" }}
-<h1>Tax</h1>
-{{ .Content }}
+
+{{ if eq .Title "Tags" }}
+<article class="bg-white border shadow p-3 mb-5">
+    {{ partial "posts-by-tag.html" . }}
+</article>
+{{ else }}
+{{ partial "tag-page.html" . }}
+{{ end }}
+
 {{ end }}

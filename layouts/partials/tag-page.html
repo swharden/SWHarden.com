@@ -1,0 +1,17 @@
+{{ $paginator := .Paginate .Site.RegularPages.ByDate.Reverse }}
+
+{{ range $paginator.Pages }}
+{{ partial "article.html" . }}
+{{ end }}
+
+<div class="fs-4">
+    Articles with '{{ .Title }}' tag
+</div>
+
+<ul class="pagination pagination flex-wrap">
+    {{ range $paginator.Pagers }}
+    <li class="page-item my-2 {{ if eq . $paginator }}active{{ end }}">
+        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
+    </li>
+    {{ end }}
+</ul>
