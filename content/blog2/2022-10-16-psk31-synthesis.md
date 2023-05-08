@@ -354,7 +354,7 @@ These audio files encode the text _The Quick Brown Fox Jumped Over The Lazy Dog 
 * PSK-31: [dog31.wav](https://swharden.com/static/2022/10/16/dog31.wav)
 * PSK-63: [dog63.wav](https://swharden.com/static/2022/10/16/dog63.wav)
 * PSK-125: [dog125.wav](https://swharden.com/static/2022/10/16/dog125.wav)
-* PSK-256: [dog256.wav](https://swharden.com/static/2022/10/16/dog256.wav)
+* PSK-256: [dog256.wav](https://swharden.com/static/2022/10/16/dog250.wav)
 
 ### Non-Standard Baud Rates
 
@@ -404,7 +404,7 @@ Since BPSK is just a carrier that applies periodic 180º phase-shifts, it's easy
 
 **Unlike the 0º and 180º phases of binary phase shift keying (BPSK), quadrature phase shift keying (QPSK) encodes extra data into each symbol by uses a larger number of phases.** When QPSK-31 is used in amateur radio these extra bits aren't used to send messages faster but instead send them more reliably using convolutional coding and error correction. These additional features come at a cost (an extra 3 dB SNR is required), and in practice QPSK is not used as much by amateur radio operators.
 
-QPSK encoding/decoding and convolutional encoding/decoding are outside the scope of this page, but excellent information exists on the [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_%28QPSK%29) and in the US Naval Academy's [EC314 Lesson 23: Digital Modulation](https://www.projectfpga.com/resources/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) document.
+QPSK encoding/decoding and convolutional encoding/decoding are outside the scope of this page, but excellent information exists on the [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying) and in the US Naval Academy's [EC314 Lesson 23: Digital Modulation](https://www.projectfpga.com/resources/EC312_Lesson_23_Digital_Modulation_Course_Notes.pdf) document.
 
 <a href="https://swharden.com/static/2022/10/16/qpsk.png"><img src="https://swharden.com/static/2022/10/16/qpsk.png" class="mx-auto d-block"></a>
 
@@ -438,7 +438,7 @@ After all that, it turns out PSK-31 isn't that popular anymore. These days it se
 
 * [Wikipedia: Varicode](https://en.wikipedia.org/wiki/Varicode) includes a table of all symbols
 
-* [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying#Quadrature_phase-shift_keying_%28QPSK%29)
+* [Wikipedia: QPSK](https://en.wikipedia.org/wiki/Phase-shift_keying)
 
 * [PSK31 Fundamentals](http://aintel.bi.ehu.es/psk31theory.html) and [PSK31 Setup](https://myplace.frontier.com/~nb6z/psk31.htm) by Peter Martinez, G3PLX
 
