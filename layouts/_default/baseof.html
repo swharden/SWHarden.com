@@ -27,14 +27,6 @@
             text-decoration: underline;
         }
 
-        article img {
-            max-width: 100%;
-            margin: auto;
-            margin-top: 3rem;
-            margin-bottom: 3rem;
-            display: block;
-        }
-
         p code {
             color: inherit;
             background-color: #0000000a;
@@ -66,13 +58,21 @@
             color: inherit;
         }
 
+        article img {
+            max-width: 100%;
+            margin: auto;
+            margin-top: 3rem;
+            margin-bottom: 3rem;
+            display: block;
+        }
+
         .img-small img {
             max-width: 35% !important;
             margin: 1em !important;
             display: inline-block;
         }
 
-        article .img-micro img {
+        .img-micro img {
             max-width: 25% !important;
             max-height: 12em !important;
             margin: .5em !important;
@@ -107,6 +107,24 @@
 
         blockquote p {
             margin: 0px;
+        }
+
+        /* GitHub-style tables */
+
+        table {
+            margin: 2em;
+        }
+
+        td {
+            border: 1px solid #dfe2e5;
+            padding: .4em;
+        }
+
+        th {
+            background-color: #f6f8fa;
+            border: 1px solid #dfe2e5;
+            font-weight: 600;
+            padding: .4em;
         }
     </style>
 </head>
