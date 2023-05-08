@@ -10,11 +10,7 @@ tags: ["circuit", "diyECG"]
 
 **In 2019 I released a [YouTube video](https://www.youtube.com/watch?v=sP_-f5nsOEo) and [blog post](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/) showing how to build an ECG machine** using an AD8232 interfaced to a computer's sound card. At the end of the video I discussed how to use a 555 timer to create a waveform roughly like an ECG signal, but I didn't post the circuit at the end of that video. I get questions about it from time to time, so I'll share my best guess at what that circuit was here using LTSpice to simulate it.
 
-<div class="text-center img-border">
-
-![](https://swharden.com/static/2020/09/27/ltspice-ecg-simulator.png)
-
-</div>
+<img src='https://swharden.com/static/2020/09/27/ltspice-ecg-simulator.png' class='w-75 d-block mx-auto border shadow'>
 
 ## Design Notes
 
