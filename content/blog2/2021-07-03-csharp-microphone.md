@@ -11,7 +11,7 @@ tags: ["csharp"]
 
 Mono | Stereo
 ---|---
-<img src='microphone-mono.gif'>|<img src='microphone-stereo.gif'>
+<img src='https://swharden.com/static/2021/07/03/microphone-mono.gif'>|<img src='https://swharden.com/static/2021/07/03/microphone-stereo.gif'>
 
  Full source code is available on GitHub ([Program.cs](https://github.com/swharden/Csharp-Data-Visualization/blob/master/examples/2021-07-03-console-microphone/Program.cs))
 
