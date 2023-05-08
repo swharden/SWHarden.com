@@ -4,8 +4,6 @@ Description: Photographs of the life cycle of a spiny leaf insect raised as a pe
 Date: 2021-10-12 20:45:00
 ---
 
-# My Life with a Spiny Leaf Insect
-
 **I spent 2016 new years eve celebrating the occasion with a few entomologists.** Shortly after watching the ball drop in New York we changed the TV back to David Attenborough's [Life of Insects](https://www.youtube.com/watch?v=Cs1Xs3Eheag), and I was amazed at what I saw! There was a short segment on _leaf insects_ and I was impressed by the camouflage of these small creatures. I wanted to see more so I google image-searched and clicked on the websites that came up. One of the websites was an ebay listing for ten leaf insect eggs (for about $10 USD) and I couldn't avoid that "BUY IT NOW" button. I remember pointing to the TV and announcing to the room, "Aren't those things cool? I just bought ten."
 
 <div class="text-center img-border">
@@ -17,7 +15,7 @@ Date: 2021-10-12 20:45:00
 It turns out what I purchased was a [spiny leaf insect (Extatosoma tiaratum)](https://en.wikipedia.org/wiki/Extatosoma_tiaratum) endemic to Australia. These insects are sexually dimorphic, with males being thinner and capable of flight. Females have false wings but grow larger and can live longer. These insects eat plants and are capable of asexual reproduction (parthenogenesis).
 
 <div class="text-center">
-<img src='leaf-insect-male-female3.jpg' />
+<img src='https://swharden.com/static/2021/10/13/leaf-insect-male-female3.jpg' />
 </div>
 
 {{<youtube Cs1Xs3Eheag>}}
