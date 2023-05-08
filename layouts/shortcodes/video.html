@@ -1,6 +1,6 @@
 {{- $url := .Get "url" | default (.Get 0) -}}
 <div class="text-center my-5">
-    <video playsinline autoplay muted loop class="border border-dark bg-dark shadow" style="width: 85%">
+    <video playsinline autoplay muted loop class="border border-dark bg-dark shadow" style="width: 100%">
         <source src="{{ $url }}" type="video/webm">
     </video>
 </div>
