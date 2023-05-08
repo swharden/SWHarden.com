@@ -1,7 +1,3 @@
 <p>
-    {{ if strings.Contains .Destination ":" }}
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
-    {{ else }}
-    <img src="{{.Page.Permalink}}{{ .Destination | safeURL }}" alt="{{ .Text }}" />
-    {{ end }}
+    <a href="{{ .Destination | safeURL }}"><img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" /></a>
 </p>

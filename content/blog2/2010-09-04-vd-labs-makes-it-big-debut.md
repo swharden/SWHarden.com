@@ -1,7 +1,7 @@
 ---
 title: VD Labs
 date: 2010-09-04 22:36:51
-tags: ["qrss", "old"]
+tags: ["qrss", "obsolete"]
 ---
 
 # VD Labs

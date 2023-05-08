@@ -1,7 +1,7 @@
 ---
 title: VHF Frequency Counter with PC Interface
 date: 2016-09-05 17:34:44
-tags: ["amateur radio", "circuit", "python", "old"]
+tags: ["amateur radio", "circuit", "python", "obsolete"]
 ---
 
 # VHF Frequency Counter with PC Interface

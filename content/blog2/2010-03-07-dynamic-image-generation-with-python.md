@@ -1,7 +1,7 @@
 ---
 title: Dynamic Logo Generation with Python
 date: 2010-03-07 18:47:00
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Dynamic Logo Generation with Python

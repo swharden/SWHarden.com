@@ -1,7 +1,7 @@
 ---
 title: Screwy Oscillator Idea
 date: 2011-06-02 21:18:47
-tags: ["circuit", "amateur radio", "old"]
+tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
 # Screwy Oscillator Idea

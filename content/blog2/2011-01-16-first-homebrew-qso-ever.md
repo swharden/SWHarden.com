@@ -1,7 +1,7 @@
 ---
 title: First Homebrew QSO Ever!
 date: 2011-01-16 18:39:32
-tags: ["amateur radio", "circuit", "old"]
+tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
 # First Homebrew QSO Ever!

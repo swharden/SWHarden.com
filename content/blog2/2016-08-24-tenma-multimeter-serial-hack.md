@@ -1,7 +1,7 @@
 ---
 title: TENMA Multimeter Serial Hack
 date: 2016-08-24 03:08:28
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # TENMA Multimeter Serial Hack

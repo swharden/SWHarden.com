@@ -1,7 +1,7 @@
 ---
 title: Soup Can MEPT
 date: 2010-06-03 13:51:34
-tags: ["qrss", "amateur radio", "circuit", "old"]
+tags: ["qrss", "amateur radio", "circuit", "obsolete"]
 ---
 
 # Soup Can MEPT

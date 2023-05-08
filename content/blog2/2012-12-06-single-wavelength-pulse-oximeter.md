@@ -1,7 +1,7 @@
 ---
 title: Single Wavelength Pulse Oximeter
 date: 2012-12-06 08:13:41
-tags: ["circuit", "diyECG", "old"]
+tags: ["circuit", "diyECG", "obsolete"]
 ---
 
 # Single Wavelength Pulse Oximeter

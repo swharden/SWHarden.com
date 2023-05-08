@@ -1,7 +1,7 @@
 ---
 title: Crystal Oven Testing
 date: 2013-06-22 15:14:37
-tags: ["circuit", "old"]
+tags: ["circuit", "obsolete"]
 ---
 
 # Crystal Oven Testing

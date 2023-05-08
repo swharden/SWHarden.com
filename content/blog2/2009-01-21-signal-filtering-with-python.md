@@ -1,7 +1,7 @@
 ---
 title: Signal Filtering with Python
 date: 2009-01-21 16:25:04
-tags: ["diyECG", "python", "old"]
+tags: ["diyECG", "python", "obsolete"]
 ---
 
 # Signal Filtering with Python

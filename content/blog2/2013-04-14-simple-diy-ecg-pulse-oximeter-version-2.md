@@ -1,7 +1,7 @@
 ---
 title: Simple DIY ECG + Pulse Oximeter (version 2)
 date: 2013-04-14 16:00:14
-tags: ["diyECG", "microcontroller", "old"]
+tags: ["diyECG", "microcontroller", "obsolete"]
 ---
 
 # Simple DIY ECG + Pulse Oximeter (version 2)

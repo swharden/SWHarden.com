@@ -1,7 +1,7 @@
 ---
 title: Minimalist Radio Receiver
 date: 2010-06-09 23:42:00
-tags: ["qrss", "amateur radio", "old"]
+tags: ["qrss", "amateur radio", "obsolete"]
 ---
 
 # Minimalist Radio Receiver

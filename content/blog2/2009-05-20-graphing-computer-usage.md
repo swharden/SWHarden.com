@@ -1,7 +1,7 @@
 ---
 title: Graphing Computer Usage
 date: 2009-05-20 08:44:57
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Graphing Computer Usage

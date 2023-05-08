@@ -1,7 +1,7 @@
 ---
 title: Breadboard Line Driver Module
 date: 2016-08-20 19:16:27
-tags: ["circuit", "old"]
+tags: ["circuit", "obsolete"]
 ---
 
 # Breadboard Line Driver Module

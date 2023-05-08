@@ -1,7 +1,7 @@
 ---
 title: DIY ECG Machine On The Cheap
 date: 2009-08-14 21:15:00
-tags: ["diyECG", "old"]
+tags: ["diyECG", "obsolete"]
 ---
 
 # DIY ECG Machine On The Cheap

@@ -1,7 +1,7 @@
 ---
 title: Pushing and Pulling
 date: 2010-05-26 07:42:39
-tags: ["circuit", "amateur radio", "old"]
+tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
 # Pushing and Pulling

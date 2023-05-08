@@ -1,7 +1,7 @@
 ---
 title: Home-Brew Transceiver Taking Shape!
 date: 2011-01-28 14:13:33
-tags: ["circuit", "microcontroller", "old", "amateur radio"]
+tags: ["circuit", "microcontroller", "obsolete", "amateur radio"]
 ---
 
 # Home-Brew Transceiver Taking Shape!

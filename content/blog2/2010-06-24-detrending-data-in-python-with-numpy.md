@@ -1,7 +1,7 @@
 ---
 title: Detrending Data in Python with Numpy
 date: 2010-06-24 08:38:52
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Detrending Data in Python with Numpy

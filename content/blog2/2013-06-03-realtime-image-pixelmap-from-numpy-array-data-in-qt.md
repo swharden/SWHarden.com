@@ -1,7 +1,7 @@
 ---
 title: Realtime image pixelmap from Numpy array data in Qt
 date: 2013-06-03 22:40:56
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Realtime image pixelmap from Numpy array data in Qt

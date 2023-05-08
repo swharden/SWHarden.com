@@ -1,7 +1,7 @@
 ---
 title: A Prime Idea
 date: 2009-05-27 10:28:19
-tags: ["old", "circuit"]
+tags: ["obsolete", "circuit"]
 ---
 
 # A Prime Idea

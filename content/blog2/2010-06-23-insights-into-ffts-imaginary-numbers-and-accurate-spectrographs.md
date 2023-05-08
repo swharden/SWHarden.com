@@ -1,7 +1,7 @@
 ---
 title: Insights Into FFTs, Imaginary Numbers, and Accurate Spectrographs
 date: 2010-06-23 22:21:00
-tags: ["qrss", "python", "old"]
+tags: ["qrss", "python", "obsolete"]
 ---
 
 # Insights Into FFTs, Imaginary Numbers, and Accurate Spectrographs

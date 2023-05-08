@@ -1,7 +1,7 @@
 ---
 title: 40m Junkbox QRP Transmitter
 date: 2011-01-10 09:01:20
-tags: ["qrss", "amateur radio", "circuit", "old"]
+tags: ["qrss", "amateur radio", "circuit", "obsolete"]
 ---
 
 # 40m Junkbox QRP Transmitter

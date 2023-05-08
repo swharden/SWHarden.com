@@ -1,7 +1,7 @@
 ---
 title: PC/microcontroller “wireless” data transfer (part 2)
 date: 2011-07-31 22:35:12
-tags: ["circuit", "microcontroller", "old"]
+tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
 # PC/microcontroller “wireless” data transfer (part 2)

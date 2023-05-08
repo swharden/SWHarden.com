@@ -1,7 +1,7 @@
 ---
 title: Lost Project Revisited on HackADay
 date: 2010-08-24 21:22:37
-tags: ["circuit", "old"]
+tags: ["circuit", "obsolete"]
 ---
 
 # Lost Project Revisited on HackADay

@@ -1,7 +1,7 @@
 ---
 title: Calculate QRSS Transmission Time with Python
 date: 2013-06-23 21:19:59
-tags: ["qrss", "python", "old"]
+tags: ["qrss", "python", "obsolete"]
 ---
 
 # Calculate QRSS Transmission Time with Python

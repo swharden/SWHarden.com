@@ -1,7 +1,7 @@
 ---
 title: Overseas QRP Transmission
 date: 2010-03-09 18:01:16
-tags: ["qrss", "python", "old"]
+tags: ["qrss", "python", "obsolete"]
 ---
 
 # Overseas QRP Transmission

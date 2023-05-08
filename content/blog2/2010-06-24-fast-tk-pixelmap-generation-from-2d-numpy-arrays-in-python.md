@@ -1,7 +1,7 @@
 ---
 title: Fast TK Pixelmap generation from 2D Numpy Arrays in Python
 date: 2010-06-24 21:29:29
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Fast TK Pixelmap generation from 2D Numpy Arrays in Python

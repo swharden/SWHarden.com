@@ -1,7 +1,7 @@
 ---
 title: Realtime Data Plotting in Python
 date: 2013-05-08 16:34:27
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Realtime Data Plotting in Python

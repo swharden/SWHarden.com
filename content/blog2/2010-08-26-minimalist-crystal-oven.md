@@ -1,7 +1,7 @@
 ---
 title: Minimalist Crystal Oven
 date: 2010-08-26 10:40:16
-tags: ["circuit", "qrss", "old", "microcontroller"]
+tags: ["circuit", "qrss", "obsolete", "microcontroller"]
 ---
 
 # Minimalist Crystal Oven

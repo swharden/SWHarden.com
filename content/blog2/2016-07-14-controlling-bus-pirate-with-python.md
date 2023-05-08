@@ -1,7 +1,7 @@
 ---
 title: Controlling Bus Pirate with Python
 date: 2016-07-14 00:15:31
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Controlling Bus Pirate with Python

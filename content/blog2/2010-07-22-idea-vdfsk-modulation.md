@@ -1,7 +1,7 @@
 ---
 title: vdFSK Modulation
 date: 2010-07-22 12:39:54
-tags: ["python", "qrss", "old"]
+tags: ["python", "qrss", "obsolete"]
 ---
 
 # Idea: vdFSK modulation

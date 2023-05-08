@@ -1,7 +1,7 @@
 ---
 title: Simple DIY Stealth Apartment Antenna for HF
 date: 2010-02-07 17:49:49
-tags: ["amateur radio", "old"]
+tags: ["amateur radio", "obsolete"]
 ---
 
 # Simple DIY Stealth Apartment Antenna for HF

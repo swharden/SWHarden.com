@@ -1,7 +1,7 @@
 ---
 title: Smoothly Scroll an Image Across a Window with Tkinter vs. PyGame
 date: 2010-03-05 08:49:00
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Smoothly Scroll an Image Across a Window with Tkinter vs. PyGame

@@ -1,7 +1,7 @@
 ---
 title: Linear Data Smoothing in Python
 date: 2008-11-17 18:50:10
-tags: ["old", "python"]
+tags: ["obsolete", "python"]
 ---
 
 # Linear Data Smoothing in Python

@@ -1,7 +1,7 @@
 ---
 title: Measuring QRP Radio Output Power with an Oscilloscope
 date: 2010-05-28 19:54:39
-tags: ["amateur radio", "circuit", "old"]
+tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
 # Measure QRP Radio Output Power with an Oscilloscope

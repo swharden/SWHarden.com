@@ -1,7 +1,7 @@
 ---
 title: Precision Temperature Measurement
 date: 2013-06-10 22:25:27
-tags: ["microcontroller", "old"]
+tags: ["microcontroller", "obsolete"]
 ---
 
 # Precision Temperature Measurement

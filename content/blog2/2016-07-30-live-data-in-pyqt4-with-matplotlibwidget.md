@@ -1,7 +1,7 @@
 ---
 title: Live Data in PyQt4 with MatplotlibWidget
 date: 2016-07-30 23:15:23
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Live Data in PyQt4 with MatplotlibWidget

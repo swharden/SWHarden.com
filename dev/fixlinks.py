@@ -13,18 +13,14 @@ def fix(file: pathlib.Path):
 
     for i in range(len(lines)):
         line = lines[i]
-        if "![](" in line and "youtube.com" in line:
-            print(line)
-            id = line.split("/")[-1].split(")")[0]
-            print(id)
-            new = f"{{{{<youtube {id}>}}}}"
-            print(new)
-            lines[i] = new
+        if not line.startswith("tags:"):
+            continue
+        lines[i] = line.replace('"old"', '"obsolete"')
 
     article.set_lines(lines)
     article.save()
 
 if __name__ == "__main__":
-    for file in pathlib.Path("content/blog/").glob("*.md"):
+    for file in pathlib.Path("content/blog2/").glob("*.md"):
         # print(file)
         fix(file)

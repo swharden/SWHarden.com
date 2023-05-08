@@ -1,7 +1,7 @@
 ---
 title: QRSS DNA
 date: 2010-06-06 19:15:58
-tags: ["microcontroller", "circuit", "qrss", "old"]
+tags: ["microcontroller", "circuit", "qrss", "obsolete"]
 ---
 
 # QRSS DNA

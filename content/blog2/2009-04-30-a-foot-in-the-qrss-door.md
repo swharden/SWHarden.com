@@ -1,7 +1,7 @@
 ---
 title: A Foot in the QRSS Door
 date: 2009-04-30 09:26:40
-tags: ["qrss", "microcontroller", "amateur radio", "old"]
+tags: ["qrss", "microcontroller", "amateur radio", "obsolete"]
 ---
 
 # A Foot in the QRSS Door

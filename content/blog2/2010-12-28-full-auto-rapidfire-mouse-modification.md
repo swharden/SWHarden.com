@@ -1,7 +1,7 @@
 ---
 title: Full-Auto Rapidfire Mouse Modification
 date: 2010-12-28 01:52:09
-tags: ["circuit", "microcontroller", "old"]
+tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
 # Full-Auto Rapidfire Mouse Modification

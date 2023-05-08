@@ -1,7 +1,7 @@
 ---
 title: High Altitude Balloon Transmitter Prototype
 date: 2011-08-14 18:42:59
-tags: ["amateur radio", "circuit", "old"]
+tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
 # High Altitude Balloon Transmitter Prototype

@@ -1,7 +1,7 @@
 ---
 title: Tenma 72-7750 Multimeter for RF Engineering
 date: 2013-04-17 22:20:55
-tags: ["old"]
+tags: ["obsolete"]
 ---
 
 # Tenma 72-7750 Multimeter for RF Engineering

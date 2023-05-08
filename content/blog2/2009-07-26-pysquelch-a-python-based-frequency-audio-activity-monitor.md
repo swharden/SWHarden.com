@@ -1,7 +1,7 @@
 ---
 title: "PySquelch: A Python-Based Frequency Audio Activity Monitor"
 date: 2009-07-26 00:22:12
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # PySquelch: A Python-Based Frequency Audio Activity Monitor

@@ -1,7 +1,7 @@
 ---
 title: Simple-Case PyGame Example
 date: 2010-06-15 08:29:03
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Simple-Case PyGame Example

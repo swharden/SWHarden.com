@@ -1,7 +1,7 @@
 ---
 title: Introduction to PIC Programming for AVR users
 date: 2012-06-24 20:29:03
-tags: ["microcontroller", "old"]
+tags: ["microcontroller", "obsolete"]
 ---
 
 # Introduction to PIC Programming for AVR users

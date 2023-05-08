@@ -1,7 +1,7 @@
 ---
 title: Festivus Pole Video Game
 date: 2015-12-23 18:24:11
-tags: ["old"]
+tags: ["obsolete"]
 ---
 
 # Festivus Pole Video Game

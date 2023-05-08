@@ -1,7 +1,7 @@
 ---
 title: Reading PCM Audio with Python
 date: 2009-06-19 09:08:33
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Reading PCM Audio with Python

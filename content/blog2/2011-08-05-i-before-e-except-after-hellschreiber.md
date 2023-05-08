@@ -1,7 +1,7 @@
 ---
 title: I before E except after Hellschreiber
 date: 2011-08-05 18:52:40
-tags: ["microcontroller", "circuit", "old", "amateur radio"]
+tags: ["microcontroller", "circuit", "obsolete", "amateur radio"]
 ---
 
 # I before E except after Hellschreiber

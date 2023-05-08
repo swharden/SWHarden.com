@@ -1,7 +1,7 @@
 ---
 title: HF CW on the Cheap
 date: 2009-12-10 23:44:15
-tags: ["amateur radio", "circuit", "old"]
+tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
 # HF CW on the Cheap

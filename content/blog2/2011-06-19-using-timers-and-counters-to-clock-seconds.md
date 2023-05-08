@@ -1,7 +1,7 @@
 ---
 title: Using Timers and Counters to Clock Seconds
 date: 2011-06-19 23:06:41
-tags: ["circuit", "microcontroller", "old"]
+tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
 # Using Timers and Counters to Clock Seconds

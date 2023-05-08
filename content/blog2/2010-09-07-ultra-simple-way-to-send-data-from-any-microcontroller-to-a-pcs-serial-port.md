@@ -1,7 +1,7 @@
 ---
 title: Simple method to send data from ANY microcontroller to a serial port
 date: 2010-09-07 08:37:13
-tags: ["microcontroller", "old"]
+tags: ["microcontroller", "obsolete"]
 ---
 
 # Simple method to send data from ANY microcontroller to a serial port

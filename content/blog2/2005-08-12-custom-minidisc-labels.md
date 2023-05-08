@@ -1,7 +1,7 @@
 ---
 title: Custom MiniDisc Labels with Photoshop
 date: 2005-08-12 13:11:59
-tags: ["old"]
+tags: ["obsolete"]
 ---
 
 # Create Custom MiniDisc Labels

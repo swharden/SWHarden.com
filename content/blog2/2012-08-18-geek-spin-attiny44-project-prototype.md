@@ -1,7 +1,7 @@
 ---
 title: Geek Spin - ATTiny44 Project Prototype
 date: 2012-08-18 15:28:38
-tags: ["microcontroller", "old"]
+tags: ["microcontroller", "obsolete"]
 ---
 
 # Geek Spin - ATTiny44 Project Prototype

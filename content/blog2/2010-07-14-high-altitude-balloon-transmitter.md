@@ -1,7 +1,7 @@
 ---
 title: High Altitude Balloon Transmitter
 date: 2010-07-14 08:05:46
-tags: ["qrss", "amateur radio", "old"]
+tags: ["qrss", "amateur radio", "obsolete"]
 ---
 
 # High Altitude Balloon Transmitter

@@ -1,7 +1,7 @@
 ---
 title: Serial Port Multi-Channel Temperature Measurement
 date: 2010-11-24 08:17:03
-tags: ["circuit", "microcontroller", "python", "old"]
+tags: ["circuit", "microcontroller", "python", "obsolete"]
 ---
 
 # ATMega48 + LM335 + MAX232 = Serial Port Multi-Channel Temperature Measurement

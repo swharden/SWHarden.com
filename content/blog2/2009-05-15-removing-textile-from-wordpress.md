@@ -1,7 +1,7 @@
 ---
 title: Removing Textile Markup From Wordpress Entries
 date: 2009-05-15 17:56:32
-tags: ["old"]
+tags: ["obsolete"]
 ---
 
 # Removing Textile Markup From Wordpress Entries

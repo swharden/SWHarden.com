@@ -1,7 +1,7 @@
 ---
 title: Animated Realtime Spectrograph with Scrolling Waterfall Display in Python
 date: 2010-03-05 22:51:21
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Animated Realtime Spectrograph with Scrolling Waterfall Display in Python

@@ -1,7 +1,7 @@
 ---
 title: Opto-Isolated Laser Controller Build
 date: 2016-07-28 02:33:12
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Opto-Isolated Laser Controller Build

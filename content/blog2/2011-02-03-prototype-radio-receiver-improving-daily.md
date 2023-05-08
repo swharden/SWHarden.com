@@ -1,7 +1,7 @@
 ---
 title: Prototype Radio Receiver Improving Daily
 date: 2011-02-03 23:16:55
-tags: ["amateur radio", "old"]
+tags: ["amateur radio", "obsolete"]
 ---
 
 # Prototype Radio Receiver Improving Daily

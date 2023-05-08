@@ -1,7 +1,7 @@
 ---
 title: Frequency Counter Working!
 date: 2011-02-04 21:26:26
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Frequency Counter Working!

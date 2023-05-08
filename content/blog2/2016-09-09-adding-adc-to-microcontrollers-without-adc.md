@@ -1,7 +1,7 @@
 ---
 title: Adding ADC to Microcontrollers without ADC
 date: 2016-09-09 03:00:31
-tags: ["circuit", "old"]
+tags: ["circuit", "obsolete"]
 ---
 
 # Adding ADC to Microcontrollers without ADC

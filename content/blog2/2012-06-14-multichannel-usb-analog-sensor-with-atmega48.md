@@ -1,7 +1,7 @@
 ---
 title: Multichannel USB Analog Sensor with ATMega48
 date: 2012-06-14 10:42:00
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Multichannel USB Analog Sensor with ATMega48

@@ -1,7 +1,7 @@
 ---
 title: DIY State Machine
 date: 2011-07-16 22:52:17
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # DIY State Machine

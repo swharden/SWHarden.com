@@ -1,7 +1,7 @@
 ---
 title: RF Workshop Launched
 date: 2011-02-20 00:13:37
-tags: ["circuit", "amateur radio", "old"]
+tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
 # RF Workshop Launched

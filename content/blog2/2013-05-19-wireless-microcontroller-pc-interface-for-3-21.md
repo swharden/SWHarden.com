@@ -1,7 +1,7 @@
 ---
 title: Wireless Microcontroller / PC Interface for $3.21
 date: 2013-05-19 01:32:46
-tags: ["microcontroller", "old", "python"]
+tags: ["microcontroller", "obsolete", "python"]
 ---
 
 # Wireless Microcontroller / PC Interface for $3.21

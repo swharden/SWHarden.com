@@ -1,7 +1,7 @@
 ---
 title: Quantifying University Network Frustrations
 date: 2010-09-09 08:06:39
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Quantifying University Network Frustrations

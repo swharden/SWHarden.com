@@ -1,7 +1,7 @@
 ---
 title: Directly Driving 7-Segment Display with AVR IO Pins
 date: 2014-02-27 16:19:53
-tags: ["circuit", "old"]
+tags: ["circuit", "obsolete"]
 ---
 
 # Directly Driving 7-Segment Display with AVR IO Pins

@@ -1,7 +1,7 @@
 ---
 title: PC/microcontroller "wireless" data transfer (part 1)
 date: 2011-07-26 22:35:16
-tags: ["circuit", "microcontroller", "old"]
+tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
 # PC/microcontroller "wireless" data transfer (part 1)

@@ -1,7 +1,7 @@
 ---
 title: Ridiculously Simple AVR AM Radio Transmitter
 date: 2011-08-06 19:32:44
-tags: ["amateur radio", "circuit", "old"]
+tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
 # Ridiculously Simple AVR AM Radio Transmitter

@@ -1,7 +1,7 @@
 ---
 title: $10 Frequency Counter Finished!
 date: 2011-03-14 10:29:21
-tags: ["amateur radio", "circuit", "microcontroller", "old"]
+tags: ["amateur radio", "circuit", "microcontroller", "obsolete"]
 ---
 
 # $10 Frequency Counter Finished!

@@ -1,7 +1,7 @@
 ---
 title: Sound Card Microcontroller/PC Communication
 date: 2011-07-09 23:30:44
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Sound Card Microcontroller/PC Communication

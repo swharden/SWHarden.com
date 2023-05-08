@@ -1,7 +1,7 @@
 ---
 title: Simple Python Spectrograph with PyGame
 date: 2010-06-19 21:53:25
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Simple Python Spectrograph with PyGame

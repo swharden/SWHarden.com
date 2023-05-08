@@ -1,7 +1,7 @@
 ---
 title: Realtime FFT Audio Visualization with Python
 date: 2013-05-09 19:52:02
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Realtime FFT Audio Visualization with Python

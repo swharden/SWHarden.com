@@ -1,7 +1,7 @@
 ---
 title: Prime Failure 1 Year in the Making
 date: 2010-08-11 07:49:58
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Prime Failure 1 Year in the Making

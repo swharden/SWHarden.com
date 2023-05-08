@@ -1,7 +1,7 @@
 ---
 title: AVR Programming in 64-bit Windows 7
 date: 2013-05-07 18:14:58
-tags: ["microcontroller", "old"]
+tags: ["microcontroller", "obsolete"]
 ---
 
 # AVR Programming in 64-bit Windows 7

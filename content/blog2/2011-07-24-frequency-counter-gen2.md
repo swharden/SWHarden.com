@@ -1,7 +1,7 @@
 ---
 title: Frequency Counter Gen2
 date: 2011-07-24 17:07:24
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Frequency Counter Gen2

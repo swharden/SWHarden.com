@@ -1,7 +1,7 @@
 ---
 title: Hacking Together a Crystal Oven Part 2
 date: 2010-08-27 19:21:25
-tags: ["circuit", "qrss", "old", "microcontroller"]
+tags: ["circuit", "qrss", "obsolete", "microcontroller"]
 ---
 
 # Hacking Together a Crystal Oven Part 2

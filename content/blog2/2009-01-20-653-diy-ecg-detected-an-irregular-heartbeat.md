@@ -1,7 +1,7 @@
 ---
 title: DIY ECG Detected an Irregular Heartbeat
 date: 2009-01-20 13:15:59
-tags: ["diyECG", "old"]
+tags: ["diyECG", "obsolete"]
 ---
 
 # DIY ECG Detected an Irregular Heartbeat

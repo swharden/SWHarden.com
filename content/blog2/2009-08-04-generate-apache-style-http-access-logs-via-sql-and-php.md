@@ -1,7 +1,7 @@
 ---
 title: Generate Apache-Style HTTP Access Logs via SQL and PHP
 date: 2009-08-04 00:11:18
-tags: ["old"]
+tags: ["obsolete"]
 ---
 
 # Generate Apache-Style HTTP Access Logs via SQL and PHP

@@ -1,7 +1,7 @@
 ---
 title: QRSS VD Image Assembler
 date: 2010-06-07 23:20:18
-tags: ["qrss", "old", "python"]
+tags: ["qrss", "obsolete", "python"]
 ---
 
 # QRSS VD Image Assembler

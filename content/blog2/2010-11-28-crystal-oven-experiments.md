@@ -1,7 +1,7 @@
 ---
 title: Crystal Oven Experiments
 date: 2010-11-28 17:06:18
-tags: ["circuit", "microcontroller", "old"]
+tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
 # Crystal Oven Experiments

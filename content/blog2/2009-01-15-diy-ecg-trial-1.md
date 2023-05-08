@@ -1,7 +1,7 @@
 ---
 title: DIY ECG Trial 1
 date: 2009-01-15 00:39:45
-tags: ["diyECG", "python", "old"]
+tags: ["diyECG", "python", "obsolete"]
 ---
 
 # DIY ECG Trial 1

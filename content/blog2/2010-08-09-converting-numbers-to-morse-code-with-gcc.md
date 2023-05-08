@@ -1,7 +1,7 @@
 ---
 title: Converting Numbers to Morse Code with GCC
 date: 2010-08-09 07:55:47
-tags: ["python", "qrss", "old"]
+tags: ["python", "qrss", "obsolete"]
 ---
 
 # Converting Numbers to Morse Code with GCC

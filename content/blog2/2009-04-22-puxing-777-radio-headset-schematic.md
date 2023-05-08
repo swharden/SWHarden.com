@@ -1,7 +1,7 @@
 ---
 title: Puxing 777 Radio Headset Schematic
 date: 2009-04-22 11:56:42
-tags: ["amateur radio", "circuit", "old"]
+tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
 # Puxing 777 Radio Headset Schematic

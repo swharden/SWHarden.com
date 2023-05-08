@@ -1,7 +1,7 @@
 ---
 title: Permeability Tuned Oscillator (PTO) Working Nicely
 date: 2011-06-05 02:21:40
-tags: ["circuit", "amateur radio", "old"]
+tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
 # Permeability Tuned Oscillator (PTO) Working Nicely

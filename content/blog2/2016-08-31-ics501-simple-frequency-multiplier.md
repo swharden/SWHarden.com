@@ -1,7 +1,7 @@
 ---
 title: ICS501 Simple Frequency Multiplier
 date: 2016-08-31 03:57:50
-tags: ["circuit", "old"]
+tags: ["circuit", "obsolete"]
 ---
 
 # ICS501 Simple Frequency Multiplier

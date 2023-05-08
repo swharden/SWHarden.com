@@ -1,7 +1,7 @@
 ---
 title: Minimal QRSS Transmitter
 date: 2010-05-17 11:13:52
-tags: ["circuit", "qrss", "old"]
+tags: ["circuit", "qrss", "obsolete"]
 ---
 
 # Minimal QRSS Transmitter

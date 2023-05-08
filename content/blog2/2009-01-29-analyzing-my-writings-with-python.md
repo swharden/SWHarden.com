@@ -1,7 +1,7 @@
 ---
 title: Analyzing my Writings with Python
 date: 2009-01-29 18:46:22
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Analyzing my Writings with Python

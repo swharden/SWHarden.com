@@ -1,7 +1,7 @@
 ---
 title: Frequency Counter Hacked to add USB Functionality
 date: 2011-07-11 17:02:33
-tags: ["amateur radio", "qrss", "circuit", "microcontroller", "old"]
+tags: ["amateur radio", "qrss", "circuit", "microcontroller", "obsolete"]
 ---
 
 # Frequency Counter Hacked to add USB Functionality

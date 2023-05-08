@@ -1,7 +1,7 @@
 ---
 title: Epoch Timestamp Hashing
 date: 2014-04-19 08:31:53
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Epoch Timestamp Hashing

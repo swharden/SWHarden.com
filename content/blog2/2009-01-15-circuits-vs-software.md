@@ -1,7 +1,7 @@
 ---
 title: Circuits vs. Software
 date: 2009-01-15 17:47:52
-tags: ["diyECG", "old", "python"]
+tags: ["diyECG", "obsolete", "python"]
 ---
 
 # Circuits vs. Software

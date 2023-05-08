@@ -1,7 +1,7 @@
 ---
 title: Python Real-time Audio Frequency Monitor
 date: 2016-07-31 15:21:11
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Python Real-time Audio Frequency Monitor

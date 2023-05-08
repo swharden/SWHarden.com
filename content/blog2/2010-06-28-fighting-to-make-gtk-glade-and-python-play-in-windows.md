@@ -1,7 +1,7 @@
 ---
 title: Getting GTK, Glade, and Python to Work in Windows
 date: 2010-06-28 09:46:26
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Getting GTK, Glade, and Python to Work in Windows

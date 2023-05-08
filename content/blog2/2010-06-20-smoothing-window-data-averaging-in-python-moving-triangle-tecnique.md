@@ -1,7 +1,7 @@
 ---
 title: Smoothing Window Data Averaging in Python - Moving Triangle Tecnique
 date: 2010-06-20 22:12:03
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Smoothing Window Data Averaging in Python - Moving Triangle Tecnique

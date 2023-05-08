@@ -1,7 +1,7 @@
 ---
 title: pySquelch - Frequency Activity Reports via Python
 date: 2009-06-18 22:59:01
-tags: ["amateur radio", "python", "old"]
+tags: ["amateur radio", "python", "obsolete"]
 ---
 
 # pySquelch - Frequency Activity Reports via Python

@@ -1,7 +1,7 @@
 ---
 title: Convert Text to CW Morse Code with Linux
 date: 2010-02-02 10:58:54
-tags: ["amateur radio", "python", "old"]
+tags: ["amateur radio", "python", "obsolete"]
 ---
 
 # Convert Text to CW Morse Code with Linux

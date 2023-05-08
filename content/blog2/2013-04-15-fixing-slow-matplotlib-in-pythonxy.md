@@ -1,7 +1,7 @@
 ---
 title: Fixing Slow Matplotlib in Python(x,y)
 date: 2013-04-15 11:55:27
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Fixing Slow Matplotlib in Python(x,y)

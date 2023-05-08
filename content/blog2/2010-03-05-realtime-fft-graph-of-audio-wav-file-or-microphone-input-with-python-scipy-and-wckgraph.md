@@ -1,7 +1,7 @@
 ---
 title: Realtime FFT Graph of Audio WAV File or Microphone Input with Python, Scipy, and WCKgraph
 date: 2010-03-05 16:30:37
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Realtime FFT Graph of Audio WAV File or Microphone Input with Python, Scipy, and WCKgraph

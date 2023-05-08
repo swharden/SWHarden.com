@@ -1,7 +1,7 @@
 ---
 title: Compress and Store Files in Python
 date: 2008-11-24 17:48:16
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Compress Strings and Store to Files in Python

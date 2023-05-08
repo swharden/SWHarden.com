@@ -1,7 +1,7 @@
 ---
 title: Post-Defense Day 1
 date: 2009-04-01 18:46:34
-tags: ["old", "microcontroller", "amateur radio"]
+tags: ["obsolete", "microcontroller", "amateur radio"]
 ---
 
 # Post-Defense Day 1

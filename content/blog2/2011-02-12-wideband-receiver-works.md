@@ -1,7 +1,7 @@
 ---
 title: Wideband Receiver Works!
 date: 2011-02-12 23:28:56
-tags: ["amateur radio", "circuit", "microcontroller", "old"]
+tags: ["amateur radio", "circuit", "microcontroller", "obsolete"]
 ---
 
 # Wideband Receiver Works!

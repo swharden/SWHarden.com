@@ -1,7 +1,7 @@
 ---
 title: AVR Programming in Linux
 date: 2013-01-06 14:51:19
-tags: ["microcontroller", "old"]
+tags: ["microcontroller", "obsolete"]
 ---
 
 # AVR Programming in Linux

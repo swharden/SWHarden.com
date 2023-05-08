@@ -1,7 +1,7 @@
 ---
 title: Simple Case AVR/PC Serial Communication via MAX232
 date: 2009-05-14 11:00:19
-tags: ["microcontroller", "circuit", "old"]
+tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
 # Simple Case AVR/PC Serial Communication via MAX232

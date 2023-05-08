@@ -1,7 +1,7 @@
 ---
 title: Realtime Audio Visualization in Python
 date: 2016-07-19 04:44:48
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Realtime Audio Visualization in Python

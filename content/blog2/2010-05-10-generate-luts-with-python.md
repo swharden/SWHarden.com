@@ -1,7 +1,7 @@
 ---
 title: Generate LUTs with Python
 date: 2010-05-10 22:31:46
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Generate LUTs with Python

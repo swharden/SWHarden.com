@@ -1,7 +1,7 @@
 ---
 title: Tooth as a Radio Receiver?
 date: 2010-08-15 12:13:39
-tags: ["old"]
+tags: ["obsolete"]
 ---
 
 # Tooth as a Radio Receiver?

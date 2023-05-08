@@ -1,7 +1,7 @@
 ---
 title: Minimal Radio Project Continues...
 date: 2011-02-09 00:18:26
-tags: ["circuit", "amateur radio", "old"]
+tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
 # Minimal Radio Project Continues...

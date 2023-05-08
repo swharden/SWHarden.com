@@ -1,7 +1,7 @@
 ---
 title: Create Mono and Stereo Wave Files with Python
 date: 2011-07-08 09:22:04
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Create Mono and Stereo Wave Files with Python

@@ -1,7 +1,7 @@
 ---
 title: Live Data in PyQt4 with PlotWidget
 date: 2016-07-31 07:28:28
-tags: ["python", "old"]
+tags: ["python", "obsolete"]
 ---
 
 # Live Data in PyQt4 with PlotWidget
