@@ -3,7 +3,7 @@ title: We Love and Will Miss You, Angelina
 date: 2011-08-23 01:08:43
 ---
 
-# We Love and Will Miss You, Angelina
+
 
 __As many of you know, my wife Angelina Harden unexpectedly passed away a couple days ago__ (Saturday, Aug 20, 2011). I'd like to thank all of our friends for their encouraging words. This is an extremely hard time for her family, my family, and me, and I appreciate the outpouring of support and encouragement.
 

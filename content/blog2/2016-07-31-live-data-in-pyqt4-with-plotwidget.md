@@ -4,7 +4,7 @@ date: 2016-07-31 07:28:28
 tags: ["python", "obsolete"]
 ---
 
-# Live Data in PyQt4 with PlotWidget
+
 
 __After spending a day comparing performance of MatplotlibWidget with PlotWidget, when it comes to speed PlotWidget wins by a mile!__ Glance over my [last post](https://www.swharden.com/wp/2016-07-30-live-data-in-pyqt4-with-matplotlibwidget/) where I describe how to set up the window with QT Designer and convert the .ui file to a .py file. With only a few changes to the code, I swapped the matplotlib _MatplotlibWidget _with the pyqtgraph _PlotWidget_. I easily got a 20x increase in speed (frame rate), and I'm likely to favor [PyQtGraph](http://www.pyqtgraph.org/) over matpltolib for python applications involving realtime display of data. Just like the [previous example using matplotlib](https://www.swharden.com/wp/2016-07-30-live-data-in-pyqt4-with-matplotlibwidget/), this one uses the system time to control the phase and color of a sine wave in real time. You can grab the full code from [my github folder](https://github.com/swharden/Python-GUI-examples/tree/master/2016-07-31_qt_PyQtGraph_sine_scroll).
 

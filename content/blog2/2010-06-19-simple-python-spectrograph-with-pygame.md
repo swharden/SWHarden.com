@@ -4,7 +4,7 @@ date: 2010-06-19 21:53:25
 tags: ["python", "obsolete"]
 ---
 
-# Simple Python Spectrograph with PyGame
+
 
 <b style="font-size: inherit;">While thinking of ways to improve my QRSS VD high-definitions spectrograph software,</b><span style="font-size: inherit;"> I often wish I had a better way to display large spectrographs. Currently I'm using PIL (the Python Imaging Library) with TK and it's slow as heck. I looked into the </span><a href="http://www.pygame.org" style="font-size: inherit;">PyGame</a><span style="font-size: inherit;"> project, and it seems to be designed with speed in mind. I whipped-up this quick demo, and it's a simple case audio spectrograph which takes in audio from your sound card and graphs it time vs. frequency. This method is far superior to the method I was using previously to display the data, because while QRSS VD can only update the entire GUI (500px by 8,000 px) every 3 seconds, early tests with PyGame suggests it can do it about 20 times a second (wow!). With less time/CPU going into the GUI, the program can be more responsivle and my software can be less of a drain.</span>
 

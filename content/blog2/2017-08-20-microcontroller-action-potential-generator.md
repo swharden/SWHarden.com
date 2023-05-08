@@ -4,7 +4,7 @@ date: 2017-08-20 15:12:33
 tags: ["science", "circuit", "microcontroller", "python"]
 ---
 
-# Microcontroller Action Potential Generator
+
 
 __Here I demonstrate how to use a _single_ microcontroller pin to generate action-potential-like waveforms. __The output is similar [my fully analog action potential generator circuit](https://www.swharden.com/wp/2017-08-12-analog-action-potential-generator-circuit/), but the waveform here is created in an entirely different way. A microcontroller is at the core of this project and determines when to fire action potentials. Taking advantage of the pseudo-random number generator ([rand() in AVR-GCC's stdlib.h](http://www.nongnu.org/avr-libc/user-manual/group__avr__stdlib.html#gae23144bcbb8e3742b00eb687c36654d1)), I am able to easily produce unevenly-spaced action potentials which more accurately reflect those observed in nature. This circuit has a potentiometer to adjust the action potential frequency (probability) and another to adjust the amount of overshoot (afterhyperpolarization, AHP). I created this project because I wanted to practice designing various types of action potential _measurement_ circuits, so creating an action potential _generating_ circuit was an obvious perquisite.
 

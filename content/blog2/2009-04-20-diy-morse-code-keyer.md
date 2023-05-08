@@ -3,7 +3,7 @@ title: Code Practice Oscillator and Keyer
 date: 2009-04-20 14:20:00
 ---
 
-# Code Practice Oscillator and Keyer
+
 
 __Over the last couple weeks whenever I had the time__ I'd work on creating a little Morse code keyer. After a few different designs I came up with the winner. Basically it just uses a bar of aluminum which rocks on a metal pin. Thumb-screws on each side of the balance point (fulcrum?) can be adjusted to modulate the distance the paddle has to go down to be activated, and how high the paddle goes up when released. A couple springs (one pull-type and one push-type) help give it a good bounce between keys. Two knobs control volume and frequency. I especially like the ability to control the frequency! A capacitor inline with the speaker helps smooth the output a bit too. It's not professional, but hey - for a couple bucks of parts I made a functional keyer and had fun doing it. Now I guess I should put more time into learning Morse code...
 

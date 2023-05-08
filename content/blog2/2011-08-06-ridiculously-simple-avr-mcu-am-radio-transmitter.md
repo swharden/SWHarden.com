@@ -4,7 +4,7 @@ date: 2011-08-06 19:32:44
 tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
-# Ridiculously Simple AVR AM Radio Transmitter
+
 
 __I was brainstorming some RF circuits today__ and I had the desire to create a rapid transmitter/receiver pair that anyone would have around their house. I decided that AM or FM radio would be good since everyone can receive that, and pondered how best to generate the necessary radio signal and modulate it appropriately.  After a few LC oscillator designs, I thought about the RC oscillators built into most micro-controllers. I grabbed an ATMEL AVR I had on hand (an ATTiny44A) and checked the datasheet. It had an 8MHz RC oscillator, which could be divided-down to 1MHz, and output on a CKOUT pin - all configurable with a few hardware fuses! Note that commercial AM radio stations are between 0.52 and 1.61 MHz, so a 1MHz signal would be smack-dab in the middle of our radio dial! I had to build a prototype to see how well it would work. Once concern was that the RC  oscillator wouldn't be stable enough to produce reliable audio - boy was I wrong!
 

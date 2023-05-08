@@ -4,7 +4,7 @@ date: 2010-03-07 18:47:00
 tags: ["python", "obsolete"]
 ---
 
-# Dynamic Logo Generation with Python
+
 
 __I'm working on a software project and I'd love the startup screen to be unique.__ I want the splash image to be generated programmatically. I have to generate it from the script, but how can I reliably print text on an image with fonts vary across operating systems? Keep in mind many OS's don't have "arial.ttf", or no truetype fonts at all!
 

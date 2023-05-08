@@ -4,7 +4,7 @@ date: 2016-07-19 04:44:48
 tags: ["python", "obsolete"]
 ---
 
-# Realtime Audio Visualization in Python
+
 
 __Python's "batteries included" nature makes it easy to interact with just about anything... except speakers and a microphone!__ As of this moment, there still are not standard libraries which which allow cross-platform interfacing with audio devices. There are some pretty convenient third-party modules, but I hope in the future a standard solution will be distributed with python. I appreciate the differences of Linux architectures such as [ALSA](http://www.alsa-project.org/) and [OSS](https://en.wikipedia.org/wiki/Open_Sound_System), but toss in Windows and MacOS in the mix and it gets to be a huge mess. For Linux, would I even need anything fancy? I can run "`` cat file.wav > /dev/dsp ``" from a command prompt to play audio. There are some standard libraries for operating system specific sound (i.e., [winsound](https://docs.python.org/2/library/winsound.html)), but I want something more versatile. The [official audio wiki page on the subject](https://wiki.python.org/moin/Audio/) lists a small collection of third-party platform-independent libraries. After excluding those which don't support microphone access (the ultimate goal of all my poking around in this subject), I dove a little deeper into [sounddevice](http://python-sounddevice.readthedocs.io/en/0.3.3/) and [PyAudio](http://people.csail.mit.edu/hubert/pyaudio/). Both of these I installed with pip (i.e., `` pip install pyaudio ``)
 

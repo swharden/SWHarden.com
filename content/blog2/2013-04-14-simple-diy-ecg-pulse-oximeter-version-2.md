@@ -4,7 +4,7 @@ date: 2013-04-14 16:00:14
 tags: ["diyECG", "microcontroller", "obsolete"]
 ---
 
-# Simple DIY ECG + Pulse Oximeter (version 2)
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

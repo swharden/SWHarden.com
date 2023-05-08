@@ -4,7 +4,7 @@ date: 2011-02-20 00:13:37
 tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
-# RF Workshop Launched
+
 
 __The _Radio Active Workshop_ kicked off a couple weeks ago__ in the engineering department of the University of Florida led by yours truly! Jimmy Lin (an aerospace engineering graduate student) set up the group, and together we're trying to provide an open environment for engineering students (or anyone who's interested) to meet, share ideas, and get some practical hands-on experience building stuff. We made gave it a radio theme so it meshes nicely with the [Gator Amateur Radio Club](http://www.GatorRadio.org). I brought a lot of my equipment from home (components, o-scope, tools, etc) and we all started building right away!
 

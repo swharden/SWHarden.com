@@ -5,7 +5,7 @@ date: 2022-05-25 22:13:00
 tags: ["csharp", "graphics", "maui"]
 ---
 
-# Use Maui.Graphics to Draw 2D Graphics in Any .NET Application
+
 
 **This week Microsoft officially released .NET Maui and the new `Microsoft.Maui.Graphics` library which can draw 2D graphics in any .NET application (not just Maui apps).** This page offers a quick look at how to use this new library to draw graphics using SkiaSharp in a .NET 6 console application. The [C# Data Visualization](https://swharden.com/csdv/) site has additional examples for drawing and animating graphics using `Microsoft.Maui.Graphics` in Windows Forms and WPF applications.
 

@@ -5,7 +5,7 @@ Date: 2021-08-01 19:15:00
 tags: ["csharp", "maui"]
 ---
 
-# Draw with Maui.Graphics and Skia in a C# Console Application
+
 
 **Microsoft's `System.Drawing.Common` package is commonly used for cross-platform graphics in .NET Framework and .NET Core applications, but according to the dotnet roadmap [System.Drawing will soon only support Windows](https://github.com/dotnet/designs/blob/main/accepted/2021/system-drawing-win-only/system-drawing-win-only.md).** As Microsoft sunsets cross-platform support for `System.Drawing` they will be simultaneously developing [`Microsoft.Maui.Graphics`](https://github.com/dotnet/Microsoft.Maui.Graphics), a cross-platform graphics library for iOS, Android, Windows, macOS, Tizen and Linux completely in C#.
 

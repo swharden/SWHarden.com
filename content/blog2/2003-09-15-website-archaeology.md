@@ -3,7 +3,7 @@ title: website archaeology
 date: 2003-09-15 17:59:06
 ---
 
-# website archaeology
+
 
 Today I found a small corner of an old hard drive that has lots of backed up information from lots of my old websties.  Today and tomorrow I plan to spend some time going through it trying to recover what I can.  I'd like to add a section to my site just about my old websites, and another just about old content, and one more to be a timeline of my life.
 

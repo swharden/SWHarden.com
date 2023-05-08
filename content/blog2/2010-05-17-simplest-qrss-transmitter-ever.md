@@ -4,7 +4,7 @@ date: 2010-05-17 11:13:52
 tags: ["circuit", "qrss", "obsolete"]
 ---
 
-# Minimal QRSS Transmitter
+
 
 __Success!__ Amid a bunch of academic exams, psycho-motor tests, and other crazy shenanigans my dental school is putting me through, I managed to do something truly productive! I built a simple QRSS transmitter with an ATTiny44A microcontroller clocked by a 7.04 MHz crystal which generates FSK signals and modulates its own frequency by applying potential to a reverse-biased diode at the base of the crystal, the output (CKOUT) of which is amplified by an octal buffer and sent out through an antenna. As it is, no lowpass filtering is implemented, so noisy harmonics are expected. However for ~2$ of parts this is an effective QRSS transmitter!
 

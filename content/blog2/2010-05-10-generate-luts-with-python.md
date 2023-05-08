@@ -4,7 +4,7 @@ date: 2010-05-10 22:31:46
 tags: ["python", "obsolete"]
 ---
 
-# Generate LUTs with Python
+
 
 __I wrote a script to generate and display LUTs with Python.__ There has been a lot of heated discussion in the [QRSS Knights mailing list](http://cnts.be/mailman/listinfo/knightsqrss_cnts.be) as to the use of color maps when representing QRSS data. I'll make a separate post (perhaps later?) documenting why it's so critical to use particular mathematically-generated color maps rather than empirical "looks good to me" color selections. Anyway, this is what I came up with:
 

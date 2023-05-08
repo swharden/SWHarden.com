@@ -4,7 +4,7 @@ date: 2018-08-24 11:18:00
 tags: ["med"]
 ---
 
-# Port Placed Today
+
 
 **I got my port placed today!** A port is a medical appliance surgically implanted beneath the skin which is attached to a a tube which goes into a large blood vessel (a central venous catheter, CVC). Instead of poking my arms to draw blood, deliver chemotherapy medication, or inject IV contrast dye during medical imaging, my port can be accessed instead.
 

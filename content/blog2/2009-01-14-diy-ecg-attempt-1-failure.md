@@ -4,7 +4,7 @@ date: 2009-01-14 11:27:37
 tags: ["diyECG"]
 ---
 
-# DIY ECG Attempt 1: Failure
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

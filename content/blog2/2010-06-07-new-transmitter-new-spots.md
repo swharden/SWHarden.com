@@ -4,7 +4,7 @@ date: 2010-06-07 20:47:04
 tags: ["qrss", "amateur radio"]
 ---
 
-# New Transmitter, New Spots!
+
 
 These should speak for themselves. Which signal is mine? Obviously I'm the crazy person who thinks it's funny to merge molecular biology with amateur radio.
 

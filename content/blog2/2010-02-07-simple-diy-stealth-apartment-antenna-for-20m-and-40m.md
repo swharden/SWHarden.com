@@ -4,7 +4,7 @@ date: 2010-02-07 17:49:49
 tags: ["amateur radio", "obsolete"]
 ---
 
-# Simple DIY Stealth Apartment Antenna for HF
+
 
 __I don't want to spend lots of money for a HF antenna, and even if I did my apartment complex wouldn't allow it!__ This is my story, and while I'm no expert I hope that sharing my experience will help encourage others to try crazy things in the spirit of invention. A friend loaned me a Century 21 HF CW-only transceiver which puts out ~20W. As far as an antenna, I was limited to what I could build. I tried a bunch of different designs, including a [trash-brew 40m base-loaded vertical](http://www.swharden.com/blog/2010-01-30-rainy-mornings-and-boring-bicuspids/), but it didn't work that well. I found that a "contorted dipole" (I heard it's officially called a zig-zag design) strung up on my ceiling works surprisingly well. I've only had it up a few days, but from Florida I've communicated with New York on 40m at 20W and Maine on 20m using 20W. Keep in mind that I'm brand new to CW, and that 90% of the conversations out there are way too fast for me to copy, so my greatest limitation is finding a CQ slow enough that I can respond to it.
 

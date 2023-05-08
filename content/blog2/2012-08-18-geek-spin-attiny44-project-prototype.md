@@ -4,7 +4,7 @@ date: 2012-08-18 15:28:38
 tags: ["microcontroller", "obsolete"]
 ---
 
-# Geek Spin - ATTiny44 Project Prototype
+
 
 __Some days you feel like working on projects to benefit humanity. The day I made this clearly wasn't one of those days.__ A little over a year ago, I got into a troll war with my friend [Mike Seese](http://www.mikeseese.com/). The joke, similar to that of [rick rolling](http://www.youtube.com/watch?v=oHg5SJYRHA0), was to get each other to unexpectedly click a link to the [Hatsune Miku version of the leekspin song](http://www.youtube.com/watch?v=kbbA9BhCTko&feature=player_embedded). After several weeks of becoming beyond annoying, I decided to make an _actual_ Hatsune Miku which would spin her leek and bobble her head to the techno version of the [Levan Polka](http://www.youtube.com/watch?v=1ygdAiDxKfI) for his birthday.
 

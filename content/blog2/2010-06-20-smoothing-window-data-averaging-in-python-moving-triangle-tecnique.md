@@ -4,7 +4,7 @@ date: 2010-06-20 22:12:03
 tags: ["python", "obsolete"]
 ---
 
-# Smoothing Window Data Averaging in Python - Moving Triangle Tecnique
+
 
 > **⚠️ SEE UPDATED POST:** [**Signal Filtering in Python**](https://swharden.com/blog/2020-09-23-signal-filtering-in-python/)
 

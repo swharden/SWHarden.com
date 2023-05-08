@@ -4,7 +4,7 @@ date: 2017-06-28 21:56:24
 tags: ["circuit"]
 ---
 
-# Controlling Speakers with RADAR
+
 
 __I just finished building a device that uses RADAR to toggle power to my speakers when it detects my hand waiving near them!__ I have some crummy old monitor speakers screwed to a shelf, and although their sound is decent the volume control knob (which also controls power) is small and far back on my work bench and inconvenient to keep reaching for. I decided to make a device which would easily let me turn the speakers on and off without having to touch anything. You could built a device to detect a hand waive in several different ways, but RADAR (RAdio Detection And Ranging) has got to be the coolest!
 

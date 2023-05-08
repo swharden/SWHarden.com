@@ -4,7 +4,7 @@ date: 2016-07-31 15:21:11
 tags: ["python", "obsolete"]
 ---
 
-# Python Real-time Audio Frequency Monitor
+
 
 __A new project I'm working on requires real-time analysis of soundcard input data, and I made a minimal case example of how to do this in a cross-platform way using python 3, numpy, and PyQt.__ Previous posts compared performance of the [matplotlib widget](https://www.swharden.com/wp/2016-07-30-live-data-in-pyqt4-with-matplotlibwidget/) vs [PyQtGraph plotwidget](https://www.swharden.com/wp/2016-07-31-live-data-in-pyqt4-with-plotwidget/) and I've been working with [PyQtGraph](http://www.pyqtgraph.org/) ever since. For static figures matplotlib is wonderful, but for fast responsive applications I'm leaning toward PyQtGraph. The [full source for this project is on a github page](https://github.com/swharden/Python-GUI-examples/tree/master/2016-07-37_qt_audio_monitor), but here's a summary of the project.
 

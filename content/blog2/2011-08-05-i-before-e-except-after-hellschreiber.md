@@ -4,7 +4,7 @@ date: 2011-08-05 18:52:40
 tags: ["microcontroller", "circuit", "obsolete", "amateur radio"]
 ---
 
-# I before E except after Hellschreiber
+
 
 **This post describes a project I designed which transmits strings of data from a microcontroller to a PC's screen using audio beeping in a special mode called [Hellschreiber](http://en.wikipedia.org/wiki/Hellschreiber).** Although these days it's almost exclusively used by amateur radio operators, I thought it would make a cool microcontroller project! The result can be accomplished with a microcontroller and a speaker as a transmitter and a PC with a microphone as a receiver and decoder, or with actual radio equipment (even toy walkie talkies) by transmitting the tones over modulated radio frequencies for long distance communication! [Ideas anyone?](http://www.amazon.com/Midland-GXT760VP4-36-Mile-42-Channel-Two-Way/dp/B0039YON6Q/ref=sr_1_1?ie=UTF8&qid=1312588647&sr=8-1)
 

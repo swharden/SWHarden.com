@@ -5,7 +5,7 @@ Date: 2021-03-27 20:00:00
 tags: ["blazor", "amateur radio", "qrss"]
 ---
 
-# WSPR Code Generator
+
 
 **[WSPR](https://en.wikipedia.org/wiki/WSPR_(amateur_radio_software)) (Weak Signal Propagation Reporter) is a protocol for weak-signal radio communication.** Transmissions encode a station's callsign, location (grid square), and transmitter power into a frequency-shift-keyed (FSK) signal that hops between 4 frequencies to send 162 tones in just under two minutes. Signals can be decoded with S/N as low as −34 dB! [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html), the most commonly-used decoding software, reports decoded signals to [wsprnet.org](https://wsprnet.org/) so propagation can be assessed all over the world.
 

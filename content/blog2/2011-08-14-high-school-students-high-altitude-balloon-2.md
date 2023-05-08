@@ -4,7 +4,7 @@ date: 2011-08-14 18:36:12
 tags: ["amateur radio"]
 ---
 
-# High School Students' High Altitude Balloon #2
+
 
 __Last year a group of high school students,__ in collaboration with a seminar course on Space Systems sponsored by the University of Florida's [Student Science Training Program (SSTP)](http://www.cpet.ufl.edu/sstp/default.html), gained some real-world experience planning, building, and launching a research payload to the edge of space – all in a couple weeks!  Last year's high altitude balloon launch was [covered on my website](http://www.swharden.com/blog/2010-07-14-high-altitude-balloon-transmitter/), and the radio transmitter I built for it was featured on [this Hack-A-Day post](http://hackaday.com/2010/07/27/200-mile-rf-transmitter-and-high-altitude-balloon/). Unlike last year's payload, whose only homebrew device was the radio transmitter, this year's payload had equipment we assembled ourselves, and instead of launching from NASA we launched from the UF football stadium! There were a couple problems along the way, and the payload hasn't been recovered (yet), but it was a fun project and we all learned a lot along the way!
 

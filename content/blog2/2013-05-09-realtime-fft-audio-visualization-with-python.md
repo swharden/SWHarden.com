@@ -4,7 +4,7 @@ date: 2013-05-09 19:52:02
 tags: ["python", "obsolete"]
 ---
 
-# Realtime FFT Audio Visualization with Python
+
 
 >  WARNING: this project is largely outdated, and some of the modules are no longer supported by modern distributions of Python.For a more modern, cleaner, and more complete GUI-based viewer of realtime audio data (and the FFT frequency data), check out my [Python Real-time Audio Frequency Monitor](https://www.swharden.com/wp/2016-07-31-real-time-audio-monitor-with-pyqt/) project.
 

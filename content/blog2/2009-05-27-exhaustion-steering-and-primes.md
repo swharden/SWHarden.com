@@ -4,7 +4,7 @@ date: 2009-05-27 10:28:19
 tags: ["obsolete", "circuit"]
 ---
 
-# A Prime Idea
+
 
 __I'm completely drained of energy.__ I visited my wife's family in Tennessee last week. I left Thursday and came back Tuesday (yesterday). I drove a total of 2,180 miles. The drive to Humboldt, TN (the destination) and back is only 1,658 miles. That means that I drove over 520 miles over the 3 days _while_ at my destination. That's about 174 miles a day. At 50 MPH average speed that's about 4 hours in the car. So, 13 hour drive (each way) to get there, then 4 hours in the car every day I was there. That's a lot of car time!
 

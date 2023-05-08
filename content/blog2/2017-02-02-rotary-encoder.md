@@ -4,7 +4,7 @@ date: 2017-02-02 22:48:53
 tags: ["microcontroller", "circuit"]
 ---
 
-# 1 Rotary Encoder, 3 Pins, 6 Inputs
+
 
 __Rotary encoders are a convenient way to add complex input functionality to small hardware projects with a single component. __Rotary encoders (sometimes called shaft encoders, or rotary shaft encoders) can spin infinitely in both directions and many of them can be pressed like a button. The volume knob on your car radio is probably a rotary encoder.
 

@@ -4,7 +4,7 @@ date: 2010-11-24 08:17:03
 tags: ["circuit", "microcontroller", "python", "obsolete"]
 ---
 
-# ATMega48 + LM335 + MAX232 = Serial Port Multi-Channel Temperature Measurement
+
 
 __While working to perfect my temperature-controlled manned experimental propagation transmitter (MEPT), I developed the need to accurately measure temperature inside my Styrofoam enclosure (to assess drift) and compare it to external temperature (to assess insulation effects).__ I accomplished this utilizing the 8 ADC channels of the ATMega48 and used its in-chip USART capabilities to send this data to a PC for logging.  I chose the ATMega48 over the ATTiny2313 (which has USART but no ADCs) and the ATTiny44a (which has ADCs but no USART).  From when I see, no ATTiny series ATMEL AVR has both!  Lucky for me, the [ATMega48 is cheap](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=ATMEGA48-20PU-ND) at $2.84 USD. Here's my basic circuit idea: 
 

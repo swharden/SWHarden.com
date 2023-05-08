@@ -3,7 +3,7 @@ title: working on the news system
 date: 2003-09-06 13:04:57
 ---
 
-# working on the news system
+
 
  work with me here!  Before I add new posts, I'm working backwards adding old ones.  I'll write here soon - give me time to work  (add to the tagboard what you think of the new news system)
 

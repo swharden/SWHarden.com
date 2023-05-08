@@ -4,7 +4,7 @@ date: 2013-04-17 22:20:55
 tags: ["obsolete"]
 ---
 
-# Tenma 72-7750 Multimeter for RF Engineering
+
 
 > **Update:** This page reviews my initial impressions of the Tenma 72-7750. In a later article ([TENMA Multimeter Serial Hack](https://swharden.com/blog/2016-08-24-tenma-multimeter-serial-hack/)) I use Python to interface this multimeter to make it easier to log data and create plots of measurements without using the official (Windows-only) software.
 

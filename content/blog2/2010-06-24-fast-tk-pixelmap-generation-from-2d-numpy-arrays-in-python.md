@@ -4,7 +4,7 @@ date: 2010-06-24 21:29:29
 tags: ["python", "obsolete"]
 ---
 
-# Fast TK Pixelmap generation from 2D Numpy Arrays in Python
+
 
 __I had TKinter all wrong!__ While my initial tests with PyGame's rapid ability to render Numpy arrays in the form of pixel maps proved impressive, it was only because I was comparing it to poor TK code. I don't know what I was doing wrong, but when I decided to give TKinter one more shot I was blown away -- it's as smooth or smoother as PyGame. Forget PyGame! I'm rendering everything in raw TK from now on. This utilizes the Python Imaging Library (PIL) so it's EXTREMELY flexible (supports fancy operations, alpha channels, etc).
 

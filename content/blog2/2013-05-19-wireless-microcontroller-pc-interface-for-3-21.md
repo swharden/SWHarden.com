@@ -4,7 +4,7 @@ date: 2013-05-19 01:32:46
 tags: ["microcontroller", "obsolete", "python"]
 ---
 
-# Wireless Microcontroller / PC Interface for $3.21
+
 
 __Here I demonstrate a dirt-cheap method of transmitting data from any microchip to any PC using $3.21 in parts.  __I've had this idea for a while, but finally got it working tonight. On the transmit side, I'm having a an ATMEL AVR microcontroller (ATMega48) transmit data (every number from 0 to 200 over and over) wirelessly using 433mhz wireless modules. The PC receives the data through the microphone port of a sound card, and a cross-platform Python script I wrote decodes the data from the audio and graphs it on the screen. I [did something similar back in 2011](http://www.swharden.com/blog/2011-07-09-sound-card-microcontrollerpc-communication/), but it wasn't wireless, and the software wasn't nearly as robust as it is now.
 

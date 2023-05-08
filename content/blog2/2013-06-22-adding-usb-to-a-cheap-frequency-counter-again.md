@@ -4,7 +4,7 @@ date: 2013-06-22 20:07:22
 tags: ["circuit"]
 ---
 
-# Adding USB to a Cheap Frequency Counter (Again)
+
 
 __Today I rigineered my frequency counter to output frequency to a computer via a USB interface.__ You might remember that[ I did this exact same thing two years ago](http://www.swharden.com/blog/2011-07-11-aj4vd-arsenal-recently-expanded/), but unfortunately I fell victim to accidental closed source. When I rigged it the first time, I stupidly tried to get fancy and add USB interface with [V-USB](http://www.obdev.at/products/vusb/index.html) requiring special drivers and special software code to retrieve the data. The advantage was that the microcontroller spoke directly to the PC USB port via 2 pins requiring no extra hardware. The stinky part is that I've since lost the software I wrote necessary to decode the data. Reading my old post, I see I wrote_ "Although it’s hard for me, I really don’t think I can release this \[microchip code\] right now. I’m working on an idiot’s guide to USB connectivity with ATMEL microcontrollers, and it would cause quite a stir to post that code too early."_  Obviously I never got around to finishing it, and I've since lost the code. Crap! I have this fancy USB "enabled" frequency counter, but no ability to use it. NOTE TO SELF: NEVER POST PROJECTS ONLINE WITHOUT INCLUDING THE CODE! I guess I have to crack this open again and see if I can reprogram it...
 

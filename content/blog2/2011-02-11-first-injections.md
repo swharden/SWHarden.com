@@ -3,7 +3,7 @@ title: First Injections
 date: 2011-02-11 10:02:44
 ---
 
-# First Injections
+
 
 __Yesterday was__ the notorious "injection lab" where 80 second-year dental students practice injecting on patients (classmates) for the first time. We all performed 5 injections blocking different nerves, some seemed more invasive than others.  It was an interesting day I will probably remember. The photo is of my classmate (Steven) giving his first injection to me! Surprisingly it didn't hurt as much as I expected.
 

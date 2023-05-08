@@ -4,7 +4,7 @@ date: 2010-03-03 19:56:55
 tags: ["python", "obsolete"]
 ---
 
-# Display large Images with Scrollbars with Python, Tk, and PIL
+
 
 __I wrote a program to display extremely large images in Python using TK. __It's interesting how simple this program is, yet frustrating how long it took me to figure out.
 

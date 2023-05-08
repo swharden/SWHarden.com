@@ -4,7 +4,7 @@ date: 2012-06-14 10:42:00
 tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
-# Multichannel USB Analog Sensor with ATMega48
+
 
 __Sometimes it's tempting to re-invent the wheel to make a device function exactly the way you want.__ I am re-visiting the field of homemade electrophysiology equipment, and although I've [already published](http://www.swharden.com/blog/2009-08-14-diy-ecg-machine-on-the-cheap/) a home made [electocardiograph](http://en.wikipedia.org/wiki/Electrocardiography) (ECG), I wish to revisit that project and make it much more elegant, while also planning for a [pulse oximeter](http://en.wikipedia.org/wiki/Pulse_oximeter), an [electroencephalograph](http://en.wikipedia.org/wiki/Electroencephalography) (EEG), and an [electrogastrogram](http://en.wikipedia.org/wiki/Electrogastrogram) (EGG). This project is divided into 3 major components: the low-noise microvoltage amplifier, a digital analog to digital converter with PC connectivity, and software to display and analyze the traces. My first challenge is to create that middle step, a device to read voltage (from 0-5V) and send this data to a computer.
 

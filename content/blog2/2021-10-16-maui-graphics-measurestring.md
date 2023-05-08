@@ -5,7 +5,7 @@ Date: 2021-10-16 16:15:00
 tags: ["csharp", "maui", "graphics"]
 ---
 
-# How to MeasureString() with Maui.Graphics
+
 
 Starting with .NET 6 Microsoft is [sunsetting cross-platform support](https://github.com/dotnet/designs/blob/main/accepted/2021/system-drawing-win-only/system-drawing-win-only.md) for [`System.Drawing.Common`](https://www.nuget.org/packages/System.Drawing.Common/). [`Microsoft.Maui.Graphics`](https://github.com/dotnet/Microsoft.Maui.Graphics) is emerging as an excellent replacement and it can be used in any app (not just MAUI apps).
 

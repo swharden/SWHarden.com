@@ -4,7 +4,7 @@ date: 2010-11-14 20:22:38
 tags: ["qrss", "amateur radio", "circuit"]
 ---
 
-# Improved MEPT Enclosure
+
 
 __I've been pretty busy lately__, but I drip to the hardware store with the XYL produced a PVC enclosure that looked perfect for my ongoing MEPT (manned experimental propagation transmitter) projects. I didn't want to buy it (it was a little pricey by my standards, at $6 USD, which is about the total cost of the transmitter!) but the wife convinced me and I'm glad she did!  I intended it to replace the styrofoam enclosure I had been using, but I wasn't thinking clearly and drilled holes in the box and mounted screws through them.  While electrically this is a wonderful way to add antenna connections, thermally it was a bad idea.  The main point of the enclosure was to be temperature stable! Oh well. I put the whole thing in the Styrofoam and as a test, I'm leaving it outside tonight. I can't wait to see how it goes!  Here are some photos of the project.
 

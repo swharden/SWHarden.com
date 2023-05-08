@@ -4,7 +4,7 @@ date: 2009-12-10 23:44:15
 tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
-# HF CW on the Cheap
+
 
 __This is a project I intend to work on over Christmas break.__ I'm wondering if I can make a simple HF transceiver capable of working _any HF band_ by driving a [Pixie II CW transceiver](http://www.indianapolis.net/QRPp-I/elmer001/pixie2-schematic.gif) with a [SI 570 digital programmable oscillator](http://www.rfsystem.it/shop/images/si570_view.jpg).
 

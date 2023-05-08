@@ -4,7 +4,7 @@ date: 2011-07-11 17:02:33
 tags: ["amateur radio", "qrss", "circuit", "microcontroller", "obsolete"]
 ---
 
-# Frequency Counter Hacked to add USB Functionality
+
 
 This is a multi-part blog entry added over 2 days of time documenting the progress of the addition of USB to a simple frequency counter. The final result lets me graph frequency over time on the computer, automatically, over days of time if desired. I'm quite pleased at the result, especially considering so little circuitry was required! 
 

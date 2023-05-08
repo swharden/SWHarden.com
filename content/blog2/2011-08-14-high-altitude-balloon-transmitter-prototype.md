@@ -4,7 +4,7 @@ date: 2011-08-14 18:42:59
 tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
-# High Altitude Balloon Transmitter Prototype
+
 
 __It's been my goal for quite some time__ to design a simple, easy-to-replicate transmitter for high altitude balloon telemetry transmission. I'm quite satisfied by what I came up with because it's very simple, cheap, easy to code for, and easy to change frequency.  I'd say the most common alternative is a handheld amateur radio transmitter which starts around $60, requires an amateur radio license, and typically output 5W of FM on 144MHz (2m) or 440MHz (70cm). Fancier handheld radios are capable of transmitting [APRS](http://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System) packets, and use established base station repeaters to listen to these frequencies, decode the packets, and update an internet database about current location information. Although it's quite fancy, elegant, and technical (and expensive), I desire a much simpler, cheaper, disposable option! If my balloon lands in the Atlantic ocean, I don't want to be out $100+ of radio equipment! This alternative is about $7.
 

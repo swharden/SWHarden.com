@@ -4,7 +4,7 @@ date: 2011-06-19 23:06:41
 tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
-# Using Timers and Counters to Clock Seconds
+
 
 __My current secret project involves cramming a bunch of features into a single microcontroller.__ The chip I chose to use is an [ATMega48](http://www.swharden.com/blog/images/atmega48pinout.png). The ATMega 48 is $1.40 each in small quantities and comes crammed packed with features. The chip will be quite busy performing many functions, but its main loop will be executed at least every 50ms (required for USB, did I mention I'm bit-banging USB?!).  I desire to have a bit of RTC (real time clock) functionality in that I need to precisely measure seconds, although I don't need to actually know the time or date. I desire to execute a function once per second, consuming a minimum of resources. The solution was quite simple, but I'm choosing to document it because it's somewhat convoluted in its explanation elsewhere on the net.
 

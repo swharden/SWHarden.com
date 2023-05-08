@@ -5,7 +5,7 @@ Date: 2022-02-01 00:10:00
 tags: ["csharp", "graphics"]
 ---
 
-# Rotated Rectangle Hit Detection with C# 
+
 
 **I recently had the need to determine if a point is inside a rotated rectangle.** This need arose when I wanted to make a rotated rectangular textbox draggable, but I wanted to determine if the mouse was over the rectangle. I know the rectangle's location, size, and rotation, and the position of the mouse cursor, and my goal is to tell if the mouse is inside the rotated rectangle. In this example I'll use [`Maui.Graphics`](https://maui.graphics) to render a test image in a Windows Forms application (with SkiaSharp and OpenGL), but the same could be achieved with `System.Drawing` or other similar 2D graphics libraries.
 

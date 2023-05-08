@@ -4,7 +4,7 @@ date: 2011-03-05 17:40:56
 tags: ["amateur radio"]
 ---
 
-# AJ4VD Portable - Spring Break QTH
+
 
 __So here's the deal:__ I'm staying in Orlando, FL at my parents' home for a large portion of spring break. I wanted to take some radio equipment, and set up a simple antenna to allow me to operate. This post documents what I did, and only time will tell how well my configuration actually works!
 

@@ -4,7 +4,7 @@ date: 2009-01-21 16:25:04
 tags: ["diyECG", "python", "obsolete"]
 ---
 
-# Signal Filtering with Python
+
 
 > **⚠️ SEE UPDATED POST:** [**Signal Filtering in Python**](https://swharden.com/blog/2020-09-23-signal-filtering-in-python/)
 

@@ -4,7 +4,7 @@ date: 2009-08-14 21:15:00
 tags: ["diyECG", "obsolete"]
 ---
 
-# DIY ECG Machine On The Cheap
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

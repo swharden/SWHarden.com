@@ -3,7 +3,7 @@ title: UCF Tailgate June 2009
 date: 2009-06-13 17:14:08
 ---
 
-# UCF Tailgate June 2009
+
 
 <div class="text-center img-border">
 

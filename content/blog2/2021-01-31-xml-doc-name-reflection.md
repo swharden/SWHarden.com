@@ -5,7 +5,7 @@ Date: 2021-01-31 13:57:00
 tags: ["csharp"]
 ---
 
-# Reflection and XML Documentation in C# 
+
 
 **In C#, you can document your code using XML directly before code blocks.** This XML documentation is used by Visual Studio to display tooltips and provide autocomplete suggestions. 
 

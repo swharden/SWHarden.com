@@ -4,7 +4,7 @@ date: 2009-01-15 17:47:52
 tags: ["diyECG", "obsolete", "python"]
 ---
 
-# Circuits vs. Software
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

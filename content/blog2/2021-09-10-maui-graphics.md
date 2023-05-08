@@ -5,7 +5,7 @@ Date: 2021-09-10 22:30:00
 tags: ["csharp", "maui", "graphics"]
 ---
 
-# Drawing with Maui.Graphics
+
 
 **[.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) (Multi-Platform Application User Interface) is a new framework for creating cross-platform apps using C#.** MAUI will be released as part of .NET 6 in November 2021 and it is expected to come with [`Maui.Graphics`](https://github.com/dotnet/Microsoft.Maui.Graphics), a cross-platform drawing library superior to [`System.Drawing`](https://docs.microsoft.com/en-us/dotnet/api/system.drawing?view=net-5.0#remarks) in many ways. Although [`System.Drawing.Common`](https://www.nuget.org/packages/System.Drawing.Common) currently supports rendering in Linux and MacOS, [cross-platform support for System.Drawing will sunset](https://github.com/dotnet/designs/blob/main/accepted/2021/system-drawing-win-only/system-drawing-win-only.md) over the next few releases and begin throwing a `PlatformNotSupportedException` in .NET 6.
 

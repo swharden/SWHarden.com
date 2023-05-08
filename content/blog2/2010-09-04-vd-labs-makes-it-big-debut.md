@@ -4,7 +4,7 @@ date: 2010-09-04 22:36:51
 tags: ["qrss", "obsolete"]
 ---
 
-# VD Labs
+
 
 __The VD Labs web page has been published!__ I hope that the new VD Labs page will be a single location where I can link to descriptions and downloads of useful radio, audio analysis, and QRSS-related software. It will eventually be the home of the next (recorded-from-scratch) version of QRSS VD, but let's not get too far ahead of ourselves!
 

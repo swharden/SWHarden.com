@@ -4,7 +4,7 @@ date: 2013-04-15 11:55:27
 tags: ["python", "obsolete"]
 ---
 
-# Fixing Slow Matplotlib in Python(x,y)
+
 
 __I recently migrated to [Python(x,y)](https://code.google.com/p/pythonxy/) and noticed my matplotlib graphs are resizing unacceptably slowly when I use the pan/zoom button.__ I'm quite a fan of [numpy](http://www.scipy.org/Download), [scipy](http://www.scipy.org/Download), [matplotlib](http://matplotlib.org), the [python imaging library (PIL)](http://www.pythonware.com/products/pil/), and GUI platforms like [Tk/TkInter](http://wiki.python.org/moin/TkInter), [pyGTK](http://www.pygtk.org/), and [pyQT](http://www.riverbankcomputing.com/software/pyqt/intro), but getting them all to play nicely is a sometimes pain. I'm considering migrating entirely to [Python(x,y)](https://code.google.com/p/pythonxy/) because, as a single distribution, it's designed to install all [these libraries (and many more)](https://code.google.com/p/pythonxy/wiki/StandardPlugins) in a compatible way out of the box. However, when I did, I noticed matplotlib graphs would resize, rescale, and drag around the axes very slowly. After a lot of digging on the interweb, I figured out what was going wrong. I'll show you by plotting 20 random data points the slow way (left) then the fast way (right).
 

@@ -4,7 +4,7 @@ date: 2020-09-27 17:11:00
 tags: ["circuit", "diyECG"]
 ---
 
-# ECG Simulator Circuit
+
 
 **This page describes a simple circuit which produces ECG-like waveform.** The waveform is not very detailed, but it contains a sharp depolarizing (rising) component, a slower hyperpolarizing (falling) component, and a repetition rate of approximately one beat per second making it potentially useful for testing heartbeat detection circuitry.
 

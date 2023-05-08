@@ -3,7 +3,7 @@ title: Pointless Beacon Idea
 date: 2009-04-14 12:39:20
 ---
 
-# Pointless Beacon Idea
+
 
 __I got an idea today for an odd but interesting project.__ The idea is still in the earliest stages of development, and I further research the idea (for example, I don't even know if it's legal) but it's a cool idea and I want to try it. I know I'll learn a lot from the project, and that's what's important, right? So, here's the idea: I want to build an incredibly simple, low power radio transmitter that broadcasts data on a fixed frequency. Data is provided by a microcontroller. What data will it transmit? uh... err... um... okay it doesn't really matter and I don't even know, I just want to do this project! Maybe temperature and light intensity or something. Who cares - it'd be fun to make regardless of what it transmits. I could put it all into a drybox (pictured).
 

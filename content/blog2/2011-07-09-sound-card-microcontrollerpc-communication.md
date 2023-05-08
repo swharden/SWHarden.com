@@ -4,7 +4,7 @@ date: 2011-07-09 23:30:44
 tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
-# Sound Card Microcontroller/PC Communication
+
 
 _This page describes a method of sending data from a microchip to a PC using pulses of data. It's an alternative to more traditional serial or USB methods of connectivity. It's not intended as a solution for consumer products, but rather an easy hack for hobbyists to employ if they don't have the equipment for other methods. This method doesn't require any circuitry, just a sound card. The one built in your computer is fine, but I'm using a $1.30 USB sound card for simplicity. It boils down to just a single microcontroller pin connected to a PC sound card microphone jack!
 

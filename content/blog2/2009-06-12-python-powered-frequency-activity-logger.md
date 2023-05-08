@@ -3,7 +3,7 @@ title: Python-Powered Frequency Activity Logger
 date: 2009-06-12 17:42:32
 ---
 
-# Python-Powered Frequency Activity Logger
+
 
 __I'm often drawn toward projects involving data analysis with Python. __When I found out a fellow ham in Orlando was using his computer to stream a popular local repeater frequency over the internet I got excited because of the potential for generating data from the setup. Since this guy already has his radio connected to his PC's microphone jack, I figured I could write a Python app to check the microphone input to determine if anyone is using the frequency. By recording when people start and stop talking, I can create a log of frequency activity. Later I can write software to visualize this data. I'll talk about that in a later post. For now, here's how I used Python and a Linux box (Ubuntu, with the python-alsaaudio package installed) to generate such logs.
 

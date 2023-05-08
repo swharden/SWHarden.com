@@ -5,7 +5,7 @@ Date: 2022-03-12 19:51:00
 tags: ["github"]
 ---
 
-# Determine the IP of your GitHub Action Runner
+
 
 **I recently had the need to determine the IP address of the server running my GitHib Action.** Knowing this may be useful to match-up individual workflow runs with specific entries in log files, or temporarily whitelisting the action runner's IP during testing.
 

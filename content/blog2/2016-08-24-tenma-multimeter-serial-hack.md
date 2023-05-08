@@ -4,7 +4,7 @@ date: 2016-08-24 03:08:28
 tags: ["python", "obsolete"]
 ---
 
-# TENMA Multimeter Serial Hack
+
 
 __I just spent the afternoon reverse-engineering the 72 series TENMA multimeter serial interface,__ and can now access all of its readings from a standalone Python script. This lets me send all measurements made with the multimeter to my computer in real time (using an optically isolated connection), and eliminates the need for the TENMA PC interface software. In addition to allowing the development of custom software to use measurements from TENMA multimeters in real time, this project also lets allows TENMA multimeters to interface with Linux computers (such as the raspberry pi). 
 

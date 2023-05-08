@@ -4,7 +4,7 @@ date: 2011-07-08 09:22:04
 tags: ["python", "obsolete"]
 ---
 
-# Create Mono and Stereo Wave Files with Python
+
 
 __My current project involves needing to create stereo audio in real time__ with Python. I'm using PyAudio to send the audio data to the sound card, but in this simple example I demonstrate how to create mono and stereo sounds with Python. I'm disappointed there aren't good simple case examples on the internet, so I'm sharing my own. It doesn't get much easier than this!
 

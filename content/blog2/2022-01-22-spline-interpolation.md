@@ -5,7 +5,7 @@ Date: 2022-01-22 16:00:00
 tags: ["csharp"]
 ---
 
-# Spline Interpolation with C# 
+
 
 **I recently had the need to create a smoothed curve from a series of X/Y data points in a C# application.** I achieved this using cubic [spline interpolation](https://en.wikipedia.org/wiki/Spline_interpolation). I prefer this strategy because I can control the exact number of points in the output curve, and the generated curve (given sufficient points) will pass through the original data making it excellent for data smoothing applications.
 

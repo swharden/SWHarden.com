@@ -4,7 +4,7 @@ date: 2010-05-26 07:42:39
 tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
-# Pushing and Pulling
+
 
 __I found a way__ to quadruple the output power of my QRSS transmitter without changing its input parameters. Thanks to a bunch of people (most of whom are on the Knights QRSS mailing list) I decided to go with a push-pull configuration using 2 pairs of 4 gates (8 total) of a 74HC240. I'll post circuit diagrams when I perfect it, but for now check out these waveforms!
 

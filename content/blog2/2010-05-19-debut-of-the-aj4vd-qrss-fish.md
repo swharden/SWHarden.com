@@ -4,7 +4,7 @@ date: 2010-05-19 19:58:16
 tags: ["python", "qrss", "obsolete"]
 ---
 
-# Debut of the AJ4VD QRSS Fish
+
 
 __Finally!__ After a few years tumbling around in my head, a few months of reading-up on the subject, a few weeks of coding, a few days of bread-boarding, a few hours of building, a few minutes of soldering, and a few seconds of testing I've finally done it - I've created my first QRSS transmitter! I'll describe it in more detail once I finalize the design, but for now an awesome working model. It's all digital, consisting of 2 ICs (an ATTiny44a for the PWM-controlled frequency modulation, and an octal buffer for the pre-amplifier) followed by a simple pi low-pass filter.
 

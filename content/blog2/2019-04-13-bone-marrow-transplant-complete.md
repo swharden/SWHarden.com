@@ -4,7 +4,7 @@ date: 2019-04-13 16:32:00
 tags: ["med"]
 ---
 
-# Bone Marrow Transplant Complete!
+
 
 **After 23 days living in the hospital I’m happy to report my bone marrow transplant is looking good, and I’m free to continue recovering at home!** I’m not going to sugar coat it: this ordeal was rough. However, I planned and prepared well for it, had a lot of fantastic support along the way, and I feel great about how well everything went! It couldn’t feel more amazing to finally be home again. The air conditioning, my couch, my TV, my pillow, my high-speed internet! It’s great to be back.
 

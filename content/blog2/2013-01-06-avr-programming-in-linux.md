@@ -4,7 +4,7 @@ date: 2013-01-06 14:51:19
 tags: ["microcontroller", "obsolete"]
 ---
 
-# AVR Programming in Linux
+
 
 __It is not difficult to program ATMEL AVR microcontrollers with linux, and I almost exclusively do this because various unofficial (inexpensive) USB AVR programmers are incompatible with modern versions of windows (namely Windows Vista and Windows 7).__ I am just now setting-up a new computer station in my electronics room (running Ubuntu Linux 12.04), and to make it easy for myself in the future I will document everything I do when I set-up a Linux computer to program microcontrollers.
 

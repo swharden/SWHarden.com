@@ -4,7 +4,7 @@ date: 2018-08-29 19:50:00
 tags: ["med"]
 ---
 
-# First Round of Chemotherapy
+
 
 **I started my first round of chemotherapy today!** I expect to feel pretty lousy for the first few days after each infusion (the next one being 3 weeks from now), but I’m very happy that treatment has begun.
 

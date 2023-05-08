@@ -4,7 +4,7 @@ date: 2010-06-03 13:51:34
 tags: ["qrss", "amateur radio", "circuit", "obsolete"]
 ---
 
-# Soup Can MEPT
+
 
 __This page documents the progress__ of my MEPT (manned experimental propagation transmitter) endeavors. If you have questions, feel free to E-mail me! My contact information can be found by clicking the link on the right navigation menu.
 

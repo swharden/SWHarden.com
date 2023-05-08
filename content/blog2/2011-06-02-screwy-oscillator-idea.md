@@ -4,7 +4,7 @@ date: 2011-06-02 21:18:47
 tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
-# Screwy Oscillator Idea
+
 
 __Can you believe it's been almost 3 months since my last post?__ A lot's been going on since then, namely the national board dental exam. I'm happy to report I prepared for it and performed above and beyond my expectations on the exam, and I'm quite satisfied.  The last few weeks were quite a strain on my life in my aspects, and during that time I realized that I didn't appreciate the little things (such as free time) that I would have loved to experience instead of studying. I guess it's the feeling you have when you're really sick and think to yourself "remember this moment so that when you're well again, you can appreciate feeling well". Now that it's all behind me, what do I do?  I sit at my work station, play some [light music](http://www.youtube.com/watch?v=7nmTRZLLO2M), grab an adult beverage, turn on the soldering iron, and make something special.
 

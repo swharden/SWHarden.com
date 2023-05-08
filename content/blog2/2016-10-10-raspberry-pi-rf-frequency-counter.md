@@ -3,7 +3,7 @@ title: Raspberry Pi RF Frequency Counter
 date: 2016-10-10 02:58:41
 ---
 
-# Raspberry Pi RF Frequency Counter
+
 
 __I build a lot of RF circuits, and often it's convenient to measure and log frequency with a computer.__ Previously I've built [standalone frequency counters](https://www.swharden.com/wp/2011-03-14-frequency-counter-finished/), [frequency counters with a PC interface](https://www.swharden.com/wp/2016-09-05-vhf-frequency-counter-with-pc-interface/), and even [hacked a classic frequency counter to add USB interface](https://www.swharden.com/wp/2011-07-11-aj4vd-arsenal-recently-expanded/) ([twice](https://www.swharden.com/wp/2013-06-22-adding-usb-to-a-cheap-frequency-counter-again/), actually). My latest device uses only 2 microchips to provide a [Raspberry Pi](https://www.raspberrypi.org/) with RF frequency measurement capabilities. The RF signal clocks a 32-bit counter [SN74LV8154](http://www.ti.com/lit/ds/symlink/sn74lv8154.pdf) ($1.04 [on Mouser](http://www.mouser.com/Search/Refine.aspx?Keyword=SN74LV8154)) connected to a 16-bit IO expander [MCP23017](http://ww1.microchip.com/downloads/en/DeviceDoc/21952b.pdf) ($1.26 [on Mouser](http://www.mouser.com/Search/Refine.aspx?Keyword=MCP23017)) accessable to the Raspberry Pi (via [I²C](https://en.wikipedia.org/wiki/I%C2%B2C)) to provide real-time frequency measurements from a python script for $2.30 in components! Well, plus the cost of the Raspberry Pi. All files for this project are on [my GitHub page](https://github.com/swharden/RasPi-Frequency-Counter).
 

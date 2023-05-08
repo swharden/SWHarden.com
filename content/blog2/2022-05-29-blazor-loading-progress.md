@@ -5,7 +5,7 @@ date: 2022-05-29 16:05:00
 tags: ["blazor", "csharp"]
 ---
 
-# Show A Progress Bar as your Blazor App Loads
+
 
 **Today I created a Blazor WebAssembly app that shows a progress bar while the page loads.** This is especially useful for users on slow connections because Blazor apps typically require several megabytes of DLL and DAT files to be downloaded before meaningful content appears on the page.
 

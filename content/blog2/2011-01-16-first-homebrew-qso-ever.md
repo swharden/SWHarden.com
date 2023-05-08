@@ -4,7 +4,7 @@ date: 2011-01-16 18:39:32
 tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
-# First Homebrew QSO Ever!
+
 
 __Today is a very special day,__ as it's the day I first made a contact with a radio transmitter I built completely on my own! The plans were copied from no where (although the concepts were obviously learned elsewhere), so it's somewhat of a unique design (likely because it's not very good!). I'll be the first to admit there is MUCH room for improvement, but my goal was to design and build a multi-band transmitter which would produce RF (not necessarily efficiently) at multiple bands by dropping in crystals of different frequencies.
 

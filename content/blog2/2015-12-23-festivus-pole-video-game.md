@@ -4,7 +4,7 @@ date: 2015-12-23 18:24:11
 tags: ["obsolete"]
 ---
 
-# Festivus Pole Video Game
+
 
 __December 23 is Festivus! To commemorate the occasion, I have built a traditional Festivus pole with a couple added features.__ To my knowledge, this is the first _electronic_ Festivus pole on the internet. <a href="http://www.SWHarden.com/blog/images/2015/12/full.gif" rel="attachment wp-att-3921">
 

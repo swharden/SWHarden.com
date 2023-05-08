@@ -4,7 +4,7 @@ date: 2009-04-01 18:46:34
 tags: ["obsolete", "microcontroller", "amateur radio"]
 ---
 
-# Post-Defense Day 1
+
 
 __Two hours after getting home from work__ I'm already basking in the newfound carefreeness thanks to the successful completion of my thesis defense (and graduation requirements). Yesterday I went to SkyCraft, early this morning I posted a schematic diagram of a basic circuit concept for a radio/microphone interface box with tone generating functions, and this afternoon I finished its assembly. It's hacked together, I know, but it's just a prototype. What does it do? It's complicated. It's basically just an exercise in microchip programming.
 

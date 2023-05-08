@@ -4,7 +4,7 @@ date: 2011-02-04 21:26:26
 tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
-# Frequency Counter Working!
+
 
 __I'm ecstatic!__ Finally I built something that worked the first time.  Well... on the 3rd attempt! The goal was to develop a minimal-cost, minimal complexity frequency counter suitable for amateur radio. Although I think I can still cut cost by eliminating components and downgrading the microcontroller, I'm happy with my first working prototype.
 

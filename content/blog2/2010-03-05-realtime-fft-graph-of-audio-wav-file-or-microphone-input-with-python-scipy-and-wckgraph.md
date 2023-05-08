@@ -4,7 +4,7 @@ date: 2010-03-05 16:30:37
 tags: ["python", "obsolete"]
 ---
 
-# Realtime FFT Graph of Audio WAV File or Microphone Input with Python, Scipy, and WCKgraph
+
 
 __I'm stretching the limits of what these software platforms were designed to to__, but I'm impressed such a hacked-together code produces fast, functional results. The code below is the simplest case code I could create which graphs the audio spectrum of the microphone input. It seems to run fine with about 30+ FPS on my modest machine. It should work on Windows and Linux. I chose not to go with matplotlib because I didn't think it was fast enough for my needs in this one case. Here's what the code below looks like running:
 

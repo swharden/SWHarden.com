@@ -4,7 +4,7 @@ date: 2016-08-08 01:49:24
 tags: ["diyECG", "python", "circuit"]
 ---
 
-# DIY ECG with 1 op-amp
+
 
 > **⚠️ Check out my newer ECG design:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

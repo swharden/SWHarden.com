@@ -3,7 +3,7 @@ title: Fixing Slow Internet in Ubuntu
 date: 2008-11-27 00:22:18
 ---
 
-# Fixing Slow Internet in Ubuntu
+
 
  __I recently swapped my two main PCs in my house.__  The "headless" (no monitor) media PC (whose job consists of downloading, storing, and playing movies) connected directly to my TV, and our standard desktop PC which my wife uses most of the time.  I decided to do the swap because the media PC was way nicer than our desktop PC, and since the media PC is just playing movies and downloading torrents, I figured the extra processing power / ram / video acceleration could be put to better use.  Anyhow, I decided (in both cases) to completely start fresh by wiping hard drives clean and reinstalling Ubuntu linux (I'm using 8.10 currently).  However, after the installation I noticed a peculiar problem.  I'll quote it to emphasize it...
 

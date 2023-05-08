@@ -5,7 +5,7 @@ date: 2022-04-24 16:45:00
 tags: ["GitHub"]
 ---
 
-# FTP Deploy with GitHub Actions
+
 
 **This article describes how I use GitHub Actions to deploy content using FTP without any third-party dependencies.** Code executed in continuous deployment pipelines may have access to secrets (like FTP credentials and SSH keys). Supply-chain attacks are becoming more frequent, including self-sabotage by open-source authors. Without 2FA, the code of well-intentioned maintainers is one stolen password away from becoming malicious. For these reasons I find it imperative to eliminate third-party Actions from my CI/CD pipelines wherever possible.
 

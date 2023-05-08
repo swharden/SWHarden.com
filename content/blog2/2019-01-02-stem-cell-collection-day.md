@@ -4,7 +4,7 @@ date: 2019-01-02 23:22:00
 tags: ["med"]
 ---
 
-# Stem Cell Collection Day
+
 
 **I didn’t have an out-of-body experience today, but my blood did!** This morning a catheter was placed in my left internal jugular vein with two tubes to allow continuous withdraw and replacement of blood as it circulated through an apheresis machine to filter-out and collect white blood cells (leukapheresis). This procedure harvests hematopoietic stem cells which can be frozen and later used used to repopulate my bone marrow after it is destroyed by strong chemotherapy as part of my autologous bone marrow transplant. Hopefully the cells they collected today will help to create a healthy immune system in the future! The picture below shows me a little over half way through the six-hour collection procedure, with the bag of collected cells hanging on the upper-right.
 

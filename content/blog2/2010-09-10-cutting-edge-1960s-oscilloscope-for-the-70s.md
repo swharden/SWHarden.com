@@ -3,7 +3,7 @@ title: Cutting-Edge 1960s Oscilloscope (for the 70s)
 date: 2010-09-10 22:33:26
 ---
 
-# Cutting-Edge 1960s Oscilloscope (for the 70s)
+
 
 __I'm extremely excited about my new purchase!__  I found this on Craigslist of all places!  It's a [Tektronix 453](http://www.diyguitarist.com/TestEquipment/Tektronix453.htm) oscilloscope from the late 60s in pretty good condition.  I'm not going into a bunch of technical details about what I'm using it for, but let's just say I'm satisfied.  The 1khz square wave generator doesn't function and one of the lights is not working, but other than that it seems to be fine. Here are a couple pics:
 

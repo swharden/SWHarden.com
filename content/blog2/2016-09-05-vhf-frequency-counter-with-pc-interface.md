@@ -4,7 +4,7 @@ date: 2016-09-05 17:34:44
 tags: ["amateur radio", "circuit", "python", "obsolete"]
 ---
 
-# VHF Frequency Counter with PC Interface
+
 
 **Projects I build often involve frequency synthesis, and one of the most useful tools to have around is a good frequency counter.** I love the idea of being able to access / log / analyze frequency readings on my computer. Commercial frequency counters can be large, expensive, and their calibration is a chicken-and-egg problem (you need a calibrated frequency counter to calibrate a frequency reference you use to calibrate a frequency counter!). **For about the cost of a latte I made a surprisingly good frequency frequency counter (which directly counts >100 MHz without dividing-down the input signal)** by blending a SN74LV8154 dual 16-bit counter (which can double as a 32-bit counter, [$1.04 on mouser](http://www.mouser.com/Search/Refine.aspx?Keyword=sn74lv8154&Ns=Pricing%7c0&FS=True)) and an ATMega328 microcontroller ([$3.37 on Mouser](http://www.mouser.com/Semiconductors/Integrated-Circuits-ICs/Embedded-Processors-Controllers/Microcontrollers-MCU/8-bit-Microcontrollers-MCU/_/N-a86lo?P=1z0y33r&Keyword=atmega328p&Ns=Pricing%7c0&FS=True)). 
 

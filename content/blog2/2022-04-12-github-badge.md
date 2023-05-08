@@ -5,7 +5,7 @@ date: 2022-04-12 23:00:00
 tags: ["JavaScript", "GitHub"]
 ---
 
-# GitHub Repository Badge
+
 
 **I created a badge to dynamically display stats for any public GitHub repository using HTML and Vanilla JavaScript.** I designed it so anyone can have their own badge by copying two lines of HTML into their website. 
 

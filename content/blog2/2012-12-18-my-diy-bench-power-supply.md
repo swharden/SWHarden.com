@@ -4,7 +4,7 @@ date: 2012-12-18 11:30:27
 tags: ["circuit"]
 ---
 
-# My DIY Bench Power Supply
+
 
 __Another thing everybody needs (and has probably built) is a simple laboratory bench power supply.__ A lot of people use things like [modified PC power supplies](http://web2.murraystate.edu/andy.batts/ps/powersupply.htm) but I wasn't in favor of this because I wanted something smaller, lower current, and cleaner (from an RF perspective).  My needs are nothing particularly high power, just something to provide a few common voltages for digital logic and small RF circuits.  This is what I came up with!
 

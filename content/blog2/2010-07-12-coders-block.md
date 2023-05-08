@@ -4,7 +4,7 @@ date: 2010-07-12 22:36:03
 tags: ["qrss"]
 ---
 
-# Coder's Block
+
 
 __I like the idea__ of writing a set of tools for scientific frequency analysis (more than just turning audio into images), and I keep starting over re-coding things from scratch. I develop too much, too quickly, and half way in I get overwhelmed and mentally blocked. I do it to myself. I've taken about a week off and will continue to take a few more days off to reset my mind. I'm trying to improve my coding by reading books (e-books) about advanced Python programming. Perhaps when it's time to return, I'll write gorgeous and functional code. I always seem to have one or the other, but never both \[sigh\]
 

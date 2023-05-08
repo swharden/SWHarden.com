@@ -4,7 +4,7 @@ date: 2010-05-24 07:47:01
 tags: ["qrss"]
 ---
 
-# Solar Powered QRSS Transmitter
+
 
 __Haray!__ I'm making awesome progress with my QRSS transmitter design. Because my current transmitter (previous few posts) was randomly freezing-up (likely due to the oscillator stopping its oscillating due to being overloaded) so I moved the oscillator from in-chip to an external oscillator. It's been made small enough to fit in an Altoids tin, and I already tested it with the solar panel and it works! Awesome! Here are some photos. Again, when I perfect the design I'll post final schematics.
 

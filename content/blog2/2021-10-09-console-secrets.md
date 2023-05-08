@@ -5,7 +5,7 @@ Date: 2021-10-09 13:15:00
 tags: ["csharp"]
 ---
 
-# Managing Secrets in .NET Console Apps
+
 
 **Sometimes your code needs to work with secrets that you don't want to risk accidentally leaking on the internet.** There are many strategies for solving this problem, and here I share my preferred approach. I see a lot of articles about how to manage user secrets in ASP.NET and other web applications, but not many focusing on console or desktop applications.
 

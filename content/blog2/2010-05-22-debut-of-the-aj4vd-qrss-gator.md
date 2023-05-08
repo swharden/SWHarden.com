@@ -4,7 +4,7 @@ date: 2010-05-22 18:41:54
 tags: ["qrss", "obsolete"]
 ---
 
-# Debut of the AJ4VD QRSS Gator
+
 
 __I re-wrote the code__ from the previous entry to do several things. Once of which was to make a gator rather than a fish. It's more appropriate since I'm planning on housing the transmitter at the University of Florida. To do it, I drew a gator in paint and wrote a python script to convert the image into a series of points. I'll post it later. One thing to note was that size was a SERIOUS issue. I only have two thousand bytes of code, and every point of that gator was a byte, so it was a memory hog. I helped it dramatically by using repeating segments wherever possible, and some creative math to help out the best I could (i.e., the spines on the back) Here's what it looks like, and the code below it...
 

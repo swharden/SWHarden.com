@@ -4,7 +4,7 @@ date: 2009-02-02 16:50:36
 tags: ["diyECG"]
 ---
 
-# Homemade ECG Machine: Improving Daily
+
 
 
 > **⚠️ Check out my newer ECG designs:** 

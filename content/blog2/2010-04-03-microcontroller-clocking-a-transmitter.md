@@ -4,7 +4,7 @@ date: 2010-04-03 23:19:37
 tags: ["qrss", "circuit"]
 ---
 
-# Microcontroller Clocking a Transmitter?
+
 
 __I shouldn't claim this idea as novel. __After googling around, I found another person who's doing the same thing, and now that I read his page I remember reading his page before, which is likely where I got the idea in the first place. I want to give him credit and hope that my project can turn out successfully like his! [http://clayton.isnotcrazy.com/mept\_v1](http://clayton.isnotcrazy.com/mept_v1).
 

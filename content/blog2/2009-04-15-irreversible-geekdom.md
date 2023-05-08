@@ -4,7 +4,7 @@ date: 2009-04-15 08:56:37
 tags: ["amateur radio", "qrss"]
 ---
 
-# Scott is now Licensed! (KJ4LDF)
+
 
 <div class="text-center img-border">
 

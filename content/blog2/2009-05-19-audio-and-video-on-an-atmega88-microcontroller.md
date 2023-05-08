@@ -4,7 +4,7 @@ date: 2009-05-19 20:49:40
 tags: ["microcontroller"]
 ---
 
-# Audio and Video on an ATMega88 Microcontroller!
+
 
 __At least 99% of my blog entries contain original content I created.__  However, I was so impressed by something I stumbled upon tonight that I absolutely cannot resist sharing it.  It's a project which aims to output audio and video simultaneously from a single microcontroller.  The [author's site](http://www.linusakesson.net/scene/craft/index.php) has all the details, but if you watch the video below you'll be amazed.  (Just get through the 30 second narration at the beginning)  Apparently the guy rendered video in horizontal lines from the software and outputted audio signals between horizontal lines!  Amazing!
 

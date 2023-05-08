@@ -5,7 +5,7 @@ Date: 2021-01-28 18:15:00
 tags: ["php"]
 ---
 
-# Symbolic Links and Directory URLs in PHP
+
 
 **My website went down for a few hours today** when my hosting company unexpectedly changed Apache's root http folder to a new one containing a symbolic link. This change broke some of my PHP scripts because `__DIR__` suddenly had a base path that was different than `DOCUMENT_ROOT`, and the `str_replace` method I was using to determine the directory URL assumed they would always be the same. If you Google "how to get the URL of the current directory with PHP", you'll probably find recommendations to use code like this:
 

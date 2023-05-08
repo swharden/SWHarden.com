@@ -4,7 +4,7 @@ date: 2010-05-28 19:54:39
 tags: ["amateur radio", "circuit", "obsolete"]
 ---
 
-# Measure QRP Radio Output Power with an Oscilloscope
+
 
 __I added a backlight to my oscilloscope!__ My o-scope's backlight hasn't worked since I got it (for $10), so I soldered-up a row of 9 orange LEDs (I had them in a big bag) and hooked them directly up to a 3v wall wart. In retrospect I wish I had a bunch of blue LEDs... but for now I can't get over how well this worked! Compare it to the images a few posts back - you can really see the grid lines now!
 

@@ -4,7 +4,7 @@ date: 2019-08-03 21:15:00
 tags: ["circuit"]
 ---
 
-# USB Frequency Counter
+
 
 **I built a frequency counter with a USB interface** based around a [74LV8154](https://www.ti.com/lit/ds/symlink/sn74lv8154.pdf) 32-bit counter, FTDI [FT230XS](https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf) (USB serial adapter), and an [ATMega328](https://www.microchip.com/wwwproducts/en/ATmega328) microcontroller. I've used this same counter IC in some old projects ([1](https://swharden.com/blog/2011-03-14-frequency-counter-finished/), [2](https://swharden.com/blog/2011-02-12-wideband-receiver-works/), [3](https://swharden.com/blog/2011-02-09-minimal-radio-project-continues/), [4](https://swharden.com/blog/2011-02-04-frequency-counter-working/), [5](https://swharden.com/blog/2011-01-28-home-brew-transceiver-taking-shape/)) this time I decided to I design the circuit a little more carefully, make a PCB, and use all surface-mount technology (SMT).
 

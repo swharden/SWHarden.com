@@ -4,7 +4,7 @@ date: 2020-12-14 21:16:00
 tags: ["qrss", "amateur radio"]
 ---
 
-# Seven Years of QRSS Plus
+
 
 > This article was written for [Andy (G0FTD)](https://sites.google.com/view/andy-g0ftd/) for publication in the December 2020 edition of [74!, The Knights QRSS Newsletter](https://swharden.com/qrss/74/). Join the [QRSS Knights mailing list](https://groups.io/g/qrssknights) for the latest QRSS news.
 

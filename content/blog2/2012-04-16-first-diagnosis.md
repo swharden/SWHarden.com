@@ -4,7 +4,7 @@ date: 2012-04-16 21:00:00
 tags: ["med"]
 ---
 
-# First Diagnosis
+
 
 **In April 2012 I had some alarming symptoms and visited an oncologist for the first time.** Symptoms included lymphadenopathy, weight loss, night sweats. This picture was taken just before my first doctor visit, and I’m in scrubs because I was a dental student at the time (I hadn’t started the DMD/PhD program yet). After several blood tests and two surgical biopsies I was eventually diagnosed with [non-Hodgkin’s lymphoma (NHL)](https://g.co/kgs/yBJEYd). More specifically, Lennert’s Lymphoma, a rare lymphoepithelioid variant of peripheral T-cell lymphoma in the [not otherwise specified category](https://en.wikipedia.org/wiki/Peripheral_T-cell_lymphoma_not_otherwise_specified) T-cell lymphomas.
 

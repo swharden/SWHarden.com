@@ -4,7 +4,7 @@ date: 2016-07-28 02:33:12
 tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
-# Opto-Isolated Laser Controller Build
+
 
 **This page documents the design and build of a small device to interface a [modern fiber-coupled DPSS laser](http://www.lasercentury.com/product.asp?id=612) with [old scientific hardware](http://www.coulbourn.com/product_p/h02-08.htm) designed to control mechanical relays.** This project involves analog and digital circuitry, microcontrollers, and lasers, and it turned out to be a pretty cool build so I'm sharing the design and construction process online in case it will be helpful for others or even my future self.
 

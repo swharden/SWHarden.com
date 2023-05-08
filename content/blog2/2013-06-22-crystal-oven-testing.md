@@ -4,7 +4,7 @@ date: 2013-06-22 15:14:37
 tags: ["circuit", "obsolete"]
 ---
 
-# Crystal Oven Testing
+
 
 __To maintain high frequency stability, RF oscillator circuits are sometimes "ovenized" where their temperature is raised slightly above ambient room temperature and held precisely at one temperature.__ Sometimes just the crystal is heated (with a "crystal oven"), and other times the entire oscillator circuit is heated. The advantage of heating the circuit is that other components (especially metal core instructors) are temperature sensitive. Googling for the phrase "crystal oven", you'll find no shortage of recommended circuits. Although a more complicated[ PID (proportional-integral-derivative) controller](http://en.wikipedia.org/wiki/PID_controller) may seem enticing for these situations, the fact that the enclosure is so well insulated and drifts so little over vast periods of time suggests that it might not be the best application of a PID controller. One of my favorite write-ups is from [M0AYF's site](http://www.qsl.net/m0ayf/Crystal-Ovens.html) which describes how to build a crystal oven for QRSS purposes. He demonstrates the MK1 and then the next design the MK2 crystal oven controller.
 

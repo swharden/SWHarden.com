@@ -4,7 +4,7 @@ date: 2019-07-26 21:00:00
 tags: ["qrss", "circuit"]
 ---
 
-# SMT QRSS Design
+
 
 This page documents development of a voltage-controlled oscillator suitable for QRSS. Source code and PCB files are on https://github.com/swharden/QRSS-hardware
 

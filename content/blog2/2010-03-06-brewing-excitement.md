@@ -4,7 +4,7 @@ date: 2010-03-06 23:49:08
 tags: ["qrss"]
 ---
 
-# Spring Break Software Project
+
 
 __Wow, I can't believe I took-on such a massive challenge this week!__ Ironically I've worked harder and learned more in the last 4 days than I have over the last 9 months of dental school. This is an incredible feeling of accomplishment. My program, coded from scratch, polls the sound card continuously and makes extremely large spectrographs. It's not finished, but it's working. I'm impressed!
 

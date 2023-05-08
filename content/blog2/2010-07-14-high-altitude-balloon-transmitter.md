@@ -4,7 +4,7 @@ date: 2010-07-14 08:05:46
 tags: ["qrss", "amateur radio", "obsolete"]
 ---
 
-# High Altitude Balloon Transmitter
+
 
 <blockquote class="wp-block-quote"><p><b>SUMMARY:</b> A small group of high school students taking an AP class for college credit launched a high-altitude weather balloon with a small payload. In addition to a video transmitter and GPS transmitter, they decided to include a simple transmitter built from scratch. This is the story of the project, with emphasis on the simple transmitter's design, construction, implementation, and reception (which surprised me, being detected ~200 miles away and lasting the entire duration of the flight!) [<a href="http://www.SWHarden.com/blog/images/beeps.ogg">sample.ogg</a>]</p></blockquote>
 

@@ -3,7 +3,7 @@ title: video capture works
 date: 2003-09-10 14:00:24
 ---
 
-# video capture works
+
 
 <img align="left" class="hideme" src="http://www.ScottIsHot.com/blog/images/pdouch.jpg"/>
 

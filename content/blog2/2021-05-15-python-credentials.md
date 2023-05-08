@@ -5,7 +5,7 @@ Date: 2021-05-15 21:00:00
 tags: ["python"]
 ---
 
-# Managing Credentials with Python
+
 
 **I enjoy contributing to open-source, but I'd prefer to keep my _passwords_ to myself!** Python is a great glue language for automating tasks, and recently I've been using it to log in to my web server using SFTP and automate log analysis, file management, and software updates. The Python scripts I'm working on need to know my login information, but I want to commit them to source control and share them on GitHub so I have to be careful to use a strategy which minimizes risk of inadvertently leaking these secrets onto the internet.
 

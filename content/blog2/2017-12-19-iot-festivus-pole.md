@@ -4,7 +4,7 @@ date: 2017-12-19 22:11:17
 tags: ["circuit", "microcontroller"]
 ---
 
-# IoT Festivus Pole
+
 
 The <em>Internet of Things</em> now includes Festivus poles! **Festivus is a holiday celebrated on December 23rd, and its [customary practices](https://en.wikipedia.org/wiki/Festivus) include a Festivus pole, Festivus dinner, airing of grievances, feats of strength, and Festivus miracles. The internet contains a few nods to the holiday, including [what happens when you Google for the word Festivus](https://www.google.com/search?q=festivus) (a Festivus pole is displayed at the bottom of the page). In 2015 I had the honor of gifting the world with the first [Festivus pole video game](https://www.swharden.com/wp/2015-12-23-festivus-pole-video-game/), and today I am happy to unveil the world's first internet-enabled Festivus pole. Every time somebody tweets #Festivus or #FestivusMiracle, the light at the top of the pole illuminates! All in the room then excitedly exclaim, "it's a Festivus miracle!"
 

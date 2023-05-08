@@ -4,7 +4,7 @@ date: 2020-09-27 16:21:00
 tags: ["circuit"]
 ---
 
-# Using MOD Files in LTSpice
+
 
 **This page shows how to use the LM741 op-amp model file in LTSpice.** This is surprisingly un-intuitive, but is a good thing to know how to do. Model files can often be downloaded by vendor sites, but LTSpice only comes pre-loaded with models of common LT components.
 

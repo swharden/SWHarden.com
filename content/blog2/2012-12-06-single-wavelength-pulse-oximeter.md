@@ -4,7 +4,7 @@ date: 2012-12-06 08:13:41
 tags: ["circuit", "diyECG", "obsolete"]
 ---
 
-# Single Wavelength Pulse Oximeter
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

@@ -4,7 +4,7 @@ date: 2010-08-11 07:49:58
 tags: ["python", "obsolete"]
 ---
 
-# Prime Failure 1 Year in the Making
+
 
 __My expression is completely flat right now.__ I simply cannot believe I'm about to say what I'm preparing to say. I spent nearly a year cracking large prime numbers. In short, I took-on a project I called [_The Flowering N'th Prime Project_](http://swharden.dyndns.org:8081/), where I used my [SheevaPlug](http://en.wikipedia.org/wiki/SheevaPlug) to generate a list of every \[every millionth\] prime number. The current "golden standard" is [this page](http://primes.utm.edu/nthprime/) where one can look-up the N'th prime up to 1 trillion. My goal was to reach over 1 trillion, which I did just this morning! I was planning on being the only source on the web to allow lookups of prime numbers greater than 1 trillion.
 

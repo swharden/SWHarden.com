@@ -4,7 +4,7 @@ date: 2010-11-28 17:06:18
 tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
-# Crystal Oven Experiments
+
 
 __Now that I've finished my__ 6-channel data logger (previous post), it's time to put it to the test!  I'm using a handful of LM335 temperature sensors to measure temperature, and a 20 Ohm resistor to act as a heater.  When 1A of current passes through it, it gets quite toasty!  First, I'll make some temperature probes...
 

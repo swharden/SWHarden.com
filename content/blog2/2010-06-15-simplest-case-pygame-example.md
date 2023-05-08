@@ -4,7 +4,7 @@ date: 2010-06-15 08:29:03
 tags: ["python", "obsolete"]
 ---
 
-# Simple-Case PyGame Example
+
 
 __I'm starting to investigate PyGame__ as an alternative to PIL and K for my QRSS VD spectrograph project. This sample code makes a box bounce around a window.
 

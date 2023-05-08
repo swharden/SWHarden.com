@@ -4,7 +4,7 @@ date: 2010-06-06 19:15:58
 tags: ["microcontroller", "circuit", "qrss", "obsolete"]
 ---
 
-# QRSS DNA
+
 
 __I'm still working on this project,__ and although progress is slow I'm learning a lot and the circuit is getting better with time. I'm still not yet ready to post the schematics, but you can get an idea of what's going on from the picture. It can handle 255 levels of frequency shift and has the ability to turn the tone on and off. 6 capacitors, 3 resistors, 4 transistors, a single inductor, and a micro-controller.
 

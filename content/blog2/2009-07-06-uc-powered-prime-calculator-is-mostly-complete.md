@@ -4,7 +4,7 @@ date: 2009-07-06 10:07:56
 tags: ["microcontroller"]
 ---
 
-# Microcontroller-Powered Prime Number Generator
+
 
 __My microcontroller-powered prime number calculator is complete!__ Although I'm planning on improving the software (better menus, the addition of sound, and implementation of a more efficient algorithm) and hardware (a better enclosure would be nice, battery/DC wall power, and a few LEDs on the bottom row are incorrectly wired), this device is currently functional therefore I met my goal!
 

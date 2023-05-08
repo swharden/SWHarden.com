@@ -5,7 +5,7 @@ Date: 2022-06-23 21:15:00
 tags: ["csharp", "graphics"]
 ---
 
-# Resample Time Series Data using Cubic Spline Interpolation
+
 
 **Cubic spline interpolation can be used to modify the sample rate of time series data.** This page describes how I achieve signal resampling with spline interpolation in pure C# without any external dependencies. This technique can be used to:
 

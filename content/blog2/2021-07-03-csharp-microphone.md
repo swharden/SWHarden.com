@@ -5,7 +5,7 @@ Date: 2021-07-03 22:42:00
 tags: ["csharp"]
 ---
 
-# C# Microphone Level Monitor
+
 
 **This page demonstrates how to continuously monitor microphone input using C#.** Code here may be a helpful reference  for developers interested in working with mono or stereo data captured from an audio device in real time. This project uses [NAudio](https://www.nuget.org/packages/NAudio) to provide simple access to the microphone on Windows platforms.
 

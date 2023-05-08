@@ -4,7 +4,7 @@ date: 2009-05-15 17:56:32
 tags: ["obsolete"]
 ---
 
-# Removing Textile Markup From Wordpress Entries
+
 
 __I realized that the C code from yesterday wasn't showing-up properly__ because of [textile](http://wordpress.org/tags/textile), a rapid, inline, tag-based formatting system.  While it's fun and convenient to use, it's not always practical.  The problem I was having was that in C code, variable names (such as _delay_) were becoming irrevocably italicized, and nothing I did could prevent textile from ignoring code while styling text.  The kicker is that I couldn't disable it easily, because I've been writing in this style for __over four years!__  I decided that the time was now to put my mad Python skills to the test and write code to handle the conversion from textile-format to raw HTML.
 __I accomplished this feat__ in a number of steps.  Yeah, I could have done hours of research to find a "faster way", but it simply wouldn't have been as creative.  In a nutshell, I backed-up the SQL database using [PHPMyAdmin](http://en.wikipedia.org/wiki/PhpMyAdmin) to a single "x.sql" file.  I then wrote a pythons script to parse this [massive] file and output "o.sql", the same data but with all of the textile tags I commonly used replaced by their HTML equivalent.  It's not 100% perfect, but it's 99.999% perfect.  I'll accept that.  The output?  You're viewing it!  Here's the code I used to do it:

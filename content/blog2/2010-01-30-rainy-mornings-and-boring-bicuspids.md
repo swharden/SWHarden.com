@@ -4,7 +4,7 @@ date: 2010-01-30 13:41:59
 tags: ["amateur radio"]
 ---
 
-# More Antenna Tinkering
+
 
 __Dental school is taking a lot of time away from me.__ I try my best to compartmentalize dental school into a chunk of my schedule (a massive chunk), trying to use the rest of the time to spend with my family (wife) and when she's at work work on electronics (which seems to be radio these days). A few weeks ago I took the final amateur radio license exam and received my Amateur Extra license. It's a bunch of technical questions about radio circuitry, antenna theory, and other random stuff. You can see what I mean by taking an [online practice test](http://www.eham.net/exams/)! I applied for a new call sign (extra class operators can get shorter call signs). It seems the FCC gave me a VD. AJ4VD that is! Yes, my old call sign [KJ4LDF](http://www.qrz.com/callsign/KJ4LDF) has gone out the window as I am now [AJ4VD](http://www.qrz.com/callsign/AJ4VD)! In Morse code, that's `.- .--- ....- ...- -..`
 

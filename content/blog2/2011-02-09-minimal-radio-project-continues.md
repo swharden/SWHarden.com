@@ -4,7 +4,7 @@ date: 2011-02-09 00:18:26
 tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
-# Minimal Radio Project Continues...
+
 
 __I got a big bag of fresh, new, copper clad PC board__ and I now wish I purchased a big pack months ago! Don't laugh at me, but I was buying 4''x6'' sheets of it at Radio Shack for about $5 a pop - ouch! I probably purchased 3 boards in my lifetime, but at that price you can imagine how careful I was not to use them. I soldered minimally to them, and only used them for the most important, established projects.  Wake up Scott! If your _experimental platform_ actually _inhibits_ experimentation, there's something fundamentally wrong.  Anyway, I got a stack of the stuff and I no longer hesitate to grab a fresh board and start working. I made some progress today simplifying my ultra-minimalist functional radio project. Here's what I came up with!
 

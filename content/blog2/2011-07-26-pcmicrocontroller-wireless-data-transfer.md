@@ -4,7 +4,7 @@ date: 2011-07-26 22:35:16
 tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
-# PC/microcontroller "wireless" data transfer (part 1)
+
 
 __Several days ago I had a crazy idea.__ I was driving to Orlando to pick my wife up from the airport and it was dark and stormy on the highway and I was thinking about the backlash I got from my [Sound Card Microcontroller/PC Communication](http://www.swharden.com/blog/2011-07-09-sound-card-microcontrollerpc-communication/) project, where I used an embarrassingly simple hardware to accomplish the simple task of exchanging a few bytes of data between a PC and microcontroller (in the face of many people who adamantly prefer more complicated "traditional standard" methods). The car in front of me drove with his emergency flashers on, and at times all I could see were his lights. At that moment the crazy idea popped in my head - I wonder if I could use a PC monitor and phototransistors to send data to a microchip? I can't think of any immediate uses for this capability, but perhaps if I make a working prototype I'll stumble upon some. Either way, it sounds like a fun project!
 

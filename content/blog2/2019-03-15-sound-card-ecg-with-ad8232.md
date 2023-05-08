@@ -4,7 +4,7 @@ date: 2019-03-15 23:50:34
 tags: ["diyECG", "csharp"]
 ---
 
-# Sound Card ECG with AD8232
+
 
 **Every few years I revisit the idea of building an ECG machine.** This time I was very impressed with how easy it is to achieve using the [AD8232](https://www.analog.com/media/en/technical-documentation/data-sheets/ad8232.pdf), a single-lead ECG front-end on a chip. The AD8232 is small (LFCSP package) but breakout boards are easy to obtain online. Many [vendors on eBay](https://www.ebay.com/sch/ad8232+module) sell kits that come with electrode cables and pads for under $20. Sparkfun [sells a breakout board](https://www.sparkfun.com/products/12650) but you have to buy the [cable](https://www.sparkfun.com/products/12970) and [electrodes](https://www.sparkfun.com/products/12969) separately. I highly recommend buying bags of electrodes inexpensively on eBay because having plenty will make life much easier as you experiment with this circuit. The signal that comes out of this ECG device (unlike [other ECG machines I've built](https://www.swharden.com/wp/2016-08-08-diy-ecg-with-1-op-amp/)) is remarkably clean! It doesn't require any special spectral filtering (all that is accomplished on the chip), and it can be hooked right up to an oscilloscope or sampled with analog-to-digital converter.
 

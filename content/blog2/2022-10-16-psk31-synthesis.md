@@ -5,7 +5,7 @@ Date: 2022-10-16 23:26:00
 tags: ["amateur radio", "csharp"]
 ---
 
-# Experiments in PSK-31 Synthesis
+
 
 **PSK-31 is a narrow-bandwidth digital mode which encodes text as an audio tone that varies phase at a known rate.** To learn more about this digital mode and solve a challenging programming problem, I'm going to write a PSK-31 encoder and decoder from scratch using the C# programming language. All code created for this project is open-source, available from my [PSK Experiments GitHub Repository](https://github.com/swharden/psk-experiments), and released under the permissive MIT license. This page documents my progress and notes things I learn along the way.
 

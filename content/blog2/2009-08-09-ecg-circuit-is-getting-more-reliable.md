@@ -4,7 +4,7 @@ date: 2009-08-09 12:25:50
 tags: ["diyECG"]
 ---
 
-# Improving ECG Reliability
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

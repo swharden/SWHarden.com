@@ -4,7 +4,7 @@ date: 2009-01-29 18:46:22
 tags: ["python", "obsolete"]
 ---
 
-# Analyzing my Writings with Python
+
 
 __I had some free time in lab today__ (between steps while of an immunohistochemistry experiment) so I decided to further investigate the field of bioinformatics. I was curious if it may be worth seeking a PhD in bioinformatics if I don't get into dental school. UCF offers a PhD in bioinformatics but it's a new and small department (I think there are only 4 faculty). A degree in bioinformatics combines molecular biology (DNA, proteins, etc), computer science (programming), and statistics.
 

@@ -5,7 +5,7 @@ Date: 2021-06-03 00:03:00
 tags: ["csharp"]
 ---
 
-# Representing Images in Memory
+
 
 **This page is a quick reference for programmers interested in working with image data in memory (byte arrays).** This topic is straightforward overall, but there are a few traps that aren't necessarily intuitive so I try my best to highlight those here. 
 

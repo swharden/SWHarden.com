@@ -4,7 +4,7 @@ date: 2009-06-19 09:08:33
 tags: ["python", "obsolete"]
 ---
 
-# Reading PCM Audio with Python
+
 
 __When I figured this out__ I figured it was simply way too easy and way to helpful to keep to myself.  Here I post (for the benefit of friends, family, and random Googlers alike) two examples of super-simplistic ways to read [PCM](http://en.wikipedia.org/wiki/Pulse-code_modulation) data from Python using [Numpy](http://numpy.scipy.org/) to handle the data and [Matplotlib](http://matplotlib.sourceforge.net/) to display it.  First, get some junk audio in PCM format (test.pcm).
 

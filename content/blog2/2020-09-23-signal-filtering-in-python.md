@@ -4,7 +4,7 @@ date: 2020-09-23 21:46:00
 tags: ["python"]
 ---
 
-# Signal Filtering in Python
+
 
 **Over a decade ago I posted code demonstrating how to filter data in Python, but there have been many improvements since then.** My original posts ([1](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), [2](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/), [3](https://swharden.com/blog/2010-06-20-smoothing-window-data-averaging-in-python-moving-triangle-tecnique/), [4](https://swharden.com/blog/2010-06-24-detrending-data-in-python-with-numpy/)) required creating discrete filtering functions, but modern approaches can leverage Numpy and Scipy to do this more easily and efficiently. In this article we will use [`scipy.signal.filtfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html) to apply low-pass, high-pass, and band-pass filters to reduce noise in an ECG signal (stored in [ecg.wav](https://swharden.com/static/2020/09/23/ecg.wav) (created as part of my [Sound Card ECG](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/) project).
 

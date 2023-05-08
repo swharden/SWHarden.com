@@ -5,7 +5,7 @@ date: 2022-05-01 23:00:00
 tags: ["csharp"]
 ---
 
-# Using DataFrames in C# 
+
 
 **The DataFrame is a data structure designed for manipulation, analysis, and visualization of tabular data, and it is the cornerstone of many data science applications.** One of the most famous implementations of the data frame is provided by the Pandas package for Python. An equivalent data structure is available for C# using Microsoft's data analysis package. Although data frames are commonly used in Jupyter notebooks, they can be used in standard .NET applications as well. This article surveys Microsoft's Data Analysis package and introduces how to interact with with data frames using C# and the .NET platform.
 

@@ -3,7 +3,7 @@ title: Built a Pixie II
 date: 2009-05-07 15:10:22
 ---
 
-# Built a Pixie II
+
 
 __Man, what a long day!__ Work is so tedious sometimes. This week I've been proofing scientific literature using Office 2003 with "track changes". I make changes, my boss makes changes, I make more changes, and it goes back and forth a few times. I wonder why office 2007 is so bad. Does _anybody_ truly like it, and find it to be a significant improvement upon 2003? ... or Vista over XP? Maybe I'm just getting old, inflexible, and grumpy.
 

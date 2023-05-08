@@ -4,7 +4,7 @@ date: 2009-02-07 16:29:28
 tags: ["amateur radio"]
 ---
 
-# Cheaply Create Double-Sided QSL Cards in 1 Day
+
 
 __I'm posting this information__ hoping that someone else in a position similar to mine can benefit from the experience I gained through trial and error while trying to rapidly design and develop professional-looking QSL cards at low risk. I Googled around for this information, but didn't find anything too helpful, so I figured I'd come up with something on my own and share my story.
 

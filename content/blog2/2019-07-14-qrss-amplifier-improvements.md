@@ -4,7 +4,7 @@ date: 2019-07-14 21:00:00
 tags: ["qrss"]
 ---
 
-# Amplifier Improvements
+
 
 I improved my amplifier (now output 500mW) and am impressed how well my attic dipole is doing! It runs east/west so it radiates north/south. I saw my signal on a few more grabbers.
 

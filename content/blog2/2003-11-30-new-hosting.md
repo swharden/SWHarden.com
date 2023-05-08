@@ -3,7 +3,7 @@ title: new hosting?
 date: 2003-11-30 17:58:21
 ---
 
-# new hosting?
+
 
  yeah, that's right.  Finally! Off my crappy internet connection! Woohoo!
 

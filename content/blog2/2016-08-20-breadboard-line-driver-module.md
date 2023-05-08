@@ -4,7 +4,7 @@ date: 2016-08-20 19:16:27
 tags: ["circuit", "obsolete"]
 ---
 
-# Breadboard Line Driver Module
+
 
 __Sometimes I rapidly want to amplify a signal, but building amplifiers, buffers, and line drivers can be a hassle, especially on a breadboard!__ It's important to know how to carefully design build [tuned and untuned amplifier circuits](https://en.wikibooks.org/wiki/Practical_Electronics/Amplifiers#Type_of_load), but sometimes you just want to analyze or work with a signal without modifying it by sinking too much current, so being able to rapidly drop in a buffer stage would be a great help. Sometimes I want to buffer a signal so I can analyze it (with an oscilloscope or frequency counter) or use use it (perhaps to drive or gate something), but the signal source is across the room, so I need a beefy amplifier to drive it into coax as I run it across my ceiling while I'm experimenting. A [MOSFET voltage follower](https://en.wikipedia.org/wiki/Buffer_amplifier#Impedance_transformation_using_the_MOSFET_voltage_follower) or a [Darlington transistor](https://en.wikipedia.org/wiki/Darlington_transistor) may do the job, but I have to worry about input conditioning, biasing, output voltage limiting, class A, B, C, D, etc., RF vs DC, copying this circuit multiple times for multiple signals, and before you know it I'm sinking more time into my task than I need to. 
 

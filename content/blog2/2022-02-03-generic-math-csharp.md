@@ -5,7 +5,7 @@ Date: 2022-02-03 23:55:00
 tags: ["csharp"]
 ---
 
-# Generic Math in C# with .NET 6
+
 
 **Generic types are great, but it has traditionally been difficult to do math with them.** Consider the simple task where you want to accept a generic array and return its sum. With .NET 6 (and features currently still in preview), this got much easier!
 

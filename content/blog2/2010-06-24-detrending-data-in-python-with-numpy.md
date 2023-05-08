@@ -4,7 +4,7 @@ date: 2010-06-24 08:38:52
 tags: ["python", "obsolete"]
 ---
 
-# Detrending Data in Python with Numpy
+
 
 > **⚠️ SEE UPDATED POST:** [**Signal Filtering in Python**](https://swharden.com/blog/2020-09-23-signal-filtering-in-python/)
 

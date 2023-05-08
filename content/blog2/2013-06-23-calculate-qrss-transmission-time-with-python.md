@@ -4,7 +4,7 @@ date: 2013-06-23 21:19:59
 tags: ["qrss", "python", "obsolete"]
 ---
 
-# Calculate QRSS Transmission Time with Python
+
 
 __How long does a particular bit of Morse code take to transmit at a certain speed?__ This is a simple question, but when sitting down trying to design schemes for 10-minute-window QRSS, it doesn't always have a quick and simple answer. Yeah, you could sit down and draw the pattern on paper and add-up the dots and dashes, but why do on paper what you can do in code? The following speaks for itself. I made the top line say my call sign in Morse code (AJ4VD), and the program does the rest. I now see that it takes 570 seconds to transmit AJ4VD at QRSS 10 speed (ten second dots), giving me 30 seconds of free time to kill.
 

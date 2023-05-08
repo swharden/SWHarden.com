@@ -4,7 +4,7 @@ date: 2010-06-23 22:21:00
 tags: ["qrss", "python", "obsolete"]
 ---
 
-# Insights Into FFTs, Imaginary Numbers, and Accurate Spectrographs
+
 
 __I'm attempting to thoroughly re-write the data assessment__ portions of my QRSS VD software, and rather than rushing to code it (like I did last time) I'm working hard on every step trying to optimize the code. I came across some notes I made about Fast Fourier Transformations from the first time I coded the software, and though I'd post some code I found helpful. Of particular satisfaction is an email I received from Alberto, I2PHD, the creator of Argo (the "gold standard" QRSS spectrograph software for Windows). In it he notes:
 

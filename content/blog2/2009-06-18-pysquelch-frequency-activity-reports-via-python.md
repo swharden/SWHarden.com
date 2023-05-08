@@ -4,7 +4,7 @@ date: 2009-06-18 22:59:01
 tags: ["amateur radio", "python", "obsolete"]
 ---
 
-# pySquelch - Frequency Activity Reports via Python
+
 
 <p class="has-background has-light-green-cyan-background-color"><strong>Update:</strong> this project is now on GitHub  <a href="https://github.com/FredEckert/pySquelch">https://github.com/FredEckert/pySquelch</a> </p>
 

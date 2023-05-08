@@ -4,7 +4,7 @@ date: 2010-09-09 08:06:39
 tags: ["python", "obsolete"]
 ---
 
-# Quantifying University Network Frustrations
+
 
 __I'm sitting in class frustrated as could be.__ The Internet in this room is unbelievably annoying.  For some reason, everything runs fine, then functionality drops to unusable levels.  Downloading files (i.e., PDFs of lectures) occurs at about 0.5kb/s (wow), and Internet browsing is hopeless.  At most, I can connect to IRC and enjoy myself in #electronics, #python, and #linux. I decided to channel my frustration into productivity, and wrote a quick Python script to let me visualize the problem.
 

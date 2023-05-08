@@ -4,7 +4,7 @@ date: 2018-06-03 18:51:30
 tags: ["csharp", "microcontroller"]
 ---
 
-# Bit-Bang FTDI USB-to-Serial Converters to Drive SPI Devices
+
 
 **The FT232 USB-to-serial converter is one of the most commonly-used methods of adding USB functionality to small projects, but recently I found that these chips are capable of sending more than just serial signals. With some creative programming, individual output pins can be big-banged to emulate a clock, data, and chip select line to control SPI devices.** This post shares some of the techniques I use to bit-bang SPI with FTDI devices, and some of the perks (and quirks) of using FTDI chips to bit-bang data from a USB port. Code examples are [available](https://github.com/swharden/AVR-projects/tree/master/FTDI%202018-05-30%20bit%20bang) on GitHub, and links to additional resources are at the bottom of this post. After the final build I created a slightly more polished "ftdiDDS.exe" program to control an AD9850 frequency synthesizer from the command line by bit-banging a FT-232, and code (and binaries) are also [available](https://github.com/swharden/AVR-projects/tree/master/FTDI%202018-06-03%20ftdiDDS) on GitHub.
 

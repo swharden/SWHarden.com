@@ -4,7 +4,7 @@ date: 2017-09-02 15:48:22
 tags: ["circuit"]
 ---
 
-# PS4 Controller Hack - Adding Auto-Run
+
 
 **After a long day** it can be really nice to have a relaxing hobby to clear your head, and few activities shut down your brain as effectively as video games. However, a newly released video game is physically hurting me as my impulse to move quickly causes me to perpetually click the run button. After a few days of game-play and a really sore left thumb, I decided to do something about it: hack-in a microchip to automatically click the button for me.
 

@@ -4,7 +4,7 @@ date: 2010-12-28 01:52:09
 tags: ["circuit", "microcontroller", "obsolete"]
 ---
 
-# Full-Auto Rapidfire Mouse Modification
+
 
 __I did this purely for the fun of it, and am aware there are many ways to accomplish the same thing.__ I was playing [Counter Strike Source](http://store.steampowered.com/css) (you should buy it and play with me, name "swharden") and my fingers are really cold from the winter weather, and wondered if I could have a button help with the rapid firing of pistols.  I mentioned it on the microphone, and one of the players ("{Ẋpli¢it} shadow") said I should go for it.  Because it was a fun little project, I documented it so I could share it. Check out the cool photos and video!
 

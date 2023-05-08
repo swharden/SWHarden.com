@@ -3,7 +3,7 @@ title: ATTiny2313 Controlling a HD44780 LCD with AVR-GCC
 date: 2009-05-17 20:27:44
 ---
 
-# ATTiny2313 Controlling a HD44780 LCD with AVR-GCC
+
 
 __After a day of tinkering I finally figured out how to control a HD44780 display from an ATTiny2313 microcontroller.__ There are a _lot_ of websites out there claiming to show you how to do this on similar AVRs. I tried about 10 of them and, intriguingly, only one of them worked! I think the problem is that many of those websites show code for an ATMega8 and I'm using an ATTiny2313. Since it took me so long to get this right I decided to share it on the internet for anyone else having a similar struggle.
 

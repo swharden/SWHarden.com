@@ -4,7 +4,7 @@ date: 2011-01-10 09:01:20
 tags: ["qrss", "amateur radio", "circuit", "obsolete"]
 ---
 
-# 40m Junkbox QRP Transmitter
+
 
 __I decided to sit down and build something last night__, and I'm surprised by how functional it is!  Nothing about it is extraordinarily complex, and it's extremely flexible, accommodating almost any crystal you want to drop in.  Although I doubt I'll use this exact design for a permanent transmitter, it was fun to build and I'll post photos hoping to inspire others to tinker with RF circuitry as well! The final device worked on 7.000MHz and had 3 components: power supply, oscillator/amplifier (making 20mW), and amplifier (making 1.5W). 
 

@@ -4,7 +4,7 @@ date: 2020-09-24 17:45:00
 tags: ["python"]
 ---
 
-# Exponential Fit with Python
+
 
 **Fitting an exponential curve to data is a common task** and in this example we'll use Python and SciPy to determine parameters for a curve fitted to arbitrary X/Y points. You can follow along using the [fit.ipynb](https://swharden.com/static/2020/09/24/fit.ipynb) Jupyter notebook.
 

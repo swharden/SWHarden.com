@@ -4,7 +4,7 @@ date: 2013-05-07 18:14:58
 tags: ["microcontroller", "obsolete"]
 ---
 
-# AVR Programming in 64-bit Windows 7
+
 
 __A majority of the microcontroller programming I do these days involves writing C for the ATMEL AVR series of microcontrollers.__ I respect PIC, but I find the open/free atmosphere around AVR to be a little more supportive to individual, non-commercial cross-platform programmers like myself. With that being said, I've had a few bumps along the way getting unofficial AVR programmers to work in Windows 7. Previously, I had great success with a $11 (shipped) [clone AVRISP-mkII programmer](http://fun4diy.com/AVRISP_mkII.htm)  from fun4diy.com. It was the heart of a little AVR development board I made and grew to love (which had a drop-in chip slot and also a little breadboard all in one) seen in a [few](http://www.swharden.com/blog/2010-12-28-full-auto-rapidfire-mouse-modification/) random blog [posts](http://www.swharden.com/blog/2010-05-24-solar-powered-qrss-beacon/) over the years. Recently it began giving me trouble because, despite downloading and installing various drivers and packages, I couldn't get it to work with Windows Vista or windows 7. I needed to find another option. I decided against the official programmer/software because the programmer is expensive (for a college student) and the software (AVR studio 6) is terribly bloated for LED-blink type applications. "AStudio61.exe" is 582.17 Mb. Are you kidding me? Half a gig to program a microchip with 2kb of memory? Rediculous.  I don't use [arduino](http://en.wikipedia.org/wiki/Arduino) because I'm comfortable working in C and happy reading datasheets. Furthermore, I like programming chips hot off the press, without requiring a special boot loader.
 

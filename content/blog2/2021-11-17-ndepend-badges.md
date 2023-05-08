@@ -5,7 +5,7 @@ Date: 2021-10-17 13:20:00
 tags: ["csharp", "maui"]
 ---
 
-# NDepend Status Badges
+
 
 **Many project websites and readmes have status badges** that display build status, project details, or code metrics. [badgen.net](https://badgen.net/) and [shields.io](https://shields.io/) are popular services for dynamically generating status badges as SVG files using HTTP requests. This article demonstrates how I use C# and `Microsoft.Maui.Graphics` to build status badges from [**NDepend**](https://www.ndepend.com/) static analysis reports. Source code for this project is [available on GitHub](https://github.com/swharden/NDepend-Badges).
 

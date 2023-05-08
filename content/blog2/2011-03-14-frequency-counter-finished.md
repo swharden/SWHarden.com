@@ -4,7 +4,7 @@ date: 2011-03-14 10:29:21
 tags: ["amateur radio", "circuit", "microcontroller", "obsolete"]
 ---
 
-# $10 Frequency Counter Finished!
+
 
 __Wow, what a cool project start to finish.__ Simple, cheap, and absolutely useful! ... and not to mention big green numbers which make it look more impressive than it actually is! This is my super-simple frequency counter designed to be used for amateur radio, all for about $10.  It was a project I developed over the last few months and documented all along the way. It's finished I guess, so this will probably be the last post about it! Now for some vids and pics:
 

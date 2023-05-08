@@ -4,7 +4,7 @@ date: 2009-01-20 13:15:59
 tags: ["diyECG", "obsolete"]
 ---
 
-# DIY ECG Detected an Irregular Heartbeat
+
 
 > **⚠️ Check out my newer ECG designs:** 
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)

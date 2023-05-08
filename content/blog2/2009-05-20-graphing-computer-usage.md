@@ -4,7 +4,7 @@ date: 2009-05-20 08:44:57
 tags: ["python", "obsolete"]
 ---
 
-# Graphing Computer Usage
+
 
 __I enjoy writing Python scripts to analyze and display linear data.__ One of my favorite blog entries is [Linear Data Smoothing with Python](http://www.swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), developed for my [homemade electrocardiogram](http://www.swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) project. I installed a program called TimeTrack.exe on my work computer. It basically logs whenever you open or close a program. The data output looks like this:
 

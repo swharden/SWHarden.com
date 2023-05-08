@@ -4,7 +4,7 @@ date: 2009-05-14 11:00:19
 tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
-# Simple Case AVR/PC Serial Communication via MAX232
+
 
 __I recently had the desire__ to be able to see data from an ATMEL AVR microcontroller (the [ATTiny2313](http://www.SWHarden.com/blog/images/attiny-2313.gif)) for development and debugging purposes.  I wanted an easy way to have my microcontroller talk to my PC (and vise versa) with a minimum number of parts.  The easiest way to do this was to utilize the [UART](http://en.wikipedia.org/wiki/UART) capabilities of the [ATTiny2313](http://www.SWHarden.com/blog/images/attiny-2313.gif) to talk to my PC through the serial port. One problem is that the [ATTiny2313](http://www.SWHarden.com/blog/images/attiny-2313.gif)(as with most microcontrollers) puts out 5V for "high" (on) and 0V for "low" (off).  The RS-232 standard (which PC serial ports use) required -15V for high and +15v for low!  Obviously the microcontroller needs some help to achieve this.  The easiest way was to use the [MAX232 serial level converter](http://en.wikipedia.org/wiki/MAX232) which [costs about 3 bucks at DigiKey](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&amp;name=MAX232CPE%2B-ND). Note that it requires a few 10uF capacitors to function properly.
 

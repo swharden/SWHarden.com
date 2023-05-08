@@ -3,7 +3,7 @@ title: Resuming Life
 date: 2012-06-13 10:41:33
 ---
 
-# Resuming Life
+
 
 __I'm staring deeply into a large, ominous, empty white text box on my screen as a small vertical text cursor blinks, staring back at me.__ I faintly remember writing my first blog entry eleven years ago (to the week), as a 15 year old kid typing on a keyboard in the middle of the night. Every time I log-in to write on my website, I see the same cursor, monotonous in its dependable, unvarying appearance.  What does the cursor see in me? Definitely not the same person it saw the last time I logged-in. What collection of words can even begin to describe the jumble that's in my head? My name is Scott Harden, my future is changing before my eyes, and I've chosen to use this website to continue to document my life as it unfolds.
 

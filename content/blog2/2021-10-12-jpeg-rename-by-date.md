@@ -5,7 +5,7 @@ date: 2021-10-12 20:28:00
 tags: ["csharp"]
 ---
 
-# Rename Image Files by Capture Date with C# 
+
 
 **I have hundreds of folders containing thousands of photographs I wish to move to a single directory.** Images are all JPEG format, but unfortunately they have filenames like `DSC_0123.JPG`. This means there are many identical filenames (e.g., every folder has a `DSC_0001.JPG`) and also the sorted list of filenames would not be in chronological order.
 

@@ -4,7 +4,7 @@ date: 2009-07-01 09:40:43
 tags: ["microcontroller"]
 ---
 
-# Summer's End is Nearing
+
 
 <div class="text-center img-border">
 

@@ -5,7 +5,7 @@ Date: 2021-06-08 23:00:00
 tags: ["csharp"]
 ---
 
-# Working with 16-bit Images in CSharp
+
 
 **Scientific image analysis frequently involves working with 12-bit and 14-bit sensor data stored in 16-bit TIF files.** Images commonly encountered on the internat are 24-bit or 32-bit RGB images (where each pixel is represented by 8 bits each for red, green, blue, and possibly alpha). Typical image analysis libraries and documentation often lack information about how to work with 16-bit image data. 
 

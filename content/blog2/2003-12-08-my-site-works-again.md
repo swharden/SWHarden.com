@@ -3,7 +3,7 @@ title: new website is up
 date: 2003-12-08 02:11:10
 ---
 
-# MY SITE WORKS AGAIN!
+
 
 woohoo!  and... /yawn/  It's 1:57am in the morning and I have work tomorrow.
 

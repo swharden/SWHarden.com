@@ -4,7 +4,7 @@ date: 2010-11-11 15:13:29
 tags: ["qrss", "amateur radio"]
 ---
 
-# Deciphering QR Code from Radio Spectrogram
+
 
 __Although I've been ridiculously busy the last few weeks,__ I've been eying some posts circulating around the [Knights QRSS mailing list](http://cnts.be/mailman/listinfo/knightsqrss_cnts.be) regarding mysterious signals in the 40m band.  They recognized it as a [QR Code](http://en.wikipedia.org/wiki/QR_Code) and tried decoding it with phones and such, but the signal wasn't strong enough above the noise to be automatically deciphered.
 

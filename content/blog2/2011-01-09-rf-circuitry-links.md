@@ -4,7 +4,7 @@ date: 2009-01-09 15:30:00
 tags: ["circuit", "amateur radio"]
 ---
 
-# RF Circuitry Links
+
 
 <a href="http://www.nutsvolts.com/media-files/A_Universal_Direct_Conversion_Receiver_For_PSK-31.pdf">PSK-31 receiver</a> - sports a crystal filter front-end and active receiver
 

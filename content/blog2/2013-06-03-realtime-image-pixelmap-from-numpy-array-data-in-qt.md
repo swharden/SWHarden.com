@@ -4,7 +4,7 @@ date: 2013-06-03 22:40:56
 tags: ["python", "obsolete"]
 ---
 
-# Realtime image pixelmap from Numpy array data in Qt
+
 
 Consider realtime spectrograph software like [QRSS VD](http://www.swharden.com/blog/qrss_vd/#screenshots).  It's primary function is to scroll a potentially huge data-rich image across the screen. In Python, this is often easier said than done.__ If you're not careful, you can tackle this problem inefficiently and get terrible frame rates (<5FPS) or eat a huge amount of system resources (I get complaints often that QRSS VD takes up a lot of processor resources, and 99% of it is drawing the images).  In the past, I've done it at least 4 different ways ([one](http://www.swharden.com/blog/2010-03-05-animated-realtime-spectrograph-with-scrolling-waterfall-display-in-python/), [two](http://www.swharden.com/blog/2013-05-09-realtime-fft-audio-visualization-with-python/), [three](http://www.swharden.com/blog/qrss_vd/#screenshots), [four](http://www.swharden.com/blog/2010-06-24-fast-tk-pixelmap-generation-from-2d-numpy-arrays-in-python/), [five](http://www.swharden.com/blog/2010-03-05-realtime-fft-graph-of-audio-wav-file-or-microphone-input-with-python-scipy-and-wckgraph/)). Note that "four" seems to be the absolute fastest option so far. I've been keeping an eye out for a while now contemplating the best way to rapidly draw color-mapped 8-bit data in a python program. Now that I'm doing a majority of my graphical development with PyQt and QtDesigner (packaged with [PythonXY](https://code.google.com/p/pythonxy/)), I ended-up with a solution that looks like this (plotting random data with a colormap):
 

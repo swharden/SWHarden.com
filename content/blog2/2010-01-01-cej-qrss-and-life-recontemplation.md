@@ -4,7 +4,7 @@ date: 2010-01-01 18:33:50
 tags: ["qrss", "amateur radio"]
 ---
 
-# QRSS and Life in Dental School
+
 
 __QRSS uses extremely simple radio transmitters at extremely low power to send an extremely slow Morse code message over an extremely large distance to extremely sensitive receivers which are extremely dependent on computers to decode.__ While you might be able to send a voice message across the ocean with ~100 watts of power, there are people sending messages with _milliwatts_! The main idea is that if you send the signals slow enough, and average the audio data ([fast Fourier transformation](http://en.wikipedia.org/wiki/Fast_Fourier_transform)) over a long enough time, weak signals below the noise threshold will stand out enough to be copied visually.
 

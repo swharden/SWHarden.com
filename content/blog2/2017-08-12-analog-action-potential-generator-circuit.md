@@ -4,7 +4,7 @@ date: 2017-08-12 23:04:32
 tags: ["science", "circuit", "microcontroller", "python"]
 ---
 
-# Action Potential Generator Circuit
+
 
 __Few biological cells are as interesting to the electrical engineer as the neuron. Neurons are essentially capacitors (with a dielectric cell membrane separating conductive fluid on each side) with parallel charge pumps, leak currents, and nonlinear voltage-dependent currents. __When massively parallelized, these individual functional electrical units yield complex behavior and underlie consciousness. The study of the electrical properties of neurons ([neurophysiologically](https://en.wikipedia.org/wiki/Neurophysiology), a subset of [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology)) often involves the development and use of sensitive electrical equipment aimed at studying these small potentials produced by neurons and currents which travel through channels embedded in their membranes. It seems neurophysiology has gained an emerging interest from the hacker community, as evidenced by the success of [Back Yard Brains](https://backyardbrains.com/), projects like the [OpenEEG](http://openeeg.sourceforge.net/doc/hw/), and Hack-A-Day's recent feature [_The Neuron - a Hacker's Perspective_](http://hackaday.com/2017/06/02/the-neuron-a-hackers-perspective/).
 

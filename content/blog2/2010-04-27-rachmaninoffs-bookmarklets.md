@@ -3,7 +3,7 @@ title: Rachmaninoff's Bookmarklets
 date: 2010-04-27 22:09:04
 ---
 
-# Rachmaninoff's Bookmarklets
+
 
 __What a hodgepodge of topics my life has become.__ Yeah, dental school has been rough lately (finals week was last week), but I'm hanging in there and trying to be creative nonetheless. I've been dabbling in video motion tracking last week, and am contemplating attacking a project involving a lot of video shooting/editing and possibly some 3D work. It must have been almost 10 years since I last used 3D modeling software! I think it was 3D Studio Max back in the day they required a parallel port dongle and I had to spoof the hardware interface with a script so I could use a hacked version \[rolls eyes\]. I don't want to give anything away, so I'll leave it at that.
 

@@ -3,7 +3,7 @@ title: AM Transmitter Test
 date: 2009-05-04 22:09:13
 ---
 
-# AM Transmitter Test
+
 
 __I put the transmitter from the previous post to the test.__ I changed the circuitry a bit though. I kept the oscillator (50 MHz) is now continuously powered. I programmed the ATTiny 2313 microcontroller (using PWM output) to send an oscillating signal to the base of a transistor (NPN). In this way the microcontroller PWM output didn't supply power to the oscillator, but rather grounded it. I got a big boost in range this way. Yesterday I couldn't even hear the signal in the parking lot of my apartment, whereas today I heard it loud and clear. I decided to take a drive with my scanner, laptop, and Argo to see how far away I could get and still detect the signal. With this bare bones transmitter setup (using a 2M J-pole antenna) I was able to detect it over 4,000 ft away. The receiving antenna was a 2m ~1ft high antenna magnet-mounted on top of my car.
 

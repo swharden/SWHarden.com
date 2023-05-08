@@ -4,7 +4,7 @@ date: 2020-12-29 19:54:00
 tags: ["csharp", "blazor"]
 ---
 
-# Show Build Date in Blazor Apps
+
 
 I find it useful to add build date and .NET version to the bottom of my client-side applications. Something like:
 

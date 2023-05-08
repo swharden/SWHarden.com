@@ -4,7 +4,7 @@ date: 2020-10-11 22:24:00
 tags: ["science", "circuit"]
 ---
 
-# Exploring the Voltage-Clamp Membrane Test
+
 
 **By modeling a voltage-clamp amplifier, patch pipette, and cell membrane as a circuit** using free circuit simulation software, I was able to create a virtual patch-clamp electrophysiology workstation and challenge model neurons with advanced voltage-clamp protocols. By modeling neurons with known properties and simulating experimental membrane test protocols, I can write membrane test analysis software and confirm its accuracy by comparing my calculated membrane measurements to the values in the original model. A strong advantage of this method (compared to using physical model cells) is that I can easily change values of any individual component to assess how it affects the accuracy of my analytical methods.
 

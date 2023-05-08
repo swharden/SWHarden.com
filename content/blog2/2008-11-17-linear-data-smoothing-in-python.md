@@ -4,7 +4,7 @@ date: 2008-11-17 18:50:10
 tags: ["obsolete", "python"]
 ---
 
-# Linear Data Smoothing in Python
+
 
 > **⚠️ SEE UPDATED POST:** [**Signal Filtering in Python**](https://swharden.com/blog/2020-09-23-signal-filtering-in-python/)
 

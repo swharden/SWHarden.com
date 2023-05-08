@@ -4,7 +4,7 @@ date: 2017-09-09 11:27:43
 tags: ["circuit"]
 ---
 
-# Hurricane Hack - DIY LED Candle
+
 
 **Florida is about to get hit by a massive hurricane, and my home town is in the direct path!** I am well prepared with lots of food, water, and communications equipment. While the storm itself is dangerous, part of getting ready for it means preparing for the potential to be out of power for weeks. A staple go-to for light when the power is out is candles. Instinctively people tend to reach for candles and kerosene lamps (in Florida they're called hurricane lanterns). However, these sources of light can be extremely dangerous!
 

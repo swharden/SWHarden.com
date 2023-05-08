@@ -4,7 +4,7 @@ date: 2010-08-26 10:40:16
 tags: ["circuit", "qrss", "obsolete", "microcontroller"]
 ---
 
-# Minimalist Crystal Oven
+
 
 __So I'm working on building a crystal oven__ to keep my QRSS MEPT (radio transmitter) at an extremely stable frequency. Even inside a thick Styrofoam box, slight changes in my apartment temperature caused by the AC turning on and off is enough to change the crystal temperature of the transmitter, slightly modifying its oscillation frequency. For a device that vibrates exactly 10,140,070 times a second, even 3 to many or too few vibrations per second is too much. Keeping in the spirit of hacking things together with a minimum of parts, this is what I came up with!
 

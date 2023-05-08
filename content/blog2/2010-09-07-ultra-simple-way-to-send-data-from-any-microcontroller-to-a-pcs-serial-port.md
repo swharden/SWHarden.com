@@ -4,7 +4,7 @@ date: 2010-09-07 08:37:13
 tags: ["microcontroller", "obsolete"]
 ---
 
-# Simple method to send data from ANY microcontroller to a serial port
+
 
 __This weekend I had a need, and I met it with parts I had on hand.__ Simply put, I wanted to assess whether or not my temperature-controlled crystal heater is doing its job in keeping temperature rock-stable. I wanted to measure temperature by measuring the ADC (analog-to-digital) value at the middle of a voltage divider with a resistor and a thermistor. Using a computer to plot this data, I can see if temperature fluctuates as my apartment AC turns on/off, or if it's perfectly stable (my goal).  The problem is that my only MCU (micro-controller unit) with USART (universal asynchronous receiver/transmitter) built-in is an ATTiny2313, which has no ADC capabilities.  I had a lot of ATTiny44A chips on hand, so I had to figure out a way to get the data from my an ATTiny44A to an ATTiny2313 then to a MAX232 chip (voltage driver) so it can be sent to a PC's serial port.
 

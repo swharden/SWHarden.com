@@ -3,7 +3,7 @@ title: Spectrograph UI Made with Glade
 date: 2010-06-26 19:03:05
 ---
 
-# Spectrograph UI Made with Glade
+
 
 __While continuing to investigate__ my options for the new version of QRSS VD, I re-visited Glade, the GTK GUI designer. In short, it lets you draw widgets (combo boxes, scrollbars, labels, images, buttons, etc) onto windows and then makes it easy to add code to the GUI. I \*hated\* the old QRSS VD development because of the ridiculously large amount of time I had to spend coding the UI. Hopefully by migrating from TKinter to GTK - while it opens a whole new can of worms - will let me add functionality rapidly without hesitation.
 

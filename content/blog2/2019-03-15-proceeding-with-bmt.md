@@ -4,7 +4,7 @@ date: 2019-03-15 23:55:00
 tags: ["med"]
 ---
 
-# Proceeding with a Bone Marrow Transplant
+
 
 **A few days ago I got the phone call I was hoping for – We are proceeding with a bone marrow transplant!** An autologous bone marrow transplant is a procedure which may give me a chance at growing a new and healthy immune system (capable of fighting the cancer) from stem cells previously collected from my blood.
 

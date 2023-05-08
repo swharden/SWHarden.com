@@ -4,7 +4,7 @@ date: 2009-06-04 12:46:18
 tags: ["circuit", "microcontroller"]
 ---
 
-# Prime Prototype Construction
+
 
 __Now that I've worked-out the software side of the microcontroller-powered prime number generator, it's time to start working on the hardware.__ I want to make a prototype which is far smaller and simpler than the final version but lets me practice driving lots of LEDs (30). I expect the final version to have around 80. Also, the heart of this project is an ATTiny2313 microcontroller, and for the full version I'd like to use an ATMEega8. I picked up an unfinished wooden box with a magnetic latch from Michaels. It's delicate and tends to chip when you drill it, but moving slowly I'm able to make nice evenly-spaced holes.
 

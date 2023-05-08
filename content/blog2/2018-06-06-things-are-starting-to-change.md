@@ -4,7 +4,7 @@ date: 2018-06-06 11:45:00
 tags: ["med"]
 ---
 
-# A Change in Symptoms
+
 
 **My first realization that something was changing** in the status of my disease came while filming a YouTube video about FTDI microchips. I noticed the cervical lymph nodes on my left side were swollen, took a selfie to assess what they looked like, then kept shooting the video with my body turned in such a way as to minimize the notability of my left neck. For the record [here's the picture](https://swharden.com/static/2018/06/06/DSC_0080.jpg), and [here's the video](https://www.youtube.com/embed/QkHsryvDZfo). That picture was taken May 29 2018, and at my next doctor visit was 8 days later. The oncologist was concerned about the progression and ordered additional imaging (a CT) to get a better idea of what may be changing.
 

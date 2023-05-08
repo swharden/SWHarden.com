@@ -4,7 +4,7 @@ date: 2010-02-02 10:58:54
 tags: ["amateur radio", "python", "obsolete"]
 ---
 
-# Convert Text to CW Morse Code with Linux
+
 
 __I wanted a way to have a bunch of Morse code mp3s on my mp3 player (with a WPM/speed that I decide__ and I found an easy way to do it with Linux. Rather than downloading existing mp3s of boring text, I wanted to be able to turn ANY text into Morse code, so I could copy something interesting (perhaps the news? hackaday? bash.org?). It's a little devious, but my plan is to practice copying Morse code during class when lectures become monotonous. \[The guy who teaches about infectious diseases is the most boring person I ever met, I learn nothing from class, and on top of that he doesn't allow laptops to be out!\] So, here's what I did in case it helps anyone else out there...
 

@@ -4,7 +4,7 @@ date: 2009-04-30 09:26:40
 tags: ["qrss", "microcontroller", "amateur radio", "obsolete"]
 ---
 
-# A Foot in the QRSS Door
+
 
 __I've been very busy over the past couple weeks.__ Last Thursday my boss approached me and asked if I could work over the weekend. He wanted to complete and submit a grant by the deadline (Monday at 5 pm). To make a long story short I worked really hard (really long days) on Friday, Saturday, Sunday, and Monday to accomplish this. Monday afternoon when it was done (at about 4 pm), after which I went home and collapsed from exhaustion. I don't know how my boss does it! He worked on it far more than I did, and over that weekend he didn't sleep much. Anyway, in exchange for my over-weekend work I got Tuesday and Wednesday off.
 

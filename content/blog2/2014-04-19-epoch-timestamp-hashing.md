@@ -4,7 +4,7 @@ date: 2014-04-19 08:31:53
 tags: ["python", "obsolete"]
 ---
 
-# Epoch Timestamp Hashing
+
 
 __I was recently presented with the need to rename a folder of images based on a timestamp.__ This way, I can keep saving new files in that folder with overlapping filenames (i.e., <span style="color: #339966;">01.jpg</span>, <span style="color: #339966;">02.jpg</span>, <span style="color: #339966;">03.jpg</span>, etc.), and every time I run this script all images are prepended with a timestamp. I still want the files to be sorted alphabetically, which is why an alphabetical timestamp (rather than a random hash) is preferred.
 

@@ -4,7 +4,7 @@ date: 2019-07-20 21:00:00
 tags: ["qrss"]
 ---
 
-# Started Transmitting Letters
+
 
 I finished writing the [microcontroller code to read the GPS time](https://github.com/swharden/QRSS-hardware/tree/master/builds/keyer) and only start transmissions when the minutes value ends with a zero. The signal now stacks nicely in 10-minute grabs. Now that GPS and the oven is working well I've started sending my call sign (AJ4VD).
 

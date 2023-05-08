@@ -4,7 +4,7 @@ date: 2020-09-13 18:15:00
 tags: ["php"]
 ---
 
-# Leaving WordPress
+
 
 **After fifteen years using WordPress, I'm leaving it for a simpler alternative: flat markdown files.** There were several reasons behind why I made the change. First, I was disappointed with how frequently I had to update WordPress (and upgrade my database) to stay current with security updates. Second, I didn't like how abstract post content was. The text of posts was stored in SQL tables and references to image URLs weren't easily accessible (posts point to content IDs, the URLs of which were stored in another table), and images and media were scattered all over the filesystem because the default image placement changed several times over the years. Finally I found that logging in to a web front-end just to write a post was a bit of a barrier that prevented me from writing more frequently. 
 

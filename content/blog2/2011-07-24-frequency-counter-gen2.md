@@ -4,7 +4,7 @@ date: 2011-07-24 17:07:24
 tags: ["microcontroller", "circuit", "obsolete"]
 ---
 
-# Frequency Counter Gen2
+
 
 __I'm working to further simplify my frequency counter design.__ This one is simpler than [my previous design](http://www.swharden.com/blog/2011-03-14-frequency-counter-finished/) both in hardware and software! Here's a video to demonstrate the device in its current state:
 

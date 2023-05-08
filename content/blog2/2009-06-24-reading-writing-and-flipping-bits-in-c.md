@@ -3,7 +3,7 @@ title: Flipping Bits in C
 date: 2009-06-24 15:28:07
 ---
 
-# Flipping Bits in C
+
 
 __Bitwise programming techniques (manipulating the 1s and 0s of binary numbers) are simple, but hard to  remember if you don't use them often.__ Recently I've needed to perform a lot of bitwise operations. If I'm storing true/false (1-bit) information in variables, it's a waste of memory to assign a whole variable to the task (the smallest variable in C is a char, and it contains 8 bits). When cramming multiple values into individual variables, it's nice to know how to manipulate each bit of a variable.
 

@@ -4,7 +4,7 @@ date: 2012-06-24 20:29:03
 tags: ["microcontroller", "obsolete"]
 ---
 
-# Introduction to PIC Programming for AVR users
+
 
 __I'm not ashamed to say it: I'm a bit of an ATMEL guy.__ [AVR microcontrollers](http://en.wikipedia.org/wiki/Atmel_AVR) are virtually exclusively what I utilize when creating hobby-level projects. Wile I'd like to claim to be an expert in the field since I live and breathe ATMEL datasheets and have used many intricate features of these microchips, the reality is that I have little experience with other platforms, and have likely been leaning on AVR out of habit and personal convention rather than a tangible reason.
 

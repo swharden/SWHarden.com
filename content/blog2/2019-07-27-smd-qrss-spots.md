@@ -4,7 +4,7 @@ date: 2019-07-29 21:00:00
 tags: ["qrss"]
 ---
 
-# SMT QRSS Spots
+
 
 This page documents interesting grabs of the signal from my [SMT QRSS Transmitter](https://swharden.com/blog/2019-07-26-smt-qrss-design/)
 

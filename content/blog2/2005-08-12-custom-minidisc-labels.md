@@ -4,7 +4,7 @@ date: 2005-08-12 13:11:59
 tags: ["obsolete"]
 ---
 
-# Create Custom MiniDisc Labels
+
 
 **Great looking MiniDisc labels can be made at home!** In this post I'll show you how I created the nice MiniDisc labels shown on this page. Links to the Photoshop template are at the bottom of the page so you can make your own labels too.
 

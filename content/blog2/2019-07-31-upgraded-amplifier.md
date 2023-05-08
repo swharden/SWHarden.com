@@ -4,7 +4,7 @@ date: 2019-07-31 21:00:00
 tags: ["qrss", "circuit"]
 ---
 
-# Upgraded Amplifier
+
 
 The design is similar (CMOS buffer driving an IRF510) but I used perfboard to make this one and placed it in an enclosure. There's no low-pass filter on the amplifier itself, but I put a 30m low-pass filter in-line the coax before the antenna. It's currently outputting 20PPV into 50 ohms (1 watt).
 

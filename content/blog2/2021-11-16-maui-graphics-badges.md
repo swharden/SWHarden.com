@@ -5,7 +5,7 @@ Date: 2021-10-16 20:40:00
 tags: ["csharp", "maui", "graphics"]
 ---
 
-# Status Badges with Maui.Graphics
+
 
 **Status badges are popular decorators on GitHub readme pages and project websites.** [Badgen.net](https://badgen.net) and [shields.io](https://shields.io) are popular HTTP APIs for dynamically generating SVG status badges. In this article we will use the new `Microsoft.Maui.Graphics` package to generate status badges from a C# console application. This application can be downloaded: [**BadgeApp.zip**](https://swharden.com/static/2021/11/16/BadgeApp.zip)
 

@@ -4,7 +4,7 @@ date: 2019-07-13 21:00:00
 tags: ["qrss"]
 ---
 
-# QRSS Spots
+
 
 This week I strung-up a 30m dipole in the attic and built an oscillator, keyer, and amplifier (all as separate modules). I finished the amplifier this morning and spotted the signal (the rectangular squiggle) on two grabbers. I was running 3 PPV into 50 Ohm so I think that's about 22 mW.
 

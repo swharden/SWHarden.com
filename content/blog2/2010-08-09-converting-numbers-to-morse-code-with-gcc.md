@@ -4,7 +4,7 @@ date: 2010-08-09 07:55:47
 tags: ["python", "qrss", "obsolete"]
 ---
 
-# Converting Numbers to Morse Code with GCC
+
 
 __One of my microcontroller projects__ requires me to measure values and transmit then in Morse code. There may be code out there to do this already, but I couldn't find it. I'm sure there are more elegant and efficient ways to handle the conversion, but this works for me. Hopefully someone will find it useful!
 

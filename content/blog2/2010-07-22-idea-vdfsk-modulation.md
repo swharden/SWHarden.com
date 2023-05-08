@@ -4,7 +4,7 @@ date: 2010-07-22 12:39:54
 tags: ["python", "qrss", "obsolete"]
 ---
 
-# Idea: vdFSK modulation
+
 
 <blockquote class="wp-block-quote"><p>My goal is to create a QRPP (extremely low power) transmitter and modulation method to send QRSS (extremely slow, frequency shifting data) efficiently, able to be decoded visually or with automated image analysis software. This evolving post will document the thought process and development behind AJ4VD's Frequency Shift Keying method, <b>vdFSK</b>.</p></blockquote>
 

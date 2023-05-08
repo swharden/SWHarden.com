@@ -4,7 +4,7 @@ date: 2011-06-05 02:21:40
 tags: ["circuit", "amateur radio", "obsolete"]
 ---
 
-# Permeability Tuned Oscillator (PTO) Working Nicely
+
 
 __My last entry described my accidental discovery of the PTO__ for QRP purposes. I breadboarded it and was amazed at the results! I went ahead and built this carefully in an enclosure and the output is wonderful. It's strong, it's stable, and it tunes effortlessly over the same range it did before (about 1MHz). The video describes details of the action, and demonstrates the stability of the oscillator by letting you hear it audibly on a nearby receiver.
 

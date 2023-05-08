@@ -4,7 +4,7 @@ date: 2010-03-05 22:51:21
 tags: ["python", "obsolete"]
 ---
 
-# Animated Realtime Spectrograph with Scrolling Waterfall Display in Python
+
 
 __My project is coming along nicely.__ This isn't an incredibly robust spectrograph program, but it sure gets the job done quickly and easily. The code below will produce a real time scrolling spectrograph entirely with Python! It polls the microphone (or default recording device), should work on any OS, and can be adjusted for vertical resolution / FFT frequency discretion resolution. It has some simple functions for filtering (check out the de-trend filter!) and might serve as a good start to a spectrograph / frequency analysis project. It took my a long time to reach this point! I've worked with Python before, and dabbled with the Python Imaging Library (PIL), but this is my first experience with real time linear data analysis and high-demand multi-threading. I hope it helps you. Below are screenshots of the program (two running at the same time) listening to the same radio signals (mostly Morse code) with standard output and with the "de-trending filter" activated.
 

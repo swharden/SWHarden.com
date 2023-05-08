@@ -4,7 +4,7 @@ date: 2010-08-15 12:13:39
 tags: ["obsolete"]
 ---
 
-# Tooth as a Radio Receiver?
+
 
 __We've all heard the urban legend where someone's tooth filling picks up radio signals__, some versions claim AM radio stations' music is heard, others that wartime Morse code is heard. Is this really possible? Well, as a dental student and an electrical engineering / RF engineering enthusiast, I can think of no one better prepared to put this myth to the test! Yeah, __I'm going to put my money where my mouth is.__ (zing!) [Myth Busters attempted to replicate this](http://www.youtube.com/watch?v=OwfAyo4twqg), but they concluded it was "busted", however I think they were going about it the wrong way. Let's back up! Here's a quote from Lucille Ball who is often accredited for originating this urban legend:
 

@@ -4,7 +4,7 @@ date: 2017-04-29 13:15:07
 tags: ["microcontroller", "circuit"]
 ---
 
-# Precision Pressure Meter Project
+
 
 __I just completed building a device capable of measuring temperature to one hundredth of a degree Celsius and pressure to one ten-thousandth of a PSI!__ This project is centered around a [MS5611 temperature sensor breakout board](http://www.icstation.com/ms5611-pressure-altitude-sensor-module-24bit-converter-p-10426.html) which was small enough to fit inside of a [plastic syringe](https://swharden.com/static/2017/04/29/#links). The result is a small and inexpensive pressure sensor in a convenient form factor with a twist connector (a [Luer-Lok](https://en.wikipedia.org/wiki/Luer_taper) fitting) that can be rapidly attached to existing tubing setups. Although the screw attachment would work well for industrial or scientific applications, I found that the inner connector (the non-threaded plastic nub with 6% taper) made a snug and air-tight connection with my [CO2-impermanent aquarium tubing](http://www.ebay.com/sch/i.html?_nkw=CO2+aquarium+tubing). The MS5611 breakout board is small enough to fit inside a 10 mL syringe!
 

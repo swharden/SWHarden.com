@@ -4,7 +4,7 @@ date: 2017-08-02 21:08:00
 tags: ["circuit", "microcontroller"]
 ---
 
-# TTL Triggered Stimulus Generator
+
 
 __I was presented with a need to rapidly develop a pulse generator to take a TTL input and output a programmable output (for now 0.1 ms pulses at 20 Hz for as long as the input is high).__ I achieved this with a one-afternoon turnaround and the result looks great! This post documents the design and fabrication of this prototype device, with emphasis placed on design considerations and construction technique. 
 

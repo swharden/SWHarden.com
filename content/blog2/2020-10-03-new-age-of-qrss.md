@@ -4,7 +4,7 @@ date: 2020-10-03 22:08:00
 tags: ["qrss", "amateur radio"]
 ---
 
-# The New Age of QRSS
+
 
 **QRSS is an experimental radio mode that uses frequency-shift-keyed (FSK) continuous wave (CW) Morse code to transmit messages that can be decoded visually by inspecting the radio frequency spectrogram.** The name "QRSS" is a derivation of the [Q code](https://en.wikipedia.org/wiki/Q_code) "QRS", a phrase Morse code operators send to indicate the transmitter needs to slow down. The extra "S" means slow way, _way_ down, and at the typical speed of 6 second dots and 18 second dashes most QRSS operators have just enough time to send their call sign once every ten minutes (as required by federal law). These slow Morse code messages can be decoded by visual inspection of spectrograms created by computer software processing the received audio. A QRSS grabber is a radio/computer setup configured to upload the latest radio spectrogram to the internet every 10 minutes. [QRSS Plus](https://swharden.com/qrss/plus/) is an automatically-updating list of active QRSS grabbers around the world, allowing the QRSS community to see QRSS transmitters being detected all over the world. 
 

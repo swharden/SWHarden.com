@@ -4,7 +4,7 @@ date: 2014-02-27 16:19:53
 tags: ["circuit", "obsolete"]
 ---
 
-# Directly Driving 7-Segment Display with AVR IO Pins
+
 
 __I came across the need for a quick and dirty display to show a 4 digit number from a microcontroller.__ The _right_ way to do this would be to use a microcontroller in combination with a collection of transistors and current limiting resistors, or even a dedicated 7-segment LED driver IC. The _wrong_ way to do this is to wire LEDs directly to microcontroller IO pins to source and sink current way out of spec of the microcontroller... and that's <span style="text-decoration: underline;">exactly</span> what I did! With no current limiting resistors, the AVR is sourcing and sinking current potentially far out of spec for the chip. But, heck, it works! With 2 components (just a microcontroller and a 4 digit, 7-segment LED display) and a piece of ribbon cable, I made something that used to be a nightmare to construct (check out this post from 3 years ago when I accomplished the same thing [with a rats nest of wires](http://www.swharden.com/blog/2011-03-14-frequency-counter-finished/) - it was so much work that I never built one again!) The hacked-together method I show today might not be up to spec for medical grade equipment, but it sure works for my test rig application, and it's easy and cheap to accomplish... as long as you don't mind breaking some electrical engineering rules. Consider how important it is to know how to hack projects like this together: Although I needed this device, if it were any harder, more expensive, or less convenient to build, I simply wouldn't have built it! Sometimes hacking equipment together the wrong way is worth it.
 
