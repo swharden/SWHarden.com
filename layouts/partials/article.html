@@ -10,7 +10,7 @@
     </div>
 
     <!-- TODO: use new feature -->
-    {{ .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `<a href="#${2}">${1}</a> ${3}` | safeHTML }}
+    {{ .Content }}
 
     <hr class="mt-5" />
     <div>
