@@ -5,8 +5,6 @@ date: 2021-01-13
 tags: ["science"]
 ---
 
-# Liquid Junction Potential (LJP) Theory and Correction
-
 This page contains notes about the analytical methods [LJPcalc](https://swharden.com/LJPcalc/) uses to calculate LJP from ion tables
  as well as notes for experimenters about what causes LJP and how to compensate for it in electrophysiology experiments.
 
@@ -24,7 +22,7 @@ LJPcalc calculates the liquid junction potential according to the stationary Ner
 
 ### LJPcalc Ion Mobility Library
 
-LJPcalc uses an extensive [ion mobility library](https://swharden.com/static/2021/01/13/../iontable)
+LJPcalc uses an extensive [ion mobility library](https://github.com/swharden/LJPcalc/blob/main/src/LJPcalc.Core/IonLibrary.cs)
 
 The ion mobility table is stored in Markdown format. Not only does Markdown make it easy to display the table nicely in a browser, 
 but it also makes the table easy to edit in any text editor. Users desiring to use their own ion mobilities or add new ions to the table
