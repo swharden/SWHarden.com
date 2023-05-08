@@ -1,6 +1,6 @@
 ---
-Title: Get URL of a Directory with PHP
-Description: This page describes how to determine the URL for a given folder using PHP
+title: Get URL of a Directory with PHP
+description: This page describes how to determine the URL for a given folder using PHP
 Date: 2021-01-28 18:15:00
 tags: ["php"]
 ---

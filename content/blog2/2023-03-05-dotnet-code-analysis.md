@@ -1,6 +1,6 @@
 ---
-Title: .NET Source Code Analysis
-Description: How to analyze source code metrics of .NET assemblies from a console application
+title: .NET Source Code Analysis
+description: How to analyze source code metrics of .NET assemblies from a console application
 Date: 2023-03-05 15:20:00
 tags: ["csharp"]
 ---

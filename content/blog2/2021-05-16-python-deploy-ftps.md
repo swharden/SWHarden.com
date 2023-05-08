@@ -1,6 +1,6 @@
 ---
-Title: Deploy a Website with Python and FTPS
-Description: How to use Python, keyring, and TLS to securely deploy website content using FTP (FTPS)
+title: Deploy a Website with Python and FTPS
+description: How to use Python, keyring, and TLS to securely deploy website content using FTP (FTPS)
 Date: 2021-05-16 11:00:00
 tags: ["python"]
 ---

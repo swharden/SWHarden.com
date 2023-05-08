@@ -1,6 +1,6 @@
 ---
-Title: Experiments in PSK-31 Synthesis
-Description: How to encode and decode PSK-31 messages using C#
+title: Experiments in PSK-31 Synthesis
+description: How to encode and decode PSK-31 messages using C#
 Date: 2022-10-16 23:26:00
 tags: ["amateur radio", "csharp"]
 ---

@@ -1,6 +1,6 @@
 ---
-Title: Reflection and XML Documentation in C# 
-Description: How to access XML documentation from within a C# application
+title: Reflection and XML Documentation in C# 
+description: How to access XML documentation from within a C# application
 Date: 2021-01-31 13:57:00
 tags: ["csharp"]
 ---

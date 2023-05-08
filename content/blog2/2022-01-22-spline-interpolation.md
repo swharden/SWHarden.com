@@ -1,6 +1,6 @@
 ---
-Title: Spline Interpolation with C# 
-Description: How to smooth X/Y data using spline interpolation in Csharp
+title: Spline Interpolation with C# 
+description: How to smooth X/Y data using spline interpolation in Csharp
 Date: 2022-01-22 16:00:00
 tags: ["csharp"]
 ---

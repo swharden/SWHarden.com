@@ -1,6 +1,6 @@
 ---
-Title: WSPR Code Generator
-Description: An online resource for generating encoded WSPR messages
+title: WSPR Code Generator
+description: An online resource for generating encoded WSPR messages
 Date: 2021-03-27 20:00:00
 tags: ["blazor", "amateur radio", "qrss"]
 ---

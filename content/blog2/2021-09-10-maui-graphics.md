@@ -1,6 +1,6 @@
 ---
-Title: Drawing with Maui.Graphics
-Description: How to use Maui.Graphics to draw and create animations in a Windows Forms and WPF applications
+title: Drawing with Maui.Graphics
+description: How to use Maui.Graphics to draw and create animations in a Windows Forms and WPF applications
 Date: 2021-09-10 22:30:00
 tags: ["csharp", "maui", "graphics"]
 ---

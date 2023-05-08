@@ -1,6 +1,6 @@
 ---
-Title: Representing Images in Memory
-Description: quick reference for programmers interested in working with image data in memory (byte arrays)
+title: Representing Images in Memory
+description: quick reference for programmers interested in working with image data in memory (byte arrays)
 Date: 2021-06-03 00:03:00
 tags: ["csharp"]
 ---

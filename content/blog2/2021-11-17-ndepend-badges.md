@@ -1,6 +1,6 @@
 ---
-Title: NDepend Status Badges
-Description: How I used C# and Maui.Graphics to generate status badges for NDepend static analysis metrics
+title: NDepend Status Badges
+description: How I used C# and Maui.Graphics to generate status badges for NDepend static analysis metrics
 Date: 2021-10-17 13:20:00
 tags: ["csharp", "maui"]
 ---

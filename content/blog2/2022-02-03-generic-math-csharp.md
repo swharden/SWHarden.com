@@ -1,6 +1,6 @@
 ---
-Title: Generic Math in C# with .NET 6
-Description: How to perform math on generic types in C# with .NET 6
+title: Generic Math in C# with .NET 6
+description: How to perform math on generic types in C# with .NET 6
 Date: 2022-02-03 23:55:00
 tags: ["csharp"]
 ---

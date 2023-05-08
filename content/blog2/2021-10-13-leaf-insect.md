@@ -1,6 +1,6 @@
 ---
-Title: My Life with a Spiny Leaf Insect
-Description: Photographs of the life cycle of a spiny leaf insect raised as a pet
+title: My Life with a Spiny Leaf Insect
+description: Photographs of the life cycle of a spiny leaf insect raised as a pet
 Date: 2021-10-12 20:45:00
 ---
 

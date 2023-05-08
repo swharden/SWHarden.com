@@ -1,6 +1,6 @@
 ---
-Title: Managing Credentials with Python
-Description: How to safely work with secret passwords in python scripts that are committed to source control
+title: Managing Credentials with Python
+description: How to safely work with secret passwords in python scripts that are committed to source control
 Date: 2021-05-15 21:00:00
 tags: ["python"]
 ---

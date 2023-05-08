@@ -11,19 +11,15 @@ def fix(file: pathlib.Path):
     article = Article(file)
     lines = article.get_lines()
 
-    afterFrontMatter = False
     for i in range(len(lines)):
         if lines[i].startswith("---") and i > 0:
-            afterFrontMatter = True
-            continue
-        if not afterFrontMatter:
-            continue
-        if len(lines[i].strip()) == 0:
-            continue
-        firstLine = lines[i]
-        if firstLine.startswith("# ") or firstLine.startswith("## "):
-            lines[i] = ""
-        break
+            break
+        if lines[i].startswith("Title:"):
+            lines[i] = lines[i].replace("Title:", "title:")
+        if lines[i].startswith("Tags:"):
+            lines[i] = lines[i].replace("Tags:", "tags:")
+        if lines[i].startswith("Description:"):
+            lines[i] = lines[i].replace("Description:", "description:")
 
     article.set_lines(lines)
     article.save()

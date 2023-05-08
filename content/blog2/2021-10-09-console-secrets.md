@@ -1,6 +1,6 @@
 ---
-Title: Managing Secrets in .NET Console Apps
-Description: How to use dotnet user-secrets to store and retrieve secrets and set environment variables in .NET applications.
+title: Managing Secrets in .NET Console Apps
+description: How to use dotnet user-secrets to store and retrieve secrets and set environment variables in .NET applications.
 Date: 2021-10-09 13:15:00
 tags: ["csharp"]
 ---

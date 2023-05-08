@@ -1,6 +1,6 @@
 ---
-Title: Status Badges with Maui.Graphics
-Description: How to use Microsoft.Maui.Graphics to render status badges
+title: Status Badges with Maui.Graphics
+description: How to use Microsoft.Maui.Graphics to render status badges
 Date: 2021-10-16 20:40:00
 tags: ["csharp", "maui", "graphics"]
 ---

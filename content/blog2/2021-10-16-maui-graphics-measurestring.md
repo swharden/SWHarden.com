@@ -1,6 +1,6 @@
 ---
-Title: MeasureString() with Maui.Graphics
-Description: How to measure the pixel dimensions of a string using Microsoft.Maui.Graphics
+title: MeasureString() with Maui.Graphics
+description: How to measure the pixel dimensions of a string using Microsoft.Maui.Graphics
 Date: 2021-10-16 16:15:00
 tags: ["csharp", "maui", "graphics"]
 ---

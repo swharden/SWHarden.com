@@ -1,6 +1,6 @@
 ---
-Title: Resample Time Series Data using Cubic Spline Interpolation
-Description: This page describes how I achieve signal resampling with spline interpolation in pure C# without any external dependencies.
+title: Resample Time Series Data using Cubic Spline Interpolation
+description: This page describes how I achieve signal resampling with spline interpolation in pure C# without any external dependencies.
 Date: 2022-06-23 21:15:00
 tags: ["csharp", "graphics"]
 ---

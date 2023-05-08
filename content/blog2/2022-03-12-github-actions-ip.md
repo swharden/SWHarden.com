@@ -1,6 +1,6 @@
 ---
-Title: Determine GitHub Action Runner IP
-Description: A simple way to get the IP of the server running your GitHub Actions
+title: Determine GitHub Action Runner IP
+description: A simple way to get the IP of the server running your GitHub Actions
 Date: 2022-03-12 19:51:00
 tags: ["github"]
 ---

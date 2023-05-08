@@ -1,6 +1,6 @@
 ---
-Title: Working with 16-bit Images in CSharp
-Description: A summary of how I work with 16-bit TIF file data in C# (using ImageMagick and LibTiff).
+title: Working with 16-bit Images in CSharp
+description: A summary of how I work with 16-bit TIF file data in C# (using ImageMagick and LibTiff).
 Date: 2021-06-08 23:00:00
 tags: ["csharp"]
 ---

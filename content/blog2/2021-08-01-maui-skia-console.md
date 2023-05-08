@@ -1,6 +1,6 @@
 ---
-Title: Draw with Maui.Graphics and Skia in a C# Console Application
-Description: This page describes how to draw graphics in a console application with Maui Graphics and Skia
+title: Draw with Maui.Graphics and Skia in a C# Console Application
+description: This page describes how to draw graphics in a console application with Maui Graphics and Skia
 Date: 2021-08-01 19:15:00
 tags: ["csharp", "maui"]
 ---

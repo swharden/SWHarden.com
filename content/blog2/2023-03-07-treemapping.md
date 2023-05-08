@@ -1,6 +1,6 @@
 ---
-Title: Treemapping with C#
-Description: How to create a treemap diagram using C#
+title: Treemapping with C#
+description: How to create a treemap diagram using C#
 Date: 2023-03-28 00:32:00
 tags: ["csharp", "graphics"]
 ---

@@ -1,6 +1,6 @@
 ---
-Title: C# Microphone Level Monitor
-Description: How to continuously monitor the level of an audio input (mono or stereo) with C#
+title: C# Microphone Level Monitor
+description: How to continuously monitor the level of an audio input (mono or stereo) with C#
 Date: 2021-07-03 22:42:00
 tags: ["csharp"]
 ---

@@ -1,11 +1,9 @@
 ---
-Title: Creating Bitmaps from Scratch in C#
-Description: How to create a bitmap and set pixel colors in memory and save the result to disk or convert it to a traditional image format
+title: Creating Bitmaps from Scratch in C#
+description: How to create a bitmap and set pixel colors in memory and save the result to disk or convert it to a traditional image format
 Date: 2022-11-07 18:45:00
 tags: ["csharp", "graphics"]
 ---
-
-
 
 **This project how to represent bitmap data in a plain old C object (POCO) to create images from scratch using C# and no dependencies.** 
 Common graphics libraries like [SkiaSharp](https://swharden.com/csdv/skiasharp/), [ImageSharp](https://swharden.com/csdv/platforms/imagesharp/), [System.Drawing](https://swharden.com/csdv/system.drawing/), and [Maui.Graphics](https://swharden.com/csdv/maui.graphics/) can read and write bitmaps in memory, so a [POCO](https://en.wikipedia.org/wiki/POCO) that stores image data and converts it to a bitmap byte allows creation of platform-agnostic APIs that can be interfaced from any graphics library.
