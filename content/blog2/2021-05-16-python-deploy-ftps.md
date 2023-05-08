@@ -5,8 +5,6 @@ Date: 2021-05-16 11:00:00
 tags: ["python"]
 ---
 
-# Deploy a Website with Python and FTPS
-
 **Python can be used to securely deploy website content using FTPS.** Many people have used a FTP client like [FileZilla](https://en.wikipedia.org/wiki/FileZilla) to drag-and-drop content from their local computer to a web server, but this method requires manual clicking and is error-prone. If you write a script to accomplish this task it lowers the effort barrier for deployment (encouraging smaller iterations) and reduces the risk you'll accidentally do something unintentional (like deleting an important folder by accident).
 
 **This post reviews how I use Python, keyring, and TLS to securely manage login credentials and deploy builds from my local computer to a remote server using FTP.** The strategy discussed here will be most useful in servers that use the [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)), and it's worth noting that .NET and Node have their own deployment paradigms. I hope you find the code on this page useful, but you should carefully review your deployment script and create something specific to your needs. Just as you could accidentally delete an important folder using a graphical client, an incorrectly written deployment script could cause damage to your website or leak secrets.
@@ -195,7 +193,7 @@ npm run deploy
 
 This post focused on how to automate uploading local content to a remote server using FTP, but don't overlook the possibility that this may not be the best method for deployment for your application.
 
-**You can maintain a website as a git repository and use `git pull` on the server to update it.** GitHub Actions can be used to trigger the pull step automatically using an HTTP endpoint (e.g., [main.yml](https://github.com/ScottPlot/Website/blob/main/.github/workflows/main.yml)). If this method is available to you, it should be strongly considered.
+**You can maintain a website as a git repository and use `git pull` on the server to update it.** GitHub Actions can be used to trigger the pull step automatically using an HTTP endpoint. If this method is available to you, it should be strongly considered.
 
 This method is very popular, but it (1) requires `git` to be on the server and (2) requires all the build tools/languages to be available on the server if a build step is required. I'm reminded that [only SiteGround's most expensive shared hosting plan](https://www.siteground.com/shared-hosting-features.htm) even has `git` available at all. 
 
