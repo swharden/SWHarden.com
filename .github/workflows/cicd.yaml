@@ -29,6 +29,11 @@ jobs:
           install -m 600 -D /dev/null ~/.ssh/id_rsa
           echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
           echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
-      - name: 🚀 Deploy
-        run: |
-          rsync --archive --delete --stats -e 'ssh -p 18765' 'public/med/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/med/'
+      - name: 🚀 Deploy blog/
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/blog/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/blog/'
+      - name: 🚀 Deploy blog/tags/
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/tags/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/blog/tags/'
+      - name: 🚀 Deploy med/
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/med/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/med/'
+      - name: 🚀 Deploy index.html
+        run: rsync -e 'ssh -p 18765' 'public/index.html' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/index.html'
