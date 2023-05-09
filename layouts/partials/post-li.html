@@ -9,7 +9,7 @@
     {{ end }}
     <span>
         {{ range .Params.tags }}
-        <code><a href='/blog/categories/#{{ anchorize . }}'>{{ . }}</a></code>
+        <code><a href='/blog/tags/#{{ anchorize . }}'>{{ . }}</a></code>
         {{ end }}
     </span>
 </div>

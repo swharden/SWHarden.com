@@ -7,9 +7,9 @@
         {{ if gt .Date.Year 1 }}
         <a href='{{.Permalink}}' class="text-muted">{{.Date.Format "January 2, 2006"}}</a>
         {{ end }}
-        
+
         {{ range .Params.tags }}
-        <code><a href='' class="text-muted">{{ . }}</a></code>
+        <code><a href='/blog/tags/#{{ anchorize . }}' class="text-muted">{{ . }}</a></code>
         {{ end }}
     </div>
 
