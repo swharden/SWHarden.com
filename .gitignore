@@ -1,3 +1,4 @@
+.frontmatter/
 .hugo_build.lock
 bin/
 obj/
