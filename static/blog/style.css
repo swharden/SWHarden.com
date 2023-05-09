@@ -1,0 +1,162 @@
+body {
+    background: repeating-linear-gradient(-45deg,
+            rgba(248, 249, 250, .3),
+            rgba(248, 249, 250, .3) 3px,
+            #f8f9fa 3px,
+            #f8f9fa 6px);
+}
+
+#backsplash {
+    position: absolute;
+    min-height: .5vr;
+    background: repeating-linear-gradient(-45deg,
+            #003366,
+            #003366 3px,
+            white 3px,
+            white 6px);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+code {
+    color: inherit;
+    background-color: #0000000a;
+    padding: 0.1em 0.3em;
+    border-radius: 6px;
+}
+
+pre {
+    padding: .5em;
+    border: 1px solid #EEE;
+    border-radius: .5em;
+}
+
+pre code {
+    padding: 0;
+}
+
+/* headings */
+
+article h1 {
+    font-size: 2em;
+    margin-top: 3rem;
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid #eaecef;
+}
+
+article h2 {
+    font-size: 1.5em;
+    margin-top: 3rem;
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid #eaecef;
+}
+
+article h3 {
+    font-size: 1.3em;
+    margin-top: 3rem;
+    padding-bottom: 0.2rem;
+}
+
+article h1 a {
+    color: inherit;
+}
+
+article h2 a {
+    color: inherit;
+}
+
+article h3 a {
+    color: inherit;
+}
+
+article img {
+    max-width: 100%;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: block;
+}
+
+blockquote {
+    background-color: #FAFAFA;
+    border: 1px solid #EEEEEE;
+    border-left: 5px solid #EEEEEE;
+    padding: .5em;
+    margin: 1em 0em;
+}
+
+blockquote p {
+    margin: 0px;
+}
+
+/* github style tables */
+
+table {
+    margin: 2em;
+    display: inline-block;
+}
+
+td {
+    border: 1px solid #dfe2e5;
+    padding: .4em;
+}
+
+th {
+    background-color: #f6f8fa;
+    border: 1px solid #dfe2e5;
+    font-weight: 600;
+    padding: .4em;
+}
+
+/* menu button customization */
+
+nav .btn-primary {
+    padding: .5em 1em;
+    font-size: 1.3em;
+    background-color: transparent;
+    border: none;
+}
+
+/* custom image formatters */
+
+.img-small img {
+    max-width: 35% !important;
+    margin: 1em !important;
+    display: inline-block;
+}
+
+.img-medium img {
+    max-width: 65% !important;
+    display: block;
+}
+
+.img-micro img {
+    max-width: 25% !important;
+    max-height: 12em !important;
+    margin: .5em !important;
+    display: inline-block;
+}
+
+.img-border img {
+    border: 1px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .2);
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.img-gallery {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.img-gallery img {
+    margin: 0px;
+    display: inline-block;
+}
