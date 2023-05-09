@@ -32,5 +32,4 @@ CanonifyURLs = true
 [outputFormats]
   [outputFormats.RSS]
     mediatype = "application/rss"
-    path = "blog/feed"
-    baseName = "index"
+    baseName = "blog/feed/rss"
