@@ -14,7 +14,7 @@ While contemplating designs for action potential detection and analysis circuitr
 
 __Cellular Neurophysiology for Electrical Engineers (in 2 sentences):__ Neuron action potentials (self-propagating voltage-triggered depolarizations) in individual neurons are measured in scientific environments using single cell recording tools such as [sharp microelectrodes](http://www.scholarpedia.org/article/Intracellular_recording) and [patch-clamp pipettes](https://en.wikipedia.org/wiki/Patch_clamp). Neurons typically rest around -70mV and when depolarized (typically by external excitatory input) above a threshold they engage in a self-propagating depolarization until they reach approximately +40mV, at which time a self-propagating repolarization occurs (often over-shooting the initial rest potential by several mV), then the cell slowly returns to the rest voltage so after about 50ms the neuron is prepared to fire another action potential. Impassioned budding electrophysiologists may enjoy further reading _[Active Behavior of the Cell Membrane](http://www.bem.fi/book/04/04.htm) _and [_Introduction to Computational Neuroscience_.](http://ecee.colorado.edu/~ecen4831/cnsweb/cns1.html)
 
-<div class="text-center img-border">
+<div class="img-border">
 
 ![](https://swharden.com/static/2017/08/12/a.gif)
 
@@ -22,7 +22,7 @@ __Cellular Neurophysiology for Electrical Engineers (in 2 sentences):__ Neuron a
 
 __The circuit I describe here produces waveforms which visually mimic action potentials__ rather than serve to replicate the exact conductances real neurons employ to exhibit their complex behavior. It is worth noting that numerous scientists and engineers have designed more physiological electrical representations of neuronal circuitry using discrete components. In fact, the [_Hodgkin-Huxley model_](https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model) of the initiation and propagation of action potentials earned Alan Hodgkin and Andrew Huxley the Nobel Prize in Physiology and Medicine in 1936. Some resources on the internet describe how to design lifelike action potential generating circuits by mimicking the endogenous ionic conductances which underlie them, notably _[Analog and Digital Hardware Neural Models](https://people.ece.cornell.edu/land/PROJECTS/NeuralModels/)_, [_Active Cell Model_](https://courses.cit.cornell.edu/bionb442/labs/f2007/lab6.html), and [_Neuromorphic Silicon Neuron Circuits_](http://journal.frontiersin.org/article/10.3389/fnins.2011.00073/full). My goal for this project is to create waveforms which _resemble_ action potentials, rather than waveforms which truly _model_ them. I suspect it is highly unlikely I will earn a Nobel Prize for the work presented here.
 
-<div class="text-center img-border">
+<div class="img-border">
 
 ![](https://swharden.com/static/2017/08/12/circuit_hand.jpg)
 

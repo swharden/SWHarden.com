@@ -120,4 +120,4 @@ Follow-up #1: After playing the fast-paced and highly dynamic Titanfall 2 for so
 
 {{<youtube ktw2k3m7Qko>}}
 
-Follow-up #1: Call of DUty WWII added auto-sprint a few months after this post was made
+Follow-up #2: Call of DUty WWII added auto-sprint a few months after this post was made

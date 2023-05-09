@@ -27,7 +27,7 @@ __I began a new [Ph.D. program in Neuroscience](http://idp.med.ufl.edu/about/neu
 
 __It looks like I'm kind of sick.__ To make a long story short, I'm in a strange diagnostic limbo where it's looking like I may have a pretty serious, rare, and somewhat difficult to diagnose form of cancer (stage 4 [peripheral T-cell lymphoma](http://en.wikipedia.org/wiki/Peripheral_T-cell_lymphoma-Not-Otherwise-Specified)), but at the same time it seems there is a chance it could be a weird, rare ailment that's not as serious (an obscure autoimmune condition or abnormal presentation of chronic infection). The type of cancer it is currently proposed to be is pretty bad, and people usually don't live too long after their diagnosis. Intriguingly, my symptoms and clinical presentation don't reflect the rapidly destructive nature commonly associated with this disease, leaving open the possibility that it might not be that form of cancer after all. I have hard, enlarged lymph nodes (with abnormal histology demonstrated by 1 needle biopsy and 2 separate surgeries) in all quadrants of my body, and have a lot of fatigue (which I combat with large volumes of coffee). Other than that, I'm relatively normal (physically, at least). The picture to the right is me on the first visit to the oncologist. I didn't take it too seriously. I kept thinking (and still do to some degree) there's no way it could be that bad.  I mean, who my age gets sick like this? And right on the heels of losing my wife? It's too coincidental, it can't be that serious! Realistically we still don't know for sure exactly what it is, and it's too early to tell how this will affect my life. It's a strange experience grappling with the idea that I might only live a few more years, knowing at the same time that my cancer might not be that bad and I may have a long, relatively normal life. I will know more a few months from now. In the mean time, I'm content planning my life as if I will be completely fine (which is certainly may be the case), and if I get sick along the way I'll re-evaluate my situation if the need arises. For now, I'm quite positive. If anyone were to get a one in a million disease and get through it unscathed, it would be me!
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/06/13/4-pet-ct-too.jpg)
 ![](https://swharden.com/static/2012/06/13/IMG_5851.jpg)
@@ -48,20 +48,10 @@ __Several people have e-mailed me in concern due to the fact that I had stopped 
 
 __The truth is__, when Angelina died, life stopped. I stopped answering email, I stopped adding to my website, I stopped making phone calls, I even distanced myself from my own family for a while. Slowly, one by one, I'm resuming these activities. A few months ago, I unpacked my electronics workstation in my new apartment. It was a little premature, as I only worked at my station 1 day and took a few more months before I came back to it, but now it's a weekly process. For a long time I felt guilty even thinking about picking-up my silly projects again. I felt that, after everything she and I had gone through, it seemed fickle. With a little time and some self-reflection, I realized that Angelina encouraged me to do these things throughout our marriage. I remember her telling me that she went to college and bragged "my husband is on Hackaday". I told her that my academic publications on PubMed are more impressive, and I'll always remember her response: "Yeah, but you get more excited every time you make it on hack-a-day". I remember this and remind myself that, if she were here, I think she'd still continue to encourage me to do what I enjoy. While silly little projects might not seem significant, they do make me happy, and I think she would be proud of me for working on them.
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/06/13/angelina_carve.jpg)
-
-</div>
-
-<div class="text-center img-border img-small">
-
 ![](https://swharden.com/static/2012/06/13/angelina_solder.jpg)
-
-</div>
-
-<div class="text-center img-border img-medium">
-
 ![](https://swharden.com/static/2012/06/13/angelina_soldering.jpg)
 
 </div>
@@ -122,7 +112,7 @@ __I practiced advanced suturing techniques utilizing a pig jaw.__ I actually mes
 
 </div>
 
-<div class="text-center img-border img-micro">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/06/13/25.jpg)
 ![](https://swharden.com/static/2012/06/13/27.jpg)

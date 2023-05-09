@@ -22,7 +22,7 @@ __I made my first Morse code contact__ from my apartment! This is the radio I'm 
 
 </div>
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2010/01/30/antennaBigger.jpg)
 ![](https://swharden.com/static/2010/01/30/antennaCoil.jpg)

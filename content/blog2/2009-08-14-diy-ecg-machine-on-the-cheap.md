@@ -7,18 +7,21 @@ tags: ["diyECG", "obsolete"]
 
 
 > **⚠️ Check out my newer ECG designs:** 
-* [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
-* [**Single op-amp ECG**](https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/)
+> * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
+> * [**Single op-amp ECG**](https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/)
 
 ## Background
 
 __You've probably seen somebody in a hospital hooked up to a bunch of wires used to analyze their heartbeat.__ The machine that visualizes heartbeat is called an [electrocardiograph, or ECG](http://en.wikipedia.org/wiki/Electrocardiography). It amplifies, measures, and records the natural electrical potential created by the heart. Note that cardiac electrical signals are different than [heart sounds](http://en.wikipedia.org/wiki/Heart_sounds), which are listened to with a [stethoscope](http://en.wikipedia.org/wiki/Stethoscope). The intrinsic cardiac pacemaker system is responsible for generating these electrical signals which serve to command and coordinate contraction of the four chambers at the heart at the appropriate intervals: atria (upper chambers) first, then the ventricles (lower chambers) a fraction of a second later. Analysis of these signals reveals a wealth of information about cardiac regulation, as well insights into pathological conditions.
 
-<div class="text-center img-small">
-
-![](https://swharden.com/static/2009/08/14/ecgman.png)
-![](https://swharden.com/static/2009/08/14/ecg_principle_slow.gif)
-
+<div class="row">
+<div class="col p-5">
+<img src="https://swharden.com/static/2009/08/14/ecgman.png">
+</div>
+<div class="col p-5">
+<img src="https://swharden.com/static/2009/08/14/ecg_principle_slow.gif">
+</div>
+</div>
 </div>
 
 __Each heartbeat produces a little squiggle with unique properties.__ The squiggle is called the PQRST wave. The smooth curve in the ECG (P) is caused by the stimulation of the atria via the [Sinoatrial (SA) node](http://en.wikipedia.org/wiki/Sinoatrial_node) in the right atrium. There is a brief pause, as the electrical impulse is slowed by the [Atrioventricular (AV) node](http://en.wikipedia.org/wiki/Atrioventricular_node) and [Purkinje fibers](http://en.wikipedia.org/wiki/Purkinje_fibers) in the [bundle of His](http://en.wikipedia.org/wiki/Bundle_of_His). The prominent spike in the ECG (the _QRS complex_) is caused by this step, where the electrical impulse travels through the inter-ventricular septum and up through the outer walls of the ventricles. The sharp peak is the _R_ component, and exact heart rate can be calculated as the inverse of the R-to-R interval (RRi).
@@ -31,23 +34,19 @@ The goal of this project is to generate an extremely cheap, functional ECG machi
 
 ## My ECG:
 
-<div class="text-center">
-
 ![](https://swharden.com/static/2009/08/14/ecg31.png)
-
-</div>
 
 ## Videos
 
-#### ECG Introduction
+### ECG Introduction
 
 {{<youtube 6-zNMup_pgk>}}
 
-#### Recording my ECG
+### Recording my ECG
 
 {{<youtube izet7cgtMjU>}}
 
-#### Video 3/3: Analyzing my ECG
+### Video 3/3: Analyzing my ECG
 
 {{<youtube Q4y20Lu3rn0>}}
 
@@ -202,21 +201,19 @@ __Taking the [Fast Fourier Transformation](http://en.wikipedia.org/wiki/Fast_Fou
 
 __This is the power spectrum density (PSD) plot__ of the ECG data we recorded. Its physiological interpretation is extraordinarily difficult to understand and confirm, and is the subject of great debate in the field of autonomic neurological cardiac regulation. An oversimplified explanation of the significance of this graph is that the parasympathetic (cardio-inhibitory) branch of the autonomic nervous system works faster than the sympathetic (cardio-stimulatory) branch. Therefore, the lower peak corresponds to the sympathetic component (combined with persistent parasympathetic input, it's complicated), while the higher-frequency peak corresponds to the parasympathetic component, and the sympathetic/parasympathetic relationship can be assessed by the ratio of the integrated areas of these peaks after a complicated [curve fitting](http://en.wikipedia.org/wiki/Curve_fitting) processes which completely separates overlapping peaks. To learn more about power spectral analysis of heart rate over time in the frequency domain, I recommend skimming [this introduction to heart rate variability website](http://www.macses.ucsf.edu/Research/Allostatic/notebook/heart.rate.html) and the article on [Heart Rate Variability following Myocardial Infarction](http://www.swharden.com/blog/wp-admin/post.php?action=edit&post=1512) (heart attack). Also, National Institute of Health (NIH) funded studies on HRV should be available from [pubmed.org](http://www.ncbi.nlm.nih.gov/pubmed/). If you want your head to explode, read [Frequency-Domain Characteristics and Filtering of Blood Flow Following the Onset of Exercise: Implications for Kinetics Analysis](http://jap.physiology.org/cgi/reprint/100/3/817.pdf) for a lot of good frequency-domain-analysis-related discussion and rationalization.
 
-## Encouraging Words:
+## Encouraging Words
 
 __Please, if you try this don't die.__ The last thing I want is to have some kid calling me up and yelling at me that he nearly electrocuted himself when he tried to plug my device directly into a wall socket and now has to spend the rest of his life with two Abraham Lincolns tattooed onto his chest resembling a second set of nipples. Please, if you try this use common sense, and of course you're responsible for your own actions. I provide this information as a description of what I did and what worked for me. If you make something similar that works, I've love to see it! Send in your pictures of your circuit, charts of your traces, improved code, or whatever you want and I'll feature it on the site. __GOOD LUCK!__
 
-## More Complex Circuit:
+## More Complex Circuit
 
-<div class="text-center">
-
-![](https://swharden.com/static/2009/08/14/diy_ecg_circuit.png)
-
-</div>
+<a href="https://swharden.com/static/2009/08/14/diy_ecg_circuit.png">
+<img src="https://swharden.com/static/2009/08/14/diy_ecg_circuit.png" class="w-75 mx-auto d-block">
+</a>
 
 __If you want to try this, go for it!__ Briefly, this circuit uses 6 op-amps to help eliminate effects of noise. It's also safer, because of the diodes interconnecting the electrodes. It's the same circuit as on \[[this page](http://www.eng.utah.edu/~jnguyen/ecg/ecg_index.html)\].
 
-## Last minute thoughts:
+## Miscellaneous Thoughts
 
 *   More homemade ECG information can be found on my [earlier posts in the DIY ECG category](http://www.swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/), however this page is the primary location of my most recent thoughts and ideas.
 *   You can use moisturizing lotion between the electrodes and your skin to increase conduction. However, keep in mind that _better conduction is not always what you want_. You'll have to experiment for yourself.

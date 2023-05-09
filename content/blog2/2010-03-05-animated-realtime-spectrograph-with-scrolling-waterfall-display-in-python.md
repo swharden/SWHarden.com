@@ -14,7 +14,7 @@ __My project is coming along nicely.__ This isn't an incredibly robust spectrogr
 
 </div>
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2010/03/05/nofilter.png)
 ![](https://swharden.com/static/2010/03/05/filter.png)

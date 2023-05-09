@@ -14,7 +14,7 @@ __Haray!__ I'm making awesome progress with my QRSS transmitter design. Because 
 
 </div>
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2010/05/24/DSCN0533.jpg)
 ![](https://swharden.com/static/2010/05/24/DSCN0535.jpg)

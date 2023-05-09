@@ -8,7 +8,7 @@ tags: ["microcontroller", "obsolete"]
 
 __This weekend I had a need, and I met it with parts I had on hand.__ Simply put, I wanted to assess whether or not my temperature-controlled crystal heater is doing its job in keeping temperature rock-stable. I wanted to measure temperature by measuring the ADC (analog-to-digital) value at the middle of a voltage divider with a resistor and a thermistor. Using a computer to plot this data, I can see if temperature fluctuates as my apartment AC turns on/off, or if it's perfectly stable (my goal).  The problem is that my only MCU (micro-controller unit) with USART (universal asynchronous receiver/transmitter) built-in is an ATTiny2313, which has no ADC capabilities.  I had a lot of ATTiny44A chips on hand, so I had to figure out a way to get the data from my an ATTiny44A to an ATTiny2313 then to a MAX232 chip (voltage driver) so it can be sent to a PC's serial port.
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2010/09/07/IMG_3919.jpg)
 
@@ -16,11 +16,7 @@ __This weekend I had a need, and I met it with parts I had on hand.__ Simply put
 
 This is my bare-bones solution to easily sending data from ANY microcontroller to a PC's serial port using 3 pins to send data to an ATTiny2313 which is interpreted, converted to decimal, then sent to my PC's serial port. I will keep this little board and use it often to peek at variables inside my microcontroller projects in real time, with minimal coding!
 
-<div class="text-center img-medium">
-
 ![](https://swharden.com/static/2010/09/07/schematic_fixed2.jpg)
-
-</div>
 
 __Above is the bare-bones__ schematic required to send data from an ATTiny2313 to a PC via a serial port.  This schematic is improved and documented better on this page than on my previous post [Simple Case AVR/PC Serial Communication via MAX232](http://www.swharden.com/blog/2009-05-14-simple-case-avrpc-serial-communication-via-max232/). Note that I'm designing this to be functional, perhaps not well enough to be used in mission-critical systems. Although some schematics suggest extra capacitors, I found that the only one required is between pins 4 and 5 of the MAX232.  The role of the [MAX232 chip](http://en.wikipedia.org/wiki/MAX232) is to act as a voltage pump and relay the incoming signal at increased voltage which the PC's serial port can read. It doesn't actually change the data.
 
@@ -36,11 +32,7 @@ __Sending data to the ATTiny2313 to be relayed to the PC:__ Not every MCU has SP
 
 __Pulling-down the clock:__ Note that the 100k resistor shown pulling the [CLOCK] line to ground is critical.  It doesn't have to be 100k, it can be virtually any value, it just makes sure that if current is not being sent on the clock line, it quickly goes to 0V.  Without this resistor, the clock line might flicker on and off even though no data is being sent.
 
-<div class="text-center">
-
 ![](https://swharden.com/static/2010/09/07/serial_example.jpg)
-
-</div>
 
 <div class="text-center img-border">
 
@@ -57,7 +49,7 @@ __FLAME ALERT:__ A lot of people will be mad at me for suggesting this method. T
 Remember that I'm powering this entirely from USB power. The layout is simple: ATTiny44A measuring ADC of a thermistor on the left (see the little red thing?) sending data with 3 wires (top 3) to an ATTiny2313 intermediate chip (center), which converts this binary data to decimal and sends it to a MAX232 chip (right) where it gets converted to levels suitable for transmission to a serial port.
 
 
-<div class="text-center img-border img-micro">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2010/09/07/IMG_3905.jpg)
 ![](https://swharden.com/static/2010/09/07/IMG_3891.jpg)

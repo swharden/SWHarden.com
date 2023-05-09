@@ -1,5 +1,5 @@
 ---
-title: Random Junk In'da Mail!
+title: Random Junk in the Mail
 date: 2009-05-12 11:49:58
 ---
 

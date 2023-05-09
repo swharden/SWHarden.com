@@ -14,7 +14,7 @@ __This project centers around a 5.8 GHz microwave radar sensor module__ ([HFS-DC
 
 The RADAR antenna is built into the front PCB. The back side of the module reveals the simplistic connections: VCC (5V), OUT, and GND.
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2017/06/28/03module.jpg)
 ![](https://swharden.com/static/2017/06/28/04module.jpg)

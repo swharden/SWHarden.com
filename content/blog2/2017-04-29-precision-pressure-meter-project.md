@@ -28,7 +28,7 @@ __The breakout board I'm using provides 5V access to the I2C interface of the MS
 
 When run through an algorithm (given a whole page in the datasheet), the 6 factory-programmed calibration values (16-bit integers) can be combined with the raw temperature and pressure readings (24-bit integers) to yield incredibly accurate and precise temperature and pressure readings down to 0.01 degree Celsius and 0.012 millibar (0.00017 PSI). This accuracy is enough to be able to measure changes in altitude of 10 centimeters!
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2017/04/29/10426_1_4531.jpg)
 ![](https://swharden.com/static/2017/04/29/10426_3_5984.jpg)

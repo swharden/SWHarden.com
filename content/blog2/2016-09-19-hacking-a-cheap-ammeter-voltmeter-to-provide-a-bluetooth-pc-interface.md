@@ -172,7 +172,7 @@ __I packed it all in__ then added hot glue around the primary components (not sh
 
 __I tested on a big piece of electrical equipent I'm building on the other side of the room.__ This device has its own 13.8V regulated power supply (and its own shelf!), so the wireless capability is fantastic to have. I just dropped this device between the power supply and the device under test. Rather than record the power supply voltage (which would always be a boring 13.8V) I decided to record a voltage test point of interest: the point just downstream of an LM7809 voltage regulator. I expected this voltage to swing wildly as current draw was high, and was very interested to know the voltage of this test point with respect to current draw. Although I have [previously used custom software to hack the output of a TENMA multimeter](https://www.swharden.com/wp/2016-08-24-tenma-multimeter-serial-hack/) to let me log voltage or current of this exact circuit, now I can measure both at the same time! Additionally, this is a far less expensive option than dedicating a multimeter to the task.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/09/19/IMG_8584.jpg)
 
@@ -180,7 +180,7 @@ __I tested on a big piece of electrical equipent I'm building on the other side 
 
 __I'm using [RealTerm](http://realterm.sourceforge.net/)__ to access the serial port and log its output to a text file.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/09/19/IMG_8590.jpg)
 

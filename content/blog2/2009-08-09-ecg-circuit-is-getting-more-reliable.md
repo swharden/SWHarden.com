@@ -7,8 +7,8 @@ tags: ["diyECG"]
 
 
 > **⚠️ Check out my newer ECG designs:** 
-* [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
-* [**Single op-amp ECG**](https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/)
+> * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
+> * [**Single op-amp ECG**](https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/)
 
 __Although I made a functional ECG circuit__, it was extremely finicky. If you attached the electrodes too weakly (not a good enough connection), you would get no signal. If you attached the electrodes too tightly (too good of a connection), you wouldn't get a signal either. You had to have just the right resistance between the electrodes and the body for them to work. I tried some things and finally discovered that a resistor between the circuit and me (on the ground lead) significantly improved the situation, but requires a really good body connection. My leads (2) were made from wires (non-shielded) with gator clips at the end clamping onto pennies. I added a dab of moisturizer to the pennies to get a really good connection and used electrical tape to attach them to my chest (+) and leg (GND). I recorded heart data in 10 minute blocks, and it worked amazingly well! Here is a video if me recording my ECG while playing [Counter-Strike](http://en.wikipedia.org/wiki/Counter-Strike).
 

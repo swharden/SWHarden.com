@@ -9,9 +9,9 @@ __Over the last couple weeks whenever I had the time__ I'd work on creating a li
 
 <div class="text-center img-border">
 
-[![](https://swharden.com/static/2009/04/20/img_1535-500x375.jpg)](https://swharden.com/static/2009/04/20/img_1535.jpg)
-[![](https://swharden.com/static/2009/04/20/img_1537-500x375.jpg)](https://swharden.com/static/2009/04/20/img_1537.jpg)
-[![](https://swharden.com/static/2009/04/20/img_1538-500x375.jpg)](https://swharden.com/static/2009/04/20/img_1538.jpg)
+![](https://swharden.com/static/2009/04/20/img_1535.jpg)
+![](https://swharden.com/static/2009/04/20/img_1537.jpg)
+![](https://swharden.com/static/2009/04/20/img_1538.jpg)
 
 </div>
 

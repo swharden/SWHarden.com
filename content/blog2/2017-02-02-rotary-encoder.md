@@ -35,7 +35,7 @@ I typically pull these all high through 10k series resistors ([debounced](http:/
 
 ### Single Click Left and Right
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2017/02/02/left.png)
 ![](https://swharden.com/static/2017/02/02/right.png)
@@ -44,7 +44,7 @@ I typically pull these all high through 10k series resistors ([debounced](http:/
 
 ### Spin Left and Right
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2017/02/02/fastLeft.png)
 ![](https://swharden.com/static/2017/02/02/fastRight.png)

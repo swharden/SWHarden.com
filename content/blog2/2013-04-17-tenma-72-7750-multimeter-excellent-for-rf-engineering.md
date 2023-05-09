@@ -10,7 +10,7 @@ tags: ["obsolete"]
 
 __I recently got my hands on a Tenma 72-7750 multimeter.__ Tenma has a [pretty large collection of test equipment and measurement products](http://www.newark.com/jsp/search/results.jsp?N=422+2203+200023&Ntk=gensearch&Ntt=tenma&Ntx=mode+matchallpartial&isNotify=true), including [several varieties of hand-held multimeters](http://www.newark.com/jsp/search/productListing.jsp?SKUS=02J5540,02J5541,02J5542,02J5543,02J5546). The 72-7750 multimeter has the standard measurement modes you'd expect (voltage, current capacitance, resistance, conductivity), but stood out to me because it also measures frequency, temperature, and has RS232 PC connectivity. Currently it's [sale from Newark for under fifty bucks](http://www.newark.com/tenma/72-7750/multimeter-digital-handheld-3-3/dp/02J5543)! This is what mine arrived with:
 
-<div class="text-center img-small">
+<div class="text-center">
 
 ![](https://swharden.com/static/2013/04/17/2013-04-06-11.09.44.jpg)
 ![](https://swharden.com/static/2013/04/17/2013-04-06-11.11.35.jpg)
@@ -21,7 +21,7 @@ __The obvious stuff worked as expected.__ Auto ranging, (5 ranges of voltage and
 
 __I was impressed by the frequency measuring ability of this little multimeter!__ When I read that it could measure up to 60MHz, I was impressed, but also suspected it might be a little flakey. This was not at all the case - the frequency measurement was dead-on at several ranges! With so many of the projects I work on being RF-involved (radio transmitters, radio receivers, modulators, mixers, you name it), I sided with this meter because unlike some of its siblings this one is rated beyond 50Mz. I hooked it up to the frequency synthesizer I built based around an [ad9850](http://www.analog.com/static/imported-files/data_sheets/AD9850.pdf) direct digital synthesizer and played around. When the synthesizer was set to various frequencies, the multimeter followed it to the digit! Check out the pics of it in action, comparing the LCD screen frequency with that being displayed on the meter:
 
-<div class="text-center img-small img-border">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2013/04/17/2013-04-17-21.01.57.jpg)
 ![](https://swharden.com/static/2013/04/17/2013-04-17-21.02.50.jpg)
@@ -37,7 +37,7 @@ __I was impressed by the frequency measuring ability of this little multimeter!_
 
 __I also took a closer look at the PC interface.__ When I looked closely, I noticed it wasn't an electrical connection - it was an optical one! It has a phototransistor on one end, and a serial connection on the other. I'm no stranger to tossing data around with light (I made something that did this [here](http://www.swharden.com/blog/2011-07-26-pcmicrocontroller-wireless-data-transfer/), which was later featured on Hack-A-Day [here](http://hackaday.com/2011/07/28/microcontroller-communications-using-flashing-lights/)). I wondered what the format of the data was, when to my surprise I saw it spelled out in the product manual! (Go Tenma!)  It specifically says "Baud Rate 19230, Start Bit 1 (always 0), Stop bit 1 (always 1), Data bits (7), Parity 1 (odd)". Although they have their own windows-only software to display/graph readings over time, I'd consider writing Python-based logging software. It should be trivial with python, pySerial, numpy, and matplotlib. Clearly [I'm no stranger to graphing things in python](http://www.swharden.com/blog/category/python/) :)
 
-<div class="text-center img-small">
+<div class="text-center">
 
 ![](https://swharden.com/static/2013/04/17/2013-04-17-21.04.28.jpg)
 ![](https://swharden.com/static/2013/04/17/2013-04-17-21.04.46.jpg)

@@ -38,7 +38,7 @@ PT.readUntilBroken()
 
 __The output is very simple.__ Here it is compared to the commercial TENMA software. [PyroElectro has a good demonstration](http://www.pyroelectro.com/tutorials/tenma_digital_multimeter/software.html) of the PC interface software that ships with this unit. While the TENMA software is functional, it has some serious limitations that motivate me to improve upon it. (1) It's Windows only. (2) It doesn't automatically log data (you have to manually click save to write it to disk). (3) It seems to be limited to COM1-COM4. My USB serial adapter was on COM7 and inaccessible to this program. I had to go in the device manager and change the advanced settings to allow the commercial software to read my device. (4) The graphs are poor, non-interactive, and often broken. (5) Data output format is only an Excel spreadsheet (.xls), and I don't have control to save in other formats like CSV. If I'm going to use this on a raspberry pi, I don't want to fumble around with Microsoft Office! Yeah I know I can get modules (even for Python) to access data in excel spreadsheets, but it seems like an unnecessary complexity just to retrieve some voltage readings. Over all it seems a little unfortunate that a relatively great product is pulled down when its weakest link is its software. It's okay, we are on our way to can fixing this with [pyTENMA](https://github.com/swharden/pyTENMA)!
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/08/24/screenshot.jpg)
 ![](https://swharden.com/static/2016/08/24/commercialSoftware.jpg)

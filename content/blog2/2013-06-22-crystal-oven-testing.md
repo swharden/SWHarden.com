@@ -13,7 +13,7 @@ __Briefly, desired temperature is set with a potentiometer.__ An operational amp
 The oven then cycles on and off roughly every thirty or forty seconds and hovers around 40 degrees-C thereafter to within better than one degree-C.
 __I wondered how much this on/off heater cycle affected temperature. Is it negligible, or could it affect frequency of an oscillator circuit?__ Indeed his application heats [an entire enclosure](http://www.qsl.net/m0ayf/Crystal-Ovens/OCXO.jpg) so small variations get averaged-out by the large thermal mass. However in crystal oven designs where only the crystal is heated, such as [described by Bill (W4HBK)](http://pensacolasnapper.blogspot.com/2011_03_01_archive.html), I'll bet the effect is much greater. Compare the thermal mass of these two concepts.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2013/06/22/m0ayf-enclosure-oven.jpg)
 ![](https://swharden.com/static/2013/06/22/w4hbk-crystal-oven.jpg)
@@ -31,7 +31,7 @@ __How does the amount of thermal mass relate to how well it can be controlled?__
 
 __Right off the bat, I realized that this requires a PC interface.__ Even if it's not used to adjust temperature (an ultimate goal), it will be used to log temperature and power for analysis. I won't go into the details about how I did it, other than to say that I'm using an ATMEL ATMega8 AVR microcontroller and ten times I second I sample voltage on each of it's six 10-bit ADC pins (PC0-PC5), and send that data to the computer with USART using an eBay special serial/USB adapter based on FTDI. They're <$7 (shipped) and come with the USB cable. Obviously in a consumer application I'd etch boards and use the SMT-only FTDI chips, but for messing around at home I a few a few of these little adapters. They're convenient as heck because I can just add a heater to my prototype boards and it even supplies power and ground. Convenient, right? Power is messier than it could be because it's being supplied by the PC, but for now it gets the job done. On the software side, Python with PySerial listens to the serial port and copies data to a large numpy array, saving it every once and a while. Occasionally a bit is sent wrong and a number is received incorrectly (maybe one an hour), but the error is recognized and eliminated by the checksum (just the sum of all transmitted numbers). Plotting is done with numpy and matpltolib. Code for all of that is at the bottom of this post.
 
-<div class="text-center img-border img-micro">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2013/06/22/IMG_0278.jpg)
 ![](https://swharden.com/static/2013/06/22/IMG_0279.jpg)
@@ -42,7 +42,7 @@ __Right off the bat, I realized that this requires a PC interface.__ Even if it'
 
 __That's the data logger circuit I came up with.__ Reading six channels ten times a second, it's more than sufficient for voltage measurement. I went ahead and added an op-amp to the board too, since I knew I'd be using one. I dedicated one of the channels to serve as ambient temperature measurement. See the little red thermistor by the blue resistor? I also dedicated another channel to the output of the op-amp. This way I can measure drive to whatever temperature controller circuity I choose to use down the road. For my first test, I'm using a small thermal mass like one would in a crystal oven. Here's how I made that:
 
-<div class="text-center img-border img-micro">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2013/06/22/IMG_0265.jpg)
 ![](https://swharden.com/static/2013/06/22/IMG_0264.jpg)

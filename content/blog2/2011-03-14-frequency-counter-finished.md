@@ -163,7 +163,7 @@ __... and I know it's unrelated, but:__
 
 This project was featured on a couple of my favorite sites, [Hack-A-Day](http://hackaday.com/2011/03/14/frequency-counter-for-10-worth-of-parts/) and [Electronics-Lab](http://www.electronics-lab.com/blog/?p=10093)!
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/14/counter_EL.jpg)
 ![](https://swharden.com/static/2011/03/14/counter_HAD.jpg)

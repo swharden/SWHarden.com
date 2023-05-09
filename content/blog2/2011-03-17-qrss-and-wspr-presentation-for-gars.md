@@ -8,7 +8,7 @@ tags: ["amateur radio", "qrss"]
 
 __Last night I had the honor of speaking for GARS,__ the Gainesville Amateur Radio Society. Their club call (K4GNV) is used by the 146.820 MHz FM repeater (the most active in Gainesville).  There were a few dozen attendees, and it was interesting to give a lecture on advanced radio topics to a body that had a lot of experience with RF. This group was a couple generations older and a lot more experienced and than the groups of students I'm used to speaking for! Overall it went well and I'm glad I had the opportunity to present. It's probably one of those things I'll remember for quite some time.
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/17/qrss_presentation_GARS.jpg)
 

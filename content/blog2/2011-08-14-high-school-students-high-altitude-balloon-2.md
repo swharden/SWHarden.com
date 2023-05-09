@@ -66,7 +66,7 @@ __The radio communication system we used this year__ were a little more commerci
 
 __Here are some photos right before the launch.__ It was a sunny day at the UF football stadium! The Android phone is taped the the outside of the box and takes pictures every few seconds, storing them on a micro SD card. Inside the box is an Arduino with GPS shield, and the FRS radio transmitter.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2011/08/14/DSC_6079.jpg)
 ![](https://swharden.com/static/2011/08/14/DSC_6119.jpg)

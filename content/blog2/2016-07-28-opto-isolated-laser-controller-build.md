@@ -16,7 +16,7 @@ tags: ["microcontroller", "circuit", "obsolete"]
 
 **The existing hardware I must interface is made by [Coulbourn Instruments](http://www.coulbourn.com/) and is essentially just a large multi-channel computer-controlled DAC/ADC**. It does its job well (turning lights on and off, recording button presses, etc.), but this new task requires millisecond resolution and modulation patterns which lies outside the specs of this system and software. **My goal is to interface a free output line of this old hardware and use it to signal to a new device I build to activate the laser to produce a pulsed pattern.** This way there would be no modification to any existing equipment, and no software to install. Further, since this hardware isn't mine, I don't like the idea of permanently modifying it (or even risking breaking it by designing something which could damage it by connecting to it). The specific goal is to allow the existing software to cause the laser to fire 20 ms pulses at 15 Hz for a few dozen cycles of 5s on, 5s off. **It's also important to have some flexibility to reprogram the high speed laser stimulation pattern in the future.** Experiments are already underway and I need this device to be complete within a couple of days! As much as I'd love to go to the internet and order the perfect cheap components, make a proper PCB, and have a beautiful build completed in a month, my goal is to build this over a weekend using only using parts I already have at my home.
 
-<div class="text-center img-micro">
+<div class="text-center">
 
 ![](https://swharden.com/static/2016/07/28/hardware-stack.jpg)
 ![](https://swharden.com/static/2016/07/28/hardware-stack2.jpg)
@@ -60,7 +60,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 **I started the build** by measuring/marking drill points. I used a Dremel drill press to make the holes, then smoothed them with a deburring tool. I also drilled holes in the base of the enclosure.
 
-<div class="text-center img-small img-border">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7186.jpg)
 ![](https://swharden.com/static/2016/07/28/IMG_7188.jpg)
@@ -72,7 +72,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 **I had an enclosure ready to go.** I always buy enclosures in bulk, and even though nice ones tend to be expensive, having them on hand encourages me to build devices as I think of them, rather than making flaky hardware which I [have a history of doing](https://www.swharden.com/wp/2011-01-16-first-homebrew-qso-ever/) which sometimes [borders on ridiculousness](https://www.swharden.com/wp/2010-06-03-aj4vd-qrss-vd-mept/). I usually stock [unfinished Hammond diecast aluminum enclosures](http://www.alliedelec.com/hammond-manufacturing-1590g/70165610/) for making quick RF projects, and [boxes with feet and side vents](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=aluminum+electronic+project+enclosure+box) for fancier projects, but for this task I decided to enclose everything inside a typical (but a little more costly) aluminum enclosure ordered in bulk from eBay. I love using low current LEDs, and I started going with frosted instead of clear LEDs because they're easier on the eyes. Also, I switched to mostly 3mm LEDs instead of 5MM because they look a little nicer in these small enclosures with small black bezels.
 
-<div class="text-center img-small img-border">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7191.jpg)
 ![](https://swharden.com/static/2016/07/28/IMG_7206.jpg)
@@ -83,7 +83,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 **I used nicer perfboard with plated holes to build this circuit.** Normally I use [cheap perfboard](https://www.circuitspecialists.com/solderable-perf-boards) with little copper rings glued to one side because it's faster to solder (the copper is so thin it heats quickly), but it's not always a good long-term solution because the copper pads have a tendency to un-stick. I rarely use this nicer perfboard (it is more expensive), but it's nice to have for more reliable builds.
 
-<div class="text-center img-small img-border">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7258.jpg)
 ![](https://swharden.com/static/2016/07/28/IMG_7215.jpg)
@@ -103,7 +103,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 **Once it was all together, the device seemed to perform well.** The test button on the back made it easy to inspect the output. I build so many RF circuits that I instinctively reached for a 50-ohm terminator, but the square wave quickly transformed into shark fins (RC curves) reminding me that and I realized 50 ohms is far too low impedance. If it's a TTL signal, let's assume it's virtually infinite impedance. I was uncertain whether or not I should drive the output directly with a microcontroller pin. There may be a need for a buffered output. The microcontroller's datasheet suggests limiting its current to 20 mA per pin (requiring termination of no less than 250 Ohms at 5V), and I'm going to move forward assuming the laser TTL input doesn't sink much current.
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7284.jpg)
 ![](https://swharden.com/static/2016/07/28/scope.jpg)
@@ -122,7 +122,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 **These alternative implementations will be useful in the future** if a more accurate time source is desired, an advanced display is added, or menus are implemented which would benefit from letting the pulsing output operate in the background while accepting user input. For now, I'm happy with the blocking delay strategy.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7265.jpg)
 ![](https://swharden.com/static/2016/07/28/IMG_7262.jpg)
@@ -133,7 +133,7 @@ _EDIT: About a year later a modification was indeed required (something like cha
 
 **After I was satisfied with construction, I started labeling the enclosure.** I want to tip my hat to [Onno Hoekstra](http://www.qsl.net/pa2ohh/) on this one, as [his webpage](http://www.qsl.net/pa2ohh/tlabels.htm) and some email correspondence helped me realize how good clear labels look when outlined and applied to aluminum enclosures. I'm using a [DYMO LetraTag LT-100T Plus](https://www.amazon.com/DYMO-LetraTag-Personal-Hand-Held-1733013/dp/B001B1FIW2/) label maker and [clear tape](https://www.amazon.com/DYMO-Labeling-LetraTag-Labelers-Black/dp/B00006B8FA). It's important to enable the black outline around the text, then I cut carefully slightly outside the outline with regular scissors, and apply the labels with a hobby knife or razor blade.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7310.jpg)
 ![](https://swharden.com/static/2016/07/28/IMG_7308.jpg)
@@ -209,7 +209,7 @@ pause
 
 This is the output of the unmodified H11B1:
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7495.jpg)
 ![](https://swharden.com/static/2016/07/28/SDS00008.bmp)
@@ -218,7 +218,7 @@ This is the output of the unmodified H11B1:
 
 This is the output of the H11B1 with the base pin removed:
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/07/28/IMG_7497.jpg)
 ![](https://swharden.com/static/2016/07/28/SDS00010.bmp)

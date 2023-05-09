@@ -16,7 +16,7 @@ __December 23 is Festivus! To commemorate the occasion, I have built a tradition
 
 **[Festivus](https://en.wikipedia.org/wiki/Festivus) is a holiday comically celebrated as an alternative to the pressures of commercialism commonly associated with other winter holidays.** Originating from the 1997 Seinfeld episode "The Strike", the traditions of Festivus include demonstrating feats of strength, declaring common occurrences as Festivus miracles, airing of grievances, and of course the fabrication of a _Festivus pole_. 
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2015/12/23/strike.jpg)
 
@@ -28,7 +28,7 @@ __December 23 is Festivus! To commemorate the occasion, I have built a tradition
 
 __After playing at my workbench for a while, I figured out a way I could light-up individual coke cans.__ I drilled a dozen holes in each can (with a big one in the back), stuck 3 blue LEDs (wired in parallel with a 220-ohm current limiting resistor in series) in the can, and hooked it up to 12V. This was the motivation I needed to continue...
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2015/12/23/a.jpg)
 ![](https://swharden.com/static/2015/12/23/b.jpg)
@@ -49,7 +49,7 @@ __Now for the design.__ I found a junk box 12V DC wall-wart power supply which I
 
 __To build the circuit,__ I used perf-board and all through-hole components. It's a little messy, but it gets the job done! Admire the creative resistor hops connecting shift registers and microcontroller pins. A purist would shriek at such construction, but I argue its acceptability is demonstrated in its functionality.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2015/12/23/IMG_4350.jpg)
 ![](https://swharden.com/static/2015/12/23/IMG_4352.jpg)
@@ -61,7 +61,7 @@ __To build the circuit,__ I used perf-board and all through-hole components. It'
 
 __The installation had to be classy.__ To stabilize the fixture, I used epoxy resin to cement a single coke can to an upside-down Pyrex dish (previously used for [etching circuit boards in ferric chloride](http://hackaday.com/2008/07/28/how-to-etch-a-single-sided-pcb/)). I then used clear packaging tape to hold each successive illuminated can in place. All wires were kept on the back side of the installment with electrical tape. Once complete, the circuit board was placed beneath the Pyrex container, and the controller (a single button in a plastic enclosure connected with a telephone cord) was placed beside it.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2015/12/23/IMG_4402.jpg)
 ![](https://swharden.com/static/2015/12/23/IMG_4403.jpg)

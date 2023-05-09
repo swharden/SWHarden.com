@@ -22,11 +22,11 @@ tags: ["php"]
 
 **There's a clear path toward generating a static site.** If a folder lacks index.html, index.md is parsed and served. Switching to and from a static site can be achieved just by pre-converting all the markdown files to html and deleting them. I'll probably keep working on refining the PHP script until the conversions are reliably processing like I desire, then convert most of the old pages to static files. The cool thing about this method is that it lets me serve some posts statically but others dynamically.
 
-<div align="center">
+<div class="text-center">
 
 Wordpress (slow) | Markdown (fast)
 ---|---
-<div style='text-align: center;'><img src="https://swharden.com/static/2020/09/13/benchmark-slow.png"></div> | <div style='text-align: center;'><img src="https://swharden.com/static/2020/09/13/benchmark-fast.png"></div>
+<img src="https://swharden.com/static/2020/09/13/benchmark-slow.png"> | <img src="https://swharden.com/static/2020/09/13/benchmark-fast.png">
 
 </div>
 
@@ -50,7 +50,7 @@ Along the way I had a few laughs at the ridiculousness of some of my old content
 
 After reviewing all of my posts I now have a really good understanding of the evolution of the technologies I used to serve my website over the years. Here's a summary of the major events:
 
-* It started as a blog on GeoCities, with the [oldest surviving post](https://swharden.com/static/2020/09/13/../2001-06-16-geocities-hardentechnologies-1) dating to June 2001. Back then adding content meant editing HTML files and using FTP to upload changes. 
+* It started as a blog on GeoCities, with the [oldest surviving post](https://swharden.com/blog/2001-06-16-geocities-hardentechnologies-1) dating to June 2001. Back then adding content meant editing HTML files and using FTP to upload changes. 
 
 * In 2002 I started hosting my website from a server at my house. Initially it was served with Windows/IIS using ASP for comments pages. On October 19, 2002 I switched to FreeBSD/Apache using PHP for comments pages.
 

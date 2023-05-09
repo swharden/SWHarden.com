@@ -8,7 +8,7 @@ tags: ["qrss", "python", "obsolete"]
 
 __While working on the spectrograph software__ I'm trying to complete this spring break, I happened to capture a cool signal from Italy. IW4DXW was sending some cool signals that I captured around 10.140 MHz. See how his call sign is written "visually" on the spectrogram? I thought I'd post it because it's an encouraging sign that my software is going in the right direction. Also note the numerous QRSS FSK signals around it! So cool.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2010/03/09/iw4dxw.jpg)
 

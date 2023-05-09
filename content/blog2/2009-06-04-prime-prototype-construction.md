@@ -8,7 +8,7 @@ tags: ["circuit", "microcontroller"]
 
 __Now that I've worked-out the software side of the microcontroller-powered prime number generator, it's time to start working on the hardware.__ I want to make a prototype which is far smaller and simpler than the final version but lets me practice driving lots of LEDs (30). I expect the final version to have around 80. Also, the heart of this project is an ATTiny2313 microcontroller, and for the full version I'd like to use an ATMEega8. I picked up an unfinished wooden box with a magnetic latch from Michaels. It's delicate and tends to chip when you drill it, but moving slowly I'm able to make nice evenly-spaced holes.
 
-<div class="img-border img-micro">
+<div class="img-border">
 
 ![](https://swharden.com/static/2009/06/04/img_2028.jpg)
 ![](https://swharden.com/static/2009/06/04/img_2041.jpg)
@@ -35,7 +35,7 @@ __This is the circuit concept. __The chip is an ATTiny2313, sourced with 5V, whe
 
 __After a little more work I have a functional device__ and it looks better than I expected. There are a few more features I want to add, and I want to work on the code some more, but I hope to be done tomorrow. The coolest part is that I've included an internal button which drives a pause/resume and speed-controller menu based upon the length of button presses! There's a lot of awesome stuff I want to write, but once again, I'll save it for the completed project page.
 
-<div class="img-border img-micro">
+<div class="img-border">
 
 ![](https://swharden.com/static/2009/06/04/img_2066.jpg)
 ![](https://swharden.com/static/2009/06/04/img_2076.jpg)

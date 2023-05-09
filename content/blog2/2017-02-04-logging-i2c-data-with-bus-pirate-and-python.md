@@ -8,7 +8,7 @@ tags: ["microcontroller", "circuit"]
 
 __I'm working on a project which requires I measure temperature via a computer, and I accomplished this with minimal complexity using a BusPirate and LM75A I2C temperature sensor.__ I already had some LM75A breakout boards I got on eBay (from China) a while back. A [current eBay search reveals](http://www.ebay.com/sch/?_nkw=LM75A) these boards are a couple dollars with free shipping. The IC itself is [available on Mouser](http://www.mouser.com/ProductDetail/NXP-Semiconductors/LM75AD118) for $0.61 each. The [LM75A datasheet](http://www.mouser.com/ds/2/302/LM75A-841329.pdf) reveals it can be powered from 2.8V-5.5V and has a resolution of 1/8 ºC (about 1/4 ºF). I attached the device to the Bus Pirate according to the [Bus Pirate I/O Pin Descriptions](http://dangerousprototypes.com/docs/Bus_Pirate_I/O_Pin_Descriptions) page (SCL->CLOCK and SDA->MOSI) and started interacting with it according to the [Bus Pirate I2C page](http://dangerousprototypes.com/docs/I2C). Since Phillips developed the [I2C protocol,](https://en.wikipedia.org/wiki/I%C2%B2C) a lot of manufacturers avoid legal trouble and call it TWI (two-wire interface).
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2017/02/04/busPirate_LM75A.jpeg)
 
@@ -39,7 +39,7 @@ Before automating anything, I figured out what I2C address this chip was using a
     *   _according to datasheet, must divide by 2^8 (256)_
     *   _7456/256 = 29.125 C = 84.425 F_
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2017/02/04/BusPirate_i2c_read.png)
 ![](https://swharden.com/static/2017/02/04/BusPirate_i2c_scan.png)

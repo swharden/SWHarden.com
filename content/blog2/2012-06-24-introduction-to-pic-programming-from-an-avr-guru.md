@@ -59,7 +59,7 @@ void main() // this is the main program
 
 __A couple notes about the code:__ the WDT=OFF disables the [watchdog timer](http://en.wikipedia.org/wiki/Watchdog_timer), which if left unchecked would continuously reboot the microcontroller. The FOSC=INTOSCIO_EC section tells the microcontroller to use its internal oscillator, allowing it to execute code without necessitating an external crystal or other clock source. As to what TRIS and LAT do, I'll refer you to [basic I/O operations with PIC](http://www.mikroe.com/eng/chapters/view/4/chapter-3-i-o-ports/).
 
-<div class="text-center img-medium">
+<div class="text-center">
 
 ![](https://swharden.com/static/2012/06/24/pic-ledblink.png)
 

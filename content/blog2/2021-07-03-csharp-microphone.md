@@ -13,7 +13,7 @@ Mono | Stereo
 ---|---
 <img src='https://swharden.com/static/2021/07/03/microphone-mono.gif'>|<img src='https://swharden.com/static/2021/07/03/microphone-stereo.gif'>
 
- Full source code is available on GitHub ([Program.cs](https://github.com/swharden/Csharp-Data-Visualization/blob/master/examples/2021-07-03-console-microphone/Program.cs))
+ Full source code is available on GitHub ([Program.cs](https://github.com/swharden/Csharp-Data-Visualization/blob/main/dev/old/2021-07-03-console-microphone/Program.cs))
 
 
 
@@ -113,6 +113,6 @@ private static void ShowPeakStereo(object sender, NAudio.Wave.WaveInEventArgs ar
 
 * [NuGet: NAudio](https://www.nuget.org/packages/NAudio)
 
-* [GitHub: console-microphone/Program.cs](https://github.com/swharden/Csharp-Data-Visualization/blob/master/examples/2021-07-03-console-microphone/Program.cs)
+* [GitHub: console-microphone/Program.cs](https://github.com/swharden/Csharp-Data-Visualization/blob/main/dev/old/2021-07-03-console-microphone/Program.cs)
 
 * [GitHub: C# Data Visualization](https://github.com/swharden/Csharp-Data-Visualization)

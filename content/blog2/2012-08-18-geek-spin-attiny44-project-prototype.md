@@ -43,7 +43,7 @@ __LISTEN__ to the [music with control beeps](http://www.SWHarden.com/blog/images
 
 __A few technical details__ are that I used an ATTiny44a microcontroller (it may have been an ATTiny2313, I can't remember for sure, but they're so similar it's virtually negligable).  The servos I used were cheap (maybe $4?) from eBay. They looked like the one pictured below. The servo position was controlled by PWM, but I manually sent the pulses and didn't actually use the integrated PWM in the microcontroller.  I can't remember why I did it this way - perhaps because it was so simple to use the _delay_us() and _delay_ms() functions? I also used an operational amplifier (if I remember, it was a LM741) to boost the left channel control signals rather than rectifying/assessing the left channel directly.
 
-<div class="text-center img-border img-micro">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/08/18/01_findpic.png)
 ![](https://swharden.com/static/2012/08/18/02_dropbg.jpg)

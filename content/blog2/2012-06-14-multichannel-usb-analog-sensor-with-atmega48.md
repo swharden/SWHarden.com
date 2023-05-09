@@ -28,7 +28,7 @@ __This is my final device.__ It's reading voltage on a single pin, sending this 
 __Below is a simplified description of the circuit__ that is employed in this project. Note that there are 6 ADC (analog to digital converter) inputs on the [ATMega48](http://www.atmel.com/devices/atmega48.aspx) IC, but for whatever reason I ended-up only hard-coding 5 into the software. Eventually I'll go back and re-declare this project a 6-channel sensor, but since I don't have six things to measure at the moment I'm fine keeping it the way it is. RST, SCK, MISO, and MOSI are used to program the microcontroller and do not need to be connected to anything for operation. The [max232](http://en.wikipedia.org/wiki/MAX232) was initially used as a level converter to allow the micro-controller to communicate with a PC via the serial port. However, shortly after this project was devised an upgrade was used to allow it to connect via USB. 
 
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/06/14/031.jpg)
 

@@ -10,11 +10,9 @@ This page contains notes about the analytical methods [LJPcalc](https://swharden
 
 > 💡 **Use [LJPcalc](https://swharden.com/LJPcalc/) to calculate Liquid Junction Potential (LJP) in your browser**
 
-## Table of Contents
-
-![](https://swharden.com/static/2021/01/13/TOC)
-
 ## LJP Calculation Notes
+
+{{<toc>}}
 
 ### LJPcalc Calculation Method
 

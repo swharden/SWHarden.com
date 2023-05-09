@@ -72,7 +72,7 @@ __The most comfortable electrodes I used were made for muscle simulators.__ A fr
 
 __You can make your own electrodes for $0.03!__ Okay that's a terrible joke, but it's true. I made not-awful electrodes by soldering wires to copper pennies, adding strength by super-gluing the wire to the penny, and using electrical tape to attach them to my chest. Unless you want a tattoo of an old guy's face on your torso, wait until they cool sufficiently after soldering before proceeding to the adhesion step. I suspect that super gluing the penny to your chest would also work, but please do not do this. Ironically, because the adhesive pads of the TENS electrodes wear away over time, the penny solution is probably "more reusable" than the commercial electrode option.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/08/08/IMG_7527.jpg)
 ![](https://swharden.com/static/2016/08/08/IMG_7570-1.jpg)

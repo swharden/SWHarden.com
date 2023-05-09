@@ -8,7 +8,7 @@ tags: ["med"]
 
 **I decided a while back that I’d shave my hair off as soon as I first noticed it falling out, and that day has come!** Almost every day before I go to sleep I give it a little tug and think, “still in there!”, but this morning I noticed it falling out in the shower. By lunch I was getting annoyed as hair kept landing on my keyboard at work. My coworker Jeff offered to shave it off at his place after work, and I couldn’t get it off fast enough!
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2018/09/13/DSC_0006_lzn.jpg)
 ![](https://swharden.com/static/2018/09/13/DSC_0115_lzn3.jpg)

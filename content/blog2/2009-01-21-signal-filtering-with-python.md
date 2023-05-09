@@ -22,11 +22,7 @@ __One method of reducing noise uses the FFT (Fast Fourier Transformation) and it
 
 __Here's some Python code you may find useful.__ The image below is the output of the Python code at the bottom of this entry. This python file requires that [test.wav](http://www.SWHarden.com/tmp/test.wav) (an actual ECG recording of my heartbeat) exist in the same folder.
 
-<div class="text-center img-border">
-
 ![](https://swharden.com/static/2009/01/21/sig.png)
-
-</div>
 
 *   (A) The original signal we want to isolate. (IE: our actual heart signal)
 *   (B) Some electrical noise. (3 sine waves of different amplitudes and periods)

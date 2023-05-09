@@ -15,14 +15,15 @@ tags: ["csharp", "microcontroller"]
 The main reason I like using FTDI devices is because when you plug them in to a modern computer, they just start working! You don't have to worry about drivers, driver versions, driver signing, third party drivers - most of the time it just does what it's supposed to do with no complexity. If I'm going to build a prototype device for a client, a FT-232 USB to serial converter is the way to go because I can be confident that when they plug in, their device will start working right away. Yeah, there are third party drivers to get extra open-sourcey functionality from FTDI devices ([libFTDI](https://www.intra2net.com/en/developer/libftdi/)), but I don't want to ask a client (with unknown tech-savviness) to install third-party unsigned drivers before plugging my device in (and heaven forbid the product doesn't work in their hands and I have to ask them to verify the device is actually using the third-party drivers and not defaulting back to the official ones). In this project I seek to use only the generic, default, officially-supported FTDI driver and API access will be provided by [libftd2xx](http://www.ftdichip.com/Drivers/D2XX.htm). Don't forget that USB ports supply 5V and GND, so in most cases you can power your project just from the USB port! All-in-all, the FT-232 is a great way to give a small device USB functionality. This post explores how to use it for more than just sending and receiving serial data...
 
 ### FT-232R Breakout Board
-<div class="text-center img-border">
+
+<div class="img-border">
 
 ![](https://swharden.com/static/2018/06/03/232r.png)
 
 </div>
 
 ### FT-232H Breakout Board
-<div class="text-center img-border">
+<div class="img-border">
 
 ![](https://swharden.com/static/2018/06/03/232h.png)
 
@@ -167,11 +168,17 @@ BitBangBytes(bytesToSend.ToArray());
 
 ```
 
-<div class="text-center img-border img-small">
-
-![](https://swharden.com/static/2018/06/03/ad9850-SPI-DDS.png)
-![](https://swharden.com/static/2018/06/03/scope-output.png)
-
+<div class="row">
+<div class="col p-5">
+<a href="https://swharden.com/static/2018/06/03/ad9850-SPI-DDS.png">
+<img src="https://swharden.com/static/2018/06/03/ad9850-SPI-DDS.png" class="border border-dark shadow">
+</a>
+</div>
+<div class="col p-5">
+<a href="https://swharden.com/static/2018/06/03/scope-output.png">
+<img src="https://swharden.com/static/2018/06/03/scope-output.png" class="border border-dark shadow">
+</a>
+</div>
 </div>
 
 If somebody wants to get fancy and create a quadrature sine wave synthesizer, one could do so with two AD9850 boards if they shared the same 125 MHz clock. The two crystals could be programmed to the same frequency, but separated in phase by 90º. This could be used for quadrature encoding/decoding of single sideband (SSB) radio signals. This method may be used to build a direct conversion radio receiver ideal for receiving CW signals while eliminating the undesired sideband. This technique is described [here](https://www.eetimes.com/document.asp?doc_id=1224754), [here](https://pdfs.semanticscholar.org/9ca4/d7b29b33ff47bde4945af854416ff0f0a9db.pdf), and [here](http://www.cs.tut.fi/kurssit/TLT-5806/RecArch.pdf).
@@ -245,6 +252,8 @@ Bit-banging pin states on FTDI chips is a cool hack, but it isn't necessarily th
 *   [Multi-Protocol Synchronous Serial Engine (MPSSE)](http://www.ftdichip.com/Support/Documents/AppNotes/AN_135_MPSSE_Basics.pdf) - Some FTDI chips support MPSSE, which can send SPI (or I2C or other) protocols without you having to worry about bit-banging pins. I chose not to pursue this option because I wanted to use my FT232R (one of the most common and inexpensive FTDI chips), which doesn't support MPSSE. ALthough I do have a FT232H which does support MPSSE ([example project](http://www.ftdichip.com/Support/Documents/AppNotes/AN_180_FT232H%20MPSSE%20Example%20-%20USB%20Current%20Meter%20using%20the%20SPI%20interface.pdf)), I chose not to use that feature for this project, favoring a single code/program to control all FTDI devices.
 
 *   [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - If you don't have a Bus Pirate already, [get one!](https://www.seeedstudio.com/s/bus%20pirate.html) It's one of the most convenient ways to get a new peripheral up and running. It's a USB device you can interact with through a serial terminal (supplied using a FTDI usb-to-serial converter, go fig) and you can tell it to send/receive commands to SPI or I2C devices. It does a lot more, and is worth checking out.
+
+* [FtdiSharp](https://github.com/swharden/FtdiSharp) - Several years after writing this blog post, I created a C# library for interacting with FTDI USB devices
 
 # Resources
 

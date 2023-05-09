@@ -155,6 +155,6 @@ We can't call our existing `createNewChart()` method because that expects data (
 
 * Source code: [blazor-google-charts.zip](https://swharden.com/static/2021/01/12/blazor-google-charts.zip)
 
-* Source code on GitHub: [/examples/2021-01-10-blazor-google-charts](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-10-blazor-google-charts)
+* Source code on GitHub: [/examples/2021-01-10-blazor-google-charts](https://github.com/swharden/Csharp-Data-Visualization/tree/main/dev/old/2021-01-10-blazor-google-charts)
 
 * [C# Data Visualization](https://github.com/swharden/Csharp-Data-Visualization) on GitHub

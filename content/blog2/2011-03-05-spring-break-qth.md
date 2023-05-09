@@ -10,7 +10,7 @@ __So here's the deal:__ I'm staying in Orlando, FL at my parents' home for a lar
 
 Let's start with the video. It summarizes the antenna, and even shows me making my 1st contact with it to a guy in Vermont, and I've been getting good signal reports from Europe and South America as well.
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5293.jpg)
 
@@ -18,7 +18,7 @@ Let's start with the video. It summarizes the antenna, and even shows me making 
 
 __This is what I started with.__ It's pink because it's the bedroom of my younger sister Leah. It might be a a little embarrassing to operate in such an environment, but my ego is up for the challenge!
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5295.jpg)
 
@@ -26,7 +26,7 @@ __This is what I started with.__ It's pink because it's the bedroom of my younge
 
 __The first thing__ I did was set up a table and run some wire out the window. I chose a window with a tree near by. The wire is not coax, but rather some el-cheapo speaker wire I found. It's not 50 ohm impedance, but I imagine it will make the tuner happy anyhow.
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5301.jpg)
 
@@ -34,7 +34,7 @@ __The first thing__ I did was set up a table and run some wire out the window. I
 
 __I tied some random objects__ to the end of a fishing line and used a fishing pole to cast them up and over the tree branch I wanted. Believe it or not this took a lot of time, effort, broken lines, and frustration. Have someone help you do it, or practice doing it! I now appreciate how in an emergency situation getting something like this up might not be as easy as it seems...
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5309.jpg)
 
@@ -42,7 +42,7 @@ __I tied some random objects__ to the end of a fishing line and used a fishing p
 
 __The end of the wire__ splits in two and connects to two quarter-wavelength legs of a dipole resonant at the 40m wavelength (7mhz frequency), with each orange piece of wire being about 33ft in length.
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5323.jpg)
 
@@ -50,7 +50,7 @@ __The end of the wire__ splits in two and connects to two quarter-wavelength leg
 
 __When the fishing line__ looped over the branch (tied to the speaker wire) is hoisted up, the branch acts like a pulley and pulls the whole system up. You can see the junction of the wires if you look closely in the image...
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5313.jpg)
 
@@ -58,7 +58,7 @@ __When the fishing line__ looped over the branch (tied to the speaker wire) is h
 
 __The thing isn't__ that visible, which is a plus. I don't want anyone to know I operate! Notice how the orange wires are virtually invisible, even against a blue sky. Slick!
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5324.jpg)
 
@@ -66,7 +66,7 @@ __The thing isn't__ that visible, which is a plus. I don't want anyone to know I
 
 __From far away__ the most noticeable wire is the speaker wire. I wish it weren't reflective with a white stripe! Oh well, it's all I've got. It's more dramatic since the setting sun is behind me. Also keep in mind that there is a tree/shrubbery between my nearest neighbor and me, so I don't think they can even see it from their house. 
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/IMG_5334.jpg)
 
@@ -78,7 +78,7 @@ __UPDATE:__ I've been making contacts on 40m, 20m, 17m, 12m, and 10m. I'm impres
 
 __ANTENNA UPDATE__ - I ended up stringing a SECOND (much longer) antenna. Although it's configured somewhat like a dipole, I consider it more of a long wire antenna. It's ridiculously long (about 100 ft) and high (about 20 ft). The other wire is more like a RF ground, and is about 150ft. Here's a photo of the new antenna (yellow) and the old antenna (orange). Both of them are functional, and I can switch between them quickly.
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/tennas.jpg)
 
@@ -92,7 +92,7 @@ __While operating from a portable station in Orlando, Florida__, I'm taking time
 
 {{<youtube -bJO39tESR0>}}
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/dipole2_1.jpg)
 ![](https://swharden.com/static/2011/03/05/dipole2_2.jpg)
@@ -117,7 +117,7 @@ __This is just a demonstration__ part for informational purposes and part just f
 
 __I also tried my hand at QRSS reception with this antenna__ (almost forgot to post it). I realized the shortcoming(s) of my QRSS VD software when I couldn't get it to run on my linux box! The netbook ran Ubuntu and used the pulse audio system and QRSS VD used PyAudio for linux audio support (runs fine on windows though) and PyAudio likes ALSA and not pulse! It's so frustrating - I wish there were a better cross-platform solution than pyAudio. Anyhow, in a humbling moment I ended-up actually using Argo (my "competitor" program) fired up with WINE under linux (burn, lol) to grab QRSS and save captures, then I used the QRSS Stitcher (my software) to assemble a few hours worth while the XYL and I went out to lunch. Frequency is 10.140MHz. Here's the result!
 
-<dev class="center border">
+<dev class="img-border">
 
 ![](https://swharden.com/static/2011/03/05/stitched1.jpg)
 

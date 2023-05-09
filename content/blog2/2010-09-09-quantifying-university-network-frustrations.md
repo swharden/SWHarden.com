@@ -8,19 +8,11 @@ tags: ["python", "obsolete"]
 
 __I'm sitting in class frustrated as could be.__ The Internet in this room is unbelievably annoying.  For some reason, everything runs fine, then functionality drops to unusable levels.  Downloading files (i.e., PDFs of lectures) occurs at about 0.5kb/s (wow), and Internet browsing is hopeless.  At most, I can connect to IRC and enjoy myself in #electronics, #python, and #linux. I decided to channel my frustration into productivity, and wrote a quick Python script to let me visualize the problem.
 
-<div class="text-center img-medium">
-
 ![](https://swharden.com/static/2010/09/09/out.png)
-
-</div>
 
 __Notice the massive lag spikes__ around the time class begins. I think it's caused by the retarded behavior of windows update and anti-virus software updates being downloaded on a gazillion computers all at the same time which are required to connect to the network on Windows machines. Class start times were 8:30am, 9:35am, and 10:40am.  Let's view it on a logarithmic scale:
 
-<div class="text-center img-medium">
-
 ![](https://swharden.com/static/2010/09/09/out2.png)
-
-</div>
 
 __Finally, the code.__ It's two scripts:
 

@@ -8,7 +8,7 @@ tags: ["med"]
 
 **I just finished my last bag of pre-transplant chemotherapy!** As of this morning the doctors said they are pleased with my numbers, and things are looking good so far. Even though the chemotherapy infusions stopped today, my blood counts will continue to drop (to near zero) over the next couple weeks during which I’ll be feeling really lousy. For now though, I feel surprisingly good (my medications are doing a great job of controlling the pain and nausea) and while my blood counts are high enough I’m even allowed to take occasional little walks around the hospital with a mask.
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2019/03/26/IMG_4565.jpg)
 ![](https://swharden.com/static/2019/03/26/IMG_0016.jpg)

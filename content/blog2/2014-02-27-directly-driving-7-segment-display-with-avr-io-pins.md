@@ -19,7 +19,7 @@ Segments are both current sourced and sunk directly from AVR IO pins. Digits are
 __SCHEMATIC?__ If you want it, read this. It's so simple I don't feel like making it. Refer to an [ATMega48 pin diagram](http://www.swharden.com/blog/images/atmega48pinout.png). The LCD is common anode (not common cathode), and here's the schematic on the right. I got it from eBay ([link](http://www.ebay.com/itm/4Pcs-7seg-4digit-LED-Display-work-with-arm7-MCU-Arduino-/280533977596?ssPageName=ADME:L:OC:US:3160)) for <$2.  The connections are as follows:
 
 
-<div class="text-center">
+<div class="text-center ">
 
 ![](https://swharden.com/static/2014/02/27/common-cathode-7-segment-display-lcd.jpg)
 
@@ -36,7 +36,7 @@ __SCHEMATIC?__ If you want it, read this. It's so simple I don't feel like makin
 
 __Here it all is together in my microcontroller programming set up.__ I'll place this device in a little enclosure and an an appropriate BNC connector and either plan on giving it USB power or run it from 3xAA batteries. For now, it works pretty darn well on the breadboard.
 
-<div class="text-center">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2014/02/27/IMG_2320.jpg)
 
@@ -139,7 +139,7 @@ __Nothing here is groundbreaking.__ It's simple, and convenient as heck. Hopeful
 
 __Update a two days later... __I found a similarly quick and dirty way to package this project in an enclosure. I had on hand some 85x50x21mm project boxes (eBay, 10 for $14.85, free shipping, about $1.50 each) so I used a [nibbler](http://www.amazon.com/Hand-Sheet-Metal-Nibbler-Cutter/dp/B000T5FV4Q) to hack out a square to accomodate the display. After a little super glue, ribbon cable, and solder, we're good to go!
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2014/02/27/IMG_2336.jpg)
 ![](https://swharden.com/static/2014/02/27/IMG_2351.jpg)

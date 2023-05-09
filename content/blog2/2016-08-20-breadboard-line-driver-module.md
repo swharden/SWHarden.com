@@ -10,7 +10,7 @@ __Sometimes I rapidly want to amplify a signal, but building amplifiers, buffers
 
 __Line driver chips are one of my go-tos for quickly amplifying digital signals because they're so fast to drop in a breadboard and they provide a strong output with very high impedance inputs and need no external components.__ Individual buffer of the integrated chip can be paralleled to multiply their current handling capabilities too. One of the common variants is the 74HC240. I don't know why it's so popular (I still find its pinout odd), but because it is popular it is cheap. They're [$0.50 on Mouser.com](http://www.mouser.com/Semiconductors/Integrated-Circuits-ICs/Logic-ICs/Buffers-Line-Drivers/_/N-6j78c?P=1z0z63x&Keyword=74hc240&FS=True) (perhaps cheaper on ebay) and [according to their datasheet](http://www.nxp.com/documents/data_sheet/74HC_HCT240.pdf) they can be run up to 7V to deliver or sink 20mA/pin with a maximum dissipation of 500mW. With propagation, enable, and disable times of tens of nanoseconds, they're not awful for lower-range radio frequencies (HF RF). This specific chip (somewhat comically at the exclusion of almost all others) has been latched onto by amateur radio operators who use it as an amplifier stage of low power (QRP) Morse code radio transmitters often pushing it to achieve ~1 watt of power output. A quick google [reveals](https://www.google.com/search?q=74hc240+transmitter) thousands of web pages discussing this! This [Portuguese site](http://py2ohh.w2c.com.br/trx/digital/rfdigital.htm) is one of the most thorough. Even if not used as the final amplifier, they're a convenient intermediate stage along an amplifier chain as they can directly drive FET final stages very well (probably best for class C operation). If you're interested, definitely check out [The Handiman's Guide to MOSFET "Switched Mode" Amplifiers guide by Paul Harden](http://www.aoc.nrao.edu/~pharden/hobby/_ClassDEF1.pdf) (no relation). Also his [part 2](http://www.aoc.nrao.edu/~pharden/hobby/_ClassDEF2.pdf).
 
-<div class="text-center img-medium">
+<div class="text-center">
 
 ![](https://swharden.com/static/2016/08/20/schematic.jpg)
 
@@ -18,7 +18,7 @@ __Line driver chips are one of my go-tos for quickly amplifying digital signals 
 
 This is the circuit I commonly build. I have one variant on hand for RF (extremely fast oscillations which are continuously fed into the device and often decoupled through a series capacitor), and one for TTL signals (extremely fast). __I find myself paralleling line driver outputs all the time. On a breadboard, this means tons of wires!__ __It becomes repetitive and a pain. I've started pre-packaging highly parallel line drivers into little modules which I find really convenient.__ I have a half dozen of these soldered and ready to go, and I can use them by simply dropping them into a breadboard and applying ground, power (+5V), and input signal, and it amplifies it and returns an output signal. Note that in the "Case 2: RF input" example, the inverted output of the first stage is continuously fed back into the input. This will result in continuous oscillation and undesired output if no input is supplied. In case 2, RF must be continuously applied. The advantage is that the feedback network holds the input near the threshold voltage, so very little voltage swing through the decoupling capacitor is required to generate strong output.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/08/20/IMG_7890.jpg)
 ![](https://swharden.com/static/2016/08/20/IMG_7894.jpg)
@@ -28,7 +28,7 @@ This is the circuit I commonly build. I have one variant on hand for RF (extreme
 
 __Although I have made this entirely floating, I prefer using copper-clad board.__ Not only does it aid heat dissipation and provide better mechanical structure, but it also serves as a partial RF shield to minimize noise in the input and output signals. A Dremel with a diamond wheel does a good job at cutting out notches in the copper-clad board.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/08/20/IMG_7898.jpg)
 ![](https://swharden.com/static/2016/08/20/IMG_7900.jpg)
@@ -54,7 +54,7 @@ __Although I often use it in a breadboard, it's easy to stick in a project.__ Si
 
 I glued this board inside my temporary project enclosure (which admittedly looks nicer and more permanent than it's actually intended to be) and set the output to deliver through 50 Ohm coax. It works beautifully!
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2016/08/20/IMG_7943.jpg)
 ![](https://swharden.com/static/2016/08/20/IMG_7948.jpg)

@@ -20,7 +20,7 @@ __This is the circuit came up with.__ My goal was to make it cheaply and what I 
 
 __On the microcontroller side, analog-to-digital measurement is summed-up pretty well in the datasheet.__ There is a lot of good documentation on the internet about how to get reliable, stable measurements. Decoupling capacitors, reference voltages, etc etc. That's outside the scope of today's topic. In my case, the output of the ADC went into the ATMega8 ADC5 (PC5, pin 28). Decoupling capacitors were placed at ARef and AVcc, according to the datasheet. Microcontroller code is at the bottom of this post.
 
-<div class="text-center">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2013/06/10/photo-3.jpg)
 

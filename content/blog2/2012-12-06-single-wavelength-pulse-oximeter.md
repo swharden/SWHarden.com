@@ -23,7 +23,7 @@ That's not how mine works. I only use a single illumination source (~660nm) and 
 __Here's what the device looks like assembled in a breadboard:__
 
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/12/06/IMG_5919.jpg)
 
@@ -31,7 +31,7 @@ __Here's what the device looks like assembled in a breadboard:__
 
 __I made a sensor__ by drilling appropriately-sized holes in a clothespin for the emitter (LED) and sensor (phototransistor). I had to bend the metal spring to make it more comfortable to wear. Light pressure is better than firm pressure, not only because it doesn't hurt as much, but because a firm pinch restricts blood flow considerably.
 
-<div class="text-center img-border img-small">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/12/06/IMG_5920.jpg)
 ![](https://swharden.com/static/2012/12/06/IMG_5924.jpg)
@@ -40,7 +40,7 @@ __I made a sensor__ by drilling appropriately-sized holes in a clothespin for th
 
 __An obvious next step__ is microcontroller + LCD (or computer) digitization, but for now all you can do is check it out on my old-school analog oscilloscope. Vertical squares represent 1V (nice!). You can see the pulse provides a solid 2V spike.
 
-<div class="text-center img-border img-medium">
+<div class="text-center img-border">
 
 ![](https://swharden.com/static/2012/12/06/pulse-scope.jpg)
 
