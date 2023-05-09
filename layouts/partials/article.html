@@ -5,11 +5,11 @@
     <div class="mt-2 mb-4">
 
         {{ if gt .Date.Year 1 }}
-        <a href='{{.Permalink}}'>{{.Date.Format "January 2, 2006"}}</a>
+        <a href='{{.Permalink}}' class="text-muted">{{.Date.Format "January 2, 2006"}}</a>
         {{ end }}
         
         {{ range .Params.tags }}
-        <code><a href=''>{{ . }}</a></code>
+        <code><a href='' class="text-muted">{{ . }}</a></code>
         {{ end }}
     </div>
 
