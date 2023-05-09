@@ -34,7 +34,5 @@ CanonifyURLs = true
     mediatype = "application/rss"
     baseName = "blog/feed/rss"
 
-[taxonomies] #none
-
 [sitemap]
   filename = 'blog/sitemap.xml'
