@@ -8,11 +8,9 @@ tags: ["blazor", "csharp"]
 
 **This project implements the [Boids flocking algorithm](https://en.wikipedia.org/wiki/Boids) in C# and uses Blazor WebAssembly to render it in the browser.** Drone birds (bird-oids, or boids) follow a simple set of rules to determine their angle and velocity. When many boids are placed in a field together, interesting group behaviors emerge. Details about the boid flocking algorithm are discussed in depth elsewhere. This article summarizes how to configure a Blazor application to _model_ graphics with C# and _render_ them with JavaScript.
 
-<div class="text-center">
-
-[![](https://swharden.com/static/2021/01/08/blazor-boids.gif)](https://swharden.com/static/2021/01/08/app)
-
-</div>
+<a href="https://swharden.com/static/2021/01/08/app">
+<img src="https://swharden.com/static/2021/01/08/blazor-boids.gif">
+</a>
 
 ### Live Demo
 

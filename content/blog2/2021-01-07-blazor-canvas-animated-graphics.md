@@ -8,11 +8,9 @@ tags: ["blazor", "csharp"]
 
 **Client-side Blazor allows C# graphics models to be rendered in the browser.** This means .NET developers can create web apps with business logic written (and tested) in C# instead of being forced to write their business logic in a totally different language (JavaScript) just to get it to run in the browser. In this project we'll create an interactive graphics model (a field of balls that bounce off the edge of the screen) entirely in C#, and draw the model on the screen using an API that allows us to interact with a HTML5 Canvas.
 
-<div class="text-center">
-
-[![](https://swharden.com/static/2021/01/07/blazor-canvas-demo.gif)](https://swharden.com/static/2021/01/07/app)
-
-</div>
+<a href="https://swharden.com/static/2021/01/07/app">
+<img src="https://swharden.com/static/2021/01/07/blazor-canvas-demo.gif">
+</a>
 
 * [**View the live demo**](https://swharden.com/static/2021/01/07/app)
 * [**Download the source code**](https://swharden.com/static/2021/01/07/blazor-canvas.zip)

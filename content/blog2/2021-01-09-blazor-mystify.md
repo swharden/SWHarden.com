@@ -8,11 +8,9 @@ tags: ["blazor", "csharp"]
 
 **The project simulates the classic _Mystify your Mind_ screensaver from Windows 3 using client-side Blazor.** The graphics model logic is entirely C# and the web interface has user-facing options (razor components) to customize its behavior in real time. To render a frame JavaScript calls a C# function that returns JSON containing an array of line details (colors and coordinates) so a JavaScript render function can draw them on a HTML canvas. While [.NET APIs for drawing on canvases](https://swharden.com/blog/2021-01-07-blazor-canvas-animated-graphics/) exist, I find this method to be a bit more versatile because it does not require any external libraries, and it only makes a single JS interop call on each render so it is appreciably faster.
 
-<div class="text-center">
-
-[![](https://swharden.com/static/2021/01/09/blazor-mystify.gif)](https://swharden.com/static/2021/01/09/app)
-
-</div>
+<a href="https://swharden.com/static/2021/01/09/app">
+<img src="https://swharden.com/static/2021/01/09/blazor-mystify.gif">
+</a>
 
 ### Live Demo
 

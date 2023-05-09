@@ -8,11 +8,9 @@ tags: ["blazor", "csharp"]
 
 **Google Charts is a free interactive JavaScript charting framework.** The [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery) showcases many of the available chart types and options. This project shows how to create data from C# functions in Blazor, then use JavaScript interop to pass arrays into JavaScript for display with Google Charts.
 
-<div class="text-center">
-
-[![](https://swharden.com/static/2021/01/12/blazor-google-charts.jpg)](https://swharden.com/static/2021/01/12/app)
-
-</div>
+<a href="https://swharden.com/static/2021/01/12/app">
+<img src="https://swharden.com/static/2021/01/12/blazor-google-charts.jpg">
+</a>
 
 * [Google Charts with Blazor Demo](https://swharden.com/static/2021/01/12/app) 👈 Try it live!
 
