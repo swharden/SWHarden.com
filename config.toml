@@ -36,3 +36,5 @@ CanonifyURLs = true
 
 [taxonomies] #none
 
+[sitemap]
+  filename = 'blog/sitemap.xml'
