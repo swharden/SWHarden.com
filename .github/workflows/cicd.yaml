@@ -35,5 +35,7 @@ jobs:
         run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/tags/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/blog/tags/'
       - name: 🚀 Deploy med/
         run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/med/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/med/'
+      - name: 🚀 Deploy about/
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/about/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/about/'
       - name: 🚀 Deploy index.html
         run: rsync -e 'ssh -p 18765' 'public/index.html' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/index.html'
