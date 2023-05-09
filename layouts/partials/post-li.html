@@ -2,9 +2,11 @@
     <a href='{{.Page.Permalink}}'>
         {{.Page.Title}}
     </a>
+    {{ if gt .Date.Year 1 }}
     <span>
         {{.Date.Format "January 2, 2006"}}
     </span>
+    {{ end }}
     <span>
         {{ range .Params.tags }}
         <code><a href='/blog/categories/#{{ anchorize . }}'>{{ . }}</a></code>

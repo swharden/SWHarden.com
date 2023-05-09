@@ -3,7 +3,11 @@
     <h1 class="mt-0"><a href='{{.Permalink}}'>{{.Title}}</a></h1>
     <div class="fs-5 fw-light">{{.Description}}</div>
     <div class="mt-2 mb-4">
+
+        {{ if gt .Date.Year 1 }}
         <a href='{{.Permalink}}'>{{.Date.Format "January 2, 2006"}}</a>
+        {{ end }}
+        
         {{ range .Params.tags }}
         <code><a href=''>{{ . }}</a></code>
         {{ end }}

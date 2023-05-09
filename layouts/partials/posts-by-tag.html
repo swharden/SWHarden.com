@@ -9,9 +9,11 @@
 <h3 class="mt-4" id='{{anchorize .Title}}'>{{.Title}}</h3>
 <ul>
     {{ range .Pages }}
+    {{ if gt .Date.Year 1 }}
     <li>
         {{ partial "post-li.html" . }}
     </li>
+    {{end}}
     {{end}}
 </ul>
 {{end}}
