@@ -24,6 +24,10 @@ CanonifyURLs = true
     noHl = false
     style = 'emacs' #https://xyproto.github.io/splash/docs/all.html
     tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
 
 [outputFormats]
   [outputFormats.RSS]
