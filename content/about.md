@@ -6,8 +6,8 @@ description: Scott W Harden, DMD, PhD
 **I'm Scott W Harden, and this is my personal website.** I use this space to share personal projects I work on and as a place to aggregate notes and documentation I collect along the way. My formal education is in molecular biology, dentistry, and neuroscience, but I am passionate about computer programming and electrical engineering.
 
 <div class="text-center my-5">
-<img src="scott-w-harden.jpg" style="width: 40%" class="img-fluid d-inline-block border-dark border m-3 shadow">
-<img src="scott-w-harden-dentist.jpg" style="width: 40%" class="img-fluid d-inline-block border-dark border m-3 shadow">
+<img src="https://swharden.com/static/misc/about/scott-w-harden.jpg" style="width: 40%" class="img-fluid d-inline-block border-dark border m-3 shadow">
+<img src="https://swharden.com/static/misc/about/scott-w-harden-dentist.jpg" style="width: 40%" class="img-fluid d-inline-block border-dark border m-3 shadow">
 </div>
 
 ## Contact
@@ -80,13 +80,13 @@ and an autologous bone marrow transplant.
 **About my disease:**
 <br>
 &bull; [Understanding Peripheral T-Cell Lymphoma (video)](https://www.youtube.com/watch?v=6ih0GTBGq7A)<br>
-&bull; [Peripheral T-Cell Lymphoma Fact Sheet (PDF)](ptcl.pdf)
+&bull; [Peripheral T-Cell Lymphoma Fact Sheet (PDF)](https://swharden.com/static/misc/about/ptcl.pdf)
 
 **How to help:**
 <br>
 &bull; Join the [bone marrow donor registry](https://my.bethematch.org/s/join) (for US adults 18-40, it's free and just requires a cheek swab!)
 
-<img src="scott-harden-cancer-after-transplant.jpg" class="mx-auto w-75 my-5 border-dark border shadow">
+<img src="https://swharden.com/static/misc/about/scott-harden-cancer-after-transplant.jpg" class="mx-auto w-75 my-5 border-dark border shadow">
 
 At the time of writing (early 2022) I am doing well, 
 but the future of my disease remains somewhat uncertain. 
