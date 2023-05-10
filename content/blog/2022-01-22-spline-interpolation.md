@@ -186,7 +186,7 @@ There are many different methods that can smooth data. Common methods include [B
 A set of X/Y points can be interpolated such that they are evenly spaced on the X axis. This 1D interpolation can be used to change the sampling rate of time series data. For more information about 1D interpolation see my other blog post: [Resample Time Series Data using Cubic Spline Interpolation](https://swharden.com/blog/2022-06-23-resample-interpolation/)
 
 <a href="https://swharden.com/blog/2022-06-23-resample-interpolation/">
-<img src="https://swharden.com/blog/2022-06-23-resample-interpolation/2-resample.png" class="mx-auto d-block mb-5">
+<img src="https://swharden.com/static/2022/06/23/2-resample.png" class="mx-auto d-block mb-5">
 </a>
 
 ## Resources
