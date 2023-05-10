@@ -42,4 +42,4 @@ jobs:
       - name: 🚀 Deploy index.html
         run: rsync -e 'ssh -p 18765' 'public/index.html' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/index.html'
       - name: 🧹 Purge Cache
-        run: curl --data 'key=${{ secrets.PURGE_KEY }}'' https://swharden.com/purge/
+        run: curl --data 'key=${{ secrets.PURGE_KEY }}' https://swharden.com/purge/
