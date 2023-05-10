@@ -2,6 +2,8 @@
 
 {{ partial "article.html" . }}
 
-{{ partial "single-footer.html" . }}
+{{ if gt .Date.Year 1 }}
+{{ partial "post-next-prev.html" . }}
+{{ end }}
 
 {{ end }}
