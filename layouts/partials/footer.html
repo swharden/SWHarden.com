@@ -1,28 +1,23 @@
-<footer class="container mx-auto my-5">
+<footer class="mt-5 mb-3 text-center" style="opacity: .3;">
 
-    <div class="row">
-        <div class="col-md-6 text-center my-4">
-            {{ if .Next }}
-            <div class="fs-3">Newer</div>
-            <div class="">
-                <a href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>
-            </div>
-            <div class="text-muted">
-                {{ .Next.Date.Format "January 2, 2006" }}
-            </div>
-            {{ end }}
-        </div>
-        <div class="col-md-6 text-center my-4">
-            {{ if .Prev }}
-            <div class="fs-3">Older</div>
-            <div class="">
-                <a href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
-            </div>
-            <div class="text-muted">
-                {{ .Prev.Date.Format "January 2, 2006" }}
-            </div>
-            {{ end }}
-        </div>
+    <div>
+        Copyright &copy; {{ now.Format "2006" }}
+        <a href='https://swharden.com/about' class="text-dark">Scott W Harden</a>
+    </div>
+
+    <div>
+        Built with
+        <a href='https://github.com/gohugoio/hugo' class="text-dark">
+            Hugo {{ .Site.Hugo.Version }}
+        </a>
+        on {{ time now | time.Format ":date_long" }}
+        at {{ time now "America/New_York" | time.Format ":time_short" }} EST
+    </div>
+
+    <div>
+        <a href="https://github.com/swharden/swharden.com" class="text-dark">
+            https://github.com/swharden/swharden.com
+        </a>
     </div>
 
 </footer>

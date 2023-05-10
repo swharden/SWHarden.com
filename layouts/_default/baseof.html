@@ -55,30 +55,7 @@
         {{ block "main" . }}
         {{ end }}
 
-        <footer class="my-5 text-center" style="opacity: .3;">
-
-            <div>
-                Copyright &copy; {{ now.Format "2006" }}
-                <a href='https://swharden.com/about' class="text-dark">Scott W Harden</a>
-            </div>
-
-            <div>
-                Built with
-                <a href='https://github.com/gohugoio/hugo' class="text-dark">
-                    Hugo {{ .Site.Hugo.Version }}
-                </a>
-                on {{ time now | time.Format ":date_long" }}
-                at {{ time now "America/New_York" | time.Format ":time_short" }} EST
-            </div>
-
-            <div>
-                Source:
-                <a href="https://github.com/swharden/swharden.com" class="text-dark">
-                    https://github.com/swharden/swharden.com
-                </a>
-            </div>
-
-        </footer>
+        {{ partial "footer.html" . }}
 
     </main>
 

@@ -1,0 +1,28 @@
+<footer class="container mx-auto my-5">
+
+    <div class="row">
+        <div class="col-md-6 text-center my-4">
+            {{ if .Next }}
+            <div class="fs-3">Newer</div>
+            <div class="">
+                <a href="{{ .Next.Permalink }}">{{ .Next.Title }}</a>
+            </div>
+            <div class="text-muted">
+                {{ .Next.Date.Format "January 2, 2006" }}
+            </div>
+            {{ end }}
+        </div>
+        <div class="col-md-6 text-center my-4">
+            {{ if .Prev }}
+            <div class="fs-3">Older</div>
+            <div class="">
+                <a href="{{ .Prev.Permalink }}">{{ .Prev.Title }}</a>
+            </div>
+            <div class="text-muted">
+                {{ .Prev.Date.Format "January 2, 2006" }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+</footer>
