@@ -160,3 +160,29 @@ nav .btn-primary {
     margin: 0px;
     display: inline-block;
 }
+
+/* github button style links */
+
+.github-button {
+    text-decoration: none !important;
+    cursor: pointer;
+    color: #24292f;
+    border: none;
+    background-color: #f6f8fa;
+    border-radius: 10px;
+    border: 1px solid #d6d8db;
+    line-height: 1.0;
+    display: inline-flex;
+    align-items: center;
+    font-weight: 600;
+    padding: .5em;
+}
+
+.github-button:hover {
+    background-color: #f3f4f6;
+    border-color: #d0d2d4;
+}
+
+.github-button img {
+    margin: 0px;
+}
