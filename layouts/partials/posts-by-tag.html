@@ -1,4 +1,4 @@
-<h3>Categories:</h3>
+<h3>Tags:</h3>
 <ul>
     {{range ($.Site.GetPage "taxonomyTerm" "tags").Pages }}
     <li><a href='#{{anchorize .Title}}'>{{ .Title }}</a></li>

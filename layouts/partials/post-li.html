@@ -7,9 +7,9 @@
         {{.Date.Format "January 2, 2006"}}
     </span>
     {{ end }}
-    <span>
+    <span class="text-muted">
         {{ range .Params.tags }}
-        <code><a href='/blog/tags/#{{ anchorize . }}'>{{ . }}</a></code>
+        <code>{{ partial "tag-icon.html" . }}&nbsp;<a href='/blog/tags/#{{ anchorize . }}' class="text-muted">{{ . }}</a></code>
         {{ end }}
     </span>
 </div>
