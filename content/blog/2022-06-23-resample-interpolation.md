@@ -215,7 +215,7 @@ plt.SaveFig("output.png");
 
 **The interpolation method described above only considered the horizontal axis** when generating evenly-spaced time points (1D interpolation). For information and code examples regarding 2D and 3D cubic spline interpolation, see my previous blog post: [Spline Interpolation with C#](https://swharden.com/blog/2022-01-22-spline-interpolation/) 
 
-<a href="https://swharden.com/blog/2022-01-22-spline-interpolation/"><img src="https://swharden.com/blog/2022-01-22-spline-interpolation/screenshot.gif" class="mx-auto d-block mb-5"></a>
+<a href="https://swharden.com/blog/2022-01-22-spline-interpolation/"><img src="https://swharden.com/static/2022/01/22/screenshot.gif" class="mx-auto d-block mb-5"></a>
 
 ## Resources
 
