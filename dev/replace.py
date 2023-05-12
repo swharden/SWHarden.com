@@ -1,8 +1,3 @@
-"""
-This script attempts to fix the majority of relative URLs by modifying
-them to point to the full static location based on the page name.
-"""
-
 import pathlib
 from article import Article
 
