@@ -185,7 +185,7 @@ $i++;
 </html>
 ```
 
-__And you're done!__  This example is a simplified, bare bones example.  You can take this a long way if you'd like.  My goal is lite & flexible.  A quick query from [Python](http://www.python.org) and [Matplotlib](https://swharden.com/static/2009/08/04/matplotlib.sourceforge.net/) (for example) yields gorgeous visual representations of otherwise-convoluted data!
+__And you're done!__  This example is a simplified, bare bones example.  You can take this a long way if you'd like.  My goal is lite & flexible.  A quick query from [Python](http://www.python.org) and [Matplotlib](https://matplotlib.org/) (for example) yields gorgeous visual representations of otherwise-convoluted data!
 <a href="http://www.SWHarden.com/blog/images/graph_time.png" onclick="javascript:urchinTracker ('/outbound/article/www.SWHarden.com');">
 
 <div class="text-center">

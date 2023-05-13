@@ -62,7 +62,7 @@ __Digitization:__ Once amplified, the ECG signal along with a bunch of noise is 
 
 ## Parts/Cost
 
-I'll be upfront and say that I spent $0.00 making my ECG machine, because I was able to salvage all the parts I needed from a pile of old circuit boards. If you need specific components, check your local RadioShack. If that's a no-go, hit-up [Digikey](http://www.DigiKey.com) (it's probably cheaper too). Also, resistor values are flexible. Use mine as a good starter set, and vary them to suit your needs. If you buy everything from [Digikey](https://swharden.com/static/2009/08/14/www.DigiKey.com), the total cost of this project would be about $1. For now, here's a list of all the parts you need:
+I'll be upfront and say that I spent $0.00 making my ECG machine, because I was able to salvage all the parts I needed from a pile of old circuit boards. If you need specific components, check your local RadioShack. If that's a no-go, hit-up [Digikey](https://www.DigiKey.com) (it's probably cheaper too). Also, resistor values are flexible. Use mine as a good starter set, and vary them to suit your needs. If you buy everything from [Digikey](https://www.DigiKey.com), the total cost of this project would be about $1. For now, here's a list of all the parts you need:
 
 *   1x low voltage op-amp [LM358N](http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=LM358NFS-ND) $0.40
 *   1x 100kOhm resistor (brn,blk,yel) virtually free

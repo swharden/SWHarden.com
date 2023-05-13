@@ -11,7 +11,7 @@ date: 2009-06-13 17:14:08
 
 </div>
 
-__This morning I woke up at 4:45am__, hopped out of bed, and raced to the university parking lot for field day. It's pretty much a flea market with an emphasis in ham radio and associated electronics. This is a panorama of the parking lot the tailgate was held in, taken from the roof of a parking garage at about 9am. The [UCF ARC](https://swharden.com/static/2009/06/13/www.k4ucf.ucf.edu/) (the amateur radio club which sponsored the event) is stationed under the white tent.
+__This morning I woke up at 4:45am__, hopped out of bed, and raced to the university parking lot for field day. It's pretty much a flea market with an emphasis in ham radio and associated electronics. This is a panorama of the parking lot the tailgate was held in, taken from the roof of a parking garage at about 9am. The [UCF ARC](http://k4ucf.ucf.edu/) (the amateur radio club which sponsored the event) is stationed under the white tent.
 
 <div class="text-center img-border">
 

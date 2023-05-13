@@ -24,7 +24,7 @@ tags: ["circuit", "amateur radio"]
 
 <a href="http://www.stephenhobley.com/blog/2011/03/02/still-messing-with-forces-i-dont-understand-the-formula/">Etching PCBs</a> with hydrogen peroxide, vinegar, and table salt (wow!)
 
-<a href="http://swharden.com/qrssvd/files/morse.exe">Morse.exe</a> - A good way to learn Morse code!
+<a href="https://swharden.com/static/2011/01/09/morse.zip">Morse.exe</a> - A good way to learn Morse code!
 
 ## High Altitude Balloon
 

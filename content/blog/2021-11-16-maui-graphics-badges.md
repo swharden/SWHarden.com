@@ -11,8 +11,8 @@ tags: ["csharp", "maui", "graphics"]
 
 <div class="text-center">
 
-![](https://swharden.com/static/2021/11/16/images/demo1.png)
-![](https://swharden.com/static/2021/11/16/images/demo1b.png)
+![](https://swharden.com/static/2021/11/16/demo1.png)
+![](https://swharden.com/static/2021/11/16/demo1b.png)
 
 </div>
 
@@ -152,7 +152,7 @@ myBadge.SavePng("demo.png");
 
 <div class="text-center">
 
-![](https://swharden.com/static/2021/11/16/images/demo1.png)
+![](https://swharden.com/static/2021/11/16/demo1.png)
 
 </div>
 
@@ -170,7 +170,7 @@ myBadge.SavePng("demo1b.png");
 
 <div class="text-center">
 
-![](https://swharden.com/static/2021/11/16/images/demo1b.png)
+![](https://swharden.com/static/2021/11/16/demo1b.png)
 
 </div>
 
@@ -187,9 +187,9 @@ myBadge.SavePng("demo5.png", scale: 5);
 
 <div class="text-center">
 
-![](https://swharden.com/static/2021/11/16/images/demo1.png)
-![](https://swharden.com/static/2021/11/16/images/demo2.png)
-![](https://swharden.com/static/2021/11/16/images/demo5.png)
+![](https://swharden.com/static/2021/11/16/demo1.png)
+![](https://swharden.com/static/2021/11/16/demo2.png)
+![](https://swharden.com/static/2021/11/16/demo5.png)
 
 </div>
 
