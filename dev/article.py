@@ -1,5 +1,6 @@
 import pathlib
 import chardet
+import re
 
 
 class Article:
@@ -18,6 +19,10 @@ class Article:
 
     def replace(self, search, replace):
         self.text = self.text.replace(search, replace)
+
+    def replace_ignore_case(self, search, replace):
+        pattern = re.compile(search, re.IGNORECASE)
+        self.text = pattern.sub(replace, self.text)
 
     def get_lines(self):
         return self.text.split("\n")

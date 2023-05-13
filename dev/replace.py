@@ -4,19 +4,7 @@ from article import Article
 
 def fix(file: pathlib.Path):
     article = Article(file)
-    lines = article.get_lines()
-
-    for i in range(len(lines)):
-        if lines[i].startswith("---") and i > 0:
-            break
-        if lines[i].startswith("Title:"):
-            lines[i] = lines[i].replace("Title:", "title:")
-        if lines[i].startswith("Tags:"):
-            lines[i] = lines[i].replace("Tags:", "tags:")
-        if lines[i].startswith("Description:"):
-            lines[i] = lines[i].replace("Description:", "description:")
-
-    article.set_lines(lines)
+    article.replace_ignore_case("http://swharden.com", "https://swharden.com")
     article.save()
 
 
