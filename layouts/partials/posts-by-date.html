@@ -7,14 +7,3 @@
     {{ end }}
     {{ end }}
 </ul>
-
-<h2>Other Pages</h2>
-<ul>
-    {{ range .Site.Pages }}
-    {{ if eq .Date.Year 1 }}
-    <li>
-        {{ partial "post-li.html" . }}
-    </li>
-    {{ end }}
-    {{ end }}
-</ul>

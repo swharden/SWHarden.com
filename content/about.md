@@ -1,6 +1,8 @@
 ---
 title: About Scott
 description: Scott W Harden, DMD, PhD
+_build:
+  list: never
 ---
 
 **I'm Scott W Harden, and this is my personal website.** I use this space to share personal projects I work on and as a place to aggregate notes and documentation I collect along the way. My formal education is in molecular biology, dentistry, and neuroscience, but I am passionate about computer programming and electrical engineering.

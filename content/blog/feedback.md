@@ -1,6 +1,8 @@
 ---
 title: Feedback
 description: How to provide feedback about the content of this website
+_build:
+  list: never
 ---
 
 ### GitHub (Preferred) 🚀
