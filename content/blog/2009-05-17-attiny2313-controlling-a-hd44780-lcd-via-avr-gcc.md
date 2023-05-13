@@ -14,7 +14,7 @@ __After a day of tinkering I finally figured out how to control a HD44780 displa
 
 </div>
 
-__You might recognize this LCD panel__ from some [PC parallel port / LCD interface projects](http://www.swharden.com/blog/old-stuff-of-interest/#lcd) I worked on about 5 years ago. It's a 20-column, 2-row, 8-bit parallel character LCD. This means that rather than telling each little square to light up to form individual letters, you can just output text to the microcontroller embedded in the display and it can draw the letters, move the cursor, or clear the screen. These are the connections I made were:
+__You might recognize this LCD panel__ from some [PC parallel port / LCD interface projects](https://swharden.com/blog/old-stuff-of-interest/#lcd) I worked on about 5 years ago. It's a 20-column, 2-row, 8-bit parallel character LCD. This means that rather than telling each little square to light up to form individual letters, you can just output text to the microcontroller embedded in the display and it can draw the letters, move the cursor, or clear the screen. These are the connections I made were:
 
 *   LCD1 -&gt; GND
 *   LCD2 -&gt; +5V

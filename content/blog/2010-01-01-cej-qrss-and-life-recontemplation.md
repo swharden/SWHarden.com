@@ -66,7 +66,7 @@ __As far as life goes,__ I'm discovering that it's not the attainment of a goal 
 
 </div>
 
-__Yes, that's an antenna made from copper pipe, wire, and toilet paper rolls. __I wound the wire around the base and created various tap points so it serves as a variable inductor depending on where I gator-clip the radio. Not pictured are 33' radials running inside my apartment serving as grounding. The antenna feeds into a [Pixie II direct conversion receiver / QRP transmitter](http://www.swharden.com/blog/images/pixie2transceiver.gif) which dumps its output to a laptop computer. I copied some [PSK-31](http://en.wikipedia.org/wiki/PSK31) transmissions from Canada with this setup. It works way better than a long / random wire antenna because it dramatically boosts signal-to-noise when tuned to the proper frequency.
+__Yes, that's an antenna made from copper pipe, wire, and toilet paper rolls. __I wound the wire around the base and created various tap points so it serves as a variable inductor depending on where I gator-clip the radio. Not pictured are 33' radials running inside my apartment serving as grounding. The antenna feeds into a [Pixie II direct conversion receiver / QRP transmitter](https://swharden.com/blog/images/pixie2transceiver.gif) which dumps its output to a laptop computer. I copied some [PSK-31](http://en.wikipedia.org/wiki/PSK31) transmissions from Canada with this setup. It works way better than a long / random wire antenna because it dramatically boosts signal-to-noise when tuned to the proper frequency.
 
 <div class="text-center img-border">
 

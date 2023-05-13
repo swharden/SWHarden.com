@@ -16,7 +16,7 @@ __I've been working on the pySquelch project__ which is basically a method to gr
 
 </div>
 
-__This graph represents frequency activity with respect to time. __The semi-transparent gray line represents the raw frequency usage in fractional minutes the frequency was tied-up by transmissions. The solid blue line represents the same data but smoothed by 10 minutes (in both directions) by the Gaussian smoothing method modified slightly from my [linear data smoothing with Python page](http://www.swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/).
+__This graph represents frequency activity with respect to time. __The semi-transparent gray line represents the raw frequency usage in fractional minutes the frequency was tied-up by transmissions. The solid blue line represents the same data but smoothed by 10 minutes (in both directions) by the Gaussian smoothing method modified slightly from my [linear data smoothing with Python page](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/).
 
 <div class="text-center img-border">
 

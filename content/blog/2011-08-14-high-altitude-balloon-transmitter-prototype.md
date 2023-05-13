@@ -36,9 +36,9 @@ __Although during my tests I power the device from my bench-top power supply__ (
 
 __There's the device in action while it was in a breadboard.__ I've since wired it up in a perf board (pictured) and left it to transmit into a small string of wire inside my apartment as an antenna as I went to the UF Gator Amateur Radio Club (a few miles away) and tried to tune into it. It produced a stunningly beautiful signal! I can't wait for its first test on a high altitude balloon!  Here it's transmitting CW Morse code the words "scott rocks", separated by appropriate call sign identification every 10 minutes, AJ4VD, my amateur radio license... of course!
 
-* [cw.mp3](http://www.SWHarden.com/blog/images/cw.mp3)
+* [cw.mp3](https://swharden.com/blog/images/cw.mp3)
 
-* [usb.mp3](http://www.SWHarden.com/blog/images/usb.mp3)
+* [usb.mp3](https://swharden.com/blog/images/usb.mp3)
 
 __Above is what the audio sounded like__ with a narrow CW filter (awesome, right?), and a 3KHz wide USB configuration. I think this should be more than enough to carry us through a mission, and aid in direction finding of a landed payload!
 

@@ -6,7 +6,7 @@ tags: ["qrss", "amateur radio", "obsolete"]
 
 
 
-<blockquote class="wp-block-quote"><p><b>SUMMARY:</b> A small group of high school students taking an AP class for college credit launched a high-altitude weather balloon with a small payload. In addition to a video transmitter and GPS transmitter, they decided to include a simple transmitter built from scratch. This is the story of the project, with emphasis on the simple transmitter's design, construction, implementation, and reception (which surprised me, being detected ~200 miles away and lasting the entire duration of the flight!) [<a href="http://www.SWHarden.com/blog/images/beeps.ogg">sample.ogg</a>]</p></blockquote>
+<blockquote class="wp-block-quote"><p><b>SUMMARY:</b> A small group of high school students taking an AP class for college credit launched a high-altitude weather balloon with a small payload. In addition to a video transmitter and GPS transmitter, they decided to include a simple transmitter built from scratch. This is the story of the project, with emphasis on the simple transmitter's design, construction, implementation, and reception (which surprised me, being detected ~200 miles away and lasting the entire duration of the flight!) [<a href="https://swharden.com/blog/images/beeps.ogg">sample.ogg</a>]</p></blockquote>
 
 # 6/16/2010 - TRACKING
 
@@ -20,7 +20,7 @@ __I'm impressed __ how well the transmitter/receiver worked! For only a few mill
 
 __ANALYSIS:__ the text on the image describes most if it, but one of the most interesting features is the "multipathing" during the final moments of the descent, where the single carrier signal splits into two. I believe this is due to two Doppler shifts: (1) as the distance between the falling transmitter and the receiver is decreasing, producing a slight in increase in frequency, and (2) a signal reflected off of a layer of the atmosphere above the craft (the ionosphere?) before it gets to the receiver, the distance of which is increasing as the craft falls, producing a decrease in frequency. I'll bet I can mathematically work backwards and determine how high the craft was, how fast it was falling, and/or how high the layer of the reflecting material is - but that's more work than this dental student is prepared to do before his morning coffee!
 
-__HERE IS SOME AUDIO__ of some of the strongest signals I received. Pretty good for a few milliwatts a hundred miles away! \[[beeps.ogg](http://www.SWHarden.com/blog/images/beeps.ogg)\]
+__HERE IS SOME AUDIO__ of some of the strongest signals I received. Pretty good for a few milliwatts a hundred miles away! \[[beeps.ogg](https://swharden.com/blog/images/beeps.ogg)\]
 
 # 6/16/2010 - THE FLIGHT
 
@@ -112,7 +112,7 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 # 6/15/2010 - IMPROVED BUILD
 
-__Here you can see me__ (center arrow) showing the students how to receive the Morse code signal sent from the small transmitter (left arrow) using a laptop running [QRSS VD (my software)](http://www.swharden.com/blog/qrss_vd/) analyzing audio from and an Icom706 mkII radio receiver attached to a dipole (right arrow).
+__Here you can see me__ (center arrow) showing the students how to receive the Morse code signal sent from the small transmitter (left arrow) using a laptop running [QRSS VD (my software)](https://swharden.com/blog/qrss_vd/) analyzing audio from and an Icom706 mkII radio receiver attached to a dipole (right arrow).
 
 <div class="text-center img-border">
 
@@ -157,7 +157,7 @@ __Here's the test setup.__ The transmitter is on the blue pad on the right, and 
 
 </div>
 
-__With the amplifier off__, the output power is just that of the oscillator. Although the wave should look like a sine wave, it's noisy, and simply does not. While this is unacceptable if our goal is a clean radio signal with maximum efficiency, this is good enough to be heard at our target frequency. The PPV (peak-to-peak voltage) as seen on the screen is about 100mV. Since I'm using a x10 probe, this value should be multiplied by 10 = 1V. 1V PPV into 39 ohms is about __3 milliwatts!__ ((1/(2\*2^.5))^2/39\*1000=3.2). For the math, see [this post](http://www.swharden.com/blog/2010-05-28-measuring-qrp-radio-output-power-with-an-oscilliscope/)
+__With the amplifier off__, the output power is just that of the oscillator. Although the wave should look like a sine wave, it's noisy, and simply does not. While this is unacceptable if our goal is a clean radio signal with maximum efficiency, this is good enough to be heard at our target frequency. The PPV (peak-to-peak voltage) as seen on the screen is about 100mV. Since I'm using a x10 probe, this value should be multiplied by 10 = 1V. 1V PPV into 39 ohms is about __3 milliwatts!__ ((1/(2\*2^.5))^2/39\*1000=3.2). For the math, see [this post](https://swharden.com/blog/2010-05-28-measuring-qrp-radio-output-power-with-an-oscilliscope/)
 
 __With the amplifier,__ the output is much more powerful. At 600mV peak-to-peak with a 10x probe (actually 6V peak-to-peak, expected because that's the voltage of the 4xAAA battery supply we're using) into 39 ohms we get __115 millivolts!__ (6/(2\*2^.5))^2/39\*1000=115.38.
 
@@ -260,7 +260,7 @@ int main(void) // PROGRAM STARTS HERE
 }
 ```
 
-__I'm now wondering if I should further amplify this signal's output power.__ Perhaps a 74HC240 can handle 9V? ... or maybe it would be better to use 4 AAA batteries in series to give me about 6V. \[ponders\] [this](http://www.SWHarden.com/blog/images/balloon_transmitter_amplified.png) is the schematic I'm thinking of building.
+__I'm now wondering if I should further amplify this signal's output power.__ Perhaps a 74HC240 can handle 9V? ... or maybe it would be better to use 4 AAA batteries in series to give me about 6V. \[ponders\] [this](https://swharden.com/blog/images/balloon_transmitter_amplified.png) is the schematic I'm thinking of building.
 
 **UPDATE:** This story was featured on [Hack-A-Day](http://hackaday.com/2010/07/27/200-mile-rf-transmitter-and-high-altitude-balloon/)! Way to go everyone!
 

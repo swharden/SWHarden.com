@@ -6,7 +6,7 @@ tags: ["microcontroller", "circuit", "obsolete"]
 
 
 
-__I'm working to further simplify my frequency counter design.__ This one is simpler than [my previous design](http://www.swharden.com/blog/2011-03-14-frequency-counter-finished/) both in hardware and software! Here's a video to demonstrate the device in its current state:
+__I'm working to further simplify my frequency counter design.__ This one is simpler than [my previous design](https://swharden.com/blog/2011-03-14-frequency-counter-finished/) both in hardware and software! Here's a video to demonstrate the device in its current state:
 
 {{<youtube FUdxwntNh1c>}}
 

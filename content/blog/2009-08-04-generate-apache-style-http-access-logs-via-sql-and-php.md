@@ -6,7 +6,7 @@ tags: ["obsolete"]
 
 
 
-__Does your web hosting company block access to access.log, the text file containing raw website log files?__  If so, you're like me, and it sucks.  There's a plethora of gorgeous and extremely insightful website traffic analyzers, but all of them require access to raw HTTP access logs.  Today I propose a semi-efficient way to generate such logs utilizing PHP to determine page load data (time, user IP, requested page, referring page, user client, etc) and SQL to save such data for easy retrieval later.  Note that this method is a HUGE improvement of my previous project which [used PHP scripts to store HTTP access logs as flat files](http://www.swharden.com/blog/2009-01-22-using-php-to-create-apache-style-accesslog/).  Although it worked in theory, in all practicality the process of opening, writing to, and closing a text file (which grew a few MB a week) was too cumbersome for my server to comfortable handle.  The method described on this page utilizes [SQL](http://en.wikipedia.org/wiki/SQL), a database engine well-suited to meet these exact demands.  When we're done, you'll be able to use a web interface to view your access log (pictured, converting long, complicated search queries to web search and image search strings automatically), or have the option to export it directly to an access.log text file in a standard Apache-style format.
+__Does your web hosting company block access to access.log, the text file containing raw website log files?__  If so, you're like me, and it sucks.  There's a plethora of gorgeous and extremely insightful website traffic analyzers, but all of them require access to raw HTTP access logs.  Today I propose a semi-efficient way to generate such logs utilizing PHP to determine page load data (time, user IP, requested page, referring page, user client, etc) and SQL to save such data for easy retrieval later.  Note that this method is a HUGE improvement of my previous project which [used PHP scripts to store HTTP access logs as flat files](https://swharden.com/blog/2009-01-22-using-php-to-create-apache-style-accesslog/).  Although it worked in theory, in all practicality the process of opening, writing to, and closing a text file (which grew a few MB a week) was too cumbersome for my server to comfortable handle.  The method described on this page utilizes [SQL](http://en.wikipedia.org/wiki/SQL), a database engine well-suited to meet these exact demands.  When we're done, you'll be able to use a web interface to view your access log (pictured, converting long, complicated search queries to web search and image search strings automatically), or have the option to export it directly to an access.log text file in a standard Apache-style format.
 
 <div class="text-center img-border">
 
@@ -186,7 +186,7 @@ $i++;
 ```
 
 __And you're done!__  This example is a simplified, bare bones example.  You can take this a long way if you'd like.  My goal is lite & flexible.  A quick query from [Python](http://www.python.org) and [Matplotlib](https://matplotlib.org/) (for example) yields gorgeous visual representations of otherwise-convoluted data!
-<a href="http://www.SWHarden.com/blog/images/graph_time.png" onclick="javascript:urchinTracker ('/outbound/article/www.SWHarden.com');">
+<a href="https://swharden.com/blog/images/graph_time.png" onclick="javascript:urchinTracker ('/outbound/article/www.SWHarden.com');">
 
 <div class="text-center">
 

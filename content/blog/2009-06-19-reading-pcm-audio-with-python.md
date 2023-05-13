@@ -41,10 +41,10 @@ __This will produce a graph that looks like this:__
 __Could it have been ANY easier?__ I'm so in love with python I could cry right now.  With the powerful tools Numpy provides to rapidly and efficiently analyze large arrays (PCM potential values) combined with the easy-to-use graphing tools Matplotlib provides, I'd say you can get well on your way to analyzing PCM audio for your project in no time.  Good luck!
 
 __FOR MORE INFORMATION AND CODE__ check out:
-* [Linear Data Smoothing In Python](http://www.swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/)
-* [Signal Filtering With Python](http://www.swharden.com/blog/2009-01-21-signal-filtering-with-python/)
-* [Circuits Vs. Software](http://www.swharden.com/blog/2009-01-15-circuits-vs-software/)
-* [DIY ECG](http://www.swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) of entries.
+* [Linear Data Smoothing In Python](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/)
+* [Signal Filtering With Python](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/)
+* [Circuits Vs. Software](https://swharden.com/blog/2009-01-15-circuits-vs-software/)
+* [DIY ECG](https://swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) of entries.
 
 __Let's get fancy and use this concept to determine the number of seconds in a 1-minute PCM file in which a radio transmission occurs.__  I was given a 1-minute PCM file with a ~45 second transmission in the middle.  Here's the graph of the result of the code posted below it.  (Detailed descriptions are at the bottom)
 

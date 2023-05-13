@@ -8,7 +8,7 @@ tags: ["amateur radio", "circuit", "obsolete"]
 
 __This is a project I intend to work on over Christmas break.__ I'm wondering if I can make a simple HF transceiver capable of working _any HF band_ by driving a [Pixie II CW transceiver](http://www.indianapolis.net/QRPp-I/elmer001/pixie2-schematic.gif) with a [SI 570 digital programmable oscillator](http://www.rfsystem.it/shop/images/si570_view.jpg).
 
-Here's what my pixie II sounds like on [80m.mp3](http://www.SWHarden.com/blog/images/80m.mp3) and [40m.mp3](http://www.SWHarden.com/blog/images/40m.mp3) with a strong antenna.
+Here's what my pixie II sounds like on [80m.mp3](https://swharden.com/blog/images/80m.mp3) and [40m.mp3](https://swharden.com/blog/images/40m.mp3) with a strong antenna.
 
 <div class="text-center img-border">
 

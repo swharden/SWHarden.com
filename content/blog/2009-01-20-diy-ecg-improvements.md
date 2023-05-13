@@ -10,7 +10,7 @@ tags: ["diyECG"]
 * [**Sound Card ECG with AD8232**](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
 * [**Single op-amp ECG**](https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/)
 
-Instead of using a [single op-amp circuit](http://www.swharden.com/blog/images/opampecg.gif) like the previous entries which gave me [decent but staticky](http://www.swharden.com/blog/images/diy_ecg4.png) traces, I decided to build [a more advanced ECG circuit](http://www.eng.utah.edu/~jnguyen/ecg/bigsch.gif) documented by [Jason Nguyen](http://www.eng.utah.edu/~jnguyen/ecg/ecg_index.html) which used 6 op amps! (I'd only been using one). Luckily I got a few couple LM324 quad op-amps from radioshack ($1.40 each), so I had everything I needed.
+Instead of using a [single op-amp circuit](https://swharden.com/blog/images/opampecg.gif) like the previous entries which gave me [decent but staticky](https://swharden.com/blog/images/diy_ecg4.png) traces, I decided to build [a more advanced ECG circuit](http://www.eng.utah.edu/~jnguyen/ecg/bigsch.gif) documented by [Jason Nguyen](http://www.eng.utah.edu/~jnguyen/ecg/ecg_index.html) which used 6 op amps! (I'd only been using one). Luckily I got a few couple LM324 quad op-amps from radioshack ($1.40 each), so I had everything I needed.
 
 <div class="text-center img-border">
 

@@ -6,7 +6,7 @@ tags: ["qrss", "obsolete"]
 
 
 
-__That's over 1,00 miles on a few milliwatts!__ The transmitter is the ridiculously simple one pictured below. I'm blown away! It was seen on [ running ](http://w1bw.org/drupal/grabber)[QRSS VD](http://www.SWHarden.com/qrssvd/) software! Awesome!!
+__That's over 1,00 miles on a few milliwatts!__ The transmitter is the ridiculously simple one pictured below. I'm blown away! It was seen on [ running ](http://w1bw.org/drupal/grabber)[QRSS VD](https://swharden.com/qrssvd/) software! Awesome!!
 
 <div class="text-center img-border">
 

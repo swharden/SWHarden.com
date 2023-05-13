@@ -17,7 +17,7 @@ __The circuitry is textbook simple.__ Appropriately configured, the AVR generate
 
 {{<youtube 1VCkhPTAHjY>}}
 
-__This code sends a message in Morse code.__ It seems too easy!  Applications are endless, as this is one heck of an easy way to send audio from a micro-controller to a radio, and possibly to a computer. Morse code is easy, and since we have the ability to dynamically generate different audio frequencies and tones, data exchange is easy too!  Nothing's stopping you from adding the code to turn this into a RTTY (or [Hellschreiber?](http://www.swharden.com/blog/2011-08-05-i-before-e-except-after-hellschreiber/)) transmitter.
+__This code sends a message in Morse code.__ It seems too easy!  Applications are endless, as this is one heck of an easy way to send audio from a micro-controller to a radio, and possibly to a computer. Morse code is easy, and since we have the ability to dynamically generate different audio frequencies and tones, data exchange is easy too!  Nothing's stopping you from adding the code to turn this into a RTTY (or [Hellschreiber?](https://swharden.com/blog/2011-08-05-i-before-e-except-after-hellschreiber/)) transmitter.
 
 
 <div class="text-center img-border">

@@ -4,7 +4,7 @@ from article import Article
 
 def fix(file: pathlib.Path):
     article = Article(file)
-    article.replace_ignore_case("http://swharden.com", "https://swharden.com")
+    article.replace_ignore_case("http://www.swharden.com", "https://swharden.com")
     article.save()
 
 

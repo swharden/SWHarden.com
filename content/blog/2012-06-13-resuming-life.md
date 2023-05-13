@@ -56,7 +56,7 @@ __The truth is__, when Angelina died, life stopped. I stopped answering email, I
 
 </div>
 
-__Angelina left a few special reminders on my workbench.__ A few months after she died, and as I would unpacking my workstation again, I noticed a carving she made in my workbench. I almost threw away this table when I moved, and I'm so glad I didn't. I think Angelina carved it with a car key, probably [on the day this post was made](http://www.swharden.com/blog/2011-02-20-rf-workshop-launched/), when I left her unattended for a while soldering at my station. I also found a message she wrote on my roll of solder. I didn't remember seeing it before, so I imagine it was something she wrote the last few days she was alive. It is really special to me.
+__Angelina left a few special reminders on my workbench.__ A few months after she died, and as I would unpacking my workstation again, I noticed a carving she made in my workbench. I almost threw away this table when I moved, and I'm so glad I didn't. I think Angelina carved it with a car key, probably [on the day this post was made](https://swharden.com/blog/2011-02-20-rf-workshop-launched/), when I left her unattended for a while soldering at my station. I also found a message she wrote on my roll of solder. I didn't remember seeing it before, so I imagine it was something she wrote the last few days she was alive. It is really special to me.
 
 <div class="text-center img-border">
 

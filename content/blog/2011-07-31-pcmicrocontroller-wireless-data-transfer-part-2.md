@@ -17,7 +17,7 @@ __Last week I had the crazy idea__ of sending data from a PC to a microchip thro
 
 </div>
 
-__This is part two of a multi-page project.__ To fully understand what I'm trying to accomplish and why I want to accomplish it, read [the first part of the project](http://www.swharden.com/blog/2011-07-26-pcmicrocontroller-wireless-data-transfer/).
+__This is part two of a multi-page project.__ To fully understand what I'm trying to accomplish and why I want to accomplish it, read [the first part of the project](https://swharden.com/blog/2011-07-26-pcmicrocontroller-wireless-data-transfer/).
 
 {{<youtube wMHR3j4EDQ4>}}
 

@@ -14,7 +14,7 @@ __My microcontroller-powered prime number calculator is complete!__ Although I'm
 
 </div>
 
-__This device generates large prime numbers (v) while keeping track of how many prime numbers have been identified (N).__ For example, the 5th prime number is 11. Therefore, at one time this device displayed N=5 and V=11. N and V are displayed on the LCD. In the photo the numbers mean the 16,521,486th prime is 305,257,039 ([see for yourself!](http://primes.utm.edu/nthprime/index.php#nth)). The LCD had some history. [In December, 2003 (6 years ago) I worked with this SAME display](http://www.swharden.com/blog/2003/12/), and I even located the [blog entry on November 25'th, 2003](http://www.swharden.com/blog/2003-11-25-doh/) where I mentioned I was thinking of buying the LCD (it was $19 at the time). Funny stuff. Okay, fast forward to today. Primes (Ns and Vs) are displayed on the LCD.
+__This device generates large prime numbers (v) while keeping track of how many prime numbers have been identified (N).__ For example, the 5th prime number is 11. Therefore, at one time this device displayed N=5 and V=11. N and V are displayed on the LCD. In the photo the numbers mean the 16,521,486th prime is 305,257,039 ([see for yourself!](http://primes.utm.edu/nthprime/index.php#nth)). The LCD had some history. [In December, 2003 (6 years ago) I worked with this SAME display](https://swharden.com/blog/2003/12/), and I even located the [blog entry on November 25'th, 2003](https://swharden.com/blog/2003-11-25-doh/) where I mentioned I was thinking of buying the LCD (it was $19 at the time). Funny stuff. Okay, fast forward to today. Primes (Ns and Vs) are displayed on the LCD.
 
 <div class="text-center img-border">
 

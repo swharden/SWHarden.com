@@ -48,13 +48,13 @@ __There are a few random photos of the build.__ It's just a microcontroller read
 
 __Thinking of making your own?__ Go for it! Here are some of my other posts which describe the development of this thing (including stuff I tried that didn't work). Everything I ordered should be stocked at mouser.com.
 
-* [this post demonstrates it in action](http://www.swharden.com/blog/2011-02-12-wideband-receiver-works/)
+* [this post demonstrates it in action](https://swharden.com/blog/2011-02-12-wideband-receiver-works/)
 
-* [this post shows it being used too](http://www.swharden.com/blog/2011-02-09-minimal-radio-project-continues/)
+* [this post shows it being used too](https://swharden.com/blog/2011-02-09-minimal-radio-project-continues/)
 
-* [this post shows the first time I really got it working](http://www.swharden.com/blog/2011-02-04-frequency-counter-working/)
+* [this post shows the first time I really got it working](https://swharden.com/blog/2011-02-04-frequency-counter-working/)
 
-* [this post has the SCHEMATIC for the counter!](http://www.swharden.com/blog/2011-01-28-home-brew-transceiver-taking-shape/)
+* [this post has the SCHEMATIC for the counter!](https://swharden.com/blog/2011-01-28-home-brew-transceiver-taking-shape/)
 
 __I guess that sums it up!__ What a fun hack. If you have any questions feel free to contact me (link in the menu on the right), and if you make one of these of your own I'd LOVE to see it! I'll even slap a photo of yours on my site to share with everyone. I had fun working on this project. If you're at all into radio, I recommend you try attacking a project like this too! It's more efficient at determining frequency than turning on a commercial radio receiver and spinning the dial until you hear your transmitter ^_^
 

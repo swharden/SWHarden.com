@@ -6,7 +6,7 @@ tags: ["circuit", "obsolete"]
 
 
 
-__I somehow forgot about a cool project I made over a year ago!__ I guess dental school got in the way of my productivity. It's a little ironic how the last post was about something I made a year ago screwing up, and this one is about something I made a year ago turning out well!  Anyhow, the world's only battery powered microcontroller based handheld prime number generator I made last year (documented [here](http://www.swharden.com/blog/2009-06-10-primary-prototype-complete/), [here](http://www.swharden.com/blog/2009-06-04-prime-prototype-construction/), and [here](http://www.swharden.com/blog/2009-06-07-mcppng-nearing-completion/)) got some new exposure this morning when it was posted on [HackADay.com](http://www.HackADay.com)! 
+__I somehow forgot about a cool project I made over a year ago!__ I guess dental school got in the way of my productivity. It's a little ironic how the last post was about something I made a year ago screwing up, and this one is about something I made a year ago turning out well!  Anyhow, the world's only battery powered microcontroller based handheld prime number generator I made last year (documented [here](https://swharden.com/blog/2009-06-10-primary-prototype-complete/), [here](https://swharden.com/blog/2009-06-04-prime-prototype-construction/), and [here](https://swharden.com/blog/2009-06-07-mcppng-nearing-completion/)) got some new exposure this morning when it was posted on [HackADay.com](http://www.HackADay.com)! 
 
 <div class="text-center img-border">
 

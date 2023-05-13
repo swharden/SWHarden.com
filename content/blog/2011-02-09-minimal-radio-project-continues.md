@@ -24,7 +24,7 @@ As you can see, it's running on 9V batteries! The frequency counter has its own 
 
 </div>
 
-I now have a small battery powered handheld frequency counter. SWEET! I need to contrive a spectacular case for it. I can't wait! It's probably the most impressive thing I've ever made with respect to the "cool factor". Does it look like a bomb? That probably makes it cooler! It just needs a big red on/off switch labeled "MISSILE LAUNCH", then it'll be the coolest thing on the planet! ... moving on ... <a <a="" href="http://www.SWHarden.com/blog/images/IMG_5261.JPG">
+I now have a small battery powered handheld frequency counter. SWEET! I need to contrive a spectacular case for it. I can't wait! It's probably the most impressive thing I've ever made with respect to the "cool factor". Does it look like a bomb? That probably makes it cooler! It just needs a big red on/off switch labeled "MISSILE LAUNCH", then it'll be the coolest thing on the planet! ... moving on ... <a <a="" href="https://swharden.com/blog/images/IMG_5261.JPG">
 
 <div class="text-center img-border">
 

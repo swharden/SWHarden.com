@@ -36,7 +36,7 @@ __Here is the code__ I used to produce this image.
 import datetime, pylab, numpy
 
 class blogChrono():
-    baseUrl="http://www.SWHarden.com/blog"
+    baseUrl="https://swharden.com/blog"
     posts=[]
     dates=[]
     def __init__(self,fname):
