@@ -44,4 +44,4 @@ tags: ["diyECG", "csharp"]
 
 </div>
 
-**Personal update:** My website posts (and YouTube videos) have slowed dramatically as I've been dealing with some complicated medical issues. I don't intend on posting medical updates on this web page, but anyone interested in following my medical treatments can do so at http://swharden.com/med/
+**Personal update:** My website posts (and YouTube videos) have slowed dramatically as I've been dealing with some complicated medical issues. I don't intend on posting medical updates on this web page, but anyone interested in following my medical treatments can do so at https://swharden.com/med/

@@ -125,7 +125,7 @@ Similar QRSS frequency tables:
 
 ## Resources
 
-* This page can be found at http://swharden.com/qrss
+* This page can be found at https://swharden.com/qrss
 
 * [QRSS Plus](https://swharden.com/qrss/plus/) is an automatically-updating active QRSS grabber list
 

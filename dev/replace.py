@@ -9,6 +9,6 @@ def fix(file: pathlib.Path):
 
 
 if __name__ == "__main__":
-    for file in pathlib.Path("content/blog2/").glob("*.md"):
-        # print(file)
+    for file in pathlib.Path("content/blog/").glob("*.md"):
+        print(file)
         fix(file)
