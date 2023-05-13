@@ -39,7 +39,7 @@ __The idea is that by sending bursts of sine waves,__ the circuit can rectify th
 
 </div>
 
-__LISTEN__ to the [music with control beeps](https://swharden.com/blog/images/2012/08/GOLEEKGO.mp3) (it's a surprisingly fun listen)
+__LISTEN__ to the [music with control beeps](https://swharden.com/static/2012/08/18/leek.mp3) (it's a surprisingly fun listen)
 
 __A few technical details__ are that I used an ATTiny44a microcontroller (it may have been an ATTiny2313, I can't remember for sure, but they're so similar it's virtually negligable).  The servos I used were cheap (maybe $4?) from eBay. They looked like the one pictured below. The servo position was controlled by PWM, but I manually sent the pulses and didn't actually use the integrated PWM in the microcontroller.  I can't remember why I did it this way - perhaps because it was so simple to use the _delay_us() and _delay_ms() functions? I also used an operational amplifier (if I remember, it was a LM741) to boost the left channel control signals rather than rectifying/assessing the left channel directly.
 

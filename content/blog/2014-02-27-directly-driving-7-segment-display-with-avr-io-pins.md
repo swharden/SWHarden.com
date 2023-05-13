@@ -16,7 +16,7 @@ __I came across the need for a quick and dirty display to show a 4 digit number 
 
 Segments are both current sourced and sunk directly from AVR IO pins. Digits are multiplexed with 1ms illumination duration. I don't really have a part number for the component because it was a China eBay special. The display was $6.50 for 4 (free shipping). That's ~$1.65 each. The microcontroller is ~$1.[/caption]
 
-__SCHEMATIC?__ If you want it, read this. It's so simple I don't feel like making it. Refer to an [ATMega48 pin diagram](https://swharden.com/blog/images/atmega48pinout.png). The LCD is common anode (not common cathode), and here's the schematic on the right. I got it from eBay ([link](http://www.ebay.com/itm/4Pcs-7seg-4digit-LED-Display-work-with-arm7-MCU-Arduino-/280533977596?ssPageName=ADME:L:OC:US:3160)) for <$2.  The connections are as follows:
+__SCHEMATIC?__ If you want it, read this. It's so simple I don't feel like making it. Refer to an [ATMega48 pin diagram](https://swharden.com/static/2010/11/24/atmega48pinout.png). The LCD is common anode (not common cathode), and here's the schematic on the right. I got it from eBay ([link](http://www.ebay.com/itm/4Pcs-7seg-4digit-LED-Display-work-with-arm7-MCU-Arduino-/280533977596?ssPageName=ADME:L:OC:US:3160)) for <$2.  The connections are as follows:
 
 
 <div class="text-center ">

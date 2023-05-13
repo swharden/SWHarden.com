@@ -6,7 +6,7 @@ tags: ["qrss", "amateur radio", "obsolete"]
 
 
 
-<blockquote class="wp-block-quote"><p><b>SUMMARY:</b> A small group of high school students taking an AP class for college credit launched a high-altitude weather balloon with a small payload. In addition to a video transmitter and GPS transmitter, they decided to include a simple transmitter built from scratch. This is the story of the project, with emphasis on the simple transmitter's design, construction, implementation, and reception (which surprised me, being detected ~200 miles away and lasting the entire duration of the flight!) [<a href="https://swharden.com/blog/images/beeps.ogg">sample.ogg</a>]</p></blockquote>
+<blockquote class="wp-block-quote"><p><b>SUMMARY:</b> A small group of high school students taking an AP class for college credit launched a high-altitude weather balloon with a small payload. In addition to a video transmitter and GPS transmitter, they decided to include a simple transmitter built from scratch. This is the story of the project, with emphasis on the simple transmitter's design, construction, implementation, and reception (which surprised me, being detected ~200 miles away and lasting the entire duration of the flight!) [<a href="https://swharden.com/static/2010/07/14/beeps.ogg">sample.ogg</a>]</p></blockquote>
 
 # 6/16/2010 - TRACKING
 
@@ -20,7 +20,7 @@ __I'm impressed __ how well the transmitter/receiver worked! For only a few mill
 
 __ANALYSIS:__ the text on the image describes most if it, but one of the most interesting features is the "multipathing" during the final moments of the descent, where the single carrier signal splits into two. I believe this is due to two Doppler shifts: (1) as the distance between the falling transmitter and the receiver is decreasing, producing a slight in increase in frequency, and (2) a signal reflected off of a layer of the atmosphere above the craft (the ionosphere?) before it gets to the receiver, the distance of which is increasing as the craft falls, producing a decrease in frequency. I'll bet I can mathematically work backwards and determine how high the craft was, how fast it was falling, and/or how high the layer of the reflecting material is - but that's more work than this dental student is prepared to do before his morning coffee!
 
-__HERE IS SOME AUDIO__ of some of the strongest signals I received. Pretty good for a few milliwatts a hundred miles away! \[[beeps.ogg](https://swharden.com/blog/images/beeps.ogg)\]
+__HERE IS SOME AUDIO__ of some of the strongest signals I received. Pretty good for a few milliwatts a hundred miles away! [beeps.ogg](https://swharden.com/static/2010/07/14/beeps.ogg)
 
 # 6/16/2010 - THE FLIGHT
 
@@ -112,7 +112,7 @@ Note the coil of yellow wire. That serves as a rudimentary "ground" for the ante
 
 # 6/15/2010 - IMPROVED BUILD
 
-__Here you can see me__ (center arrow) showing the students how to receive the Morse code signal sent from the small transmitter (left arrow) using a laptop running [QRSS VD (my software)](https://swharden.com/blog/qrss_vd/) analyzing audio from and an Icom706 mkII radio receiver attached to a dipole (right arrow).
+__Here you can see me__ (center arrow) showing the students how to receive the Morse code signal sent from the small transmitter (left arrow) using a laptop running QRSS VD analyzing audio from and an Icom706 mkII radio receiver attached to a dipole (right arrow).
 
 <div class="text-center img-border">
 
@@ -260,7 +260,7 @@ int main(void) // PROGRAM STARTS HERE
 }
 ```
 
-__I'm now wondering if I should further amplify this signal's output power.__ Perhaps a 74HC240 can handle 9V? ... or maybe it would be better to use 4 AAA batteries in series to give me about 6V. \[ponders\] [this](https://swharden.com/blog/images/balloon_transmitter_amplified.png) is the schematic I'm thinking of building.
+__I'm now wondering if I should further amplify this signal's output power.__ Perhaps a 74HC240 can handle 9V? ... or maybe it would be better to use 4 AAA batteries in series to give me about 6V. \[ponders\] [this](https://swharden.com/static/2010/07/14/balloon_transmitter_amplified.png) is the schematic I'm thinking of building.
 
 **UPDATE:** This story was featured on [Hack-A-Day](http://hackaday.com/2010/07/27/200-mile-rf-transmitter-and-high-altitude-balloon/)! Way to go everyone!
 

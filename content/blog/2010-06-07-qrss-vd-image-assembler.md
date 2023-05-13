@@ -6,7 +6,7 @@ tags: ["qrss", "obsolete", "python"]
 
 
 
-This minimal Python script will convert a directory filled with tiny image captures such as [this](https://swharden.com/blog/images/mass-W1BW_2jpg.jpg) into gorgeous montages as seen below! I whipped-up this script tonight because I wanted to assess the regularity of my transmitter's embarrassing drift. I hope you find it useful.
+This minimal Python script will convert a directory filled with tiny image captures such as [this](https://swharden.com/static/2010/06/07/mass-W1BW_2jpg.jpg) into gorgeous montages as seen below! I whipped-up this script tonight because I wanted to assess the regularity of my transmitter's embarrassing drift. I hope you find it useful.
 
 <div class="text-center img-border">
 
