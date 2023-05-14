@@ -1,9 +1,13 @@
+{{ range site.RegularPages.GroupByDate "2006" }}
+
+<h1>{{ .Key }}</h1>
+
 <ul>
-    {{ range .Site.RegularPages.ByDate.Reverse }}
-    {{ if gt .Date.Year 1 }}
+    {{ range .Pages }}
     <li>
         {{ partial "post-li.html" . }}
     </li>
     {{ end }}
-    {{ end }}
 </ul>
+
+{{ end }}
