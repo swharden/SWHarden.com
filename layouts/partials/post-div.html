@@ -1,0 +1,23 @@
+<div class="my-3">
+    <div>
+        <a href='{{.Page.Permalink}}' style="font-weight: 600">
+            {{.Page.Title}}
+        </a>
+    </div>
+
+    <div>
+        {{ if .Page.Description }}
+        {{ .Page.Description }}
+        {{ else }}
+        {{ end }}
+    </div>
+
+    <div>
+        <a href='{{.Page.Permalink}}' class="text-muted font-monospace">
+            {{.Date.Format "January 2, 2006"}}
+        </a>
+        {{ range .Params.tags }}
+        <code>{{ partial "tag-icon.html" . }}&nbsp;<a href='/blog/tags/#{{ anchorize . }}' class="text-muted">{{ . }}</a></code>
+        {{ end }}
+    </div>
+</div>

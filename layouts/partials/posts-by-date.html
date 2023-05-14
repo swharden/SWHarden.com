@@ -1,13 +1,11 @@
 {{ range site.RegularPages.GroupByDate "2006" }}
 
-<h1>{{ .Key }}</h1>
+<h1 id="{{ .Key }}"><a href="#{{ .Key }}">{{ .Key }}</a></h1>
 
-<ul>
-    {{ range .Pages }}
-    <li>
-        {{ partial "post-li.html" . }}
-    </li>
-    {{ end }}
-</ul>
+{{ range .Pages }}
+{{ partial "post-div.html" . }}
+{{ end }}
+
+<hr class="my-4" style="opacity: 0" />
 
 {{ end }}
