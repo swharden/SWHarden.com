@@ -194,12 +194,25 @@ public void DrawLine(int x1, int y1, int x2, int y2, Color color)
         for (int x = xMin; x <= xMax; x++)
             SetPixel(x, yMin, color);
     }
-    else
+    else if (ySpan > xSpan)
     {
         for (int y = yMin; y <= yMax; y++)
         {
             double frac = (y - yMin) / (double)ySpan;
+            if (y2 < y1)
+                frac = 1 - frac;
             int x = (int)(frac * xSpan + xMin);
+            SetPixel(x, y, color);
+        }
+    }
+    else
+    {
+        for (int x = xMin; x <= xMax; x++)
+        {
+            double frac = (x - xMin) / (double)xSpan;
+            if (x2 < x1)
+                frac = 1 - frac;
+            int y = (int)(frac * ySpan + yMin);
             SetPixel(x, y, color);
         }
     }
