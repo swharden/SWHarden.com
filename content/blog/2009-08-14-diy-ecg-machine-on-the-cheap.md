@@ -151,7 +151,7 @@ __Now you're ready to analyze!__ Plop your .snd file in the same folder as my [`
 
 </div>
 
-__This is a small region of the ECG trace.__ The "R" peak is most obvious, but the details of the other peaks are not as visible. If you want more definition in the trace (such as the blue one at the top of the page), consider applying a small collection of customized band-stop filters to the audio file rather than a single, sweeping lowpass filter. Refer to [earlier posts in the DIY ECG category](https://swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) for details. Specifically, code on [Circuits vs. Software for noise reduction](https://swharden.com/blog/2009-01-15-circuits-vs-software/) entry can help. For our purposes, calculating heart rate from R-to-R intervals (RRIs) can be done accurately with traces such as this.
+__This is a small region of the ECG trace.__ The "R" peak is most obvious, but the details of the other peaks are not as visible. If you want more definition in the trace (such as the blue one at the top of the page), consider applying a small collection of customized band-stop filters to the audio file rather than a single, sweeping lowpass filter. Refer to [earlier posts in the DIY ECG category](https://swharden.com/blog/tags/#diyecg) for details. Specifically, code on [Circuits vs. Software for noise reduction](https://swharden.com/blog/2009-01-15-circuits-vs-software/) entry can help. For our purposes, calculating heart rate from R-to-R intervals (RRIs) can be done accurately with traces such as this.
 
 <div class="text-center">
 
@@ -215,7 +215,7 @@ __If you want to try this, go for it!__ Briefly, this circuit uses 6 op-amps to 
 
 ## Miscellaneous Thoughts
 
-*   More homemade ECG information can be found on my [earlier posts in the DIY ECG category](https://swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/), however this page is the primary location of my most recent thoughts and ideas.
+*   More homemade ECG information can be found on my [earlier posts in the DIY ECG category](https://swharden.com/blog/tags/#diyecg), however this page is the primary location of my most recent thoughts and ideas.
 *   You can use moisturizing lotion between the electrodes and your skin to increase conduction. However, keep in mind that _better conduction is not always what you want_. You'll have to experiment for yourself.
 *   Variation in location of electrodes will vary the shape of the ECG. I usually place electrodes on each side of my chest near my arms. If your ECG appears upside-down, reverse the leads!
 *   Adding extra leads can improve grounding. Try grounding one of your feet with a third lead to improve your signal. Also, if you're powering your device via USB power consider trying battery power - it should be less noisy.

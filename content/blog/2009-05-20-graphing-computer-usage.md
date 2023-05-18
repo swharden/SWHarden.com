@@ -6,7 +6,7 @@ tags: ["python", "obsolete"]
 
 
 
-__I enjoy writing Python scripts to analyze and display linear data.__ One of my favorite blog entries is [Linear Data Smoothing with Python](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), developed for my [homemade electrocardiogram](https://swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) project. I installed a program called TimeTrack.exe on my work computer. It basically logs whenever you open or close a program. The data output looks like this:
+__I enjoy writing Python scripts to analyze and display linear data.__ One of my favorite blog entries is [Linear Data Smoothing with Python](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), developed for my [homemade electrocardiogram](https://swharden.com/blog/tags/#diyecg) project. I installed a program called TimeTrack.exe on my work computer. It basically logs whenever you open or close a program. The data output looks like this:
 
 ```
 "Firefox","Prototype of a Digital Biopsy Device - Mozilla Firefox","05/19/2009  9:45a","05/19/2009  9:45a","766ms","0.0"

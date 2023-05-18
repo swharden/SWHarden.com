@@ -8,7 +8,7 @@ tags: ["diyECG", "python", "obsolete"]
 
 > **⚠️ SEE UPDATED POST:** [**Signal Filtering in Python**](https://swharden.com/blog/2020-09-23-signal-filtering-in-python/)
 
-I've been spending a lot of time creating a [DIY ECGs](https://swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) which produce fairly noisy signals. I have researched the ways to clean-up these signals, and the results are very useful! I document some of these findings here.
+I've been spending a lot of time creating a [DIY ECGs](https://swharden.com/blog/tags/#diyecg) which produce fairly noisy signals. I have researched the ways to clean-up these signals, and the results are very useful! I document some of these findings here.
 
 <div class="text-center">
 

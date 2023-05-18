@@ -44,7 +44,7 @@ __FOR MORE INFORMATION AND CODE__ check out:
 * [Linear Data Smoothing In Python](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/)
 * [Signal Filtering With Python](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/)
 * [Circuits Vs. Software](https://swharden.com/blog/2009-01-15-circuits-vs-software/)
-* [DIY ECG](https://swharden.com/blog/category/diy-ecg-home-made-electrocardiogram/) of entries.
+* [DIY ECG](https://swharden.com/blog/tags/#diyecg) of entries.
 
 __Let's get fancy and use this concept to determine the number of seconds in a 1-minute PCM file in which a radio transmission occurs.__  I was given a 1-minute PCM file with a ~45 second transmission in the middle.  Here's the graph of the result of the code posted below it.  (Detailed descriptions are at the bottom)
 
