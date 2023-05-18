@@ -173,6 +173,9 @@ bmp.Save("rectangles.bmp");
 The following functions can be added to the `RawBitmap` class to add drawing common operations
 
 ### Draw Line
+
+Here's a simple (not optimized) method for drawing lines. Users interested in high quality drawing methods will find [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) and [Bresenham's circle algorithm](https://www.geeksforgeeks.org/bresenhams-circle-drawing-algorithm/) useful. There's also [A Rasterizing Algorithm for Drawing Curves](http://members.chello.at/~easyfilter/Bresenham.pdf) which has extensive information about anti-aliasing and drawing Bézier splines.
+
 ```cs
 public void DrawLine(int x1, int y1, int x2, int y2, Color color)
 {
@@ -299,3 +302,9 @@ static void SaveBitmap(byte[] bytes, string filename = "demo.jpg")
 * [System.Drawing: `Color.cs`](https://github.com/dotnet/runtime/blob/main/src/libraries/System.Drawing.Primitives/src/System/Drawing/Color.cs)
 
 * [Maui.Graphics: `Color.cs`](https://github.com/dotnet/maui/blob/main/src/Graphics/src/Graphics/Color.cs)
+
+* [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) 
+
+* [Bresenham's circle algorithm](https://www.geeksforgeeks.org/bresenhams-circle-drawing-algorithm/) 
+
+* [A Rasterizing Algorithm for Drawing Curves](http://members.chello.at/~easyfilter/Bresenham.pdf) by Alois Zingl
