@@ -9,6 +9,8 @@ tags: ["csharp"]
 
 **This page is a quick reference for programmers interested in working with image data in memory (byte arrays).** This topic is straightforward overall, but there are a few traps that aren't necessarily intuitive so I try my best to highlight those here. 
 
+> 💡 See my newer article, [Creating Bitmaps from Scratch in C#](https://swharden.com/blog/2022-11-04-csharp-create-bitmap/)
+
 This article assumes you have some programming experience working with byte arrays in a C-type language and have an understanding of what is meant by 32-bit, 24-bit, 16-bit, and 8-bit integers.
 
 ## Pixel Values

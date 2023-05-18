@@ -168,6 +168,83 @@ bmp.Save("rectangles.bmp");
 
 ![](https://swharden.com/static/2022/11/04/SkiaSharp-rectangles.jpg)
 
+## Drawing Operations
+
+The following functions can be added to the `RawBitmap` class to add drawing common operations
+
+### Draw Line
+```cs
+public void DrawLine(int x1, int y1, int x2, int y2, Color color)
+{
+    int xMin = Math.Min(x1, x2);
+    int xMax = Math.Max(x1, x2);
+    int yMin = Math.Min(y1, y2);
+    int yMax = Math.Max(y1, y2);
+
+    int xSpan = xMax - xMin;
+    int ySpan = yMax - yMin;
+
+    if (xSpan == 0)
+    {
+        for (int y = yMin; y <= yMax; y++)
+            SetPixel(xMin, y, color);
+    }
+    else if (ySpan == 0)
+    {
+        for (int x = xMin; x <= xMax; x++)
+            SetPixel(x, yMin, color);
+    }
+    else if (ySpan > xSpan)
+    {
+        for (int y = yMin; y <= yMax; y++)
+        {
+            double frac = (y - yMin) / (double)ySpan;
+            if (y2 < y1)
+                frac = 1 - frac;
+            int x = (int)(frac * xSpan + xMin);
+            SetPixel(x, y, color);
+        }
+    }
+    else
+    {
+        for (int x = xMin; x <= xMax; x++)
+        {
+            double frac = (x - xMin) / (double)xSpan;
+            if (x2 < x1)
+                frac = 1 - frac;
+            int y = (int)(frac * ySpan + yMin);
+            SetPixel(x, y, color);
+        }
+    }
+}
+```
+
+### Draw Rectangle
+```cs
+public void DrawRect(Rectangle rect, Color color)
+{
+    DrawLine(rect.Left, rect.Top, rect.Right, rect.Top, color);
+    DrawLine(rect.Right, rect.Top, rect.Right, rect.Bottom, color);
+    DrawLine(rect.Right, rect.Bottom, rect.Left, rect.Bottom, color);
+    DrawLine(rect.Left, rect.Bottom, rect.Left, rect.Top, color);
+}
+```
+
+### Fill Rectangle
+
+```cs
+public void FillRect(Rectangle rect, Color color)
+{
+    for (int y = rect.YMin; y < rect.YMax; y++)
+    {
+        for (int x = rect.XMin; x < rect.XMax; x++)
+        {
+            SetPixel(x, y, color);
+        }
+    }
+}
+```
+
 ## Interfacing Graphics Libraries
 
 **The following code demonstrates how to load the bitmap byte arrays generated above into common graphics libraries and save the result as a JPEG file.** Although the bitmap byte array can be written directly to disk as a .bmp file, these third-party libraries are required to encode images in additional formats like JPEG.
