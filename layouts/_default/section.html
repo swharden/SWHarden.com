@@ -2,6 +2,10 @@
 
 {{ if eq .Title "Blogs" }}
 {{ partial "posts-home.html" . }}
+
+{{ else if eq .Title "Medical Updates" }}
+{{ partial "posts-med.html" . }}
+
 {{ else }}
 <article class="bg-white border shadow p-4 mb-5">
     <h1>ERROR: Unknown Section</h1>
