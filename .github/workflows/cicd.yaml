@@ -29,8 +29,6 @@ jobs:
           install -m 600 -D /dev/null ~/.ssh/id_rsa
           echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
           echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
-      - name: 🌐 Define SSH Target # IP does not resolve to the server because of NGINX direct delivery
-        run: sudo echo "35.215.106.188 swharden.com" | sudo tee -a /etc/hosts
       - name: 🚀 Deploy blog/
         run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/blog/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/blog/'
       - name: 🚀 Deploy blog/tags/
