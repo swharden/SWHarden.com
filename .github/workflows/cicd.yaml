@@ -30,16 +30,16 @@ jobs:
           echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
           echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
       - name: 🚀 Deploy blog/
-        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/blog/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/blog/'
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/blog/' '${{ secrets.USER }}@nocache.swharden.com:/home/customer/www/swharden.com/public_html/blog/'
       - name: 🚀 Deploy blog/tags/
-        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/tags/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/blog/tags/'
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/tags/' '${{ secrets.USER }}@nocache.swharden.com:/home/customer/www/swharden.com/public_html/blog/tags/'
       - name: 🚀 Deploy med/
-        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/med/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/med/'
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/med/' '${{ secrets.USER }}@nocache.swharden.com:/home/customer/www/swharden.com/public_html/med/'
       - name: 🚀 Deploy about/
-        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/about/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/about/'
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/about/' '${{ secrets.USER }}@nocache.swharden.com:/home/customer/www/swharden.com/public_html/about/'
       - name: 🚀 Deploy 404/
-        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/404/' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/404/'
+        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'public/404/' '${{ secrets.USER }}@nocache.swharden.com:/home/customer/www/swharden.com/public_html/404/'
       - name: 🚀 Deploy index.html
-        run: rsync -e 'ssh -p 18765' 'public/index.html' '${{ secrets.USER }}@swharden.com:/home/customer/www/swharden.com/public_html/index.html'
+        run: rsync -e 'ssh -p 18765' 'public/index.html' '${{ secrets.USER }}@nocache.swharden.com:/home/customer/www/swharden.com/public_html/index.html'
       - name: 🧹 Purge Cache
         run: curl --data 'key=${{ secrets.PURGE_KEY }}' https://swharden.com/purge/
