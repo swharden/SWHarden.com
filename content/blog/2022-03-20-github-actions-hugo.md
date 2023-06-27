@@ -1,5 +1,5 @@
 ---
-title: Build and Deploy a Hugo Site with GitHub Actions
+title: Build and Deploy a Hugo Site with GitHub Actions and RSync
 description: How I safely use GitHub Actions to build a static website with Hugo and deploy it using SSH without any third-party dependencies
 date: 2022-03-20 22:45:00
 tags: ["github", "hugo"]
