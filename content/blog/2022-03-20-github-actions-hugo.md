@@ -22,36 +22,33 @@ name: Website
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
 
 jobs:
-  build:
+  deploy:
     name: Build and Deploy
     runs-on: ubuntu-latest
     steps:
       - name: 🛒 Checkout
-        uses: actions/checkout@v2
-
+        uses: actions/checkout@v3
       - name: ✨ Setup Hugo
         env:
-          HUGO_VERSION: 0.92.2
+          HUGO_VERSION: 0.100.1
         run: |
           mkdir ~/hugo
           cd ~/hugo
           curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
           tar -xvzf hugo.tar.gz
           sudo mv hugo /usr/local/bin
-
       - name: 🛠️ Build
-        run: hugo --source website --minify
-
-      - name: 🔑 Install SSH Key
-        run: |
-          install -m 600 -D /dev/null ~/.ssh/id_rsa
-          echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
-          echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
-
-      - name: 🚀 Deploy
-        run: rsync --archive --delete --stats -e 'ssh -p 18765' 'website/public/' ${{ secrets.REMOTE_DEST }}
+        run: hugo
+      - name: 🔐 Create Key File
+        run: install -m 600 -D /dev/null ~/.ssh/id_rsa
+      - name: 🔑 Populate Key
+        run: echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
+      - name: 🚀 Upload
+        run: rsync --archive --stats -e 'ssh -p 18765 -o StrictHostKeyChecking=no' public/ swharden.com@ssh.swharden.com:~/www/swharden.com/public_html/
 ```
 
 ## Triggers
@@ -118,19 +115,41 @@ This part is likely the most confusing for new users, so I'll keep it as minimal
 
 ### The Host's Keys
 
-To protect you from leaking your private key to a compromised host, you can retrieve your host's public key and check against it later to be sure it does not change. To get keys for your hosts run the following command:
+To protect you from leaking your private key to a compromised host, you can retrieve your host's public key and check against it later to be sure it does not change. 
+
+* If you don't want this protection, add `-o StrictHostKeyChecking=no` to your `rsync` command as shown at the top of the page.
+* If you do want this protection, use the following steps to store the host identity as a GitHub Encrypted Secret
+
+To get keys for your hosts run the following command:
 
 ```sh
 ssh-keyscan example.com
 ```
 
-My hosting provider uses a non-standard SSH port, so I must specify it with:
+My hosting provider (SiteGround) uses a non-standard SSH port, so I must specify it with:
 
 ```sh
-ssh-keyscan -p 12345 example.com
+ssh-keyscan -p 18765 example.com
 ```
 
-The host's public keys will be a short list of text. Store it as a [GitHub Encrypted Secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets) (`KNOWN_HOSTS`)
+The host's public keys will be written to the console as a block of text like this:
+
+```
+# swharden.com:18765 SSH-2.0-OpenSSH
+[swharden.com]:18765 ssh-rsa AAAAB3Nza1y...zzGGnVX5/Q==
+# swharden.com:18765 SSH-2.0-OpenSSH
+# swharden.com:18765 SSH-2.0-OpenSSH
+[swharden.com]:18765 ssh-ed25519 AAAAC3Nz...Sy4v4ttQ/x3
+# swharden.com:18765 SSH-2.0-OpenSSH
+# swharden.com:18765 SSH-2.0-OpenSSH
+```
+
+Store this block of text as a [GitHub Encrypted Secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets) (`KNOWN_HOSTS`) then load it in your action like this:
+
+```yaml
+- name: 🔐 Load Host Keys
+  run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+```
 
 ### Loading SSH Secrets in GitHub Actions
 
@@ -167,6 +186,15 @@ I use additional arguments (see [rsync documentation](https://linux.die.net/man/
 ```
 
 <img src="https://swharden.com/static/2022/03/20/github-actions-hugo-rsync-deploy.jpg" class="border shadow d-block mx-auto my-4">
+
+## Clear the Dynamic Cache (SiteGround)
+
+The hosting provider SiteGround has a Dynamic Cache service that automatically caches static content. The dynamic cache can be cleared manually through the web interface, but that is a frustrating and manual process. To clear the dynamic cache programmatically from a GitHub Action, use the following SSH command to engage the `site-tools-client` application:
+
+```yaml
+- name: 🧹 Clear Cache
+  run: ssh swharden.com@ssh.swharden.com -p 18765 "site-tools-client domain update id=1 flush_cache=1"
+```
 
 ## Conclusions
 
