@@ -156,11 +156,10 @@ Store this block of text as a [GitHub Encrypted Secret](https://docs.github.com/
 These commands will create text files in your `.ssh` folder containing your private key and the public keys of your host. Later `rsync` will complain if your private key is in a file with general read/write access, so the `install` command is used to create an empty file with user-only read/write access (chmod 600), then an `echo` command is used to populate that file with your private key information.
 
 ```yaml
-- name: 🔑 Install SSH Key
-  run: |
-    install -m 600 -D /dev/null ~/.ssh/id_rsa
-    echo "${{ secrets.PRIVATE_SSH_KEY }}" > ~/.ssh/id_rsa
-    echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+- name: 🔐 Create Key File
+  run: install -m 600 -D /dev/null ~/.ssh/id_rsa
+- name: 🔑 Populate Key
+  run: echo "${{ secrets.PRIVATE_KEY }}" > ~/.ssh/id_rsa
 ```
 
 ## Deploy with Rsync
