@@ -73,7 +73,8 @@ loader = DirectoryLoader("./", glob="*.txt", loader_cls=TextLoader)
 
 # interpret information in the documents
 documents = loader.load()
-splitter = RecursiveCharacterTextSplitter()
+splitter = RecursiveCharacterTextSplitter(chunk_size=500,
+                                          chunk_overlap=50)
 texts = splitter.split_documents(documents)
 embeddings = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2",
