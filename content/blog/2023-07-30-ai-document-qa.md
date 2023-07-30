@@ -185,7 +185,11 @@ The day after I wrote this article I was working on an unrelated project that re
 
 * Meta: [Introducing Llama 2](https://ai.meta.com/llama/)
 
+* Facebook AI Research: [FAISS Vector Database](https://faiss.ai/index.html)
+
 * Hugging Face: [Vigogne 2 13B Instruct - GGML](https://huggingface.co/TheBloke/Vigogne-2-13B-Instruct-GGML)
+
+* Hugging Face: [all-MiniLM-L6-v2 sentence transformer](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 * GitHub: [llama.cpp: Inference of LLaMA model in pure C/C++](https://github.com/ggerganov/llama.cpp)
 
