@@ -177,6 +177,12 @@ There are many avenues to explore from here, and I'm thankful for all of the dev
 
 * Hugging Face: [Vigogne 2 13B Instruct - GGML](https://huggingface.co/TheBloke/Vigogne-2-13B-Instruct-GGML)
 
+* GitHub: [llama.cpp: Inference of LLaMA model in pure C/C++](https://github.com/ggerganov/llama.cpp)
+
+* PyPi: [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package
+
+* ReadTheDocs: [llama-cpp-python package documentation](https://llama-cpp-python.readthedocs.io/)
+
 * OUseful.Info Blog: [Using langchain To Run Queries Against GPT4All in the Context of a Single Documentary Knowledge Source](https://blog.ouseful.info/2023/04/04/langchain-query-gpt4all-against-knowledge-source/)
 
 * Pinecone: [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
