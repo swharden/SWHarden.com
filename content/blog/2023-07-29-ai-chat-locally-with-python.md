@@ -93,7 +93,7 @@ pip install langchain, sentence_transformers, faiss-cpu, ctransformers
 To test these concepts I will create a few plain text files that contain example information. I am careful to be specific enough (and absurd enough) that we can be confident the AI chat is indeed referencing this material when providing responses to prompts later.
 
 #### info1.txt
-```
+```text
 Scott William Harden is an open-source software developer.
 He is the primary author of ScottPlot, pyabf, FftSharp, 
 Spectrogram, and several other open-source packages.
@@ -105,7 +105,7 @@ traditional color maps like Spectrum and Jet.
 ```
 
 #### info2.txt
-```
+```text
 "JupyterGoBoom" is the name of a Python package for 
 creating unmaintainable Jupyter notebooks. 
 It is no longer actively developed and is now 
