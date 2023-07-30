@@ -5,7 +5,7 @@ Date: 2023-07-29 18:30:00
 tags: ["python", "ai"]
 ---
 
-**The Llama 2 large language model was recently released, allowing users to engage in AI chat locally.** This page describes how to use the Llama 2 large language model (LLM) locally, without requiring internet, registration, or API keys. First we explore how to deliver prompts to the raw model and get AI-generated chat responses using only the [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package. Then we use the more extensive [langchain](https://pypi.org/project/langchain/) package to ingest information from documents so the language model can answer questions about their content. My ultimate goal with this work is to evaluate feasibility of developing an automated system to digest software documentation and serve AI-generated answers to technical questions based on the latest available information.
+**The Llama 2 large language model was recently released, allowing users to engage in AI chat locally.** This page describes how to use the Llama 2 large language model (LLM) locally, without requiring internet, registration, or API keys. First we explore how to deliver prompts to the raw model and get AI-generated chat responses using only the [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package. Then we use the more extensive [LangChain](https://pypi.org/project/langchain/) package to ingest information from documents so the language model can answer questions about their content. My ultimate goal with this work is to evaluate feasibility of developing an automated system to digest software documentation and serve AI-generated answers to technical questions based on the latest available information.
 
 ## Quickstart
 
@@ -108,7 +108,7 @@ to become unmaintainable all by themselves.
 
 ### Interpreting Content of Local Files
 
-**We can use the MiniLM model to interpret the content our information files and save that information to a local file.** The interpreted information is saved to disk in the [FAISS](https://github.com/facebookresearch/faiss) (Facebook AI Similarity Search) file format, a vector database optimized for searching for similarly across large and high dimensional datasets.
+**We can use the MiniLM language model to interpret the content our documents and save that information in a vector database so AI chat has access to it.** The interpreted information is saved to disk in the [FAISS](https://github.com/facebookresearch/faiss) (Facebook AI Similarity Search) file format, a vector database optimized for searching for similarly across large and high dimensional datasets.
 
 ```py
 """
@@ -142,7 +142,7 @@ LangChain has advanced tools available for ingesting information in complex file
 
 ### Prepare an AI That is Aware of Local File Content
 
-Now that a large language model is downloaded and the content of our local files has been interpreted, let's pre-load the LLM with this information so it can retrieve this information when answering questions about our custom content.
+Now that a large language model is downloaded and the content of our local files has been interpreted, let's pre-load the LLM with this information so it can answer questions about our custom content.
 
 ```py
 """
