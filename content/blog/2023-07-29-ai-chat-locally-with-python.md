@@ -11,9 +11,9 @@ tags: ["python", "ai"]
 
 Jupyter Notebooks that demonstrate these concepts:
 
-* LLama 2 Quickstart: [view online](https://swharden.com/static/2023/07/30/llama2-quickstart.html) or [download](https://swharden.com/static/2023/07/30/llama2-quickstart.ipynb)
+* LLama 2 Quickstart: [view online](https://swharden.com/static/2023/07/30/llama2-quickstart.html) or [download](https://swharden.com/static/2023/07/30/llama2-quickstart.ipynb.zip)
 
-* LLama 2 Document Ingestion and QA: [view online](https://swharden.com/static/2023/07/30/llama2-qa.html) or [download](https://swharden.com/static/2023/07/30/llama2-qa.ipynb)
+* LLama 2 Document Ingestion and QA: [view online](https://swharden.com/static/2023/07/30/llama2-qa.html) or [download](https://swharden.com/static/2023/07/30/llama2-qa.ipynb.zip)
   
 ## Quickstart
 
@@ -271,11 +271,11 @@ Here are standalone Jupyter notebooks that demonstrate how to use the Llama 2 la
 #### AI chat quickstart:
 
   * View: [`llama2-quickstart.html`](https://swharden.com/static/2023/07/30/llama2-quickstart.html)
-  * Download: [`llama2-quickstart.ipynb`](https://swharden.com/static/2023/07/30/llama2-quickstart.ipynb)
+  * Download: [`llama2-quickstart.ipynb`](https://swharden.com/static/2023/07/30/llama2-quickstart.ipynb.zip)
   
 #### AI chat that can Answer questions about documents:
   * View: [`llama2-qa.html`](https://swharden.com/static/2023/07/30/llama2-qa.html)
-  * Download: [`llama2-qa.ipynb`](https://swharden.com/static/2023/07/30/llama2-qa.ipynb)
+  * Download: [`llama2-qa.ipynb`](https://swharden.com/static/2023/07/30/llama2-qa.ipynb.zip)
 
 
 ## Ideas and Future Directions
