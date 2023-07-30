@@ -1,6 +1,6 @@
 ---
 title: How to Run Llama 2 Locally with Python
-description: How to use an open source large language model to answer questions about the content of local files using Python.
+description: How to use open source large language models to ingest information from local files and generate AI responses to questions about their content
 Date: 2023-07-29 18:30:00
 tags: ["python", "ai"]
 ---
