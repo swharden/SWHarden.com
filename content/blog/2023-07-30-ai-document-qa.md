@@ -32,7 +32,7 @@ The model I'm using (7B Q8 0) is good but heavy, requiring 7 GB disk space and 1
 Altogether we will need the [`langchain`](https://pypi.org/project/langchain/), [`sentence-transformers`](https://pypi.org/project/sentence-transformers/), [`faiss-cpu`](https://pypi.org/project/faiss-cpu/), and [`ctransformers`](https://pypi.org/project/ctransformers/) packages:
 
 ```sh
-pip install langchain, sentence_transformers, faiss-cpu, ctransformers
+pip install langchain sentence_transformers faiss-cpu ctransformers
 ```
 
 **Installing these packages requires a C++ compiler.** To get one:
