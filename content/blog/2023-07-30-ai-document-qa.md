@@ -155,9 +155,9 @@ Here are the answers the script above gave me the the following questions:
 
 Both answers are consistent with the information written in the ingested text documents. The AI is successfully answering questions about our custom content!
 
-## Using Llama 2 AI Chat in a Jupyter Notebook
+## Jupyter Notebook
 
-Here are standalone Jupyter notebooks that demonstrate how to use the Llama 2 large language model to generate AI chat responses to plain text prompts. They contain features specific to IPython / Jupyter notebooks which improve the formatting of the output.
+Here is a standalone Jupyter notebook that demonstrates how to ingest information from documents and interact with a large language model to have AI chat answer questions about their content. This notebook contains a few extra features to improve formatting of the output as well.
 
 * **View Notebook:** [`llama2-qa.html`](https://swharden.com/static/2023/07/30/llama2-qa.html)
 
