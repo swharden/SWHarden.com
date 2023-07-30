@@ -132,20 +132,8 @@ My next post [_Using Llama 2 to Answer Questions About Local Documents_](/blog/2
 
 * Hugging Face: [Vigogne 2 13B Instruct - GGML](https://huggingface.co/TheBloke/Vigogne-2-13B-Instruct-GGML)
 
-* OUseful.Info Blog: [Using langchain To Run Queries Against GPT4All in the Context of a Single Documentary Knowledge Source](https://blog.ouseful.info/2023/04/04/langchain-query-gpt4all-against-knowledge-source/)
+* GitHub: [llama.cpp: Inference of LLaMA model in pure C/C++](https://github.com/ggerganov/llama.cpp)
 
-* Pinecone: [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
+* PyPi: [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package
 
-* GitHub: [Intuition for selecting optimal `chunk_size` and `chunk_overlap` for `RecursiveCharacterTextSplitter`](https://github.com/langchain-ai/langchain/issues/2026) (langchain-ai issue #206)
-
-* Facebook: [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/) 
-
-* LangChain Documentation: [Document Loaders](https://python.langchain.com/docs/modules/data_connection/document_loaders)
-
-* LangChain Documentation: [Split by tokens](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/split_by_token)
-
-* dev.to: [What Chunk Size and Chunk Overlap Should You Use?](https://dev.to/peterabel/what-chunk-size-and-chunk-overlap-should-you-use-4338)
-
-* Medium (paywall): [Running Llama 2 on CPU Inference Locally for Document Q&A](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8)
-
-* Medium (paywall): [All you need to know about LangChain in 7 Minutes](https://medium.com/@meta_heuristic/all-you-need-to-know-about-langchain-in-7-minutes-bdd486487a79)
+* ReadTheDocs: [llama-cpp-python package documentation](https://llama-cpp-python.readthedocs.io/)
