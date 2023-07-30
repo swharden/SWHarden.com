@@ -9,7 +9,7 @@ tags: ["python", "ai"]
 
 ## Quickstart
 
-The following steps are a minimal complexity method for running the Llama 2 model locally to generate a AI chat responses to a user-provided prompts.
+The following steps are a simple strategy for running the Llama 2 large language model locally to generate a AI chat responses to a user-provided prompts using Python.
 
 ### Step 1: Download a Large Language Model
 The Llama 2 model can be downloaded in [GGML format](https://github.com/ggerganov/ggml) from HuggingFace:
@@ -187,7 +187,7 @@ qa_llm = RetrievalQA.from_chain_type(llm=llm,
                                      return_source_documents=True,
                                      chain_type_kwargs={'prompt': prompt})
 
-# execute ask the AI chat about information in our local files
+# ask the AI chat about information in our local files
 prompt = "Who is the author of FftSharp? What is their favorite color?"
 output = qa_llm({'query': prompt})
 print(output["result"])
@@ -197,13 +197,17 @@ print(output["result"])
 
 Here are the answers the script above gave me the the following questions:
 
-**Question:** Who is the author of FftSharp? What is their favorite color?
+**Question:** Who is the author of FftSharp? What is their favorite color? 
 
-**Answer:** Scott William Harden is the author of FftSharp. According to Scott, his favorite color is dark blue despite being colorblind.
+**Response:**
+
+> Scott William Harden is the author of FftSharp. According to Scott, his favorite color is dark blue despite being colorblind.
 
 **Question:** Why is JupyterGoBoom obsolete?
 
-**Answer:** JupyterGoBoom is considered obsolete because modern software developers have come to realize that Jupyter notebooks become unmaintainable all by themselves.
+**Response:** 
+
+> JupyterGoBoom is considered obsolete because modern software developers have come to realize that Jupyter notebooks become unmaintainable all by themselves.
 
 ## Generating Longer AI Chat Responses
 
@@ -229,7 +233,7 @@ print(output["choices"][0]["text"])
 
 **Question:** Why are Jupyter notebooks difficult to maintain? 
 
-**Answer:**
+**Response:**
 > Jupyter notebooks can be challenging to maintain for several reasons: 
 > 
 > 1. Temporary file system: Jupyter notebooks reside on the user's local disk, which can make them unreliable and difficult to maintain over time. 
