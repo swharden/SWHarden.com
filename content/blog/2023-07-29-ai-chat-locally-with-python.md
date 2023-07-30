@@ -7,14 +7,6 @@ tags: ["python", "ai"]
 
 **The Llama 2 large language model was recently released, allowing users to engage in AI chat locally.** This page describes how to use the Llama 2 large language model (LLM) locally, without requiring internet, registration, or API keys. First we explore how to deliver prompts to the raw model and get AI-generated chat responses using only the [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package. Then we use the more extensive [langchain](https://pypi.org/project/langchain/) package to ingest information from documents so the language model can answer questions about their content. My ultimate goal with this work is to evaluate feasibility of developing an automated system to digest software documentation and serve AI-generated answers to technical questions based on the latest available information.
 
-## TLDR
-
-Jupyter Notebooks that demonstrate these concepts:
-
-* LLama 2 Quickstart: [view online](https://swharden.com/static/2023/07/30/llama2-quickstart.html) or [download](https://swharden.com/static/2023/07/30/llama2-quickstart.ipynb.zip)
-
-* LLama 2 Document Ingestion and QA: [view online](https://swharden.com/static/2023/07/30/llama2-qa.html) or [download](https://swharden.com/static/2023/07/30/llama2-qa.ipynb.zip)
-  
 ## Quickstart
 
 The following steps are a minimal complexity method for running the Llama 2 model locally to generate a AI chat responses to a user-provided prompts.
@@ -76,7 +68,7 @@ A: The names of the days of the week, in order, are:
    Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 ```
 
-## AI Responses About Content in Local Documents
+## Answering Questions about Local Documents
 
 The quickstart above produces AI-generated responses to prompts using the downloaded large language model, but content of the responses is limited to what information the model was trained with. What if we want to give our language model custom information then have it be able to answer questions about it? **This section explores how to have the AI "read" local documents** so it can answer questions about their content using AI chat.
 
