@@ -63,6 +63,12 @@ article h3 {
     padding-bottom: 0.2rem;
 }
 
+article h4 {
+    font-size: 1.1em;
+    margin-top: 3rem;
+    padding-bottom: 0.2rem;
+}
+
 article h1 a {
     color: inherit;
 }
@@ -72,6 +78,10 @@ article h2 a {
 }
 
 article h3 a {
+    color: inherit;
+}
+
+article h4 a {
     color: inherit;
 }
 
