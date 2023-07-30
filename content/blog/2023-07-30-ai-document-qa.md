@@ -171,6 +171,14 @@ Here is a standalone Jupyter notebook that demonstrates how to ingest informatio
 
 There are many avenues to explore from here, and I'm thankful for all of the developers and engineering teams that provide these models and tools for anyone to experiment with.
 
+## Update: Google Took My Fake Training Data Seriously
+
+The day after I wrote this article I was working on an unrelated project that resulted in me Googling myself. I was surprised to see that the silly training text above is now Google's description of my domain. I hope it will change again when I add a new blog post and that text ends up lower down on the page. This is a good reminder that in the world of automated document evaluation and AI-assisted generation, any text you share online may be consumed by robots and fed to others in ways you may not be able to control.
+
+<a href="https://swharden.com/static/2023/07/30/google.png">
+<img src="https://swharden.com/static/2023/07/30/google.png" class="border border-dark shadow d-block mx-auto w-75">
+</a>
+
 ## Resources
 
 * Meta: [Introducing Llama 2](https://ai.meta.com/llama/)
