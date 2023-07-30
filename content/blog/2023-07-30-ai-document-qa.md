@@ -84,6 +84,8 @@ db = FAISS.from_documents(texts, embeddings)
 db.save_local("faiss")
 ```
 
+Although this example saves the vector database to disk so it can be loaded later by a large language model, you do not have to write the vector database to disk if you only intend to consume it in the same Pythons script. In this case you can omit the `db.save_local()` and consume the `db` object later instead of calling `FAISS.load_local()`, keeping the database in memory the whole time.
+
 Users may desire to customize arguments of the various methods listed here to improve behavior in application-specific ways. For example, `RecursiveCharacterTextSplitter()` has optional keyword arguments for `chunk_size` and `chunk_overlap` which are often customized to best suit the type of content being ingested. See [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/), [What Chunk Size and Chunk Overlap Should You Use?](https://dev.to/peterabel/what-chunk-size-and-chunk-overlap-should-you-use-4338) and the [LangChain documentation](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/split_by_token) for more information.
 
 LangChain has advanced tools available for ingesting information in complex file formats like PDF, Markdown, HTML, and JSON. Plain text files are used in this example to keep things simple, but more information is available in the [official documentation](https://python.langchain.com/docs/modules/data_connection/document_loaders).
