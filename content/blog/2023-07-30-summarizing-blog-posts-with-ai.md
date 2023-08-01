@@ -86,9 +86,6 @@ def summarize_article(file: pathlib.Path):
     save the result in a new markdown file.
     """
     output_file = pathlib.Path("summaries").joinpath(file.name)
-    if output_file.exists():
-        return
-    sw = Stopwatch("Total")
     db = analyze(file)
     qa_llm = build_llm(db)
     output = qa_llm(
@@ -96,7 +93,6 @@ def summarize_article(file: pathlib.Path):
     summary = str(output["result"]).strip()
     with open(output_file, 'w') as f:
         f.write(f"{summary}\n\n{sw.elapsed}")
-    print(sw)
     print(f"Summary: {summary}")
 
 
