@@ -189,12 +189,12 @@ The term "Audioblogs" was used before the word "podcast" was popular. I remember
 That one came full circle too! My blog started as a static site, went to a database-driven site, then worked its way all the back to static where it is today. My best guess at the dates of the various technologies is:
 
 * 1997-2001: Static site (editing HTML files)
-* 2001-2003: Locally hosted dynamic (classic ASP)
+* 2001-2003: Locally hosted dynamic (classic ASP or PHP)
 * 2003-2005: MovableType (static site with a PHP editor)
 * 2005-2020: Wordpress (PHP with SQL content storage)
-* 2020-2023: Flat file website with a [custom](https://swharden.com/blog/2020-09-13-leaving-wordpress/) PHP markdown parser
+* 2020-2023: Flat file site (with a [custom](https://swharden.com/blog/2020-09-13-leaving-wordpress/) PHP page generator)
 * 2023-present: Static site (built from Markdown by Hugo using GitHub Actions)
 
 ## Conclusion
 
-**Completing this project allowed me to add 325 previously hidden blog posts back onto my website, bringing the total number of posts from 295 to 620!** It took several hours to run the AI tools over my old blog posts and a few of my hours spot-checking the summaries and tweaking them where needed, but overall I'm very satisfied by how how I was able to wield generative AI to assist the transformation of large amounts of text (almost half a million words) in a single day.
+**Completing this project allowed me to add 325 previously hidden blog posts back onto my website, bringing the total number of posts from 295 to 620!** It took several hours for the the AI tools to summarize almost half a milllion words of old blog posts, then a few of my hours spot-checking the summaries and tweaking them where needed, but overall I'm very satisfied by how how I was able to wield generative AI to assist the transformation of large amounts of text (almost half a million words) in a single day.
