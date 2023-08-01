@@ -92,8 +92,8 @@ def summarize_article(file: pathlib.Path):
         {'query': "What is a one sentence summary of this blog post?"})
     summary = str(output["result"]).strip()
     with open(output_file, 'w') as f:
-        f.write(f"{summary}\n\n{sw.elapsed}")
-    print(f"Summary: {summary}")
+        f.write(summary)
+    print(summary)
 
 
 if __name__ == "__main__":
