@@ -192,8 +192,8 @@ That one came full circle too! My blog started as a static site, went to a datab
 * 2001-2003: Locally hosted dynamic (classic ASP)
 * 2003-2005: MovableType (static site with a PHP editor)
 * 2005-2020: Wordpress (PHP with SQL content storage)
-* 2020-2023: Flat file website ([custom](https://swharden.com/blog/2020-09-13-leaving-wordpress/) PHP markdown page generator)
-* 2023-present: Static site (HTML files built from Markdown by Hugo using GitHub Actions)
+* 2020-2023: Flat file website with a [custom](https://swharden.com/blog/2020-09-13-leaving-wordpress/) PHP markdown parser
+* 2023-present: Static site (built from Markdown by Hugo using GitHub Actions)
 
 ## Conclusion
 
