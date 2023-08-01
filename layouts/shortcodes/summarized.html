@@ -1,0 +1,21 @@
+<div>
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading mt-0">This is an AI Generated Summary</h4>
+        <p class="mb-0">
+            The original content of blog posts I wrote as a child is no longer publicly available on this website.
+            However, I used a large language model to interpret and summarize the original content of this page.
+        </p>
+    </div>
+
+    <div class="my-4">
+        <strong>Summary:</strong>
+        {{ .Inner }}
+    </div>
+
+    <div>
+        <i>
+            This summary was generated in {{ .Get "time" }} seconds
+            from an original post containing {{ .Get "words" }} words.
+        </i>
+    </div>
+</div>
