@@ -197,4 +197,4 @@ That one came full circle too! My blog started as a static site, went to a datab
 
 ## Conclusion
 
-**Completing this project allowed me to add 325 previously hidden blog posts back onto my website, bringing the total number of posts from 295 to 620!** It took several hours for the the AI tools to summarize almost half a milllion words of old blog posts, then a few of my hours spot-checking the summaries and tweaking them where needed, but overall I'm very satisfied by how how I was able to wield generative AI to assist the transformation of large amounts of text (almost half a million words) in a single day.
+**Completing this project allowed me to add 325 previously hidden blog posts back onto my website, bringing the total number of posts from 295 to 620!** It took several hours for the the AI tools to summarize almost half a milllion words of old blog posts, then a few of my hours spot-checking the summaries and tweaking them where needed, but overall I'm very satisfied by how how I was able to wield generative AI to assist the transformation of such a large amount of text in a single day.
