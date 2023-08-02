@@ -105,3 +105,11 @@ you can verify that I'm okay by seeing
 > Currently my disease remains indolent and things are moving slowly, 
 > so my next course of treatment is not yet decided.
 > I'll update this page and https://swharden.com/med as I learn more.
+
+> July, 2023:
+> Following-up one year after my last update, I'm happy to report that things
+> are still moving very slowly. I was extremely concerned at this time last year 
+> after freshly getting the "relapse" diagnosis, but now that I've gone a full year 
+> without major changes in my medical condition, it means that I have a good chance of
+> remaining stable for a long time to come. I'll update this page when I learn more,
+> likely by the end of this year.
