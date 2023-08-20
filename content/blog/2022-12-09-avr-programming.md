@@ -1,6 +1,6 @@
 ---
 title: Programming Modern AVR Microcontrollers
-description: Blink a LED on a modern series AVR using Atmel-ICS or MPLAB Snap UPDI programmers.
+description: How to program modern AVR chips using Atmel ICE or MPLAB Snap UPDI programmers.
 Date: 2022-12-09 23:45:00
 tags: ["circuit", "microcontroller"]
 ---
