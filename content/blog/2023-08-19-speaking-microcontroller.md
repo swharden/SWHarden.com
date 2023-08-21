@@ -203,8 +203,8 @@ Populate the overflow event code:
 ```c
 ISR(TCA0_OVF_vect)
 {
-	TCB0.CCMPH = pgm_read_byte(&seven_samples[AUDIO_INDEX++]);
-	if (AUDIO_INDEX >= seven_length)
+	TCB0.CCMPH = pgm_read_byte(&AUDIO_SAMPLES[AUDIO_INDEX++]);
+	if (AUDIO_INDEX >= sizeof(AUDIO_SAMPLES))
         AUDIO_INDEX = 0;
 	TCA0.SINGLE.INTFLAGS = TCA_SINGLE_OVF_bm;
 }
