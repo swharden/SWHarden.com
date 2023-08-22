@@ -106,7 +106,7 @@ Atmel ICE Pinout | Programming Connection
 * Red: `Vcc` - This line is used to _sense_ power and not _deliver_ it, so you are responsible for externally powering your board.
 * Blue: `UPDI` pin - Although a pull-up resistor on the UPDI pin is recommended, I did not find it was required to program my chip on the breadboard in this configuration.
 
-**The AVR Ice was easy to use with Microchip Studio.** My programmer was detected immediately, a window popped-up and walked me through updating the firmware, and my LED was blinking in no time.
+**The Atmel ICE was easy to use with Microchip Studio.** My programmer was detected immediately, a window popped-up and walked me through updating the firmware, and my LED was blinking in no time.
 
 <a href="https://swharden.com/static/2022/12/09/atmel-ice-4.jpg">
 <img src="https://swharden.com/static/2022/12/09/atmel-ice-4.jpg"/>
