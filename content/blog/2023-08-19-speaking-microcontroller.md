@@ -1,7 +1,7 @@
 ---
 title: Speaking Numbers with a Microcontroller
 description: How to encode WAV files into C code that can be replayed from memory
-Date: 2023-07-31 23:09:00
+Date: 2023-08-19 23:00:00
 tags: ["circuit", "microcontroller"]
 ---
 
