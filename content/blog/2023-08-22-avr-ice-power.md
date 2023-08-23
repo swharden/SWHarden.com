@@ -25,7 +25,7 @@ tags: ["circuit", "microcontroller"]
 
 **After probing around I found convenient locations for soldering wires to break-out key lines.** Ground can be difficult to solder because of how thermally connected it is to the ground planes in the multi-layer board, but soldering to the through-hole thermal vias made this easier. A 3.3V line was easy to locate, but I would hesitate* to use this for significant power draw. I'm not sure how this board is regulated or how close it runs to its current limit when it's performing power-intensive operations. Also I'm not sure how easy it is to damage the programmer if the 3.3V line is exposed to higher voltage or shorted directly to ground. On the other hand, the 5V USB power rail was easy to locate and I'm much less concerned about loading that down.
 
-_*Follow-up: I ended up removing the 3.3V wire after these photographs because it doesn't offer that much benefit, and the risk of accidentally touching a 5V rail or ground and potentially damaging the programmer's internal voltage regulator or power protection circuitry was higher than I was comfortable with.*_
+_*Follow-up: I ended up removing the 3.3V wire because it doesn't offer that much benefit, and the risk of accidentally touching a 5V rail or ground and potentially damaging the programmer's internal voltage regulator or power protection circuitry was higher than I was comfortable with.*_
 
 <a href="https://swharden.com/static/2023/08/22/avr-ice-pcb.jpg">
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/22/avr-ice-pcb.jpg">
@@ -53,7 +53,7 @@ _*Follow-up: I ended up removing the 3.3V wire after these photographs because i
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/22/partial-reassemble.jpg">
 </a>
 
-Update: I ended-up adding zip to secure the cables after all. I also removed the 3.3 V line for the reasons described above.
+**I added zip ties to secure the wires** from accidental tugs. I also removed the 3.3 V line to reduce risk for the reasons described a few paragraphs back.
 
 <a href="https://swharden.com/static/2023/08/22/zipties.jpg">
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/22/zipties.jpg">
