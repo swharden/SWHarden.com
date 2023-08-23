@@ -47,10 +47,16 @@ _*Follow-up: I ended up removing the 3.3V wire after these photographs because i
 
 ## Reassembling the Programmer
 
-**I used a nibbler to cut rectangular notches in the white plastic beneath the blue plastic ring and ran the breakout wires through the hole.** When reassembled, these gaps left just enough space for the wires to easily pass through. I didn't attempt to secure the wires to the case, but users concerned about damage from pulling may achieve enhanced protection by using a small zip tie around the wires inside the case next to the hole. Hot glue or epoxy could further secure the wires at the expensive of making the device more difficult to service in the future.
+**I used a nibbler to cut rectangular notches in the white plastic beneath the blue plastic ring and ran the breakout wires through the hole.** When reassembled, these gaps left just enough space for the wires to easily pass through. I didn't attempt to secure the wires to the case, but users concerned about damage from pulling may achieve enhanced protection by using a small zip tie around the wires inside the case next to the hole.
 
 <a href="https://swharden.com/static/2023/08/22/partial-reassemble.jpg">
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/22/partial-reassemble.jpg">
+</a>
+
+Update: I ended-up adding zip to secure the cables after all. I also removed the 3.3 V line for the reasons described above.
+
+<a href="https://swharden.com/static/2023/08/22/zipties.jpg">
+<img class="border border-dark shadow" src="https://swharden.com/static/2023/08/22/zipties.jpg">
 </a>
 
 ## Conclusion
