@@ -5,3 +5,4 @@ obj/
 resources/
 public/
 *.pyc
+frontmatter.json
