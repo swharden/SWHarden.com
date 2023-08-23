@@ -106,6 +106,14 @@ Atmel ICE Pinout | Programming Connection
 * Red: `Vcc` - This line is used to _sense_ power and not _deliver_ it, so you are responsible for externally powering your board.
 * Blue: `UPDI` pin - Although a pull-up resistor on the UPDI pin is recommended, I did not find it was required to program my chip on the breadboard in this configuration.
 
+### Break-Out Power and Programming Pins
+
+<a href="https://swharden.com/static/2023/08/22/wires-labeled.jpg">
+<img src="https://swharden.com/static/2023/08/22/wires-labeled.jpg"/>
+</a>
+
+**Update: You can break-out power and programming pins** so you can power your device with this programmer and also not need the stupid ribbon cable for programming it! Check out my newer article [Hack an Atmel ICE to Deliver Power](https://swharden.com/blog/2023-08-22-avr-ice-power/) for details.
+
 **The Atmel ICE was easy to use with Microchip Studio.** My programmer was detected immediately, a window popped-up and walked me through updating the firmware, and my LED was blinking in no time.
 
 <a href="https://swharden.com/static/2022/12/09/atmel-ice-4.jpg">
@@ -256,6 +264,7 @@ Writing flash...
   * [Atmel-ICE on Amazon](https://www.amazon.com/s?k=atmel+ice) (currently $126.49)
   * [Atmel-ICE on eBay](https://www.ebay.com/sch/i.html?_nkw=atmel-ice) (currently $135.00)
   * [Atmel-ICE datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-ICE_UserGuide.pdf)
+  * [Deliver power with Atmel-ICE](https://swharden.com/blog/2023-08-22-avr-ice-power/)
 * MPLAB Snap
   * [MPLAB Snap on Mouser](https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/PG164100?qs=w%2Fv1CP2dgqoaLDDBjfzhMQ%3D%3D) (currently $34.77)
   * [MPLAB Snap on DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/PG164100/9562532) (currently $34.76)
