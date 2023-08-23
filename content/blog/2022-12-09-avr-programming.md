@@ -250,7 +250,7 @@ Writing flash...
 
 * The new AVR series microcontrollers have lots of cool peripherals for the price and are available during a chip shortage that threatens availability of the more common traditional microcontrollers.
 
-* The Atmel-ICE is expensive, but the most convenient and reliable way to program modern AVR microcontrollers using UPDI.
+* The Atmel-ICE is expensive, but the most convenient and reliable way to program modern AVR microcontrollers using UPDI. You can [break out power and programming pins](https://swharden.com/blog/2023-08-22-avr-ice-power/) so it can power your device and program the chip without requiring the silly ribbon cable.
 
 * The MPLAB Snap can program modern AVRs using UPDI after a software flash and a hardware modification, but its support for AVRs seems like an afterthought rather than its design priority.
 
