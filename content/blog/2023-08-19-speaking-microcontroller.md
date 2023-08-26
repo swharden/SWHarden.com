@@ -203,9 +203,20 @@ Populate the overflow event code:
 ```c
 ISR(TCA0_OVF_vect)
 {
-	TCB0.CCMPH = pgm_read_byte(&AUDIO_SAMPLES[AUDIO_INDEX++]);
+    // read next level from program memory
+    uint8_t level = pgm_read_byte(&AUDIO_SAMPLES[AUDIO_INDEX++]);
+    
+    // wait until next rollover to reduce static
+    while(TCB0.CNT > 0){}
+
+    // update the PWM level
+	TCB0.CCMPH = level;
+
+    // rollover the index to loop the audio
 	if (AUDIO_INDEX >= sizeof(AUDIO_SAMPLES))
         AUDIO_INDEX = 0;
+
+    // indicate the interrupt was handled
 	TCA0.SINGLE.INTFLAGS = TCA_SINGLE_OVF_bm;
 }
 ```
