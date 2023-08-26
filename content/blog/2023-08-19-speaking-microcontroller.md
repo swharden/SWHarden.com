@@ -231,7 +231,7 @@ Full source code is on GitHub:
 
 * TinyAVR 2 series: ATTiny286 [ATTiny286 `main.c`](https://github.com/swharden/AVR-projects/blob/master/ATTiny826%20speech/main.c)
 
-* AVR DD series: [AVR64DD32 `main.c`](https://github.com/swharden/AVR-projects/blob/master/AVR64DD32%20speech/main.c)
+* AVR DD series: [AVR64DD32 `main.c`](https://github.com/swharden/AVR-projects/blob/master/AVR64DD32%20audio%20speech/main.c)
 
 ## Playing Music from an AVR DD Series Microcontroller
 
