@@ -1,186 +1,282 @@
 ---
 title: Signal Filtering in Python
+description: How to apply low-pass, high-pass, and band-pass filters with Python
 date: 2020-09-23 21:46:00
 tags: ["python"]
 ---
 
+**This page describes how to perform low-pass, high-pass, and band-pass filtering in Python.** I favor SciPy's [`filtfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html) function because the filtered data it produces is the same length as the source data and it has no phase offset, so the output always aligns nicely with the input. The [`sosfiltfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.sosfiltfilt.html) function is even more convenient because it consumes filter parameters as a single object which makes them easier work with.
 
+<a href="https://swharden.com/static/2023/08/27/filter.png">
+<img src="https://swharden.com/static/2023/08/27/filter.png">
+</a>
 
-**Over a decade ago I posted code demonstrating how to filter data in Python, but there have been many improvements since then.** My original posts ([1](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), [2](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/), [3](https://swharden.com/blog/2010-06-20-smoothing-window-data-averaging-in-python-moving-triangle-tecnique/), [4](https://swharden.com/blog/2010-06-24-detrending-data-in-python-with-numpy/)) required creating discrete filtering functions, but modern approaches can leverage Numpy and Scipy to do this more easily and efficiently. In this article we will use [`scipy.signal.filtfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html) to apply low-pass, high-pass, and band-pass filters to reduce noise in an ECG signal (stored in [ecg.wav](https://swharden.com/static/2020/09/23/ecg.wav) (created as part of my [Sound Card ECG](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/) project).
+### Low-Pass Filter
 
-<div class="text-center">
-
-![](https://swharden.com/static/2020/09/23/signal-lowpass-filter.png)
-
-</div>
-
-Moving-window filtering methods often result in a filtered signal that lags behind the original data (a _phase shift_). By filtering the signal twice in opposite directions `filtfilt` cancels-out this phase shift to produce a filtered signal which is nicely aligned with the input data.
-
-```python
-import scipy.io.wavfile
-import scipy.signal
+```py
 import numpy as np
+import scipy.signal
+import scipy.io.wavfile
 import matplotlib.pyplot as plt
 
-# read ECG data from the WAV file
-sampleRate, data = scipy.io.wavfile.read('ecg.wav')
-times = np.arange(len(data))/sampleRate
+def lowpass(data: np.ndarray, cutoff: float, sample_rate: float, poles: int = 5):
+    sos = scipy.signal.butter(poles, cutoff, 'lowpass', fs=sample_rate, output='sos')
+    filtered_data = scipy.signal.sosfiltfilt(sos, data)
+    return filtered_data
 
-# apply a 3-pole lowpass filter at 0.1x Nyquist frequency
-b, a = scipy.signal.butter(3, 0.1)
-filtered = scipy.signal.filtfilt(b, a, data)
+# Load sample data from a WAV file
+sample_rate, data = scipy.io.wavfile.read('ecg.wav')
+times = np.arange(len(data))/sample_rate
+
+# Apply a 50 Hz low-pass filter to the original data
+filtered = lowpass(data, 50, sample_rate)
 ```
 
-<div class="text-center">
+<a href="https://swharden.com/static/2023/08/27/lowpass.png">
+<img src="https://swharden.com/static/2023/08/27/lowpass.png">
+</a>
 
-![](https://swharden.com/static/2020/09/23/signal-lowpass-ecg.png)
+```py
+# Code used to display the result
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 3), sharex=True, sharey=True)
+ax1.plot(times, data)
+ax1.set_title("Original Signal")
+ax1.margins(0, .1)
+ax1.grid(alpha=.5, ls='--')
+ax2.plot(times, filtered)
+ax2.set_title("Low-Pass Filter (50 Hz)")
+ax2.grid(alpha=.5, ls='--')
+plt.tight_layout()
+plt.show()
+```
 
-</div>
+### High-Pass Filter
+
+```py
+import numpy as np
+import scipy.signal
+import scipy.io.wavfile
+import matplotlib.pyplot as plt
+
+def highpass(data: np.ndarray, cutoff: float, sample_rate: float, poles: int = 5):
+    sos = scipy.signal.butter(poles, cutoff, 'highpass', fs=sample_rate, output='sos')
+    filtered_data = scipy.signal.sosfiltfilt(sos, data)
+    return filtered_data
+
+# Load sample data from a WAV file
+sample_rate, data = scipy.io.wavfile.read('ecg.wav')
+times = np.arange(len(data))/sample_rate
+
+# Apply a 20 Hz high-pass filter to the original data
+filtered = highpass(data, 20, sample_rate)
+```
+
+<a href="https://swharden.com/static/2023/08/27/highpass.png">
+<img src="https://swharden.com/static/2023/08/27/highpass.png">
+</a>
+
+```py
+# Code used to display the result
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 3), sharex=True, sharey=True)
+ax1.plot(times, data)
+ax1.set_title("Original Signal")
+ax1.margins(0, .1)
+ax1.grid(alpha=.5, ls='--')
+ax2.plot(times, filtered)
+ax2.set_title("High-Pass Filter (20 Hz)")
+ax2.grid(alpha=.5, ls='--')
+plt.tight_layout()
+plt.show()
+```
+
+### Band-Pass Filter
+
+```py
+import numpy as np
+import scipy.signal
+import scipy.io.wavfile
+import matplotlib.pyplot as plt
+
+def bandpass(data: np.ndarray, edges: list[float], sample_rate: float, poles: int = 5):
+    sos = scipy.signal.butter(poles, edges, 'bandpass', fs=sample_rate, output='sos')
+    filtered_data = scipy.signal.sosfiltfilt(sos, data)
+    return filtered_data
+
+# Load sample data from a WAV file
+sample_rate, data = scipy.io.wavfile.read('ecg.wav')
+times = np.arange(len(data))/sample_rate
+
+# Apply a 10-50 Hz high-pass filter to the original data
+filtered = bandpass(data, [10, 50], sample_rate)
+```
+
+<a href="https://swharden.com/static/2023/08/27/bandpass.png">
+<img src="https://swharden.com/static/2023/08/27/bandpass.png">
+</a>
+
+```py
+# Code used to display the result
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 3), sharex=True, sharey=True)
+ax1.plot(times, data)
+ax1.set_title("Original Signal")
+ax1.margins(0, .1)
+ax1.grid(alpha=.5, ls='--')
+ax2.plot(times, filtered)
+ax2.set_title("Band-Pass Filter (10-50 Hz)")
+ax2.grid(alpha=.5, ls='--')
+plt.tight_layout()
+plt.show()
+```
+
+### Low-Pass Cutoff Frequency
+
+This code evaluates the same signal low-pass filtered using different cutoff frequencies:
+
+```py
+import numpy as np
+import scipy.signal
+import scipy.io.wavfile
+import matplotlib.pyplot as plt
+
+# Load sample data from a WAV file
+sample_rate, data = scipy.io.wavfile.read('ecg.wav')
+times = np.arange(len(data))/sample_rate
+
+# Plot the original signal
+plt.plot(times, data, '.-', alpha=.5, label="original signal")
+
+# Plot the signal low-pass filtered using different cutoffs
+for cutoff in [10, 20, 30, 50]:
+    sos = scipy.signal.butter(5, cutoff, 'lowpass', fs=sample_rate, output='sos')
+    filtered = scipy.signal.sosfiltfilt(sos, data)
+    plt.plot(times, filtered, label=f"low-pass {cutoff} Hz")
+
+plt.legend()
+plt.grid(alpha=.5, ls='--')
+plt.axis([0.35, 0.5, None, None])
+plt.show()
+```
+
+<a href="https://swharden.com/static/2023/08/27/lowpass-freqs.png">
+<img src="https://swharden.com/static/2023/08/27/lowpass-freqs.png">
+</a>
+
+## Use Gustafsson's Method to Reduce Edge Artifacts
+
+**Artifacts may appear in the smooth signal if the first or last data point differs greatly from their adjacent points.** This is because, in an effort to ensure the filtered signal length is the same as the input signal, the input signal is "padded" with data on each side prior to filtering. The default behavior is to pad the data by duplicating the first and last data points, but this causes artifacts in the smoothed signal if the first or last points contain an extreme value. An alternative strategy is _Gustafsson's Method_, described in [a 1996 paper by Fredrik Gustafsson](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=492552) in which "initial conditions are chosen for the forward and backward passes so that the forward-backward filter gives the same result as the backward-forward filter." Interestingly, the original publication demonstrates the method by filtering noise out of an ECG recording.
+
+```py
+import numpy as np
+import scipy.signal
+import scipy.io.wavfile
+import matplotlib.pyplot as plt
+
+# Load sample data from a WAV file
+sample_rate, data = scipy.io.wavfile.read('ecg.wav')
+times = np.arange(len(data))/sample_rate
+
+# Isolate a small portion of data to inspect
+segment = data[350:400]
+
+# Create a 5-pole low-pass filter with an 80 Hz cutoff
+b, a = scipy.signal.butter(5, 80, fs=sample_rate)
+
+# Apply the filter using the default edge method (padding)
+filtered_pad = scipy.signal.filtfilt(b, a, segment)
+
+# Apply the filter using Gustafsson's method
+filtered_gust = scipy.signal.filtfilt(b, a, segment, method="gust")
+```
+
+<a href="https://swharden.com/static/2023/08/27/lowpass-gustafsson.png">
+<img src="https://swharden.com/static/2023/08/27/lowpass-gustafsson.png">
+</a>
+
+```py
+# Display the Results
+plt.plot(segment, '.-', alpha=.5, label="data")
+plt.plot(filtered_pad, 'k--', label="Default (Padding)")
+plt.plot(filtered_gust, 'k', label="Gustafsson's Method")
+plt.legend()
+plt.grid(alpha=.5, ls='--')
+plt.title("Padded Data vs. Gustafsson’s Method")
+plt.show()
+```
+
+## Filter Using Convolution
+
+**An alternative strategy to low-pass a signal is to use convolution.** In this method you create a kernel (typically a bell-shaped curve) and _convolve_ the kernel with the signal. The wider the window is the smoother the output signal will be. Also, the window must be normalized so its sum is 1 to preserve the amplitude of the input signal. Note that this method exclusively uses NumPy and does not require SciPy.
+
+**There are different for handling data at the edges of the signal,** but setting `mode` to `valid` deletes insufficiently filtered points at the edges to produce an output signal that is fully filtered but slightly shorter than the input signal. See [`numpy.convolve`](https://numpy.org/doc/stable/reference/generated/numpy.convolve.html) documentation for additional information.
+
+**The kernel shape affects the spectral properties of the filter.** Commonly called [_window functions_](https://en.wikipedia.org/wiki/Window_function), these different shapes produce filtered signals with different frequency response characteristics. The [Hanning window](https://en.wikipedia.org/wiki/Hann_function) is preferred for most general purpose signal processing applications. See [FftSharp](https://github.com/swharden/FftSharp) for additional information about the pros and cons of common window functions.
 
 ```python
-# plot the original data next to the filtered data
+import numpy as np
+import scipy.io.wavfile
+import matplotlib.pyplot as plt
 
-plt.figure(figsize=(10, 4))
+# Load sample data from a WAV file
+sample_rate, data = scipy.io.wavfile.read('ecg.wav')
+times = np.arange(len(data))/sample_rate
 
-plt.subplot(121)
-plt.plot(times, data)
-plt.title("ECG Signal with Noise")
-plt.margins(0, .05)
+# create a Hanning kernel 1/50th of a second wide
+kernel_width_seconds = 1.0/50
+kernel_size_points = int(kernel_width_seconds * sample_rate)
+kernel = np.hanning(kernel_size_points)
 
-plt.subplot(122)
-plt.plot(times, filtered)
-plt.title("Filtered ECG Signal")
-plt.margins(0, .05)
+# normalize the kernel
+kernel = kernel / kernel.sum()
+
+# Create a filtered signal by convolving the kernel with the original data
+filtered = np.convolve(kernel, data, mode='valid')
+```
+
+<a href="https://swharden.com/static/2023/08/27/lowpass-convolution.png">
+<img src="https://swharden.com/static/2023/08/27/lowpass-convolution.png">
+</a>
+
+```python
+# Display the result
+fig, (ax1, ax2, ax3) = plt.subplots(1, 3, figsize=(10, 3))
+
+ax1.plot(np.arange(len(kernel))/sample_rate, kernel, '.-')
+ax1.set_title("Kernel (1/50 sec wide)")
+ax1.grid(alpha=.5, ls='--')
+
+ax2.plot(np.arange(len(data))/sample_rate, data)
+ax2.set_title("Original Signal")
+ax2.margins(0, .1)
+ax2.grid(alpha=.5, ls='--')
+
+ax3.plot(np.arange(len(filtered))/sample_rate, filtered)
+ax3.set_title("Convolved Signal")
+ax3.margins(0, .1)
+ax3.grid(alpha=.5, ls='--')
 
 plt.tight_layout()
 plt.show()
 ```
 
-## Cutoff Frequency
+## History of this Article
+* In 2008 I started blogging about different ways to filter signals using Python 2. These now-obsolete blog posts are still accessible: [Linear Data Smoothing in Python (2008)](https://swharden.com/blog/2008-11-17-linear-data-smoothing-in-python/), [Signal Filtering with Python (2009)](https://swharden.com/blog/2009-01-21-signal-filtering-with-python/), [Smoothing Window Data Averaging with Python (2010)](https://swharden.com/blog/2010-06-20-smoothing-window-data-averaging-in-python-moving-triangle-tecnique/), and [Detrending Data in Python with Numpy (2010)](https://swharden.com/blog/2010-06-24-detrending-data-in-python-with-numpy/).
 
-The second argument passed into the `butter` method customizes the cut-off frequency of the Butterworth filter. This value (Wn) is a number between 0 and 1 representing the _fraction of the Nyquist frequency_ to use for the filter. Note that [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency) is half of the sample rate. As this fraction increases, the cutoff frequency increases. You can get fancy and express this value as 2 * Hz / sample rate.
+* In 2020 I created this page to showcase SciPy's signal processing package `scipy.signal` and used `filtfilt` to create low-pass filtered signals with no phase offset from the input data.
 
-```python
-plt.plot(data, '.-', alpha=.5, label="data")
-
-for cutoff in [.03, .05, .1]:
-    b, a = scipy.signal.butter(3, cutoff)
-    filtered = scipy.signal.filtfilt(b, a, data)
-    label = f"{int(cutoff*100):d}%"
-    plt.plot(filtered, label=label)
-    
-plt.legend()
-plt.axis([350, 500, None, None])
-plt.title("Effect of Different Cutoff Values")
-plt.show()
-```
-
-<div class="text-center">
-
-![](https://swharden.com/static/2020/09/23/signal-lowpass-cutoff.png)
-
-</div>
-
-## Improve Edges with Gustafsson’s Method
-
-Something weird happens at the edges. There's not enough data "off the page" to know how to smooth those points, so what should be done? 
-
-**Padding is the default behavior,** where edges are padded with with duplicates of the edge data points and smooth the trace as if those data points existed. The drawback of this is that one stray data point at the edge will greatly affect the shape of your smoothed data.
-
-**Gustafsson’s Method may be superior to padding.** The advantage of this method is that stray points at the edges do not greatly influence the smoothed curve at the edges. This technique is described in [a 1994 paper by Fredrik Gustafsson](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=492552). "Initial conditions are chosen for the forward and backward passes so that the forward-backward filter gives the same result as the backward-forward filter." Interestingly this paper demonstrates the method by filtering noise out of an EKG recording.
-
-```python
-# A small portion of data will be inspected for demonstration
-segment = data[350:400]
-
-filtered = scipy.signal.filtfilt(b, a, segment)
-filteredGust = scipy.signal.filtfilt(b, a, segment, method="gust")
-
-plt.plot(segment, '.-', alpha=.5, label="data")
-plt.plot(filtered, 'k--', label="padded")
-plt.plot(filteredGust, 'k', label="Gustafsson")
-plt.legend()
-plt.title("Padded Data vs. Gustafsson’s Method")
-plt.show()
-```
-
-<div class="text-center">
-
-![](https://swharden.com/static/2020/09/23/signal-method-gust.png)
-
-</div>
-
-## Band-Pass Filter
-
-Low-pass and high-pass filters can be selected simply by customizing the third argument passed into the filter. The second argument indicates frequency (as fraction of Nyquist frequency, half the sample rate). Passing a list of two values in for the second argument allows for band-pass filtering of a signal.
-
-```python
-b, a = scipy.signal.butter(3, 0.05, 'lowpass')
-filteredLowPass = scipy.signal.filtfilt(b, a, data)
-
-b, a = scipy.signal.butter(3, 0.05, 'highpass')
-filteredHighPass = scipy.signal.filtfilt(b, a, data)
-
-b, a = scipy.signal.butter(3, [.01, .05], 'band')
-filteredBandPass = scipy.signal.lfilter(b, a, data)
-```
-
-<div class="text-center">
-
-![](https://swharden.com/static/2020/09/23/signal-lowpass-highpass-bandpass.png)
-
-</div>
-
-## Filter using Convolution
-
-**Another way to low-pass a signal is to use convolution.** In this method you create a window (typically a bell-shaped curve) and _convolve_ the window with the signal. The wider the window is the smoother the output signal will be. Also, the window must be normalized so its sum is 1 to preserve the amplitude of the input signal.
-
-There are different ways to handle what happens to data points at the edges (see [`numpy.convolve`](https://numpy.org/doc/stable/reference/generated/numpy.convolve.html) for details), but setting `mode` to `valid` delete these points to produce an output signal slightly smaller than the input signal.
-
-```python
-# create a normalized Hanning window
-windowSize = 40
-window = np.hanning(windowSize)
-window = window / window.sum()
-
-# filter the data using convolution
-filtered = np.convolve(window, data, mode='valid')
-```
-
-<div class="text-center">
-
-![](https://swharden.com/static/2020/09/23/signal-convolution-filter.png)
-
-</div>
-
-```python
-plt.subplot(131)
-plt.plot(kernel)
-plt.title("Window")
-
-plt.subplot(132)
-plt.plot(data)
-plt.title("Data")
-
-plt.subplot(133)
-plt.plot(filtered)
-plt.title("Filtered")
-```
-
-**Different window functions filter the signal in different ways.** Hanning windows are typically preferred because they have a mostly Gaussian shape but touch zero at the edges. For a discussion of the pros and cons of different window functions for spectral analysis using the FFT, see my notes on [FftSharp](https://github.com/swharden/FftSharp).
+* In 2023 I updated this article to add Python 3 type hints, use more idiomatic Python naming schemes, favor `sosfiltfilt` over `filtfilt`, and create matplotlib plots and subplots using its more modern API.
 
 ## Resources
 
-* Sample data: [ecg.wav](https://swharden.com/static/2020/09/23/ecg.wav)
+* Example data: [ecg.wav](https://swharden.com/static/2020/09/23/ecg.wav)
 
-* [Sound Card ECG](https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/)
+* [scipy.signal.filtfilt](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html)
 
-* Jupyter notebook for this page: [signal-filtering.ipynb](https://swharden.com/static/2020/09/23/signal-filtering.ipynb)
+* [scipy.signal.sosfiltfilt](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.sosfiltfilt.html)
 
-* SciPy Cookbook: [Filtfilt](https://scipy-cookbook.readthedocs.io/items/FiltFilt.html), [Buterworth Bandpass Filter](https://scipy-cookbook.readthedocs.io/items/ButterworthBandpass.html)
+* [numpy.convolve](https://numpy.org/doc/stable/reference/generated/numpy.convolve.html)
 
-* SciPy Documentation: [scipy.signal.filtfilt](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html), [scipy.signal.butter](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html)
+* [Window Functions](https://en.wikipedia.org/wiki/Window_function) (Wikipedia)
 
-* Numpy Documentation: [numpy.convolve](https://numpy.org/doc/stable/reference/generated/numpy.convolve.html)
+* [FftSharp](https://github.com/swharden/FftSharp)
 
-* [Savitzky Golay Filtering](https://scipy-cookbook.readthedocs.io/items/SavitzkyGolay.html) - The Savitzky Golay filter is a particular type of low-pass filter, well adapted for data smoothing.
+* [Determining the initial states in forward-backward filtering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=492552) (Gustafsson, 1996)
