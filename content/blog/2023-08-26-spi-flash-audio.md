@@ -119,4 +119,6 @@ This video clip shows an AVR64DD32 using the strategy described above to play 8-
 
 * [AVR64DD32 datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/AVR64DD32-28-Prelim-DataSheet-DS40002315B.pdf)
 
+* The speakers featured in this project are convenient because they come in their own small resonant cavity. I found them [on Amazon](https://www.amazon.com/gp/aw/d/B0BGWY5PM9) for about $2 each.
+
 * [NIVIRO - The Guardian Of Angels](https://www.youtube.com/watch?v=yHU6g3-35IU) (NCS Release) provided by [NoCopyrightSounds](https://ncs.io/)

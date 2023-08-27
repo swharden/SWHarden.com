@@ -255,6 +255,8 @@ Full source code is on GitHub:
 
 * [@swharden/AVR-projects](https://github.com/swharden/AVR-projects/) - A collection of standalone projects for AVR microcontrollers (including Arduino) on GitHub. Refer to [ATTiny826 speech](https://github.com/swharden/AVR-projects/tree/master/ATTiny826%20speech) and [AVR64DD32 speech](https://github.com/swharden/AVR-projects/tree/master/AVR64DD32%20speech) folders.
 
+* The speakers featured in this project are convenient because they come in their own small resonant cavity. I found them [on Amazon](https://www.amazon.com/gp/aw/d/B0BGWY5PM9) for about $2 each.
+
 * [Talkie](https://www.arduino.cc/reference/en/libraries/talkie/) is an official Arduino speech synthesis library. It is a software implementation of the [Texas Instruments speech synthesis architecture](https://en.wikipedia.org/wiki/Texas_Instruments_LPC_Speech_Chips) from the late 1970s. I found the voice to be poor quality for reading numbers, but it may be useful to users seeking more complex phrases or who are concerned about demands on program memory.
 
 * [Adding speech to your Embedded Project](https://skinnysatan.com/2014/01/30/adding-speech-to-your-embedded-project/) - A similar blog post from 2014
