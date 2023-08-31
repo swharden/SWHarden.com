@@ -103,6 +103,19 @@ This video clip shows an AVR64DD32 using the strategy described above to play 8-
     </video>
 </div>
 
+### Use the AVR's DAC for Audio Playback
+
+**Modern 8-bit AVRs have a 10-bit digital-to-analog converter (DAC) built in.** It's simpler to setup and use than a discrete timer/counter in PWM mode.
+
+```c
+// Enable the DAC and output on pin 16
+DAC0.CTRLA = DAC_OUTEN_bm | DAC_ENABLE_bm;
+
+// Set the DAC level
+uint8_t level = 123; // Retrieved from memory
+DAC0.DATA = level << 5; // Shift up for the 10-bit DAC
+```
+
 ## Conclusions
 
 **For short audio clips [a microcontroller's program memory can be used to store audio](https://swharden.com/blog/2023-08-19-speaking-microcontroller/), but for minutes of audio SPI flash memory can be used to source the audio waveform.** On the upper extreme SD cards can be used to store audio, but there are [plenty](https://www.arduino.cc/reference/en/libraries/audiozero/) of online resources describing how to achieve this. My last few days exploring using in-chip program memory and SPI-accessible flash memory for audio playback in 8-bit microcontrollers with minimal external circuitry has been an interesting journey, and I look forward to using these techniques in upcoming embedded projects that require playback of stored audio.
