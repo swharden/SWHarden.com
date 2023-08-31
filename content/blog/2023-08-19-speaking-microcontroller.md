@@ -243,7 +243,7 @@ DAC0.CTRLA = DAC_OUTEN_bm | DAC_ENABLE_bm;
 
 // Set the DAC level
 uint8_t level = 123; // Retrieved from memory
-DAC0.DATA = level << 5; // Shift up for the 10-bit DAC
+DAC0.DATA = level << 8; // Shift to use the highest bits
 ```
 
 ## Playing Music from an AVR DD Series Microcontroller
