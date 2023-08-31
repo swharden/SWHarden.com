@@ -233,6 +233,19 @@ Full source code is on GitHub:
 
 * AVR DD series: [AVR64DD32 `main.c`](https://github.com/swharden/AVR-projects/blob/master/AVR64DD32%20audio%20speech/main.c)
 
+### Use the AVR's DAC for Audio Playback
+
+**Modern 8-bit AVRs have a 10-bit digital-to-analog converter (DAC) built in.** It's simpler to setup and use than a discrete timer/counter in PWM mode. Although the code above uses the AVR's timer/counter B (TCB) to generate the analog waveform, this method is recommended when a DAC is available:
+
+```c
+// Enable the DAC and output on pin 16
+DAC0.CTRLA = DAC_OUTEN_bm | DAC_ENABLE_bm;
+
+// Set the DAC level
+uint8_t level = 123; // Retrieved from memory
+DAC0.DATA = level << 5; // Shift up for the 10-bit DAC
+```
+
 ## Playing Music from an AVR DD Series Microcontroller
 
 **YouTube has a surprisingly large number of videos of people beeping the [Coffin Dance](https://www.youtube.com/watch?v=j9V78UbdzWI) song from an Arduino,** so here's my video response playing the actual song audio encoded as an 8 kHz 8-bit waveform on an AVR64DD32 microcontroller. The original song is [Astronomia](https://www.youtube.com/watch?v=iLBBRuVDOo4) by Vicetone and Tony Igy. Refer to [Know Your Meme: Coffin Dance](https://knowyourmeme.com/memes/coffin-dance-dancing-pallbearers) for more information about internet culture.
