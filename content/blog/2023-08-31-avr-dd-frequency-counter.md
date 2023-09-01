@@ -132,6 +132,16 @@ void print_with_commas(unsigned long freq){
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/31/small/counter-antenna-1.jpg">
 </a>
 
+## Use a Prescaler to Measure Higher Frequencies
+
+**There are many inexpensive single chip prescalers which can divide-down high frequency input to produce a waveform that slower counters can measure.** It appears there are several [RF prescaler modules on Amazon](https://www.amazon.com/s?k=prescaler+module) with SMA connectors, making them easy to pair with the preamplifier module above. Most of them seem to use a [MB506](https://www.qsl.net/n9zia/900/mb506.pdf) 2.4 GHz prescaler which is not currently available on Mouser.
+
+<a href="https://swharden.com/static/2023/08/31/prescaler2.jpg">
+<img class="w-75" src="https://swharden.com/static/2023/08/31/prescaler2.jpg">
+</a>
+
+**I'm also noticing a lot of people using the [MC12080 1.1 GHz Prescaler](https://www.mouser.com/datasheet/2/308/1/MC12080_D-2315407.pdf) for custom frequency counter designs.** It's a little over $4 on Mouser and doesn't require much supporting circuitry, although I haven't personally used this chip yet. I also found recommendations [MC12093](https://www.onsemi.com/pub/Collateral/MC12093-D.PDF). If you have experience creating a frequency counter using a prescaler, send me an email and let me know which chip you recommend and why!
+
 ## Gate with an External 10 MHz Reference
 
 **The examples above use the AVR's system clock to generate the 1 Hz gate, but accuracy can be improved by gating based upon a 10 MHz frequency reference.** This strategy passes the 10 MHz into the `XTAL32K1` pin and counts it with the RTC counter, generating 5 hz interrupts that can trigger the gating logic.
