@@ -111,7 +111,7 @@ ISR(TCA0_OVF_vect){
 }
 ```
 
-**Code:** The main block runs an infinite loop and displays the frequency if an updated number is detected. Sending text to the serial port and formatting large numbers to add commas is outside the scope of this article, but see [this project's code on GitHub](https://github.com/swharden/AVR-projects/blob/master/AVR64DD32%20counter) for more information about how I did it. I did find this function helpful:
+**Code:** The main block runs an infinite loop and displays the frequency if an updated number is detected. How to send text to the serial port is outside the scope of this article, but see [this project's code on GitHub](https://github.com/swharden/AVR-projects/blob/master/AVR64DD32%20counter) for more information about how I did it. I did find this function helpful:
 
 ```c
 void print_with_commas(unsigned long freq){
