@@ -126,7 +126,7 @@ void print_with_commas(unsigned long freq){
 
 ## Amplify Small Signals
 
-**Using an RF amplifier module, I was able to count radios signals using an antenna.** I found a convenient RF buffer amplifier board on Amazon based on a [TLV3501](https://www.ti.com/lit/ds/symlink/tlv3501.pdf) comparator. It is powered with 5V and has SMA connectors for RF input and TTL output, and I was able to use this device to measure frequency of various transmitters including my 144 MHz handheld VHF radio.
+**Using an RF amplifier module, I was able to measure the frequency of radio signals using an antenna.** I found a convenient RF buffer amplifier board on Amazon based on a [TLV3501](https://www.ti.com/lit/ds/symlink/tlv3501.pdf) comparator. It is powered with 5V and has SMA connectors for RF input and TTL output, and I was able to use this device to measure frequency of various transmitters including my 144 MHz handheld VHF radio.
 
 <a href="https://swharden.com/static/2023/08/31/small/counter-antenna-1.jpg">
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/31/small/counter-antenna-1.jpg">
