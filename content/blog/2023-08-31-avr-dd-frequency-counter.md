@@ -16,7 +16,7 @@ tags: ["circuit", "microcontroller"]
     * Connect the signal to be measured to the `EXTCLK` pin<sup>1</sup>
     * Setup the 12-bit Timer/Counter D to asynchronously count `EXTCLK` pulses
     * Use an overflow interrupt to track total pulse count
-* Gate the counter to measure the count exactly once per second
+* Gate the counter to report frequency exactly once per second
     * Setup the 16-bit Timer/Counter A to interrupt 5 times per second
     * Divide-down the 24 MHz system clock to achieve 5 Hz
     * Alternatively divide-down a 10 MHz reference on the `XTAL32K1` pin<sup>2</sup> to 5 Hz
