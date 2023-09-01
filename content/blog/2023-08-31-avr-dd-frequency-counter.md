@@ -150,7 +150,7 @@ void print_with_commas(unsigned long freq){
 <img class="border border-dark shadow" src="https://swharden.com/static/2023/08/31/small/counter-10-angle-1.jpg">
 </a>
 
-**In this example I'm measuring the 10 MHz signal** which is also responsible for the gating, so because of the chick-and-egg problem the measured frequency will always appear to be exactly 10 MHz even if the oscillator drifts. However, this strategy is useful for ensuring the software is written correctly. If the software is incorrect (e.g., the overflow period is off by one) this number will not read exactly 10 Mhz. Note also that the displayed frequency is ±1 which I presume can be attributed to variations in synchronization alignment while reading the asynchronous counter. No counts are "missed", so a deficit by 1 in one reading will self-correct as a surplus by 1 in a future reading.
+**In this example I'm measuring the 10 MHz signal** which is also responsible for the gating, so because of the chick-and-egg problem the measured frequency will always appear to be exactly 10 MHz even if the oscillator drifts. However, this strategy is useful for ensuring the software is written correctly. If the software is incorrect (e.g., the overflow period is off by one) this number will not read exactly 10 Mhz. Note also that the displayed frequency is ±1 which I presume can be attributed to variations in synchronization alignment while reading the asynchronous counter. No counts are "missed", so a deficit by 1 in one reading will self-correct by rolling over and appearing as as a surplus by 1 in a future reading.
 
 <a href="https://swharden.com/static/2023/08/31/screenshot-10.png">
 <img src="https://swharden.com/static/2023/08/31/screenshot-10.png">
