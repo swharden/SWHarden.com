@@ -187,6 +187,8 @@ ISR(RTC_CNT_vect){
 
 ## Resources
 
+* [Source code for this project](https://github.com/swharden/AVR-projects/tree/master/AVR64DD32%20counter)
+
 * [AVR64DD32 datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DD32-28-Prelim-DataSheet-DS40002315A.pdf)
 
 * [SN74LV8154 datasheet](https://www.ti.com/lit/ds/symlink/sn74lv8154.pdf) - Dual 16-Bit Binary Counters With 3-State Output Registers
