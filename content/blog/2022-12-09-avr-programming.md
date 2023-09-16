@@ -271,4 +271,4 @@ Writing flash...
   * [MPLAB Snap AVR UPDI modification](http://ww1.microchip.com/downloads/en/DeviceDoc/ETN36_MPLAB%20Snap%20AVR%20Interface%20Modification.pdf)
 * [ATTiny826 datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf)
 * [UPDI Physical Interface](https://onlinedocs.microchip.com/pr/GUID-DDB0017E-84E3-4E77-AAE9-7AC4290E5E8B-en-US-4/index.html)
-* [Contact me](https://swharden.com/about/) if you have suggestions or updated information
+* [jtag2updi](https://github.com/ElTangas/jtag2updi) aims to convert an Arduino into a serial port to use as a UPDI programmer. It looks a lot more complicated and expensive than just using a cheap USB serial adapter, and it requires [DisablingAutoResetOnSerialConnection](https://playground.arduino.cc/Main/DisablingAutoResetOnSerialConnection/).
