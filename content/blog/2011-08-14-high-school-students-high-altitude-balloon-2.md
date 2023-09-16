@@ -102,3 +102,11 @@ __The results were a bit disappointing,__ as we believe the Android phone froze/
 __Here's audio of the device's last words__ when it was about 10,000 feet in the air: [lastwords.mp3](https://swharden.com/static/2011/08/14/lastwords.mp3)
 
 __Overall we had an awesome time!__ I'd like to thank everyone who helped with this project, especially UF students Richard, Kunal, Dante, and all of the SSTP high school students!
+
+__Update:__ Several months later the payload was found in the woods and the SD card contained images from the high alitude balloon! Unfortunately they were shared using Google Plus which has deleted most of the photos since then, but here's one that remains:
+
+<div class="text-center img-border">
+
+![](https://swharden.com/static/2012/06/13/space.jpg)
+
+</div>
