@@ -258,9 +258,42 @@ DAC0.DATA = level << 8; // Shift to use the highest bits
 
 ## NumberSpeaker: Arduino Library for Speaking Numbers
 
-**I'm making a an Arduino library** called `NumberSpeaker` which contains the waveforms of rapidly-spoken digits and has playback logic wrapped in a simple API, making it easier for Arduino users who just want to read-out some numbers into a speaker as an alternative to showing numbers on a display. I'm still working on this library, but the work in progress can be evaluated from the GitHub project:
+**I created the `NumberSpeaker` Arduino library so others can easily speak numbers with an Arduino.** Source code for the library is on GitHub [@swharden/NumberSpeaker](https://github.com/swharden/NumberSpeaker), but to get started using it you can perform the following:
 
-* https://github.com/swharden/NumberSpeaker
+* Connect a speaker to `pin 11`
+* Open the Arduino IDE and create a new sketch
+* Press `CTRL+SHIFT+i` to open the library manager
+* Search for `NumberSpeaker` and select `Install`
+* Paste the following into your sketch
+
+```cpp
+#include <NumberSpeaker.h>
+
+NumberSpeaker numberSpeaker = NumberSpeaker();
+
+void setup() {
+  numberSpeaker.begin(); // connect a speaker to pin 11
+}
+
+void loop() {
+
+  numberSpeaker.speak_int(1234567);
+  delay(500);
+
+  numberSpeaker.speak_float(123.4567);
+  delay(500);
+
+  numberSpeaker.speak_string("69.420.42");
+  delay(500);
+
+  numberSpeaker.speak_char('6');
+  numberSpeaker.speak_char('.');
+  numberSpeaker.speak_char('9');
+  delay(500);
+
+  for (;;) {}
+}
+```
 
 ## Additional Resources
 
