@@ -15,7 +15,7 @@ tags: ["circuit", "microcontroller"]
 
 ## NumberSpeaker Arduino Library
 
-**The code described on this page has been packaged into the [`NumberSpeaker`](https://github.com/swharden/NumberSpeaker) library that can be installed from the Arduino library manager.** Users who just wish to have some numbers read out loud can use this library and not hassle with the complex techniques described lower on this page. Source code is [available on GitHub](https://github.com/swharden/NumberSpeaker), but to get started using it you can perform the following steps:
+**The code described on this page has been packaged into the [`NumberSpeaker`](https://www.arduino.cc/reference/en/libraries/numberspeaker/) library that can be installed from the Arduino library manager.** Users who just wish to have some numbers read out loud can use this library and not hassle with the complex techniques described lower on this page. Source code is [available on GitHub](https://github.com/swharden/NumberSpeaker), but to get started using it you can perform the following steps:
 
 * Connect a speaker to `pin 11`
 * Open the Arduino IDE and create a new sketch
@@ -286,6 +286,8 @@ DAC0.DATA = level << 8; // Shift to use the highest bits
 
 ## Additional Resources
 
+* [NumberSpeaker Arduino Library](https://www.arduino.cc/reference/en/libraries/numberspeaker/)
+
 * [@swharden/NumberSpeaker](https://github.com/swharden/NumberSpeaker) - Source code for this project on GitHub
 
 * [@swharden/AVR-projects](https://github.com/swharden/AVR-projects/) - A collection of standalone projects for AVR microcontrollers (including Arduino) on GitHub. Refer to [ATTiny826 speech](https://github.com/swharden/AVR-projects/tree/master/ATTiny826%20speech) and [AVR64DD32 speech](https://github.com/swharden/AVR-projects/tree/master/AVR64DD32%20speech) folders.
@@ -309,3 +311,5 @@ DAC0.DATA = level << 8; // Shift to use the highest bits
 * [Programming Modern AVR Microcontrollers](https://swharden.com/blog/2022-12-09-avr-programming/) - How to program modern series AVR using Atmel-ICS or MPLAB Snap UPDI programmers.
 
 * [Migration from the megaAVR to AVR Dx Microcontroller Families](https://ww1.microchip.com/downloads/en/Appnotes/Migration-from-megaAVR-to-AVR-DxMCU-Fam-DS00003731A.pdf) - Microchip application note
+
+* This article was featured in the official Arduino blog: [Arduino speaks without any special hardware](https://blog.arduino.cc/2023/08/24/arduino-speaks-without-any-special-hardware/)
