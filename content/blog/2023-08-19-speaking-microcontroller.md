@@ -313,4 +313,6 @@ DAC0.DATA = level << 8; // Shift to use the highest bits
 
 * [Migration from the megaAVR to AVR Dx Microcontroller Families](https://ww1.microchip.com/downloads/en/Appnotes/Migration-from-megaAVR-to-AVR-DxMCU-Fam-DS00003731A.pdf) - Microchip application note
 
-* This article was featured in the official Arduino blog: [Arduino speaks without any special hardware](https://blog.arduino.cc/2023/08/24/arduino-speaks-without-any-special-hardware/)
+* This article was featured in the Arduino blog: [Arduino speaks without any special hardware](https://blog.arduino.cc/2023/08/24/arduino-speaks-without-any-special-hardware/)
+
+* This article was featured on the Adafruit blog: [Speaking Numbers with an Arduino Uno R3 ATmega328P](https://blog.adafruit.com/2023/08/22/speaking-numbers-with-an-arduino-uno-r3-atmega328p-speech-arduino/)
