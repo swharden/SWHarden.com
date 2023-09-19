@@ -200,3 +200,5 @@ ISR(RTC_CNT_vect){
 * [AVR-Projects / AVR64DD32 counter](https://github.com/swharden/AVR-projects/tree/master/AVR64DD32%20counter) - Source code for this project on GitHub
 
 * [Programming Modern AVR Microcontrollers](https://swharden.com/blog/2022-12-09-avr-programming/) - How to program modern AVR chips using Atmel ICE or MPLAB Snap UPDI programmers.
+
+* This article was featured on Adafruit: [Frequency measurement with modern AVR microcontrollers #EE @MicrochipMakes](https://blog.adafruit.com/2023/09/05/frequency-measurement-with-modern-avr-microcontrollers-ee-microchipmakes/)
