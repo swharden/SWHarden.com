@@ -3,6 +3,7 @@ title: Show A Progress Bar as your Blazor App Loads
 description: How to add a progress bar to your client-side Blazor WebAssembly app to indicate page load progress.
 date: 2022-05-29 16:05:00
 tags: ["blazor", "csharp"]
+featured_image: https://swharden.com/static/2022/05/29/blazor-load-progress-v2.gif
 ---
 
 

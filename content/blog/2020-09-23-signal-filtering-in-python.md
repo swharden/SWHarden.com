@@ -3,6 +3,7 @@ title: Signal Filtering in Python
 description: How to apply low-pass, high-pass, and band-pass filters with Python
 date: 2020-09-23 21:46:00
 tags: ["python"]
+featured_image: https://swharden.com/static/2023/08/27/filter.png
 ---
 
 **This page describes how to perform low-pass, high-pass, and band-pass filtering in Python.** I favor SciPy's [`filtfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.filtfilt.html) function because the filtered data it produces is the same length as the source data and it has no phase offset, so the output always aligns nicely with the input. The [`sosfiltfilt`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.sosfiltfilt.html) function is even more convenient because it consumes filter parameters as a single object which makes them easier work with.

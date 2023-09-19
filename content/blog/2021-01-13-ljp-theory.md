@@ -3,6 +3,7 @@ title: LJP Theory and Correction
 description: What causes Liquid Junction Potential (LJP) and how to correct for it in patch-clamp experiments
 date: 2021-01-13
 tags: ["science"]
+featured_image: https://swharden.com/static/2021/01/13/ljp.png
 ---
 
 This page contains notes about the analytical methods [LJPcalc](https://swharden.com/LJPcalc/) uses to calculate LJP from ion tables

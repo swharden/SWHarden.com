@@ -2,6 +2,7 @@
 title: My Life with a Spiny Leaf Insect
 description: Photographs of the life cycle of a spiny leaf insect raised as a pet
 Date: 2021-10-12 20:45:00
+featured_image: https://swharden.com/static/2021/10/13/img-m/2016-12-30_15.11.10.jpg
 ---
 
 **I spent 2016 new years eve celebrating the occasion with a few entomologists.** Shortly after watching the ball drop in New York we changed the TV back to David Attenborough's [Life of Insects](https://www.youtube.com/watch?v=Cs1Xs3Eheag), and I was amazed at what I saw! There was a short segment on _leaf insects_ and I was impressed by the camouflage of these small creatures. I wanted to see more so I google image-searched and clicked on the websites that came up. One of the websites was an ebay listing for ten leaf insect eggs (for about $10 USD) and I couldn't avoid that "BUY IT NOW" button. I remember pointing to the TV and announcing to the room, "Aren't those things cool? I just bought ten."

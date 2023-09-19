@@ -3,6 +3,7 @@ title: Point Inside Rectangle
 description: How to determine if a point is inside a rotated rectangle with C#
 Date: 2022-02-01 00:10:00
 tags: ["csharp", "graphics"]
+featured_image: https://swharden.com/static/2022/02/01/rectangle-point-inside.png
 ---
 
 

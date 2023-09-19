@@ -2,6 +2,7 @@
 title: The New Age of QRSS
 date: 2020-10-03 22:08:00
 tags: ["qrss", "amateur radio"]
+featured_image: https://swharden.com/static/2020/10/03/lopora-signals2.jpg
 ---
 
 

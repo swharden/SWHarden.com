@@ -2,6 +2,7 @@
 title: Exploring the Voltage-Clamp Membrane Test
 date: 2020-10-11 22:24:00
 tags: ["science", "circuit"]
+featured_image: https://swharden.com/static/2020/10/11/whole-cell-voltage-clamp-diagram.png
 ---
 
 

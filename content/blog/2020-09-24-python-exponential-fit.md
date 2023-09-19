@@ -2,6 +2,7 @@
 title: Exponential Fit with Python
 date: 2020-09-24 17:45:00
 tags: ["python"]
+featured_image: https://swharden.com/static/2020/09/24/fitted.png
 ---
 
 

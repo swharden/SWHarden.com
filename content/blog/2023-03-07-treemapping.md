@@ -3,6 +3,7 @@ title: Treemapping with C#
 description: How to create a treemap diagram using C#
 Date: 2023-03-28 00:32:00
 tags: ["csharp", "graphics"]
+featured_image: https://swharden.com/static/2023/03/07/treemap.png
 ---
 
 **Treemap diagrams display a series of positive numbers using rectangles sized proportional to the value of each number.** This page demonstrates how to calculate the size and location of rectangles to create a tree map diagram using C#. Although the following uses System.Drawing to save the tree map as a Bitmap image, these concepts may be combined with information on the [C# Data Visualization](https://swharden.com/csdv/) page to create treemap diagrams using SkiaSharp, WPF, or other graphics technologies.

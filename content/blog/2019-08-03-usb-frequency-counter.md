@@ -2,6 +2,7 @@
 title: USB Frequency Counter
 date: 2019-08-03 21:15:00
 tags: ["circuit"]
+featured_image: https://swharden.com/static/2019/08/03/DSC_0132.jpg
 ---
 
 

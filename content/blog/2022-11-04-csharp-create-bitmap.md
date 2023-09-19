@@ -3,6 +3,7 @@ title: Creating Bitmaps from Scratch in C#
 description: How to create a bitmap and set pixel colors in memory and save the result to disk or convert it to a traditional image format
 Date: 2022-11-07 18:45:00
 tags: ["csharp", "graphics"]
+featured_image: https://swharden.com/static/2022/11/04/SkiaSharp-rainbow.jpg
 ---
 
 **This project how to represent bitmap data in a plain old C object (POCO) to create images from scratch using C# and no dependencies.** 

@@ -3,6 +3,7 @@ title: Summarizing Blog Posts with AI
 description: How I used Python to run the Llama 2 large language model locally and convert my rambling childhood blog posts into concise summaries
 Date: 2023-07-31 23:09:00
 tags: ["python", "ai"]
+featured_image: https://swharden.com/static/2023/09/19/documents.jpg
 ---
 
 **This page describes how I used a locally hosted generative AI to read blog posts I made as a child and summarize them using more professional language.** In the early 2000s there was no Twitter, and the equivalent was making short blog posts every few days. Today this website is effectively a technology blog, and although I'm proud to have been blogging for over twenty years, I'm embarrassed enough by some of the content I wrote as a child that I have hundreds of posts hidden. I like the idea of respecting my past by keeping those old posts up in some form, and I hope that generative AI can help me do that using more professional language more consistent with the present tone of this website.

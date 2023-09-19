@@ -3,6 +3,7 @@ title: Hack an Atmel ICE to Deliver Power
 description: How I broke out VCC and programming lines so my Atmel ICE can power devices and program them without requiring the programming cable
 Date: 2023-08-22 19:45:00
 tags: ["circuit", "microcontroller"]
+featured_image: https://swharden.com/static/2023/08/22/programming.jpg
 ---
 
 **The Atmel ICE is a development tool for programming and debugging Atmel microcontrollers, but it does not have the ability to power devices under test.** Older AVR series microcontrollers could be programmed with inexpensive ICSP programmers that carried a VCC line, but the newest series of AVR microcontrollers cannot be programmed with ICSP. See my [Programming Modern AVR Microcontrollers](https://swharden.com/blog/2022-12-09-avr-programming) article for information about options for programming these chips using inexpensive gear. Although the Atmel ICE has a VCC _sense_ line, it does not come with the ability to _deliver_ power. This page describes how I modified my Atmel ICE to break-out 5V and 3.3V lines, and also V<sub>SENSE</sub> and UPDI pins to make it easier to program microcontrollers without needed the ribbon cable.

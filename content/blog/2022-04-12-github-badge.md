@@ -3,6 +3,7 @@ title: GitHub Repository Badge
 description: What I learned creating a github repo stats badge using HTML and Vanilla JS
 date: 2022-04-12 23:00:00
 tags: ["JavaScript", "GitHub"]
+featured_image: https://swharden.com/static/2022/04/12/banner.png
 ---
 
 

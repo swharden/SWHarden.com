@@ -3,6 +3,7 @@ title: Frequency Measurement with Modern AVR Microcontrollers
 description: How to use the AVR64DD32's asynchronous counter to measure frequencies beyond 100 MHz
 Date: 2023-08-31 18:40:00
 tags: ["circuit", "microcontroller"]
+featured_image: https://swharden.com/static/2023/08/31/small/counter-50-angle-1.jpg
 ---
 
 **Modern AVR microcontrollers have asynchronous counters that can be externally driven to count pulses from 1 Hz to beyond 100 MHz.** Over the years I've explored various methods for building frequency counters typically using the [SN74LV8154 32-bit counter](https://www.ti.com/lit/ds/symlink/sn74lv8154.pdf), but my new favorite method uses the [AVR64DD32 microcontroller](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DD32-28-Prelim-DataSheet-DS40002315A.pdf) ($1.52 on Mouser) to directly measure a signal and report its frequency to a PC using a USB serial adapter. I'm working on a special frequency counter project which builds upon this strategy, but I found the core concept to be interesting enough that I decided to write about it in its own article. The following information is a summary of how the strategy can be achieved, but additional information and source code is [available on GitHub](https://github.com/swharden/AVR-projects/tree/master/AVR64DD32%20counter).

@@ -3,6 +3,7 @@ title: .NET Source Code Analysis
 description: How to analyze source code metrics of .NET assemblies from a console application
 Date: 2023-03-05 15:20:00
 tags: ["csharp"]
+featured_image: https://swharden.com/static/2023/03/07/code-report.png
 ---
 
 **This page describes how to use the [Microsoft.CodeAnalysis.Metrics](https://www.nuget.org/packages/Microsoft.CodeAnalysis.Metrics/) package to perform source code analysis of .NET assemblies from a console application.** Visual Studio users can perform source code analysis by clicking the "Analyze" dropdown menu and selecting "Calculate Code Metrics", but I sought to automate this process so I can generate custom code analysis reports from console applications as part of my CI pipeline.

@@ -3,6 +3,7 @@ title: Static Site Broken Link Detection
 description: How to check for broken links and images across large static websites
 Date: 2023-05-13 13:39:00
 tags: ["python", "hugo"]
+featured_image: https://swharden.com/static/2023/05/13/report2.png
 ---
 
 **This website is a static site containing thousands of pages, and I recently had the desire to check all of them for broken links and images.** Although it would be a tedious task to perform manually, I was able to automate the process using Python. This page describes the process I used to identify broken links and images and may be helpful to others using static site generator tools like [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), [Eleventy](https://www.11ty.dev/), [Pelican](https://getpelican.com/), [Gatsby](https://www.gatsbyjs.com/), other [Jamstack site generators](https://jamstack.org/generators/), or hand-written HTML files.

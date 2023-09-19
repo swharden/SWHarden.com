@@ -3,6 +3,7 @@ title: Using DataFrames in C#
 description: How to use the DataFrame class from the Microsoft.Data.Analysis package to interact with tabular data
 date: 2022-05-01 23:00:00
 tags: ["csharp"]
+featured_image: https://swharden.com/static/2022/05/25/maui-graphics-quickstart.png
 ---
 
 

@@ -3,6 +3,7 @@ title: Programming Modern AVR Microcontrollers
 description: How to program modern AVR chips using Atmel ICE, MPLAB Snap, or Serial Port UPDI programmers
 Date: 2022-12-09 23:45:00
 tags: ["circuit", "microcontroller"]
+featured_image: https://swharden.com/static/2022/12/09/atmel-ice-4.jpg
 ---
 
 **This page describes how to program Microchip's newest series of AVR microcontrollers using official programming gear and software.** I spent many years programming the traditional series of Atmel chips, but now several years after Microchip acquired Atmel I am interested in exploring the capabilities of the latest series of AVR microcontrollers (especially the new AVR DD family). Currently the global chip shortage makes it difficult to source traditional ATMega and STM32 chips, but the newest series of AVR microcontrollers feature an impressive set of peripherals for the price and are available from all the major vendors.

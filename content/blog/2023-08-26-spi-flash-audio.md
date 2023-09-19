@@ -3,6 +3,7 @@ title: Play Audio from SPI Flash with a Microcontroller
 description: How to use a microcontroller to drive a speaker using PWM from audio levels stored in a SPI flash chip
 Date: 2023-08-26 20:00:00
 tags: ["circuit", "microcontroller"]
+featured_image: https://swharden.com/static/2023/08/25/arduino-audio-1.jpg
 ---
 
 **This project uses a microcontroller's PWM output to drive a speaker and play audio stored in a SPI flash chip.** This article combines what was learned in my two previous articles: [play audio with a microcontroller](https://swharden.com/blog/2023-08-19-speaking-microcontroller/) and [use a FT232H to program a SPI flash chip](https://swharden.com/blog/2023-08-24-ft232h-spi-flash/) which go into more detail about the circuitry and code behind each of these major steps. By encoding audio at 8-bit resolution with an 8 kHz sample rate, 32 Mb (4 MB) of memory is sufficient to store approximately 8 minutes of raw audio. In this project I'm using a [W25Q32](https://www.elinux.org/images/f/f5/Winbond-w25q32.pdf) breakout board available on Amazon for about $2 each. Although many similar projects online demonstrate audio playback using SD cards, I find the strategies demonstrated here favorable for simple projects because it can be achieved with the addition of only a single inexpensive component.

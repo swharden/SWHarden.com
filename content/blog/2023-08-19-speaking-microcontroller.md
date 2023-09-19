@@ -3,6 +3,7 @@ title: Speaking Numbers with a Microcontroller
 description: How to encode WAV files into C code that can be replayed from memory
 Date: 2023-08-19 23:00:00
 tags: ["circuit", "microcontroller"]
+featured_image: https://swharden.com/static/2023/08/19/arduino-speaker-speech-2.jpg
 ---
 
 **This page describes the technique I used to get a microcontroller to speak numbers out loud.** Reading numbers from a speaker is an interesting and simple alternative to displaying numbers on a display, which often requires complex multiplexing circuitry and/or complex software to drive the display. This page describes the techniques I used to extract audio waveforms from MP3 files and encode them into data that can be stored in the microcontroller's flash memory. 

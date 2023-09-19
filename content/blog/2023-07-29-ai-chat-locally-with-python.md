@@ -3,6 +3,7 @@ title: Run Llama 2 Locally with Python
 description: How to run open source large language models locally to provide AI chat responses to text prompts
 Date: 2023-07-29 18:30:00
 tags: ["python", "ai"]
+featured_image: https://swharden.com/static/2023/09/19/llama2.jpg
 ---
 
 **This page describes how to interact with the Llama 2 large language model (LLM) locally using Python,** without requiring internet, registration, or API keys. We will deliver prompts to the model and get AI-generated chat responses using the [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package.
