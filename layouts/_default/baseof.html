@@ -23,7 +23,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ .Title }}">
     <meta property="og:description" content="{{ .Description }}">
-    <meta property="og:image" content="/blog/img/og.png">
+    <meta property="og:image" content="{{ index .Params "featured_image" | default "/blog/img/og.png" }}">
     
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="https://SWHarden.com">
