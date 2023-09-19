@@ -13,7 +13,35 @@ tags: ["circuit", "microcontroller"]
 
 **Because microcontrollers have a limited amount of flash memory this method is not suitable for long recordings, but it is fine for storing a few seconds of audio at a limited sample rate.** Unlike more common methods for playing audio with a microcontroller, playing audio from program memory does not require a SD card, special hardware, or complex audio decoding software. Although this technique works best when a speaker is driven with a amplifier circuit, I found acceptable audio can be produced by driving a speaker directly from a microcontroller pin. This technique makes it possible to play surprisingly good audio without requiring any components other than a speaker.
 
-## TLDR
+## NumberSpeaker Arduino Library
+
+**The code described on this page has been packaged into the [`NumberSpeaker`](https://github.com/swharden/NumberSpeaker) library that can be installed from the Arduino library manager.** Users who just wish to have some numbers read out loud can use this library and not hassle with the complex techniques described lower on this page. Source code is [available on GitHub](https://github.com/swharden/NumberSpeaker), but to get started using it you can perform the following steps:
+
+* Connect a speaker to `pin 11`
+* Open the Arduino IDE and create a new sketch
+* Press `CTRL+SHIFT+i` to open the library manager
+* Search for `NumberSpeaker` and select `Install`
+* Paste the following into your sketch
+
+```cpp
+#include "NumberSpeaker.h"
+
+NumberSpeaker numberSpeaker = NumberSpeaker();
+
+void setup() {
+  numberSpeaker.begin();  // speaker on pin 11
+}
+
+void loop() {
+  unsigned int count = 0;
+  for (;;) {
+    numberSpeaker.speak_int(count++);
+    delay(500);
+  }
+}
+```
+
+## Theory of Operation
 
 * Start with a folder of mp3 files, one per spoken number
 * Band-pass the audio between 100 Hz and 2.5 kHz
@@ -255,45 +283,6 @@ DAC0.DATA = level << 8; // Shift to use the highest bits
         <source src="https://swharden.com/static/2023/08/19/music.webm" type="video/webm">
     </video>
 </div>
-
-## NumberSpeaker: Arduino Library for Speaking Numbers
-
-**I created the `NumberSpeaker` Arduino library so others can easily speak numbers with an Arduino.** Source code for the library is on GitHub [@swharden/NumberSpeaker](https://github.com/swharden/NumberSpeaker), but to get started using it you can perform the following:
-
-* Connect a speaker to `pin 11`
-* Open the Arduino IDE and create a new sketch
-* Press `CTRL+SHIFT+i` to open the library manager
-* Search for `NumberSpeaker` and select `Install`
-* Paste the following into your sketch
-
-```cpp
-#include <NumberSpeaker.h>
-
-NumberSpeaker numberSpeaker = NumberSpeaker();
-
-void setup() {
-  numberSpeaker.begin(); // connect a speaker to pin 11
-}
-
-void loop() {
-
-  numberSpeaker.speak_int(1234567);
-  delay(500);
-
-  numberSpeaker.speak_float(123.4567);
-  delay(500);
-
-  numberSpeaker.speak_string("69.420.42");
-  delay(500);
-
-  numberSpeaker.speak_char('6');
-  numberSpeaker.speak_char('.');
-  numberSpeaker.speak_char('9');
-  delay(500);
-
-  for (;;) {}
-}
-```
 
 ## Additional Resources
 
