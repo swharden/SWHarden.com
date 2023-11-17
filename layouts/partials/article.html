@@ -31,29 +31,16 @@
 
     {{ .Content }}
 
-    <div>
-        <!-- BOTTOM OF THE ARTICLE -->
-    </div>
+    <!-- 
+        Ads could be placed at the bottom of articles to help cover hosting costs,
+        but this is not necessary thanks to anonymous donations! 💕
+        https://swharden.com/donate/
+    -->
 
     {{ if gt .Date.Year 1 }}
     {{ partial "article-footer.html" . }}
     {{ end }}
 
 </article>
-
-<div>
-    <!-- BENEATH THE ARTICLE -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6687695838902989"
-    crossorigin="anonymous"></script>
-    <ins class="adsbygoogle"
-        style="display:block; text-align:center;"
-        data-ad-layout="in-article"
-        data-ad-format="fluid"
-        data-ad-client="ca-pub-6687695838902989"
-        data-ad-slot="1519713224"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-</div>
 
 <hr style="opacity: 0;" class="py-4" />
