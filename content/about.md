@@ -73,7 +73,7 @@ _The best way to see what I've been up to lately is to [check out my GitHub](htt
 
 **I was diagnosed with cancer** in 2012 (peripheral T-cell lymphoma, PTCL-NOS) 
 and began treatments in 2018 including chemotherapy, radiation therapy, 
-and an autologous bone marrow transplant. 
+and an autologous bone marrow transplant in 2019.
 
 **My medical updates:**
 <br>
@@ -86,30 +86,36 @@ and an autologous bone marrow transplant.
 
 **How to help:**
 <br>
-&bull; Join the [bone marrow donor registry](https://my.bethematch.org/s/join) (for US adults 18-40, it's free and just requires a cheek swab!)
+&bull; Join the [bone marrow donor registry](https://my.bethematch.org/s/join) - it's free and just requires a cheek swab! (US adults 18-40)
 
 <img src="https://swharden.com/static/misc/about/scott-harden-cancer-after-transplant.jpg" class="mx-auto w-75 my-5 border-dark border shadow">
 
-At the time of writing (early 2022) I am doing well, 
-but the future of my disease remains somewhat uncertain. 
 If this website hasn't been updated in a while, 
 you can verify that I'm okay by seeing 
 [recent activity on my GitHub account](https://github.com/swharden). 
-~~My plan is to remove this message after achieving 5 years cancer-free.~~
 
-> July, 2022:
-> I am now classified as a patient with relapsed peripheral T-cell lymphoma. 
-> Although I am not in any immediate danger, 
-> 3 years after my autologous bone marrow transplant it now seems likely that 
-> I will require additional treatment at some point. 
-> Currently my disease remains indolent and things are moving slowly, 
+I plan to remove this section from my about page after achieving 5 years cancer-free.
+
+> **July, 2022:**
+> A recent CT scan indicated evidence of relapse. 
+> Although I am not in immediate danger, 
+> 3 years after my autologous bone marrow transplant it now seems that 
+> I may require additional treatment at some point. 
+> Currently things are moving slowly, 
 > so my next course of treatment is not yet decided.
-> I'll update this page and https://swharden.com/med as I learn more.
+> I'll update this page as I learn more.
 
-> July, 2023:
+> **July, 2023:**
 > Following-up one year after my last update, I'm happy to report that things
 > are still moving very slowly. I was extremely concerned at this time last year 
 > after freshly getting the "relapse" diagnosis, but now that I've gone a full year 
 > without major changes in my medical condition, it means that I have a good chance of
-> remaining stable for a long time to come. I'll update this page when I learn more,
-> likely by the end of this year.
+> remaining stable for a long time to come.
+
+> **January, 2024:**
+> There is no evidence of additional progression at this time, 
+> so I feel like I'm back on track for a full recovery!
+> April 2024 marks the 5 year anniversary of my 
+> bone marrow transplant, and if I get to that point
+> without evidence of further progression I will be
+> happy to consider myself cancer free!
