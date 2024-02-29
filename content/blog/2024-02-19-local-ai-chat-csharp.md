@@ -1,12 +1,12 @@
 ---
 title: Local AI Chat with C#
-description: How to run a LLM locally to power AI chat and answer questions about documents
+description: How to run an LLM locally to power AI chat and answer questions about documents
 Date: 2024-02-28 21:15:00
 tags: ["ai", "csharp"]
 featured_image: https://swharden.com/static/2024/02/28/planets.png
 ---
 
-**This page describes how I use C# to run the LLama2 large language model (LLM) locally to achieve AI chat, including the ability to answer questions about local documents.** I previously described how I [run LLama2 locally using Python](https://swharden.com/blog/2023-07-29-ai-chat-locally-with-python/) (and how I use it to [answer questions about documents](https://swharden.com/blog/2023-07-30-ai-document-qa/)). Although the Python ecosystem is fantastic for end-users who are strong programmers, setting-up the development environment required to run Python scripts can be a challenge. Maintaining Python projects can be cumbersome too, and I received numerous emails over the last several months indicating that the code examples I posted just a few months ago no longer run as expected. Although I intend to go back and update those old Python tutorials to try to keep them current, I was very happy to learn I can achieve similar functionality using the .NET ecosystem. This article shows the free and open-source tools I use to create C# applications that leverage locally-hosted LLMs to provide interactive chat, including searching, summarizing, and answering questions about information in local documents.
+**This page describes how I use C# to run the LLaMA 2 large language model (LLM) locally to achieve AI chat, including the ability to answer questions about local documents.** I previously described how I [run LLama2 locally using Python](https://swharden.com/blog/2023-07-29-ai-chat-locally-with-python/) (and how I use it to [answer questions about documents](https://swharden.com/blog/2023-07-30-ai-document-qa/)). Although the Python ecosystem is fantastic for end-users who are strong programmers, setting-up the development environment required to run Python scripts can be a challenge. Maintaining Python projects can be cumbersome too, and I received numerous emails indicating that the code examples I posted just a few months ago no longer run as expected. Although I intend to go back and update those old Python tutorials to try to keep them current, I was very happy to learn I can achieve similar functionality using the .NET ecosystem. This article shows how I use free and open-source tools to create C# applications that leverage locally-hosted LLMs to provide interactive chat, including searching, summarizing, and answering questions about information in local documents.
 
 ## Key Resources
 
@@ -18,17 +18,17 @@ featured_image: https://swharden.com/static/2024/02/28/planets.png
 
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) is an open-source project (maintained by [Martin Evans](https://github.com/martindevans) as part of the [SciSharp stack](https://scisharp.github.io/SciSharp/)) which provides a simple .NET interface to llama.cpp, making it easy to interact with LLMs in C# projects. This project evolves alongside the llama.cpp project, incorporating new features and performance enhancements.
 
-* [KernelMemory](https://github.com/microsoft/kernel-memory) is an open-source project (maintained by Microsoft) which acts as a high level AI service that uses LLMs to index documents and retrieve information from them using LLMs.
+* [KernelMemory](https://github.com/microsoft/kernel-memory) is an open-source project (maintained by Microsoft) which acts as a high level AI service that uses LLMs to index documents and retrieve information from them on demand. Most new applications prefer to interact with Kernel Memory (KM) over the older Semantic Memory (SM).
 
-## TLDR
+## Summary (TLDR)
 
-* [Download a GGUF file from HuggungFace](https://huggingface.co/models?search=gguf). I'll be using `llama-2-7b-chat.Q5_K_M.gguf` (4.67 GB) for many of the examples on this page, but try different models to identify one that has the best balance of size, performance, and accuracy to meet your needs. Note that CodeLLama models are available which are especially knowledgeable about programming.
+* [Download a GGUF file from HuggungFace](https://huggingface.co/models?search=gguf). Examples on this page use the `llama-2-7b-chat.Q5_K_M.gguf` model (4.67 GB), but try different models to identify one that has the best balance of size, performance, and accuracy to meet your needs. Note that CodeLLama models are available which are especially knowledgeable about programming.
 
 * Create a new .NET project and add the [`LLamaSharp`](https://www.nuget.org/packages/LLamaSharp) and [`LLamaSharp.Backend.Cpu`](https://www.nuget.org/packages/LLamaSharp.Backend.Cpu) NuGet packages. Although CUDA backend packages support GPU-accelerated processing on some systems, start with the CPU package to avoid confusing hardware-related memory errors.
 
 * For AI chat, use LLamaSharp classes to load the model and start a chat session as outlined below. Additional functionality is demonstrated in the example app available as source code in the [LLamaSharp GitHub repository](https://github.com/SciSharp/LLamaSharp).
 
-* To ingest documents and use AI to search, summarize, or chat about them, also install the [LLamaSharp.kernel-memory](https://www.nuget.org/packages/LLamaSharp.kernel-memory) and [`Microsoft.KernelMemory.Core`](https://www.nuget.org/packages/Microsoft.SemanticKernel.Core/) NuGet packages. Create a `KernelMemoryBuilder` using the `WithLLamaSharpDefaults()` extension method as shown below.
+* To ingest documents and use AI to answer questions about them, also install the [LLamaSharp.kernel-memory](https://www.nuget.org/packages/LLamaSharp.kernel-memory) and [`Microsoft.KernelMemory.Core`](https://www.nuget.org/packages/Microsoft.SemanticKernel.Core/) NuGet packages. Create a `KernelMemoryBuilder` using the `WithLLamaSharpDefaults()` extension method as shown below.
 
 * Examples on this page are available as standalone .NET projects: https://github.com/swharden/Local-LLM-csharp
 
@@ -165,11 +165,11 @@ I then provided information about a fictitious Python package as a text file and
 
 ## Document Ingestion with Local Storage
 
-Users who run the code above to perform document ingestion will find that it takes a long time to ingest large documents (on the oder of minutes), and restarting the program requires reanalyzing those files all over again.
+Users who run the code above to perform document ingestion will find that it takes a long time to ingest large documents (on the order of minutes), and restarting the program requires reanalyzing those files all over again.
 
-The Kernel Memory package has functionality to allow allows the information gathered from documents to be stored, then re-loaded into memory almost instantly the next time the program is loaded. There are extensions to allow memory to be stored in various cloud engines and databases (Azure AI Search, Elasticsearch, Postgres, SQL Server, etc.), but in this example we will store and retrieve this information using the local filesystem.
+The Kernel Memory package has functionality that allows the information gathered from documents to be stored, then re-loaded into memory almost instantly the next time the program is started. There are extensions to allow memory to be stored in various cloud engines and databases (Azure AI Search, Elasticsearch, Postgres, SQL Server, etc.), but in this example we will store and retrieve this information using the local filesystem.
 
-To enable local storage of ingested document information for quick retrieval, modify the code example above to include the `WithSimpleFileStorage()` and `WithSimpleVectorDb()` methods when building the kernel memory:
+To enable local storage of ingested document information for quick retrieval, modify the code example above to build the kernel memory as shown here:
 
 ```cs
 SimpleFileStorageConfig storageConfig = new()
@@ -203,9 +203,9 @@ The [LLamaSharp](https://scisharp.github.io/LLamaSharp/) and [Kernel Memory](htt
 
 * Full code examples from this article are available on GitHub: https://github.com/swharden/Local-LLM-csharp
 
-* [LLamaSharp](https://github.com/SciSharp/LLamaSharp) is an open-source project (maintained by [Martin Evans](https://github.com/martindevans) as part of the [SciSharp stack](https://scisharp.github.io/SciSharp/)) which provides a simple .NET interface to llama.cpp, making it easy to interact with LLMs in C# projects. 
+* [LLamaSharp](https://github.com/SciSharp/LLamaSharp) is an open-source project (maintained by [Martin Evans](https://github.com/martindevans) as part of the [SciSharp stack](https://scisharp.github.io/SciSharp/)) which provides a simple .NET interface to llama.cpp, making it easy to interact with LLMs in C# projects. The repository has an `Examples` project which demonstrates many of the core functions this library provides.
 
-* [KernelMemory](https://github.com/microsoft/kernel-memory) is an open-source project (maintained by Microsoft) which acts as a high level AI service that uses LLMs to index documents and retrieve information from them using LLMs. It seems to be favored over the older Semantic Memory package for many applications.
+* [KernelMemory](https://github.com/microsoft/kernel-memory) is an open-source project (maintained by Microsoft) which acts as a high level AI service that uses LLMs to index documents and retrieve information from them using LLMs. Most new applications prefer to interact with Kernel Memory (KM) over the older Semantic Memory (SM).
 
 * [Run Llama 2 Locally with Python](https://swharden.com/blog/2023-07-29-ai-chat-locally-with-python/) - A blog post I made several months ago
 
