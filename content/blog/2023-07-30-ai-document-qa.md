@@ -8,6 +8,19 @@ featured_image: https://swharden.com/static/2023/09/19/documents.jpg
 
 **This page describes how I use Python to ingest information from documents on my filesystem and run the Llama 2 large language model (LLM) locally to answer questions about their content.** My ultimate goal with this work is to evaluate feasibility of developing an automated system to digest software documentation and serve AI-generated answers to technical questions based on the latest available information.
 
+<div class="my-5">
+<div class="alert alert-primary" role="alert">
+    <strong>
+        UPDATE: A C# version of this article has been created.
+    </strong>
+    Code on this page describes a Python-centric strategy for running the LLama2 LLM locally,
+    but a newer article I wrote describes 
+    <a href="/blog/2024-02-19-local-ai-chat-csharp/"><strong>how to run AI chat locally using C#</strong></a>
+    (including how to have it answer questions about documents) which some users may
+    find easier to follow.
+</div>
+</div>
+
 **Quickstart:** The previous post [_Run Llama 2 Locally with Python_](/blog/2023-07-29-ai-chat-locally-with-python/) describes a simpler strategy to running Llama 2 locally if your goal is to generate AI chat responses to text prompts without ingesting content from local documents.
 
 ## Environment Setup
