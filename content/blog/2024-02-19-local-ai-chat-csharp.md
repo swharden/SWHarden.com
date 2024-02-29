@@ -201,19 +201,19 @@ The [LLamaSharp](https://scisharp.github.io/LLamaSharp/) and [Kernel Memory](htt
 
 * Full code examples from this article are available on GitHub: https://github.com/swharden/Local-LLM-csharp
 
-* [LLamaSharp](https://github.com/SciSharp/LLamaSharp) is an open-source project (maintained by [Martin Evans](https://github.com/martindevans) as part of the [SciSharp stack](https://scisharp.github.io/SciSharp/)) which provides a simple .NET interface to llama.cpp, making it easy to interact with LLMs in C# projects. This project evolves alongside the llama.cpp project, incorporating new features and performance enhancements.
+* [LLamaSharp](https://github.com/SciSharp/LLamaSharp) is an open-source project (maintained by [Martin Evans](https://github.com/martindevans) as part of the [SciSharp stack](https://scisharp.github.io/SciSharp/)) which provides a simple .NET interface to llama.cpp, making it easy to interact with LLMs in C# projects. 
 
-* [KernelMemory](https://github.com/microsoft/kernel-memory) is an open-source project (maintained by Microsoft) which acts as a high level AI service that uses LLMs to index documents and retrieve information from them using LLMs.
+* [KernelMemory](https://github.com/microsoft/kernel-memory) is an open-source project (maintained by Microsoft) which acts as a high level AI service that uses LLMs to index documents and retrieve information from them using LLMs. It seems to be favored over the older Semantic Memory package for many applications.
 
-* [Run Llama 2 Locally with Python](https://swharden.com/blog/2023-07-29-ai-chat-locally-with-python/)
+* [Run Llama 2 Locally with Python](https://swharden.com/blog/2023-07-29-ai-chat-locally-with-python/) - A blog post I made several months ago
 
-* [Using Llama 2 to Answer Questions About Local Documents (Python)](https://swharden.com/blog/2023-07-30-ai-document-qa/)
+* [Using Llama 2 to Answer Questions About Local Documents (Python)](https://swharden.com/blog/2023-07-30-ai-document-qa/) - A blog post I made several months ago
 
-* [HuggingFace](https://huggingface.co/) is a website that hosts different versions of LLaMA models, including _quantized_ models which trade accuracy for reduced size, faster processing, and a smaller memory footprint. This project will use models in the GGUF format.
+* [HuggingFace](https://huggingface.co/) is a website that hosts different versions of LLaMA models, including quantized models which trade accuracy for reduced size, faster processing, and a smaller memory footprint.
 
 * [llama.cpp](https://github.com/ggerganov/llama.cpp) is an open-source C++ project (maintained by [Georgi Gerganov](https://github.com/ggerganov)) that provides a simple API for interacting with LLMs in a variety of different file formats.
 
-* [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) (Thanks m0nsky from the LLamaSharp Discord)
+* [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) - Thanks m0nsky from the LLamaSharp Discord for pointing this page out
 
 * [LLaMA on Wikipedia](https://en.wikipedia.org/wiki/LLaMA) has an interesting write-up about the path toward releasing LLama to the public (It was initially leaked via torrents)
 
