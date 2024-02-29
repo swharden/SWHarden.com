@@ -22,7 +22,7 @@ featured_image: https://swharden.com/static/2024/02/28/planets.png
 
 ## Summary (TLDR)
 
-* [Download a GGUF file from HuggungFace](https://huggingface.co/models?search=gguf). Examples on this page use the `llama-2-7b-chat.Q5_K_M.gguf` model (4.67 GB), but try different models to identify one that has the best balance of size, performance, and accuracy to meet your needs. Note that CodeLLama models are available which are especially knowledgeable about programming.
+* [Download a GGUF file from HuggingFace](https://huggingface.co/models?search=gguf). Examples on this page use the `llama-2-7b-chat.Q5_K_M.gguf` model (4.67 GB), but try different models to identify one that has the best balance of size, performance, and accuracy to meet your needs. Note that CodeLLama models are available which are especially knowledgeable about programming.
 
 * Create a new .NET project and add the [`LLamaSharp`](https://www.nuget.org/packages/LLamaSharp) and [`LLamaSharp.Backend.Cpu`](https://www.nuget.org/packages/LLamaSharp.Backend.Cpu) NuGet packages. Although CUDA backend packages support GPU-accelerated processing on some systems, start with the CPU package to avoid confusing hardware-related memory errors.
 
@@ -36,7 +36,7 @@ featured_image: https://swharden.com/static/2024/02/28/planets.png
 
 To create an interactive AI chat bot that answers user questions:
 
-1. [Download a GGUF file from HuggungFace](https://huggingface.co/models?search=gguf) (I'm using `llama-2-7b-chat.Q5_K_M.gguf`)
+1. [Download a GGUF file from HuggingFace](https://huggingface.co/models?search=gguf) (I'm using `llama-2-7b-chat.Q5_K_M.gguf`)
 
 2. Create a new .NET console application and add the [`LLamaSharp`](https://www.nuget.org/packages/LLamaSharp) and [`LLamaSharp.Backend.Cpu`](https://www.nuget.org/packages/LLamaSharp.Backend.Cpu) NuGet packages
 
@@ -103,7 +103,7 @@ Chat sessions preserve history, enabling "follow-up" questions where the model u
 
 To create an AI chat bot that answers user questions about documents:
 
-1. [Download a GGUF file from HuggungFace](https://huggingface.co/models?search=gguf) (I'm using `llama-2-7b-chat.Q5_K_M.gguf`)
+1. [Download a GGUF file from HuggingFace](https://huggingface.co/models?search=gguf) (I'm using `llama-2-7b-chat.Q5_K_M.gguf`)
 
 2. Create a new .NET console application and add the [`LLamaSharp`](https://www.nuget.org/packages/LLamaSharp) and [`LLamaSharp.Backend.Cpu`](https://www.nuget.org/packages/LLamaSharp.Backend.Cpu) NuGet packages
 
