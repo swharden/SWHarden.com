@@ -8,6 +8,19 @@ featured_image: https://swharden.com/static/2023/09/19/llama2.jpg
 
 **This page describes how to interact with the Llama 2 large language model (LLM) locally using Python,** without requiring internet, registration, or API keys. We will deliver prompts to the model and get AI-generated chat responses using the [llama-cpp-python](https://pypi.org/project/llama-cpp-python/) package.
 
+<div class="my-5">
+<div class="alert alert-primary" role="alert">
+    <strong>
+        UPDATE: A C# version of this article has been created.
+    </strong>
+    Code on this page describes a Python-centric strategy for running the LLama2 LLM locally,
+    but a newer article I wrote describes 
+    <a href="/blog/2024-02-19-local-ai-chat-csharp/"><strong>how to run AI chat locally using C#</strong></a>
+    (including how to have it answer questions about documents) which some users may
+    find easier to follow.
+</div>
+</div>
+
 ### Step 1: Download a Large Language Model
 The Llama 2 model can be downloaded in [GGML format](https://github.com/ggerganov/ggml) from Hugging Face:
 
