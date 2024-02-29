@@ -193,6 +193,8 @@ IKernelMemory memory = new KernelMemoryBuilder()
     .Build();
 ```
 
+When the code is run it will be slow to start the first time as it ingests the documents, but once ingested the information will be saved to disk (in the `./storage/` folder) and rapidly loaded into memory the next time the application starts.
+
 ## Conclusions
 
 The [LLamaSharp](https://scisharp.github.io/LLamaSharp/) and [Kernel Memory](https://microsoft.github.io/kernel-memory/) packages can be easily combined to create small C# projects which are able to run LLMs locally to enable AI chat functionality, including summarizing and answering questions about documents. Unlike Python-centric strategies that require end users to have development tools installed and maintain system-wide or virtual environments for package management just to run basic scripts, the .NET-centric strategy described here makes it possible to create compiled apps that are simple to distribute and easy to run by non-technical users. Much of the AI/ML documentation and discussion in recent users has been dominated by Python, but I'm thrilled to see C#/.NET tools like these growing in the AI/ML landscape! I'm excited to watch how these projects will continue to evolve in the years to come.
