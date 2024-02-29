@@ -28,9 +28,9 @@ featured_image: https://swharden.com/static/2024/02/28/planets.png
 
 * For AI chat, use LLamaSharp classes to load the model and start a chat session as outlined below. Additional functionality is demonstrated in the example app available as source code in the [LLamaSharp GitHub repository](https://github.com/SciSharp/LLamaSharp).
 
-* To ingest documents and use AI to search, summarize, or chat about them, also install the [LLamaSharp.kernel-memory](https://www.nuget.org/packages/LLamaSharp.kernel-memory) and [`Microsoft.KernelMemory.Core`](https://www.nuget.org/packages/Microsoft.SemanticKernel.Core/) NuGet packages. Create a `KernelMemoryBuilder` using the `WithLLamaSharpDefaults()` extension method
+* To ingest documents and use AI to search, summarize, or chat about them, also install the [LLamaSharp.kernel-memory](https://www.nuget.org/packages/LLamaSharp.kernel-memory) and [`Microsoft.KernelMemory.Core`](https://www.nuget.org/packages/Microsoft.SemanticKernel.Core/) NuGet packages. Create a `KernelMemoryBuilder` using the `WithLLamaSharpDefaults()` extension method as shown below.
 
-* Code examples on this page are available on GitHub as standalone .NET projects: https://github.com/swharden/Local-LLM-csharp
+* Examples on this page are available as standalone .NET projects: https://github.com/swharden/Local-LLM-csharp
 
 ## AI Chat
 
