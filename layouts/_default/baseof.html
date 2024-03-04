@@ -7,6 +7,8 @@
 
     <title>{{ .Title }}</title>
     <meta name='description' content='{{ .Description }}' />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}/sitemap.xml">
+    <link rel="canonical" href="{{ .Permalink }}" />
 
     <link rel="alternate" type="application/rss+xml" href="/blog/feed/" />
 
