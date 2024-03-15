@@ -27,12 +27,21 @@
     <meta property="og:description" content="{{ .Description }}">
     <meta property="og:image" content="{{ index .Params "featured_image" | default "/blog/img/og.png" }}">
 
+    <!-- Google Analytics with client storage disabled -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GN1D8JT7TK"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
+          gtag('consent', 'default', {
+            'ad_user_data': 'denied',
+            'ad_personalization': 'denied',
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied',
+            'wait_for_update': 500,
+          });
+        gtag('js', new Date());
+        gtag('config', 'G-GN1D8JT7TK');
     </script>
-    <script src="https://swharden.com/gtag.js?v2"></script>
 
     {{ if .Paginator }}
     {{ if ne .Paginator.PageNumber 1 }}
