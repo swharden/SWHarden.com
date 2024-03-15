@@ -26,8 +26,9 @@
     <meta property="og:title" content="{{ .Title }}">
     <meta property="og:description" content="{{ .Description }}">
     <meta property="og:image" content="{{ index .Params "featured_image" | default "/blog/img/og.png" }}">
-    
-    <script src="https://swharden.com/analytics.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GN1D8JT7TK"></script>
+    <script src="https://swharden.com/gtag.js"></script>
 
     {{ if .Paginator }}
     {{ if ne .Paginator.PageNumber 1 }}
