@@ -90,12 +90,6 @@ and an autologous bone marrow transplant in 2019.
 
 <img src="https://swharden.com/static/misc/about/scott-harden-cancer-after-transplant.jpg" class="mx-auto w-75 my-5 border-dark border shadow">
 
-If this website hasn't been updated in a while, 
-you can verify that I'm okay by seeing 
-[recent activity on my GitHub account](https://github.com/swharden). 
-
-I plan to remove this section from my about page after achieving 5 years cancer-free.
-
 > **July, 2022:**
 > A recent CT scan indicated evidence of relapse. 
 > Although I am not in immediate danger, 
@@ -131,3 +125,7 @@ I plan to remove this section from my about page after achieving 5 years cancer-
 > may act up again and require further treatment,
 > the longer I go without issue the less likely that becomes.
 > I'm looking forward to enjoying my life and am excited about my future!
+
+If this website hasn't been updated in a while, 
+you can verify that I'm okay by seeing 
+[recent activity on my GitHub account](https://github.com/swharden)
