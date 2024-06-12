@@ -119,3 +119,15 @@ I plan to remove this section from my about page after achieving 5 years cancer-
 > bone marrow transplant, and if I get to that point
 > without evidence of further progression I will be
 > happy to consider myself cancer free!
+>
+> **June 11, 2024:**
+> Five years have passed since I
+> [left the bone marrow transplant unit](https://swharden.com/med/),
+> and I am happy to report that I am still healthy!
+> My immune system never fully recovered, but I'm stable now,
+> and couldn't be happier with my outcome
+> and the amazing medical team that supported me along the way.
+> Although there will always be a chance that my weird immune system
+> may act up again and require further treatment,
+> the longer I go without issue the less likely that becomes.
+> I'm looking forward to enjoying my life and am excited about my future!
