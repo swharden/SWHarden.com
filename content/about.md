@@ -74,11 +74,10 @@ _The best way to see what I've been up to lately is to [check out my GitHub](htt
 **I was diagnosed with cancer** in 2012 (peripheral T-cell lymphoma, PTCL-NOS) 
 and began treatments in 2018 including chemotherapy, radiation therapy, 
 and an autologous bone marrow transplant in 2019.
+My medical journey is chronicled on https://swharden.com/med/
 
-**My medical updates:**
-<br>
-&bull; https://swharden.com/med/
-
+<details>
+  
 **About my disease:**
 <br>
 &bull; [Understanding Peripheral T-Cell Lymphoma (video)](https://www.youtube.com/watch?v=6ih0GTBGq7A)<br>
@@ -113,7 +112,7 @@ and an autologous bone marrow transplant in 2019.
 > bone marrow transplant, and if I get to that point
 > without evidence of further progression I will be
 > happy to consider myself cancer free!
->
+
 > **June 11, 2024:**
 > Five years have passed since I
 > [left the bone marrow transplant unit](https://swharden.com/med/),
@@ -125,6 +124,8 @@ and an autologous bone marrow transplant in 2019.
 > may act up again and require further treatment,
 > the longer I go without issue the less likely that becomes.
 > I'm looking forward to enjoying my life and am excited about my future!
+
+</details>
 
 If this website hasn't been updated in a while, 
 you can verify that I'm okay by seeing 
