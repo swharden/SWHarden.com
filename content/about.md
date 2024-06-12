@@ -61,8 +61,6 @@ _The best way to see what I've been up to lately is to [check out my GitHub](htt
 
 * [**LJPcalc**](https://swharden.com/LJPcalc/) - liquid junction potential (LJP) calculator
 
-* [**C# Data Visualization**](https://swharden.com/csdv/) - resources for drawing graphics and visualizing data with .NET technologies
-
 * [**USB Frequency Counter**](https://github.com/swharden/USB-Counter) - a VHF frequency counter with USB interface
 
 * [**FSKview**](https://swharden.com/software/FSKview/) - high-resolution spectrogram for viewing narrowband frequency-shift keyed (FSK) signals in real time
@@ -126,6 +124,8 @@ My medical journey is chronicled on https://swharden.com/med/
 > I'm looking forward to enjoying my life and am excited about my future!
 
 </details>
+
+<br />
 
 If this website hasn't been updated in a while, 
 you can verify that I'm okay by seeing 
