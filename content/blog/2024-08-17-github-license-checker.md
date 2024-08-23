@@ -9,7 +9,7 @@ tags: ["github", "JavaScript"]
 
 **Launch: https://swharden.com/github-license-checker/**
 
-[![](https://swharden.com/static/2024/08/29/checker.png)](https://swharden.com/github-license-checker/)
+<a href='https://swharden.com/github-license-checker/'><img src='https://swharden.com/static/2024/08/29/checker.png'></a>
 
 **It's a Vanilla JavaScript app that works by hitting the paginated "repos" GitHub API for a given username.** Because a page has up to 100 repositories and most users are unlikely to have more than a few hundred repositories, the API rate limiting is rarely engaged so a GitHub API key is not required.
 
