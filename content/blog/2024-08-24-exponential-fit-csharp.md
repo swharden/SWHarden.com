@@ -5,7 +5,7 @@ Date: 2024-08-24 20:09:00
 tags: ["csharp"]
 ---
 
-**This article describes how to perform a simple exponential fit using pure C#.** Exponential curves which pass through 0 can be described using two variables, so data can be translated from into linear space, fitted using a linear least squares strategy, then translated back into exponential space. 
+**This article describes how to perform a simple exponential fit using pure C#.** Exponential curves which pass through 0 can be described using two variables, so data can be translated into linear space, fitted using a linear least squares strategy, then translated back into exponential space. 
 
 
 ```cs
