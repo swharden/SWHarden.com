@@ -27,8 +27,6 @@
     <meta property="og:description" content="{{ .Description }}">
     <meta property="og:image" content="{{ index .Params "featured_image" | default "/blog/img/og.png" }}">
 
-    <script src="https://swharden.com/analytics/swharden.com.js"></script>
-
     {{ if .Paginator }}
     {{ if ne .Paginator.PageNumber 1 }}
     <!-- numbered pages are not indexed -->
