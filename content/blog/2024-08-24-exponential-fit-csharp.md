@@ -96,7 +96,7 @@ Y = C + A * e<sup>B * x + D</sup>
 </div>
 
 **The linear least squares fitting strategy described above is not sufficient for fitting data to these complex curves.** The linear least squares strategy can be applied in higher dimensional space using gradient descent to seek optimized curves for more advanced equations. This strategy is summarized by _The Math Coffeeshop_ in a fantastic YouTube video about using [Linear Least Squares to Solve Nonlinear Problems
-](https://www.youtube.com/watch?v=jezAWd6GFRg). However, formulas representing the partial derivative of each unknown in the error function must be calculated which may be difficult. An alternative strategy is to use [Particle swarm optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization) to iteratively work toward an optimal solution for a fitted curve even if the derivative of the error function cannot be calculated. These strategies will be described in a future article, but a work in progress demonstration may currently be found in the [SwarmFit](https://github.com/swharden/SwarmFit) GitHub repository.
+](https://www.youtube.com/watch?v=jezAWd6GFRg). However, formulas representing the partial derivative of each unknown in the error function must be calculated which may be difficult. An alternative strategy is to use _Particle swarm optimization_ to iteratively work toward an optimal solution for a fitted curve even if the derivative of the error function cannot be calculated. This strategy is described in my follow-up article, [Curve Fitting in C# using Particle Swarm Optimization](https://swharden.com/blog/2024-09-14-swarmfit/)
 
 ## Resources
 * [Source Code for these examples](https://github.com/swharden/Exponential-Fit-CSharp) on GitHub
@@ -105,3 +105,4 @@ Y = C + A * e<sup>B * x + D</sup>
 * [Linear Least Squares to Solve Nonlinear Problems](https://www.youtube.com/watch?v=jezAWd6GFRg) - A fantastic YouTube video describing how to use least squares strategy to fit nonlinear functions.
 * [C# Helper](http://www.csharphelper.com/howtos/howto_exponential_curve_fit.html) - A legacy .NET WinForms app which uses gradient descent of the least squares error function to seek the best fit of an exponential curve
 * [Exponential Fit with Python](https://swharden.com/blog/2020-09-24-python-exponential-fit/)
+* [Curve Fitting in C# using Particle Swarm Optimization](https://swharden.com/blog/2024-09-14-swarmfit/) - How to fit arbitrary equations to X/Y data points using C# and the SwarmFit package
