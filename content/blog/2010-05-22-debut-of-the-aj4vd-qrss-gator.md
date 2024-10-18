@@ -1,5 +1,5 @@
 ---
-title: Debut of the AJ4VD QRSS Gator
+title: Debut of the QRSS Gator
 date: 2010-05-22 18:41:54
 tags: ["qrss", "obsolete"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: AJ4VD Gator Chomps its way into Belgium!
+title: QRSS Gator Chomps its way into Belgium!
 date: 2010-05-27 21:38:03
 tags: ["qrss"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: AJ4VD Gator Spotted in MA
+title: QRSS Gator Spotted in MA
 date: 2010-05-27 11:24:17
 tags: ["qrss", "obsolete"]
 ---

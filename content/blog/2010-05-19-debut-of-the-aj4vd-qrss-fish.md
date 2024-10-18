@@ -1,5 +1,5 @@
 ---
-title: Debut of the AJ4VD QRSS Fish
+title: Debut of the QRSS Fish
 date: 2010-05-19 19:58:16
 tags: ["python", "qrss", "obsolete"]
 ---

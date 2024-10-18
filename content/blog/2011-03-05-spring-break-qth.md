@@ -1,5 +1,5 @@
 ---
-title: AJ4VD Portable - Spring Break QTH
+title: Spring Break QTH
 date: 2011-03-05 17:40:56
 tags: ["amateur radio"]
 ---
@@ -123,7 +123,7 @@ __I also tried my hand at QRSS reception with this antenna__ (almost forgot to p
 
 </dev>
 
-# AJ4VD Portable Logbook
+# AJ4VD Spring Break Logbook
 March 6-12, 2011 (Orlando, FL):
 
 ### 39 States _(146 QSOs)_

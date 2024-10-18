@@ -104,5 +104,3 @@ __Step 5: fill-out information.__ I decided to use a metallic Sharpie to write t
 
 __I hope this information helps you.__ If you print your own QSL cards using this (or a similar) method, let me know about it! I have to say, for ~5 / $1, these don't look to bad. It's especially useful if you only want to print a few cards! Good luck.
 
--- Scott, AJ4VD
-
