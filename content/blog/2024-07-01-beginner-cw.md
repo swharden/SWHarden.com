@@ -3,6 +3,7 @@ title: A Beginner's Guide to Making CW Contacts
 description: by Jack Wagoner WB8FSV
 Date: 2024-07-01 16:00:00
 tags: ["amateur radio"]
+draft: true
 ---
 
 > The original version of this article was created by Jack Wagoner (WB8FSV) was [found on the Wayback Machine](https://web.archive.org/web/20131026090305/http://www.netwalk.com/~fsv/CWguide.htm) with an archive date of August 17, 2000 but presumably it was written before that. The original page (and its endearingly archaic HTML) has been copied a few places around the internet, but in November 2024  I ([Scott Harden](https://swharden.com/about), AJ4VD) adapted it for the modern web and published it here. I hope you enjoy reading it as much as I did!

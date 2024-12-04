@@ -3,6 +3,7 @@ title: Outdoor VHF Antenna
 description: How I created a low visibility DIY outdoor VHF antenna
 Date: 2024-06-01 16:00:00
 tags: ["amateur radio"]
+draft: true
 ---
 
 **This article describes how I created an outdoor VHF antenna for my backyard that has been serving me well for the last few months.**  My primary goals for this antenna are that it would (1) stand up to outdoor weather, (2) be as visually unobtrusive as possible so as not to attract more attention than necessary, (3) reliably hit a repeater 30 miles away, and (4) be relatively easy to remove if I decide to move.
