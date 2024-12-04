@@ -1,10 +1,13 @@
-name: CICD
+name: Blog
 
 on:
   workflow_dispatch:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'dev/**'
+      - '.github/**'
 
 jobs:
   build:
