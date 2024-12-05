@@ -11,72 +11,364 @@
     <style>
         body {}
 
-        main {
+        a {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .fixed-width-container {
             max-width: 1000px;
         }
 
-        section {
+        h1 {
+            text-decoration: underline;
+            text-align: center;
+            margin-top: 2rem;
+            margin-bottom: 5rem;
+        }
+
+        h2 {
+            background-color: #FFFF0055;
+        }
+
+        article {
             margin: 2rem 0;
         }
 
-        section h1 {
+        article h1 {
             font-size: 2rem;
             margin-bottom: 0;
+            text-decoration: none;
+            text-align: left;
         }
 
-        section h2 {
+        article h2 {
             font-size: 1.1rem;
             margin-bottom: 0.25rem;
+            background-color: transparent;
         }
 
-        section img {
+        article img {
             max-width: 100%;
-            margin: 1.5rem auto;
+            margin: 0.5rem auto;
             display: block;
-        }
-
-        section .border2 {
             border: 1px solid black;
             box-shadow: 5px 5px 10px #00000033;
         }
 
-        section ul {
+        article ul {
             margin: 1rem 0;
         }
     </style>
 </head>
 
 <body>
-    <main class="container-fluid">
 
-        <section class="project">
-            <div class="row">
-                <div class="col-md">
-                    <h1>QRSS Plus</h1>
-                    <h2>Automatically Updating Active QRSS Grabbers List</h2>
-                    <div>
-                        Cloud native web application that displays real-time radio frequency spectrograms
-                        from receivers maintained by amateur radio operators around the world. An Azure function 
-                        runs every 10 minutes and uses MD5 hashes to identify new image data to update cloud 
-                        storage and generate 8-hour images are stitched together from 10-minute spectrograms.
+    <section style="background-color: #00663644;" class="py-4">
+        <div class="container-fluid fixed-width-container">
+            <h1>Open Source Libraries</h1>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>ScottPlot</h1>
+                        <h2>A .NET package for interactively displaying large datasets</h2>
+                        <div>
+                            ScottPlot can create static plots as images in console applications and
+                            server environments, and has 7 additional NuGet packages to provide mouse-interactive
+                            plots on a variety of platforms including Windows Forms, WPF, Avalonia, Maui, Blazor, and
+                            more
+                        </div>
+                        <ul>
+                            <li>
+                                The <a href='https://scottplot.net/changelog/'>ScottPlot Changelog</a>
+                                documents >1.5k improvements made across nearly 200 releases since 2019
+                            </li>
+                            <li>
+                                <a href='https://www.nuget.org/profiles/ScottPlot'>ScottPlot Packages on NuGet</a>
+                                - over 1.8 million installs
+                            </li>
+                            <li>
+                                <a href='https://github.com/scottplot/scottplot'>ScottPlot on GitHub</a>
+                                - used in 1.9k projects, resolved 4k issues and pull requests
+                            </li>
+                            <li>Visit <a href='https://ScottPlot.net'>ScottPlot.NET</a> for more information</li>
+                            <li>Technology: C#/.NET, NuGet</li>
+                        </ul>
                     </div>
-                    <ul>
-                        <li>Live web app: <a href='https://swharden.com/qrss/plus/'>https://swharden.com/qrss/plus/</a>
-                        </li>
-                        <li>Continuously running since 2013</li>
-                        <li>100-200 daily users</li>
-                        <li>Tech used (2018-present): Azure Functions, Azure Blob Storage, React</li>
-                        <li>Tech used (2013-2018): Python, PHP</li>
-                    </ul>
+                    <div class="col-md">
+                        <img src="images/scottplot-graphs.jpg">
+                    </div>
                 </div>
-                <div class="col-md">
-                    <img src="images/qrss-plus2.png" class="border2">
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>ScottPlot.NET</h1>
+                        <h2>Information and Documentation Website</h2>
+                        <div>
+                            The ScottPlot website contains a mix of dynamic and static content
+                            which is generated automatically by the CI/CD system (GitHub Actions)
+                            when commits are merged to the main branch or new releases are published.
+                        </div>
+                        <ul>
+                            <li>
+                                <strong>Documentation as Code:</strong>
+                                The <a href='https://scottplot.net/cookbook/5.0/'>ScottPlot Cookbook</a>
+                                contains documentation generated automatically from a unit test project
+                                which generates images then builds the cookbook pages using source code
+                                obtained by parsing the source code files of the unit tests.
+                            </li>
+                            <li>
+                                <strong>Changelog Formatting:</strong>
+                                The <a href='https://scottplot.net/changelog/'>ScottPlot Changelog</a>
+                                contains rich HTML (links to GitHub issues and users) and images
+                                (GitHub user profile pictures) updated from GitHub Actions. A change to
+                                <a href="https://github.com/ScottPlot/ScottPlot/blob/main/CHANGELOG.md">changelog.md</a>
+                                triggers a workflow that uses a .NET Console application to parse the changelog,
+                                generate HTML, and retrieve and resize user profile pictures, then commit
+                                changes to the
+                                <a href="https://github.com/ScottPlot/ScottPlot.NET">ScottPlot.NET repository</a>.
+                            </li>
+                            <li>
+                                <strong>Build and Deployment:</strong>
+                                Changes to content of the
+                                <a href="https://github.com/ScottPlot/ScottPlot.NET">ScottPlot.NET repository</a>
+                                trigger a workflow that converts documentation pages from Markdown to HTML
+                                and applies theming and navigation styling to every page of the website
+                                using the Hugo static site generator. Deployment is achieved by a GitHub action
+                                which synchronizes the build output with the website folder
+                            </li>
+                            <li>
+                                <strong>Client-Side Interactive Search:</strong>
+                                The
+                                <a href='https://scottplot.net/cookbook/5.0/search/'>ScottPlot Cookbook Search Tool</a>
+                                helps search all cookbook recipes and is implemented using Vanilla JavaScript.
+                                The test system that generates the cookbook creates a JSON file containing 
+                                all recipe titles, descriptions, and permalinks which is consumed by the search tool
+                                when it is activated.
+                            </li>
+                            <li>Technology: C#/.NET, HTML, CSS, JavaScript, Hugo</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/scottplot-website.png">
+                    </div>
                 </div>
-            </div>
-        </section>
+            </article>
 
-    </main>
 
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>pyABF</h1>
+                        <h2>A python package for reading data from Axon Binary Format (ABF) files</h2>
+                        <div>
+                            I reverse-engineered a proprietary file format used for recording electrical data in
+                            neurophysiology experiments and created a Pythonic API to expose information and signal
+                            data in these files. This project enables automated data analysis for projects that
+                            previously required manual analysis using a proprietary windows-only application.
+                        </div>
+                        <ul>
+                            <li>Continuously maintained since 2017</li>
+                            <li><a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=pyabf&btnG='>Cited in
+                                    numerous scientific publications</a></li>
+                            <li><a href='https://swharden.com/pyabf/'>pyABF website</a></li>
+                            <li><a href='https://pypi.org/project/pyabf/'>pyABF Package (PyPi)</a></li>
+                            <li><a href='https://github.com/swharden/pyabf'>pyABF on GitHub</a></li>
+                            <li>Technology: Python, PyPi</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/pyabf.jpg">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>FFTsharp</h1>
+                        <h2>
+                            A .NET package for computing the Fast Fourier Transform (FFT) of real or complex data</h2>
+                        <div>
+                            FftSharp provides methods for calculating the FFT using a MIT-licensed .NET Standard library
+                            which can be easily used in proprietary and cross-platform applications. It also contains
+                            methods
+                            to facilitate data windowing and frequency spectrum filtering.
+                        </div>
+                        <ul>
+                            <li><a href='https://www.nuget.org/packages/FftSharp'>FftSharp on NuGet</a> (>130k installs)
+                            </li>
+                            <li><a href='https://github.com/swharden/FftSharp'>FftSharp on GitHub</a> (used in >230
+                                projects)</li>
+                            <li>Technology: C#/.NET, NuGet</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/fftsharp.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Spectrogram</h1>
+                        <h2>
+                            A .NET package for computing the Fast Fourier Transform (FFT) of real or complex data</h2>
+                        <div>
+                            FftSharp provides methods for calculating the FFT using a MIT-licensed .NET Standard library
+                            which can be easily used in proprietary and cross-platform applications. It also contains
+                            methods
+                            to facilitate data windowing and frequency spectrum filtering.
+                        </div>
+                        <ul>
+                            <li><a href='https://www.nuget.org/packages/FftSharp'>FftSharp on NuGet</a> (>130k installs)
+                            </li>
+                            <li><a href='https://github.com/swharden/FftSharp'>FftSharp on GitHub</a> (used in >230
+                                projects)</li>
+                            <li>Technology: C#/.NET, NuGet</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/spectrogram.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>FtdiSharp</h1>
+                        <h2>A .NET package for interfacing FTDI USB controller ICs</h2>
+                        <div>
+                            FTDI provides a DLL that can be used to read and write pin
+                            voltages on FT232 (USB-to-serial controller) ICs, but it is provided as
+                            a closed-source DLL with a C++ header file. FtdiSharp is a C# wrapper
+                            for providing an idiomatic C# interface to this series of chips, and
+                            also provides high-level management of IO protocols like
+                            SPI and I<sup>2</sup>C.
+                        </div>
+                        <ul>
+                            <li><a href='https://www.nuget.org/packages/FtdiSharp'>FtdiSharp on NuGet</a></li>
+                            <li><a href='https://github.com/swharden/FtdiSharp'>FtdiSharp on GitHub</a></li>
+                            <li>Technology: C#/.NET, NuGet</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/ftdisharp.png">
+                    </div>
+                </div>
+            </article>
+
+            <h2>ABFSharp</h2>
+
+        </div>
+    </section>
+
+    <section style="background-color: #663c0044;" class="py-4">
+        <div class="container-fluid fixed-width-container">
+            <h1>Tools and Applications</h1>
+            <h2>ABF Auto-Analyzer</h2>
+            <h2>ABF Browser</h2>
+            <h2>Scan-A-Gator</h2>
+            <h2>Dendrite Tracer</h2>
+            <h2>NuGet stats / Star Graph / Repo metrics</h2>
+            <h2>Ratio5D</h2>
+            <h2>HHSharp</h2>
+            <h2>Tmoji</h2>
+            <h2>LJPCalc</h2>
+            <h2>FSKView</h2>
+            <h2>BasicTimer</h2>
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>QRSS Plus</h1>
+                        <h2>Automatically Updating Active QRSS Grabbers List</h2>
+                        <div>
+                            Cloud native web application that displays real-time radio frequency spectrograms
+                            from receivers maintained by amateur radio operators around the world. An Azure function
+                            runs every 10 minutes and uses MD5 hashes to identify new image data to update cloud
+                            storage and generate 8-hour images are stitched together from 10-minute spectrograms.
+                        </div>
+                        <ul>
+                            <li>Live web app: <a
+                                    href='https://swharden.com/qrss/plus/'>https://swharden.com/qrss/plus/</a>
+                            </li>
+                            <li>Continuously running for over 10 years</li>
+                            <li>100-200 daily users</li>
+                            <li>Technology (2018-present): Azure Functions, React</li>
+                            <li>Technology (2013-2018): Python, PHP</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/qrss-plus2.png" class="border2">
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+    <section style="background-color: #00336644;" class="py-4">
+        <div class="container-fluid fixed-width-container">
+            <h1>Hardware & Embedded Software</h1>
+            <h2>USB Frequency Counter</h2>
+            <h2>iot Weather</h2>
+            <h2>Microcontroller projects***</h2>
+            <h2>QRSS Hardware</h2>
+            <h2>Breathing Monitor</h2>
+            <h2>Talking frequency counter</h2>
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Sound Card ECG</h1>
+                        <h2>Low Cost Electrical Heart Monitor</h2>
+                        <div>
+                            Multiple designs for low-cost ECG circuits that amplify electrical signals from the heart,
+                            digitize them using the sound card, and perform real-time signal filtering and analysis
+                            using custom software.
+                        </div>
+                        <ul>
+                            <li>
+                                AD8232 design
+                                <a href='https://swharden.com/blog/2019-03-15-sound-card-ecg-with-ad8232/'>Article</a>
+                                and
+                                <a href='https://youtu.be/sP_-f5nsOEo'>YouTube Video</a>
+                            </li>
+                            <li>
+                                discrete op-amp design
+                                <a href='https://swharden.com/blog/2016-08-08-diy-ecg-with-1-op-amp/'>Article</a>
+                                and
+                                <a href='https://youtu.be/AfirWls9Sys'>YouTube Video</a>
+                            </li>
+                            <li>Technology: C#/.NET, Python</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/ecg-scope.gif">
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+    <section style="background-color: #00000044;" class="py-4">
+        <div class="container-fluid fixed-width-container">
+            <h1>Technical Writing</h1>
+            <h2>SWHarden.com</h2>
+            <h2>PSK31 synthesis</h2>
+            <h2>membrane test</h2>
+            <h2>Particle swarm optimization</h2>
+            <h2>Boids</h2>
+        </div>
+    </section>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
