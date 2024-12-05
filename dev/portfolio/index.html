@@ -108,63 +108,6 @@
             <article>
                 <div class="row">
                     <div class="col-md">
-                        <h1>ScottPlot.NET</h1>
-                        <h2>Information and Documentation Website</h2>
-                        <div>
-                            The ScottPlot website contains a mix of dynamic and static content
-                            which is generated automatically by the CI/CD system (GitHub Actions)
-                            when commits are merged to the main branch or new releases are published.
-                        </div>
-                        <ul>
-                            <li>
-                                <strong>Documentation as Code:</strong>
-                                The <a href='https://scottplot.net/cookbook/5.0/'>ScottPlot Cookbook</a>
-                                contains documentation generated automatically from a unit test project
-                                which generates images then builds the cookbook pages using source code
-                                obtained by parsing the source code files of the unit tests.
-                            </li>
-                            <li>
-                                <strong>Changelog Formatting:</strong>
-                                The <a href='https://scottplot.net/changelog/'>ScottPlot Changelog</a>
-                                contains rich HTML (links to GitHub issues and users) and images
-                                (GitHub user profile pictures) updated from GitHub Actions. A change to
-                                <a href="https://github.com/ScottPlot/ScottPlot/blob/main/CHANGELOG.md">changelog.md</a>
-                                triggers a workflow that uses a .NET Console application to parse the changelog,
-                                generate HTML, and retrieve and resize user profile pictures, then commit
-                                changes to the
-                                <a href="https://github.com/ScottPlot/ScottPlot.NET">ScottPlot.NET repository</a>.
-                            </li>
-                            <li>
-                                <strong>Build and Deployment:</strong>
-                                Changes to content of the
-                                <a href="https://github.com/ScottPlot/ScottPlot.NET">ScottPlot.NET repository</a>
-                                trigger a workflow that converts documentation pages from Markdown to HTML
-                                and applies theming and navigation styling to every page of the website
-                                using the Hugo static site generator. Deployment is achieved by a GitHub action
-                                which synchronizes the build output with the website folder
-                            </li>
-                            <li>
-                                <strong>Client-Side Interactive Search:</strong>
-                                The
-                                <a href='https://scottplot.net/cookbook/5.0/search/'>ScottPlot Cookbook Search Tool</a>
-                                helps search all cookbook recipes and is implemented using Vanilla JavaScript.
-                                The test system that generates the cookbook creates a JSON file containing
-                                all recipe titles, descriptions, and permalinks which is consumed by the search tool
-                                when it is activated.
-                            </li>
-                            <li>Technology: C#/.NET, HTML, CSS, JavaScript, Hugo</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/scottplot-website.png">
-                    </div>
-                </div>
-            </article>
-
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
                         <h1>pyABF</h1>
                         <h2>A python package for reading data from Axon Binary Format (ABF) files</h2>
                         <div>
@@ -323,8 +266,71 @@
 
     <section style="background-color: #663c0044;" class="py-4">
         <div class="container-fluid fixed-width-container">
+            <h1>Websites and Web Applications</h1>
 
-            <h1>Tools and Applications</h1>
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>ScottPlot.NET</h1>
+                        <h2>Information and Documentation Website</h2>
+                        <div>
+                            The ScottPlot website contains a mix of dynamic and static content
+                            which is generated automatically by the CI/CD system (GitHub Actions)
+                            when commits are merged to the main branch or new releases are published.
+                        </div>
+                        <ul>
+                            <li>
+                                <strong>Documentation as Code:</strong>
+                                The <a href='https://scottplot.net/cookbook/5.0/'>ScottPlot Cookbook</a>
+                                contains documentation generated automatically from a unit test project
+                                which generates images then builds the cookbook pages using source code
+                                obtained by parsing the source code files of the unit tests.
+                            </li>
+                            <li>
+                                <strong>Changelog Formatting:</strong>
+                                The <a href='https://scottplot.net/changelog/'>ScottPlot Changelog</a>
+                                contains rich HTML (links to GitHub issues and users) and images
+                                (GitHub user profile pictures) updated from GitHub Actions. A change to
+                                <a href="https://github.com/ScottPlot/ScottPlot/blob/main/CHANGELOG.md">changelog.md</a>
+                                triggers a workflow that uses a .NET Console application to parse the changelog,
+                                generate HTML, and retrieve and resize user profile pictures, then commit
+                                changes to the
+                                <a href="https://github.com/ScottPlot/ScottPlot.NET">ScottPlot.NET repository</a>.
+                            </li>
+                            <li>
+                                <strong>Live Metrics:</strong>
+                                Despite being a static website, the bottom of
+                                <a href='https://scottplot.net'>ScottPlot.net</a> shows graphs
+                                of the current number of package downloads and github stars.
+                                Image URLs point to a cloud native application that runs hourly
+                                and automatically updates the images when metrics change.
+                            </li>
+                            <li>
+                                <strong>Client-Side Interactive Search:</strong>
+                                The
+                                <a href='https://scottplot.net/cookbook/5.0/search/'>ScottPlot Cookbook Search Tool</a>
+                                helps search all cookbook recipes and is implemented using Vanilla JavaScript.
+                                The test system that generates the cookbook creates a JSON file containing
+                                all recipe titles, descriptions, and permalinks which is consumed by the search tool
+                                when it is activated.
+                            </li>
+                            <li>
+                                <strong>Build and Deployment:</strong>
+                                Changes to content of the
+                                <a href="https://github.com/ScottPlot/ScottPlot.NET">ScottPlot.NET repository</a>
+                                trigger a workflow that converts documentation pages from Markdown to HTML
+                                and applies theming and navigation styling to every page of the website
+                                using the Hugo static site generator. Deployment is achieved by a GitHub action
+                                which synchronizes the build output with the website folder
+                            </li>
+                            <li>Technology: C#/.NET, Azure Functions, HTML, CSS, JavaScript, Hugo</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/scottplot-website.png">
+                    </div>
+                </div>
+            </article>
 
             <article>
                 <div class="row">
@@ -356,6 +362,209 @@
             <article>
                 <div class="row">
                     <div class="col-md">
+                        <h1>LJPcalc</h1>
+                        <h2>Liquid Junction Potential Calculator</h2>
+                        <div>
+                            A Blazor WebAssembly application for calculating the voltage across the liquid junction
+                            formed by two solutions with arbitrary electrolyte concentrations. Solutions are achieved
+                            by solving the Nernst-Planck set of equations for the stationary state in conditions of
+                            local electrical
+                            quasi-neutrality at all points of the junction.
+                        </div>
+                        <ul>
+                            <li>
+                                Live web app:
+                                <a href='https://swharden.com/LJPcalc/'>https://swharden.com/LJPcalc/</a>
+                            </li>
+                            <li>
+                                Cited by
+                                <a href='https://scholar.google.com/scholar?q=ljpcalc'>numerous scientific
+                                    publications</a>
+                            </li>
+                            <li>Technology: C#/.NET, Blazor WebAssembly</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/ljpcalc.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>ABF Browser</h1>
+                        <h2>Electrophysiology Project Management Suite</h2>
+                        <div>
+                            A locally-run web application that pairs automatic data analysis
+                            with project organization and experiment annotation by teams of scientists.
+                            Manages over 200k electrical recordings acquired over more than 20 years
+                            to present results interactively in an application used by
+                            more than 50 researchers.
+                        </div>
+                        <ul>
+                            <li>Technology (2024-present): ASP.NET core, JavaScript, SQL</li>
+                            <li>Technology (2022-2024): Blazor Server, SQL</li>
+                            <li>Technology (2013-2022): Python, PHP, SQL</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/abfbrowser.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Live Repository Metrics</h1>
+                        <h2>Real-Time Project Maintenance Burden Insights</h2>
+                        <div>
+                            A cloud-native application that analyzes GitHub repository metrics
+                            paired with NuGet download information to provide insights into
+                            repository health and evolving maintenance burden. Provides time-series
+                            insights into whether "actively maintained" open source repositories
+                            are keeping up with changing demands from newly opened issues and pull requests.
+                        </div>
+                        <ul>
+                            <li>Live example: <a
+                                    href='https://scottplotstatsstorage.z20.web.core.windows.net/'>ScottPlot metrics
+                                    (internal tool)</a></li>
+                            <li><a href='https://github.com/swharden/ScottPlotStats'>ScottPlotStats on GitHub</a></li>
+                            <li>Technology: C#/.NET, Azure Functions</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/issues.png">
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+    <section style="background-color: #00000044;" class="py-4">
+        <div class="container-fluid fixed-width-container">
+
+            <h1>Desktop Applications</h1>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>FSKview</h1>
+                        <h2>Real-Time Radio Frequency Spectrogram</h2>
+                        <div>
+                            FSKview is a high-resolution spectrogram for viewing narrow-band
+                            frequency-shift keyed radio signals in real time. It can be paired
+                            with WSJT-X software to visualize encoded data. It can automatically
+                            upload QRSS images for display on the QRSS Plus website.
+                        </div>
+                        <ul>
+                            <li><a href='https://swharden.com/software/FSKview/'>FSKview website</a></li>
+                            <li><a href='https://github.com/swharden/FSKview'>FSKview on GitHub</a></li>
+                            <li>Technology: C#/.NET</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/fskview.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Dendrite Tracer</h1>
+                        <h2>Multidimensional Fluorescence Analysis</h2>
+                        <div>
+                            A tool for measuring fluorescence intensity along structures in 3D space
+                            from 5-dimensional microscopy data containing multi-channel time-series images.
+                            Enables rapid hypothesis testing and report generation to
+                            minimize the time required to draw conclusions after data acquisition.
+                        </div>
+                        <ul>
+                            <li><a href='https://github.com/swharden/ScanAGator/tree/main/src/DendriteTracer'>DendriteTracer
+                                    on GitHub</a></li>
+                            <li>Technology: C#/.NET</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/tracer.gif">
+                    </div>
+                </div>
+            </article>
+
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Tmoji</h1>
+                        <h2>Access to emoji and symbols from the system tray</h2>
+                        <div>
+                            Tmoji is a Windows tray icon that makes it easy to copy emoji and
+                            special characters to the clipboard.
+                            Unlike the <code>Win</code> + <code>.</code> shortcut,
+                            TMoji allows custom positioning for commonly used symbols.
+                        </div>
+                        <ul>
+                            <li><a href='https://swharden.com/software/Tmoji'>Tmoji website</a></li>
+                            <li><a href='https://github.com/swharden/Tmoji/'>Tmoji on GitHub</a></li>
+                            <li>Technology: C#/.NET, WPF</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/tmoji.gif">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Ratio5D</h1>
+                        <h2>5-dimensional video analysis</h2>
+                        <div>
+                            Ratio5D is a desktop application for rapidly drawing conclusions
+                            from live-cell imaging involving 5-dimensional video data
+                            (3D space, time, and wavelength). Enables rapid assessment of experimental
+                            outcome to minimize the time required to draw conclusions after data acquisition.
+                        </div>
+                        <ul>
+                            <li><a href='https://github.com/swharden/Ratio5D'>Ratio5D on GitHub</a></li>
+                            <li>Technology: C#/.NET</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/ratio5d.gif">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>BasicTimer</h1>
+                        <h2>Minimal timer for Windows</h2>
+                        <div>
+                            BasicTimer allows rapid startup, placement, and control of simple
+                            always-on-top timers with a variety of customization options.
+                            Color settings, alarms, and progressbar rate can be styled to
+                            facilitate monitoring multiple timers running concurrently.
+                        </div>
+                        <ul>
+                            <li><a href='https://github.com/swharden/BasicTimer/'>BasicTimer on GitHub</a></li>
+                            <li>Technology: C#/.NET, WPF</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/timer.gif">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
                         <h1>Scan-A-Gator</h1>
                         <h2>Live Neuron Fluorescence Analysis</h2>
                         <div>
@@ -366,7 +575,7 @@
                         </div>
                         <ul>
                             <li>
-                                Enabled experiments reported in
+                                Enabled experiments underlying
                                 <a href='https://elifesciences.org/articles/63486'>Sheng et al., 2021</a>
                             </li>
                             <li>Technology (2019-present): C#/.NET</li>
@@ -382,189 +591,25 @@
             <article>
                 <div class="row">
                     <div class="col-md">
-                        <h1>ABF Auto-Analyzer</h1>
-                        <h2>???</h2>
+                        <h1>Electrophysiology Auto-Analysis</h1>
+                        <h2>Automated analysis pipeline for cellular electrical signals</h2>
                         <div>
-                            ???
+                            AbfAuto is a suite of tools that runs on a server to provide real-time
+                            data analysis and report generation capabilities. A filesystem monitor
+                            identifies newly created data files, they are analyzed automatically 
+                            according to experiment designs defined in code, results are stored in 
+                            image files, report files, SQL database records, and are exposed to the
+                            user via a web interface using an ASP.NET core backend 
+                            and Vanilla JavaScript frontend.
                         </div>
                         <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
+                            <li><a href='https://github.com/swharden/abfauto'>AbfAuto on GitHub (C#)</a></li>
+                            <li><a href='https://github.com/swharden/pyabfauto'>AbfAuto on GitHub (Python)</a></li>
+                            <li>Technology: C#/.NET, Python, SQL</li>
                         </ul>
                     </div>
                     <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>ABF Browser</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>Dendrite Tracer</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>NuGet stats / Star Graph / Repo metrics</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>Ratio5D</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>HHSharp</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>Tmoji</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>LJPCalc</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>FSKView</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>BasicTimer</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
+                        <img src="images/abfauto.png" class="border2">
                     </div>
                 </div>
             </article>
@@ -580,18 +625,22 @@
             <article>
                 <div class="row">
                     <div class="col-md">
-                        <h1>USB Frequency Counter</h1>
-                        <h2>???</h2>
+                        <h1>USB Counter</h1>
+                        <h2>Precision Frequency Measurement and Pulse Counter</h2>
                         <div>
-                            ???
+                            Designed an embedded device to measure DC-VHF voltage cycles
+                            for precision frequency measurement and pulse counting applications.
+                            PCB was designed for this project and SMT components were 
+                            hand-assembled using a microscope.
                         </div>
                         <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
+                            <li><a href='https://swharden.com/blog/2019-08-03-usb-frequency-counter/'>Technical Documentation (Article)</a></li>
+                            <li><a href='https://github.com/swharden/USB-Counter'>USB Counter on GitHub</a></li>
+                            <li>Technology: ATMega328 MCU (not Arduino), AVR-GCC, KiCad</li>
                         </ul>
                     </div>
                     <div class="col-md">
-                        <img src="images/placeholder.svg">
+                        <img src="images/usb-counter.jpg">
                     </div>
                 </div>
             </article>
@@ -601,17 +650,23 @@
                 <div class="row">
                     <div class="col-md">
                         <h1>IoT Attic Temperature Sensor</h1>
-                        <h2>???</h2>
+                        <h2>Web-Enabled Device for Remotely Monitoring Indoor/Attic Temperatures</h2>
                         <div>
-                            ???
+                            A project that pairs BMP280 temperature sensors with 
+                            ESP8266 WiFi-enabled microcontrollers to continuously report
+                            indoor, outdoor, and attic temperature to a web-accessible endpoint
+                            allowing worldwide monitoring of real-time home temperature information.
+                            Moisture encroachment following a 2024 hurricane disabled the outdoor
+                            sensor, but the indoor and attic sensors remain steadfast.
                         </div>
                         <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
+                            <li><a href='https://swharden.com/weather/'>Live Dashboard (internal tool)</a></li>
+                            <li><a href='https://github.com/swharden/iot-weather-station'>GitHub Project</a></li>
+                            <li>Technology: C/C++</li>
                         </ul>
                     </div>
                     <div class="col-md">
-                        <img src="images/placeholder.svg">
+                        <img src="images/attic1.jpg">
                     </div>
                 </div>
             </article>
@@ -680,25 +735,6 @@
                 <div class="row">
                     <div class="col-md">
                         <h1>Talking Frequency Counter</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>BasicTimer</h1>
                         <h2>???</h2>
                         <div>
                             ???
@@ -851,6 +887,65 @@
 
         </div>
     </section>
+
+    <!-- NOTES
+    How many scientists use these tools or have seen their output?
+
+    PIs (17)
+        Jason
+        Eric
+        Anette
+        Jen
+        barry
+        SB
+        Levett
+        Nancy
+        Jay
+        Joana
+        BP guy
+        C21 guy
+        will
+        brandon
+        kelly
+        mcmahan
+        liu
+
+    LAB MEMBERS (12)
+        me
+        jeff
+        todd
+        nadine
+        sarthak
+        wanhui
+        kyle
+        haley
+        amy
+        todd
+        jordan
+        dipa
+
+    TRAINEES (19)
+        isabela
+        easton
+        bo
+        ceasar
+        doug
+        dominique
+        gowri
+        jing
+        max
+        michelle
+        ming
+        nan
+        beronica
+        sam
+        sarah
+        serene
+        tom
+        wonn
+        yalun
+
+    -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
