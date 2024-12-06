@@ -24,7 +24,6 @@
         }
 
         h1 {
-            text-decoration: underline;
             text-align: center;
             margin-top: 2rem;
             margin-bottom: 5rem;
@@ -58,6 +57,20 @@
         article ul {
             margin: 1rem 0;
         }
+
+        .dark {
+            color: #FFFFFFCC;
+        }
+
+        .dark a {
+            color: #009ff6;
+            font-weight: 600;
+        }
+
+        .dark a:hover {
+            color: #00e6f6;
+            font-weight: 600;
+        }
     </style>
 </head>
 
@@ -67,7 +80,7 @@
         <h1>WARNING: THIS PAGE IS IN ACTIVE DEVELOPMENT</h1>
     </header>
 
-    <section style="background-color: #00663644;" class="py-4">
+    <section style="background-color: #0D3D56;" class="py-4 dark">
         <div class="container-fluid fixed-width-container">
             <h1>Open Source Packages</h1>
 
@@ -313,7 +326,7 @@
         </div>
     </section>
 
-    <section style="background-color: #663c0044;" class="py-4">
+    <section style="background-color: #01523e;" class="py-4 dark">
         <div class="container-fluid fixed-width-container">
             <h1>Websites and Web Applications</h1>
 
@@ -535,7 +548,7 @@
         </div>
     </section>
 
-    <section style="background-color: #00000044;" class="py-4">
+    <section style="background-color: #353a40;" class="py-4 dark">
         <div class="container-fluid fixed-width-container">
 
             <h1>Desktop Applications</h1>
@@ -709,7 +722,7 @@
         </div>
     </section>
 
-    <section style="background-color: #00336644;" class="py-4">
+    <section style="background-color: #692222;" class="py-4 dark">
         <div class="container-fluid fixed-width-container">
 
             <h1>Hardware & Embedded Software</h1>
@@ -737,7 +750,6 @@
                     </div>
                 </div>
             </article>
-
 
             <article>
                 <div class="row">
@@ -876,32 +888,135 @@
         </div>
     </section>
 
-    <section style="background-color: #663c0044;" class="py-4">
+    <section style="background-color: #1c667f;" class="py-4 dark">
+        <div class="container-fluid fixed-width-container">
+            <h1>Recent Interviews</h1>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>The Spirit of Open Source in a Modern .NET World</h1>
+                        <h2>Released Dec 6, 2024</h2>
+                        <div>
+                            In this episode I discuss why I put so much effort into 
+                            working in open source, where it can go wrong, and the
+                            strategies I use to grow projects while avoiding burnout
+                            serving as an open source contributor and maintainer.
+                        </div>
+                        <ul>
+                            <li>Modern .NET Show, Season 7, Episode 7</li>
+                            <li>Listen in your favorite podcast app</li>
+                            <li><a
+                                href="https://dotnetcore.show/season-7/the-spirit-of-open-source-in-a-modern-net-world-with-scott-harden/">Listen
+                                in your Browser</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/707.jpg">
+                    </div>
+                </div>
+            </article>
+            
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Maintaining your Digital Legacy</h1>
+                        <h2>Releases Dec 13, 2024</h2>
+                        <div>
+                            In this episode I cover a variety of topics, including
+                            preparing your digital life for the possibility that
+                            you will no longer be able to maintain it.
+                            Some of the discussion relates to my experiences
+                            battling cancer in 2018 and figuring out what 
+                            relationship I wanted to have with open source software
+                            development in the face of an uncertain future.
+                        </div>
+                        <ul>
+                            <li>Modern .NET Show, Season 7, Episode 8 (not yet released)</li>
+                            <li>Subscribe in your favorite podcast app</li>
+                            <li><a
+                                href="https://dotnetcore.show/">Modern .NET Show Website</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/708.jpg">
+                    </div>
+                </div>
+            </article>
+            
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Modern NuGet Packaging</h1>
+                        <h2>Releases Dec 20, 2024</h2>
+                        <div>
+                            In this episode we discuss NuGet packages:
+                            their anatomy, 
+                            security considerations for consuming them, 
+                            how to create them, 
+                            best practices for package authors,
+                            and new features all .NET developers
+                            can benefit from being aware of.
+                        </div>
+                        <ul>
+                            <li>Modern .NET Show, Season 7, Episode 9 (not yet released)</li>
+                            <li>Subscribe in your favorite podcast app</li>
+                            <li><a
+                                href="https://dotnetcore.show/">Modern .NET Show Website</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/709.jpg">
+                    </div>
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+    <section class="py-4">
         <div class="container-fluid fixed-width-container">
             <h1>Notable Mentions</h1>
 
             <div><strong>Projects with a browser component</strong></div>
             <ul>
-                <li><a href='https://swharden.com/github-license-checker/'>GitHub License Checker</a> - Identify which of your repositories have restrictive or missing licenses</li>
-                <li>Mystify your Mind <a href='https://swharden.com/blog/2022-04-06-mystify/'>Article</a>, <a href='https://www.youtube.com/watch?v=queN9r3Leis'>YouTube Video</a>, and <a href="https://swharden.com/static/2021/01/09/app/">Blazor app</a> - A modern take on a classic screensaver</li>
-                <li>PSK-31 Synthesis <a href='https://swharden.com/blog/2022-10-16-psk31-synthesis/'>Article</a> and <a href="https://swharden.com/static/2022/10/16/pskjs/">Browser App</a> for encoding data into audio using phase-shift keying</li>
+                <li><a href='https://swharden.com/github-license-checker/'>GitHub License Checker</a> - Identify which
+                    of your repositories have restrictive or missing licenses</li>
+                <li>Mystify your Mind <a href='https://swharden.com/blog/2022-04-06-mystify/'>Article</a>, <a
+                        href='https://www.youtube.com/watch?v=queN9r3Leis'>YouTube Video</a>, and <a
+                        href="https://swharden.com/static/2021/01/09/app/">Blazor app</a> - A modern take on a classic
+                    screensaver</li>
+                <li>PSK-31 Synthesis <a href='https://swharden.com/blog/2022-10-16-psk31-synthesis/'>Article</a> and <a
+                        href="https://swharden.com/static/2022/10/16/pskjs/">Browser App</a> for encoding data into
+                    audio using phase-shift keying</li>
             </ul>
-            
+
             <div><strong>Embedded Programming with C/C++</strong></div>
             <ul>
-                <li><a href='https://swharden.com/blog/2023-08-31-avr-dd-frequency-counter/'>Frequency Measurement with Modern AVR Microcontrollers</a></li>
-                <li><a href='https://swharden.com/blog/2018-06-03-bit-bang-ftdi-usb-to-serial-converters-to-drive-spi-devices/'>Bit-Bang FTDI USB-to-Serial Converters to Drive SPI Devices</a> and <a href='https://www.youtube.com/watch?v=QkHsryvDZfo'>YouTube Video</a></li>
-                <li><a href='https://swharden.com/blog/2017-04-29-precision-pressure-meter-project/'>Pressision pressure meter article</a> and <a href='https://youtu.be/T3ma1n_jhbQ'>YouTube Video</a></li>
-                <li><a href='https://swharden.com/blog/2016-07-28-opto-isolated-laser-controller-build/'>Opto-isolated laser controller</a></li>
-                <li><a href='https://swharden.com/blog/2017-09-02-ps4-controller-hack-adding-auto-run/'>PS4 Controller Hack</a> to add auto-run functionality</li>
+                <li><a href='https://swharden.com/blog/2023-08-31-avr-dd-frequency-counter/'>Frequency Measurement with
+                        Modern AVR Microcontrollers</a></li>
+                <li><a
+                        href='https://swharden.com/blog/2018-06-03-bit-bang-ftdi-usb-to-serial-converters-to-drive-spi-devices/'>Bit-Bang
+                        FTDI USB-to-Serial Converters to Drive SPI Devices</a> and <a
+                        href='https://www.youtube.com/watch?v=QkHsryvDZfo'>YouTube Video</a></li>
+                <li><a href='https://swharden.com/blog/2017-04-29-precision-pressure-meter-project/'>Pressision pressure
+                        meter article</a> and <a href='https://youtu.be/T3ma1n_jhbQ'>YouTube Video</a></li>
+                <li><a href='https://swharden.com/blog/2016-07-28-opto-isolated-laser-controller-build/'>Opto-isolated
+                        laser controller</a></li>
+                <li><a href='https://swharden.com/blog/2017-09-02-ps4-controller-hack-adding-auto-run/'>PS4 Controller
+                        Hack</a> to add auto-run functionality</li>
             </ul>
-            
+
             <div><strong>Favorite Technical Articles</strong></div>
             <ul>
-                <li><a href='https://swharden.com/blog/2022-06-23-resample-interpolation/'>Resample Time Series Data using Cubic Spline Interpolation</a></li>
-                <li><a href='https://swharden.com/blog/2020-10-11-model-neuron-ltspice/'>Exploring the Voltage-Clamp Membrane Test</a></li>
-                <li><a href='https://swharden.com/blog/2023-07-30-summarizing-blog-posts-with-ai/'>Summarizing Blog Posts with AI</a></li>
-                <li><a href='https://swharden.com/blog/2022-01-22-spline-interpolation/'>Spline Interpolation with C#</a></li>
+                <li><a href='https://swharden.com/blog/2022-06-23-resample-interpolation/'>Resample Time Series Data
+                        using Cubic Spline Interpolation</a></li>
+                <li><a href='https://swharden.com/blog/2020-10-11-model-neuron-ltspice/'>Exploring the Voltage-Clamp
+                        Membrane Test</a></li>
+                <li><a href='https://swharden.com/blog/2023-07-30-summarizing-blog-posts-with-ai/'>Summarizing Blog
+                        Posts with AI</a></li>
+                <li><a href='https://swharden.com/blog/2022-01-22-spline-interpolation/'>Spline Interpolation with
+                        C#</a></li>
             </ul>
         </div>
     </section>
