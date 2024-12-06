@@ -48,7 +48,7 @@
         }
 
         article img {
-            max-width: 100%;
+            width: 100%;
             margin: 0.5rem auto;
             display: block;
             border: 1px solid black;
@@ -69,7 +69,7 @@
 
     <section style="background-color: #00663644;" class="py-4">
         <div class="container-fluid fixed-width-container">
-            <h1>Open Source Libraries</h1>
+            <h1>Open Source Packages</h1>
 
             <article>
                 <div class="row">
@@ -187,6 +187,30 @@
             <article>
                 <div class="row">
                     <div class="col-md">
+                        <h1>SwarmFit</h1>
+                        <h2></h2>
+                        <div>
+                            SwarmFit is a .NET package for fitting arbitrary curve formulas
+                            to X/Y data points using particle swarm optimization.
+                            Unlike other gradient decent strategies,
+                            finding the derivative of the error function is not required.
+                        </div>
+                        <ul>
+                            <li><a href='https://swharden.com/blog/2024-09-14-swarmfit/'>Theory (Article)</a></li>
+                            <li><a href='https://github.com/swharden/SwarmFit'>SwarmFit on GitHub</a></li>
+                            <li><a href='https://nuget.org/packages/SwarmFit'>SwarmFit on NuGet</a></li>
+                            <li>Technology: C#/.NET, NuGet</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/fit.gif">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
                         <h1>FtdiSharp</h1>
                         <h2>A .NET package for interfacing FTDI USB controller ICs</h2>
                         <div>
@@ -228,7 +252,7 @@
                                 and
                                 <a href='https://github.com/swharden/abfauto'>AbfAuto</a>
                             </li>
-                            <li>Technology: C#/.NET</li>
+                            <li>Technology: C#/.NET, NuGet</li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -252,11 +276,36 @@
                         <ul>
                             <li><a href='https://github.com/swharden/SciTIF'>SciTIF on GitHub</a></li>
                             <li><a href='https://nuget.org/packages/SciTIF'>SciTIF on NuGet</a></li>
-                            <li>Technology: C#/.NET</li>
+                            <li>Technology: C#/.NET, NuGet</li>
                         </ul>
                     </div>
                     <div class="col-md">
                         <img src="images/scitif.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>NumberSpeaker</h1>
+                        <h2>Arduino library for reading numbers with a speaker</h2>
+                        <div>
+                            Allows numbers stored in memory to be read out loud using a speaker connected to a
+                            PWM output pin. Recordings were carefully sampled and compressed to fit in
+                            extremely limited program memory.
+                        </div>
+                        <ul>
+                            <li><a href='https://swharden.com/blog/2023-08-19-speaking-microcontroller/'>Theory and
+                                    implementation (Article)</a></li>
+                            <li><a href='https://github.com/swharden/NumberSpeaker'>NumberSpeaker on GitHub</a></li>
+                            <li><a href='https://docs.arduino.cc/libraries/numberspeaker/'>NumberSpeaker on Arduino
+                                    website</a></li>
+                            <li>Technology: C/C++, Python</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/number-speaker.jpg">
                     </div>
                 </div>
             </article>
@@ -349,8 +398,8 @@
                             </li>
                             <li>Continuously running for over 10 years</li>
                             <li>100-200 daily users</li>
-                            <li>Technology (2018-present): Azure Functions, React</li>
-                            <li>Technology (2013-2018): Python, PHP</li>
+                            <li>Technology: Azure Functions, React</li>
+                            <li>Previously: Python, PHP</li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -401,11 +450,17 @@
                             Manages over 200k electrical recordings acquired over more than 20 years
                             to present results interactively in an application used by
                             more than 50 researchers.
+
+                            <!-- How many scientists use these tools or have seen their output?
+                            PIS (17):, Jason, Eric, Anette, Jen, barry, SB, Levett, Nancy, Jay, Joana, BP guy, C21 guy, will, brandon, kelly, mcmahan, liu
+                            CORE TEAM (12), me, jeff, todd, nadine, sarthak, wanhui, kyle, haley, amy, todd, jordan, dipa
+                            TRAINEES (19), isabela, easton, bo, ceasar, doug, dominique, gowri, jing, max, michelle, ming, nan, beronica, sam, sarah, serene, tom, wonn, yalun
+                            -->
                         </div>
                         <ul>
-                            <li>Technology (2024-present): ASP.NET core, JavaScript, SQL</li>
-                            <li>Technology (2022-2024): Blazor Server, SQL</li>
-                            <li>Technology (2013-2022): Python, PHP, SQL</li>
+                            <li>Technology: ASP.NET core, JavaScript, SQL</li>
+                            <li>Previously: Blazor Server, SQL</li>
+                            <li>Previously: Python, PHP, SQL</li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -436,6 +491,43 @@
                     </div>
                     <div class="col-md">
                         <img src="images/issues.png">
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>SWHarden.com</h1>
+                        <h2>Personal website for over 20 years</h2>
+                        <ul>
+                            <li>
+                                <strong><a href="https://swharden.com/blog/posts/">Over 600 articles</a></strong>
+                                with content originally posted to a GeoCities website in 2001.
+                                I began writing almost exclusively technical articles in 2010.
+                            </li>
+                            <li>
+                                <strong>AI Summaries:</strong> Over 300 blog posts were marked
+                                private because they contained embarrassing text written as a child.
+                                Rather than keep them hidden forever, I used a locally-hosted LLM
+                                (LLama2) to summarize their content using professional language
+                                as described
+                                <a href="https://swharden.com/blog/2023-07-30-summarizing-blog-posts-with-ai/">here</a>.
+                            </li>
+                            <li>
+                                <strong>Build and deployment:</strong>
+                                Articles are written in Markdown which are built and styled using Hugo
+                                to generate a flat-file HTML website. Builds and deployments are managed
+                                by a GitHub action which builds the website and synchronizes content with
+                                Linux server using rsync as described
+                                <a href="https://swharden.com/blog/2022-03-20-github-actions-hugo/">here</a>.
+                            </li>
+                            <li><a href='https://github.com/swharden/SWHarden.com/'>SWharden.com on GitHub</a></li>
+                            <li>Technology: Html, CSS, JavaScript, Hugo, C#, Python</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/swharden.png">
                     </div>
                 </div>
             </article>
@@ -499,12 +591,13 @@
                 <div class="row">
                     <div class="col-md">
                         <h1>Tmoji</h1>
-                        <h2>Access to emoji and symbols from the system tray</h2>
+                        <h2>Emoji and symbols in the system tray</h2>
                         <div>
                             Tmoji is a Windows tray icon that makes it easy to copy emoji and
                             special characters to the clipboard.
                             Unlike the <code>Win</code> + <code>.</code> shortcut,
-                            TMoji allows custom positioning for commonly used symbols.
+                            TMoji allows custom positioning for commonly used emoji,
+                            symbols, and special characters for rapid recall.
                         </div>
                         <ul>
                             <li><a href='https://swharden.com/software/Tmoji'>Tmoji website</a></li>
@@ -578,8 +671,7 @@
                                 Enabled experiments underlying
                                 <a href='https://elifesciences.org/articles/63486'>Sheng et al., 2021</a>
                             </li>
-                            <li>Technology (2019-present): C#/.NET</li>
-                            <li>Technology (2013-2019): Python</li>
+                            <li>Technology: C#/.NET, Python</li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -596,10 +688,10 @@
                         <div>
                             AbfAuto is a suite of tools that runs on a server to provide real-time
                             data analysis and report generation capabilities. A filesystem monitor
-                            identifies newly created data files, they are analyzed automatically 
-                            according to experiment designs defined in code, results are stored in 
+                            identifies newly created data files, they are analyzed automatically
+                            according to experiment designs defined in code, results are stored in
                             image files, report files, SQL database records, and are exposed to the
-                            user via a web interface using an ASP.NET core backend 
+                            user via a web interface using an ASP.NET core backend
                             and Vanilla JavaScript frontend.
                         </div>
                         <ul>
@@ -630,11 +722,12 @@
                         <div>
                             Designed an embedded device to measure DC-VHF voltage cycles
                             for precision frequency measurement and pulse counting applications.
-                            PCB was designed for this project and SMT components were 
+                            PCB was designed for this project and SMT components were
                             hand-assembled using a microscope.
                         </div>
                         <ul>
-                            <li><a href='https://swharden.com/blog/2019-08-03-usb-frequency-counter/'>Technical Documentation (Article)</a></li>
+                            <li><a href='https://swharden.com/blog/2019-08-03-usb-frequency-counter/'>Technical
+                                    Documentation (Article)</a></li>
                             <li><a href='https://github.com/swharden/USB-Counter'>USB Counter on GitHub</a></li>
                             <li>Technology: ATMega328 MCU (not Arduino), AVR-GCC, KiCad</li>
                         </ul>
@@ -652,7 +745,7 @@
                         <h1>IoT Attic Temperature Sensor</h1>
                         <h2>Web-Enabled Device for Remotely Monitoring Indoor/Attic Temperatures</h2>
                         <div>
-                            A project that pairs BMP280 temperature sensors with 
+                            A project that pairs BMP280 temperature sensors with
                             ESP8266 WiFi-enabled microcontrollers to continuously report
                             indoor, outdoor, and attic temperature to a web-accessible endpoint
                             allowing worldwide monitoring of real-time home temperature information.
@@ -662,7 +755,7 @@
                         <ul>
                             <li><a href='https://swharden.com/weather/'>Live Dashboard (internal tool)</a></li>
                             <li><a href='https://github.com/swharden/iot-weather-station'>GitHub Project</a></li>
-                            <li>Technology: C/C++</li>
+                            <li>Technology: C/C++, SQL, PHP, JavaScript</li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -671,62 +764,25 @@
                 </div>
             </article>
 
-
             <article>
                 <div class="row">
                     <div class="col-md">
-                        <h1>Microcontroller Projects?</h1>
-                        <h2>???</h2>
+                        <h1>Breathing Monitor</h1>
+                        <h2>Respiration monitor for infants and small animals</h2>
                         <div>
-                            ???
+                            USB interface provides power and PC connectivity for streaming
+                            data and customizing filter settings. Built-in breathing rate
+                            detection allows breath rate monitoring and analog signal
+                            filtering and amplification without requiring a computer.
                         </div>
                         <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
+                            <li><a href='https://github.com/swharden/PressureSensor'>Design notes and software
+                                    (GitHub)</a></li>
+                            <li>Technology: C/C++, AVR DD-Series MCU, C#/.NET</li>
                         </ul>
                     </div>
                     <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>QRSS Hardware</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>Small Animal Respiration Monitor</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
+                        <img src="images/respiration.gif">
                     </div>
                 </div>
             </article>
@@ -734,20 +790,27 @@
             <article>
                 <div class="row">
                     <div class="col-md">
-                        <h1>Talking Frequency Counter</h1>
-                        <h2>???</h2>
+                        <h1>QRSS Transmitter</h1>
+                        <h2>Ultrastable Frequency Synthesizer</h2>
                         <div>
-                            ???
+                            Custom design for a ovenized crystal oscillator with varactor-controlled
+                            frequency-shift-keying using a custom PCB and SMT components hand-assembled
+                            using a microscope. Early tests demonstrated <0.1 PPM stability near 10 MHz using 5 Hz FSK
+                                driven using an ATMEL AVR microcontroller. </div>
+                                <ul>
+                                    <li><a href='https://swharden.com/blog/2019-07-26-smt-qrss-design/'>Oscillator
+                                            design notes (Article)</a></li>
+                                    <li><a href='https://github.com/swharden/QRSS-hardware/tree/master/builds/keyer'>Keyer
+                                            design and software (GitHub)</a></li>
+                                    <li><a href='https://github.com/swharden/QRSS-hardware'>QRSS Hardware on GitHub</a>
+                                    </li>
+                                    <li>Technology: C/C++, C#/.NET, KiCad</li>
+                                </ul>
                         </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
+                        <div class="col-md">
+                            <img src="images/qrss-smt.jpg">
+                        </div>
                     </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
             </article>
 
             <article>
@@ -782,170 +845,44 @@
                 </div>
             </article>
 
+            <article>
+                <div class="row">
+                    <div class="col-md">
+                        <h1>Talking Frequency Counter</h1>
+                        <h2>Audible frequency readout for radio operators with impaired vision</h2>
+                        <div>
+                            A low-cost standalone frequency counter that senses the frequency of
+                            the near radio transmission and reads its frequency audibly using a
+                            human voice to help radio operators know what frequency their radio
+                            is tuned to if visual impairments prevent them from reading the display.
+                            <em>
+                                This project is a work in progress. An early prototype is pictured,
+                                but work is ongoing as I incorporate feedback from
+                                a blind radio operator I am collaborating with.
+                            </em>
+                        </div>
+                        <ul>
+                            <li><a href='https://github.com/swharden/USB-Counter/tree/main/builds/3.0'>Project Files on
+                                    GitHub</a></li>
+                            <li>Technology: C/C++, AVR DD-Series MCU</li>
+                        </ul>
+                    </div>
+                    <div class="col-md">
+                        <img src="images/talking.png">
+                    </div>
+                </div>
+            </article>
+
         </div>
     </section>
 
-    <section style="background-color: #00000044;" class="py-4">
+
+
+    <section style="background-color: #663c0044;" class="py-4">
         <div class="container-fluid fixed-width-container">
-
-            <h1>Technical Writing</h1>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>SWHarden.com</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>PSK31 synthesis</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>membrane test</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>Particle swarm optimization</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
-            <article>
-                <div class="row">
-                    <div class="col-md">
-                        <h1>Boids</h1>
-                        <h2>???</h2>
-                        <div>
-                            ???
-                        </div>
-                        <ul>
-                            <li>???</li>
-                            <li>Technology: ???</li>
-                        </ul>
-                    </div>
-                    <div class="col-md">
-                        <img src="images/placeholder.svg">
-                    </div>
-                </div>
-            </article>
-
+            <h1>Websites and Web Applications</h1>
         </div>
     </section>
-
-    <!-- NOTES
-    How many scientists use these tools or have seen their output?
-
-    PIs (17)
-        Jason
-        Eric
-        Anette
-        Jen
-        barry
-        SB
-        Levett
-        Nancy
-        Jay
-        Joana
-        BP guy
-        C21 guy
-        will
-        brandon
-        kelly
-        mcmahan
-        liu
-
-    LAB MEMBERS (12)
-        me
-        jeff
-        todd
-        nadine
-        sarthak
-        wanhui
-        kyle
-        haley
-        amy
-        todd
-        jordan
-        dipa
-
-    TRAINEES (19)
-        isabela
-        easton
-        bo
-        ceasar
-        doug
-        dominique
-        gowri
-        jing
-        max
-        michelle
-        ming
-        nan
-        beronica
-        sam
-        sarah
-        serene
-        tom
-        wonn
-        yalun
-
-    -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
