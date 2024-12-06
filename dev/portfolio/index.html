@@ -24,6 +24,7 @@
         }
 
         h1 {
+            font-size: 3rem;
             text-align: center;
             margin-top: 2rem;
             margin-bottom: 5rem;
@@ -76,8 +77,30 @@
 
 <body>
 
-    <header style="background-color: yellow;" class="m-0 py-5">
-        <h1>WARNING: THIS PAGE IS IN ACTIVE DEVELOPMENT</h1>
+    <header class="m-0 py-5">
+
+        <section class="py-4">
+            <div class="container-fluid fixed-width-container">
+                <div class="text-center mb-5">
+                    <div class="display-1 fw-semibold">Portfolio</div>
+                    <div class="fs-5">The Favorite Projects of Scott W Harden</div>
+                </div>
+                <div class="w-75 mx-auto">
+                    <p>
+                        <strong>This page showcases several of my favorite projects</strong>
+                        in a variety of technical fields.
+                        For more information about who I am and what I am currently working on,
+                        check out the following resources:
+                    </p>
+                    <ul>
+                        <li><a href='https://github.com/swharden'>My GitHub Profile</a></li>
+                        <li><a href='https://swharden.com/'>My personal website</a></li>
+                        <li><a href='https://scholar.google.com/citations?user=egCaj-AAAAAJ'>My published articles in
+                                scientific journals</a></li>
+                        <li><a href='https://www.linkedin.com/in/swharden/'>My LinkedIn profile</a></li>
+                </div>
+            </div>
+        </section>
     </header>
 
     <section style="background-color: #0D3D56;" class="py-4 dark">
@@ -898,7 +921,7 @@
                         <h1>The Spirit of Open Source in a Modern .NET World</h1>
                         <h2>Released Dec 6, 2024</h2>
                         <div>
-                            In this episode I discuss why I put so much effort into 
+                            In this episode I discuss why I put so much effort into
                             working in open source, where it can go wrong, and the
                             strategies I use to grow projects while avoiding burnout
                             serving as an open source contributor and maintainer.
@@ -907,8 +930,8 @@
                             <li>Modern .NET Show, Season 7, Episode 7</li>
                             <li>Listen in your favorite podcast app</li>
                             <li><a
-                                href="https://dotnetcore.show/season-7/the-spirit-of-open-source-in-a-modern-net-world-with-scott-harden/">Listen
-                                in your Browser</a></li>
+                                    href="https://dotnetcore.show/season-7/the-spirit-of-open-source-in-a-modern-net-world-with-scott-harden/">Listen
+                                    in your Browser</a></li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -916,7 +939,7 @@
                     </div>
                 </div>
             </article>
-            
+
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -927,15 +950,14 @@
                             preparing your digital life for the possibility that
                             you will no longer be able to maintain it.
                             Some of the discussion relates to my experiences
-                            battling cancer in 2018 and figuring out what 
+                            battling cancer in 2018 and figuring out what
                             relationship I wanted to have with open source software
                             development in the face of an uncertain future.
                         </div>
                         <ul>
                             <li>Modern .NET Show, Season 7, Episode 8 (not yet released)</li>
                             <li>Subscribe in your favorite podcast app</li>
-                            <li><a
-                                href="https://dotnetcore.show/">Modern .NET Show Website</a></li>
+                            <li><a href="https://dotnetcore.show/">Modern .NET Show Website</a></li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -943,7 +965,7 @@
                     </div>
                 </div>
             </article>
-            
+
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -951,9 +973,9 @@
                         <h2>Releases Dec 20, 2024</h2>
                         <div>
                             In this episode we discuss NuGet packages:
-                            their anatomy, 
-                            security considerations for consuming them, 
-                            how to create them, 
+                            their anatomy,
+                            security considerations for consuming them,
+                            how to create them,
                             best practices for package authors,
                             and new features all .NET developers
                             can benefit from being aware of.
@@ -961,8 +983,7 @@
                         <ul>
                             <li>Modern .NET Show, Season 7, Episode 9 (not yet released)</li>
                             <li>Subscribe in your favorite podcast app</li>
-                            <li><a
-                                href="https://dotnetcore.show/">Modern .NET Show Website</a></li>
+                            <li><a href="https://dotnetcore.show/">Modern .NET Show Website</a></li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -1020,6 +1041,10 @@
             </ul>
         </div>
     </section>
+
+    <footer class="text-center my-5" style="opacity: 0.3;">
+        <a href="https://github.com/swharden/SWHarden.com/blob/main/dev/portfolio/index.html">Edit this page on GitHub</a>
+    </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
