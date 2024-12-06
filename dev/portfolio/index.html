@@ -8,11 +8,40 @@
     <meta name="robots" content="noindex">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=Work+Sans&display=swap"
+        rel="stylesheet">
     <style>
         body {}
 
+        header {
+            font-family: "Oswald", sans-serif;
+            background-color: #003366;
+            color: white;
+        }
+
+        header h1 {
+            font-size: 4.5em;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        header h2 {
+            font-weight: 500;
+        }
+
+        .intro img {
+            max-width: 50px;
+            max-height: 50px;
+            width: 50px;
+            height: 50px;
+        }
+
         a {
             text-decoration: none;
+            font-weight: 600;
         }
 
         a:hover {
@@ -23,9 +52,15 @@
             max-width: 1000px;
         }
 
-        h1 {
-            margin-top: 2rem;
+        section h1 {
+            text-transform: uppercase;
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            font-family: "Oswald", sans-serif;
+            margin-top: 10rem;
             margin-bottom: 5rem;
+            padding: 2rem 0;
         }
 
         article {
@@ -33,6 +68,11 @@
         }
 
         article h1 {
+            text-transform: inherit;
+            background-color: inherit;
+            padding: 0;
+            color: inherit;
+            text-align: inherit;
             font-size: 2rem;
             margin-bottom: 0;
             margin-top: 0;
@@ -62,35 +102,64 @@
 
 <body>
 
-    <header class="m-0 py-5">
-
-        <section class="py-4">
-            <div class="container-fluid fixed-width-container">
-                <div class="text-center mb-5">
-                    <div class="display-1 fw-semibold">Portfolio</div>
-                    <div class="fs-5">The Favorite Projects of Scott W Harden</div>
-                </div>
-                <div class="w-75 mx-auto">
-                    <p>
-                        <strong>This page showcases several of my favorite projects</strong>
-                        in a variety of technical fields.
-                        For more information about who I am and what I am currently working on,
-                        check out the following resources:
-                    </p>
-                    <ul>
-                        <li><a href='https://github.com/swharden'>My GitHub Profile</a></li>
-                        <li><a href='https://swharden.com/'>My personal website</a></li>
-                        <li><a href='https://scholar.google.com/citations?user=egCaj-AAAAAJ'>My published articles in
-                                scientific journals</a></li>
-                        <li><a href='https://www.linkedin.com/in/swharden/'>My LinkedIn profile</a></li>
-                </div>
-            </div>
-        </section>
+    <header class="py-5 text-center px-2">
+        <h1>Portfolio</h1>
+        <h2 class="d-flex justify-content-center flex-wrap">
+            <!-- improve wrapping for small screens -->
+            <div>The Favorite Projects of&nbsp;</div>
+            <div>Scott W Harden</div>
+        </h2>
     </header>
 
-    <section class="py-4">
+    <div class="container-fluid fixed-width-container">
+        <div class="w-75 mx-auto intro">
+            <p class="mt-5">
+                <strong>This page showcases several of my favorite projects</strong>
+                in a variety of technical fields.
+                For more information about who I am and what I am currently working on,
+                check out the following resources:
+            </p>
+
+            <div class="row text-center mt-4">
+                <div class="col-sm my-3">
+                    <a href="https://github.com/swharden">
+                        <div>
+                            <img src="images/icon-github.svg">
+                            <div>GitHub Profile</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm my-3">
+                    <a href="https://swharden.com/">
+                        <div>
+                            <img src="images/icon-website-dark.svg">
+                            <div>Personal Website</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm my-3">
+                    <a href="https://scholar.google.com/citations?user=egCaj-AAAAAJ">
+                        <div>
+                            <img src="images/icon-book.svg">
+                            <div>Published Articles</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm my-3">
+                    <a href="https://www.linkedin.com/in/swharden/">
+                        <div>
+                            <img src="images/icon-linkedin.svg">
+                            <div>LinkedIn Profile</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section>
+        <h1>Open Source Packages</h1>
         <div class="container-fluid fixed-width-container">
-            <h1 style="background-color: #003366;" class="p-3 text-center text-light rounded">Open Source Packages</h1>
 
             <article>
                 <div class="row">
@@ -334,10 +403,10 @@
         </div>
     </section>
 
-    <section class="py-4">
+    <section>
+        <h1>Websites and Web Applications</h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 style="background-color: #003366;" class="p-3 text-center text-light rounded">Websites and Web
-                Applications</h1>
 
             <article>
                 <div class="row">
@@ -557,10 +626,12 @@
         </div>
     </section>
 
-    <section class="py-4">
-        <div class="container-fluid fixed-width-container">
+    <section>
+        <h1>
+            Desktop Applications
+        </h1>
 
-            <h1 style="background-color: #003366;" class="p-3 text-center text-light rounded">Desktop Applications</h1>
+        <div class="container-fluid fixed-width-container">
 
             <article>
                 <div class="row">
@@ -731,11 +802,14 @@
         </div>
     </section>
 
-    <section class="py-4">
+    <section>
+
+        <h1>
+            Hardware & Embedded Software
+        </h1>
+
         <div class="container-fluid fixed-width-container">
 
-            <h1 style="background-color: #003366;" class="p-3 text-center text-light rounded">Hardware & Embedded
-                Software</h1>
 
             <article>
                 <div class="row">
@@ -898,15 +972,17 @@
         </div>
     </section>
 
-    <section class="py-4">
-        <div class="container-fluid fixed-width-container">
+    <section>
+        <h1>
+            Recent Interviews
+        </h1>
 
-            <h1 style="background-color: #003366;" class="p-3 text-center text-light rounded">Desktop Applications</h1>
+        <div class="container-fluid fixed-width-container">
 
             <article>
                 <div class="row">
                     <div class="col-md">
-                        <h1>The Spirit of Open Source in a Modern .NET World</h1>
+                        <h1>The Spirit of Open Source</h1>
                         <h2>Released Dec 6, 2024</h2>
                         <div>
                             In this episode I discuss why I put so much effort into
@@ -983,9 +1059,12 @@
         </div>
     </section>
 
-    <section class="py-4">
+    <section>
+        <h1>
+            Notable Mentions
+        </h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 style="background-color: #003366;" class="p-3 text-center text-light rounded">Notable Mentions</h1>
 
             <div><strong>Projects with a browser component</strong></div>
             <ul>
@@ -1031,7 +1110,8 @@
     </section>
 
     <footer class="text-center my-5" style="opacity: 0.3;">
-        <a href="https://github.com/swharden/SWHarden.com/blob/main/dev/portfolio/index.html">Edit this page on
+        <a href="https://github.com/swharden/SWHarden.com/blob/main/dev/portfolio/index.html" style="text-dark">Edit
+            this page on
             GitHub</a>
     </footer>
 
