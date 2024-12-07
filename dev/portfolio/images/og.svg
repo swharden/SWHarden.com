@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="630"
+   viewBox="0 0 423.33333 166.68751"
+   version="1.1"
+   id="svg839"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="og.svg"
+   inkscape:export-filename="C:\Users\scott\Documents\GitHub\SWHarden.com\dev\portfolio\images\og2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs833" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="779.19936"
+     inkscape:cy="321.31334"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="true"
+     inkscape:window-width="1726"
+     inkscape:window-height="1080"
+     inkscape:window-x="2641"
+     inkscape:window-y="194"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#003366;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect1402"
+       width="478.94699"
+       height="212.74654"
+       x="-17.105249"
+       y="-19.243404" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.0595px;line-height:1.25;font-family:OSWALD;-inkscape-font-specification:OSWALD;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.826489"
+       x="136.42343"
+       y="112.06551"
+       id="text1410"><tspan
+         sodipodi:role="line"
+         id="tspan1408"
+         x="136.42343"
+         y="112.06551"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:OSWALD;-inkscape-font-specification:OSWALD;fill:#ffffff;stroke-width:0.826489">PORTFOLIO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9726px;line-height:1.25;font-family:OSWALD;-inkscape-font-specification:OSWALD;letter-spacing:4.86474px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.571641"
+       x="138.65117"
+       y="69.677048"
+       id="text1410-6"><tspan
+         sodipodi:role="line"
+         id="tspan1408-4"
+         x="138.65117"
+         y="69.677048"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.9726px;font-family:OSWALD;-inkscape-font-specification:'OSWALD Light';fill:#ffffff;stroke-width:0.571641">SCOTT W HARDEN</tspan></text>
+  </g>
+</svg>
