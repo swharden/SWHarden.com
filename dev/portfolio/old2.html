@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 
@@ -19,18 +20,20 @@
 
     <meta property="og:url" content="https://swharden.com/portfolio/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Portfolio">
-    <meta property="og:description" content="The Portfolio of Scott W Harden">
+    <meta property="og:title" content="Portfolio - Scott Harden">
+    <meta property="og:description" content="The Favorite Projects of Scott W Harden">
     <meta property="og:image" content="https://swharden.com/portfolio/images/og.png">
 
     <style>
+        body {}
+
         header {
+            font-family: "Oswald", sans-serif;
             background-color: #003366;
             color: white;
         }
 
         header h1 {
-            font-family: "Oswald", sans-serif;
             font-size: 4.5em;
             font-weight: 600;
             text-transform: uppercase;
@@ -38,10 +41,7 @@
         }
 
         header h2 {
-            font-family: "Oswald", sans-serif;
-            letter-spacing: .4rem;
-            text-transform: uppercase;
-            padding-top: 1em;
+            font-weight: 500;
         }
 
         .intro img {
@@ -64,24 +64,7 @@
             max-width: 1000px;
         }
 
-        nav {
-            background-color: #1076ab;
-            font-size: 1.5em;
-            font-weight: normal;
-        }
-
-        nav a {
-            padding: .2rem 1rem;
-            border-radius: 0.5rem;
-        }
-
-        nav a:hover {
-            background-color: #00000022;
-            text-decoration: none;
-        }
-
         section h1 {
-            border-left: 15px solid #1076ab;
             text-transform: uppercase;
             background-color: #003366;
             color: white;
@@ -89,29 +72,7 @@
             font-family: "Oswald", sans-serif;
             margin-top: 10rem;
             margin-bottom: 5rem;
-            padding: 1.5rem 0;
-            font-size: 2em;
-        }
-
-        #resume-button {
-            background-color: #1076ab;
-            color: white;
-            padding: .5rem 1.0rem;
-            border-radius: 0.5rem;
-        }
-
-        #resume-button:hover {
-            background-color: #003366;
-            text-decoration: none;
-        }
-
-        section h1 a {
-            /* jump to top icon */
-            opacity: .5;
-        }
-
-        section h1 a:hover {
-            opacity: 1;
+            padding: 2rem 0;
         }
 
         article {
@@ -119,7 +80,6 @@
         }
 
         article h1 {
-            border: inherit;
             text-transform: inherit;
             background-color: inherit;
             padding: 0;
@@ -142,6 +102,8 @@
             width: 100%;
             margin: 0.5rem auto;
             display: block;
+            border: 1px solid black;
+            box-shadow: 5px 5px 10px #00000033;
         }
 
         article ul {
@@ -218,71 +180,63 @@
 
     <header class="py-5 text-center px-2">
         <h1>Portfolio</h1>
-        <!--
-        <h2>Scott W Harden</h2>
-        -->
+        <h2 class="d-flex justify-content-center flex-wrap">
+            <!-- improve wrapping for small screens -->
+            <div>The Favorite Projects of&nbsp;</div>
+            <div>Scott W Harden</div>
+        </h2>
     </header>
-    <nav>
-        <div class="container-fluid fixed-width-container py-1">
-            <div class="d-flex justify-content-around flex-wrap">
-                <a href="#packages" class="text-light">Packages</a>
-                <a href="#web" class="text-light">Web</a>
-                <a href="#desktop" class="text-light">Desktop</a>
-                <a href="#embedded" class="text-light">Embedded</a>
-                <a href="#interviews" class="text-light">Interviews</a>
-                <a href="#more" class="text-light">More</a>
-            </div>
-        </div>
-    </nav>
 
-    <div class="container-fluid fixed-width-container mt-5">
-        <div class="d-flex justify-content-around flex-wrap">
-            <div style="max-width: 500px;" class="pb-5 fs-5">
-                <div>
-                    <strong>Scott W Harden</strong>
-                    is a neuroscientist with over 17 years
-                    of experience writing software
-                    for technical, industrial,
-                    and biomedical applications.
+    <div class="container-fluid fixed-width-container">
+        <div class="w-75 mx-auto intro">
+            <p class="mt-5">
+                <strong>This page showcases several of my favorite projects</strong>
+                in a variety of technical fields.
+                For more information about who I am and what I am currently working on,
+                check out the following resources:
+            </p>
+
+            <div class="row text-center mt-4">
+                <div class="col-sm my-3">
+                    <a href="https://github.com/swharden">
+                        <div>
+                            <img src="images/icon-github.svg">
+                            <div>GitHub Profile</div>
+                        </div>
+                    </a>
                 </div>
-                <div class="mt-4">
-                    This page showcases a few selected projects
-                    across several categories of hardware
-                    and software development.
+                <div class="col-sm my-3">
+                    <a href="https://swharden.com/">
+                        <div>
+                            <img src="images/icon-website-dark.svg">
+                            <div>Personal Website</div>
+                        </div>
+                    </a>
                 </div>
-                <div class="mt-4">
-                    Many more projects can be found on
-                    Scott's <a href="https://github.com/swharden">GitHub profile</a>
-                    and <a href="https://swharden.com">personal website</a>.
+                <div class="col-sm my-3">
+                    <a href="https://scholar.google.com/citations?user=egCaj-AAAAAJ">
+                        <div>
+                            <img src="images/icon-book.svg">
+                            <div>Scientific Publications</div>
+                        </div>
+                    </a>
                 </div>
-                <div class="my-5 text-center">
-                    <a href="/resume" id="resume-button">View Resume</a>
+                <div class="col-sm my-3">
+                    <a href="https://www.linkedin.com/in/swharden/">
+                        <div>
+                            <img src="images/icon-linkedin.svg">
+                            <div>LinkedIn Profile</div>
+                        </div>
+                    </a>
                 </div>
-            </div>
-            <div>
-                <img src="https://swharden.com/static/misc/about/scott-w-harden.jpg"
-                    style="width: 100%; max-width: 300px;">
             </div>
         </div>
     </div>
 
-    <section id="packages">
+    <section>
+        <h1>Open Source Packages</h1>
         <div class="container-fluid fixed-width-container">
 
-            <h1 class="text-start ps-4 mt-5">
-                <div class="d-flex justify-content-between">
-                    <div>Open Source Packages</div>
-                    <div class="pe-5">
-                        <a href="#top" class="text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                                class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-                                <path
-                                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </h1>
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -295,8 +249,7 @@
                         <div>
                             ScottPlot can create static plots as images in console applications and
                             server environments, and has 7 additional NuGet packages to provide mouse-interactive
-                            plots on a variety of platforms including Windows Forms, WPF, Avalonia, Maui, Blazor,
-                            and
+                            plots on a variety of platforms including Windows Forms, WPF, Avalonia, Maui, Blazor, and
                             more
                         </div>
                         <ul>
@@ -338,8 +291,7 @@
                         </div>
                         <ul>
                             <li>Continuously maintained since 2017</li>
-                            <li><a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=pyabf&btnG='>Cited
-                                    in
+                            <li><a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=pyabf&btnG='>Cited in
                                     numerous scientific publications</a></li>
                             <li><a href='https://swharden.com/pyabf/'>pyABF website</a></li>
                             <li><a href='https://pypi.org/project/pyabf/'>pyABF Package (PyPi)</a></li>
@@ -364,16 +316,13 @@
                             <span class="tech-nuget">NuGet</span>
                         </div>
                         <div>
-                            FftSharp provides methods for calculating the FFT using a MIT-licensed .NET Standard
-                            library
-                            which can be easily used in proprietary and cross-platform applications. It also
-                            contains
+                            FftSharp provides methods for calculating the FFT using a MIT-licensed .NET Standard library
+                            which can be easily used in proprietary and cross-platform applications. It also contains
                             methods
                             to facilitate data windowing and frequency spectrum filtering.
                         </div>
                         <ul>
-                            <li><a href='https://www.nuget.org/packages/FftSharp'>FftSharp on NuGet</a> (>130k
-                                installs)
+                            <li><a href='https://www.nuget.org/packages/FftSharp'>FftSharp on NuGet</a> (>130k installs)
                             </li>
                             <li><a href='https://github.com/swharden/FftSharp'>FftSharp on GitHub</a> (used in >230
                                 projects)</li>
@@ -397,16 +346,13 @@
                             <span class="tech-nuget">NuGet</span>
                         </div>
                         <div>
-                            FftSharp provides methods for calculating the FFT using a MIT-licensed .NET Standard
-                            library
-                            which can be easily used in proprietary and cross-platform applications. It also
-                            contains
+                            FftSharp provides methods for calculating the FFT using a MIT-licensed .NET Standard library
+                            which can be easily used in proprietary and cross-platform applications. It also contains
                             methods
                             to facilitate data windowing and frequency spectrum filtering.
                         </div>
                         <ul>
-                            <li><a href='https://www.nuget.org/packages/FftSharp'>FftSharp on NuGet</a> (>130k
-                                installs)
+                            <li><a href='https://www.nuget.org/packages/FftSharp'>FftSharp on NuGet</a> (>130k installs)
                             </li>
                             <li><a href='https://github.com/swharden/FftSharp'>FftSharp on GitHub</a> (used in >230
                                 projects)</li>
@@ -562,22 +508,11 @@
         </div>
     </section>
 
-    <section id="web">
+    <section>
+        <h1>Websites and Web Applications</h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 class="text-start ps-4">
-                <div class="d-flex justify-content-between">
-                    <div>Websites and Web Applications</div>
-                    <div class="pe-5">
-                        <a href="#top" class="text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                                class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-                                <path
-                                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </h1>
+
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -626,8 +561,7 @@
                             <li>
                                 <strong>Client-Side Interactive Search:</strong>
                                 The
-                                <a href='https://scottplot.net/cookbook/5.0/search/'>ScottPlot Cookbook Search
-                                    Tool</a>
+                                <a href='https://scottplot.net/cookbook/5.0/search/'>ScottPlot Cookbook Search Tool</a>
                                 helps search all cookbook recipes and is implemented using Vanilla JavaScript.
                                 The test system that generates the cookbook creates a JSON file containing
                                 all recipe titles, descriptions, and permalinks which is consumed by the search tool
@@ -692,8 +626,7 @@
                         </div>
                         <div>
                             A Blazor WebAssembly application for calculating the voltage across the liquid junction
-                            formed by two solutions with arbitrary electrolyte concentrations. Solutions are
-                            achieved
+                            formed by two solutions with arbitrary electrolyte concentrations. Solutions are achieved
                             by solving the Nernst-Planck set of equations for the stationary state in conditions of
                             local electrical
                             quasi-neutrality at all points of the junction.
@@ -769,8 +702,7 @@
                             <li>Live example: <a
                                     href='https://scottplotstatsstorage.z20.web.core.windows.net/'>ScottPlot metrics
                                     (internal tool)</a></li>
-                            <li><a href='https://github.com/swharden/ScottPlotStats'>ScottPlotStats on GitHub</a>
-                            </li>
+                            <li><a href='https://github.com/swharden/ScottPlotStats'>ScottPlotStats on GitHub</a></li>
                         </ul>
                     </div>
                     <div class="col-md">
@@ -824,22 +756,13 @@
         </div>
     </section>
 
-    <section id="desktop">
+    <section>
+        <h1>
+            Desktop Applications
+        </h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 class="text-start ps-4">
-                <div class="d-flex justify-content-between">
-                    <div>Desktop Applications</div>
-                    <div class="pe-5">
-                        <a href="#top" class="text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                                class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-                                <path
-                                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </h1>
+
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -1034,22 +957,15 @@
         </div>
     </section>
 
-    <section id="embedded">
+    <section>
+
+        <h1>
+            Hardware & Embedded Software
+        </h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 class="text-start ps-4">
-                <div class="d-flex justify-content-between">
-                    <div>Hardware and Embedded Software</div>
-                    <div class="pe-5">
-                        <a href="#top" class="text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                                class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-                                <path
-                                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </h1>
+
+
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -1156,8 +1072,7 @@
                                             design notes (Article)</a></li>
                                     <li><a href='https://github.com/swharden/QRSS-hardware/tree/master/builds/keyer'>Keyer
                                             design and software (GitHub)</a></li>
-                                    <li><a href='https://github.com/swharden/QRSS-hardware'>QRSS Hardware on
-                                            GitHub</a>
+                                    <li><a href='https://github.com/swharden/QRSS-hardware'>QRSS Hardware on GitHub</a>
                                     </li>
                                 </ul>
                         </div>
@@ -1177,8 +1092,7 @@
                             <span class="tech-python">Python</span>
                         </div>
                         <div>
-                            Multiple designs for low-cost ECG circuits that amplify electrical signals from the
-                            heart,
+                            Multiple designs for low-cost ECG circuits that amplify electrical signals from the heart,
                             digitize them using the sound card, and perform real-time signal filtering and analysis
                             using custom software.
                         </div>
@@ -1226,8 +1140,7 @@
                             </em>
                         </div>
                         <ul>
-                            <li><a href='https://github.com/swharden/USB-Counter/tree/main/builds/3.0'>Project Files
-                                    on
+                            <li><a href='https://github.com/swharden/USB-Counter/tree/main/builds/3.0'>Project Files on
                                     GitHub</a></li>
                         </ul>
                     </div>
@@ -1240,22 +1153,13 @@
         </div>
     </section>
 
-    <section id="interviews">
+    <section>
+        <h1>
+            Recent Interviews
+        </h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 class="text-start ps-4">
-                <div class="d-flex justify-content-between">
-                    <div>Recent Interviews</div>
-                    <div class="pe-5">
-                        <a href="#top" class="text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                                class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-                                <path
-                                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </h1>
+
             <article>
                 <div class="row">
                     <div class="col-md">
@@ -1336,70 +1240,53 @@
         </div>
     </section>
 
-    <section id="more">
+    <section>
+        <h1>
+            Notable Mentions
+        </h1>
+
         <div class="container-fluid fixed-width-container">
-            <h1 class="text-start ps-4">
-                <div class="d-flex justify-content-between">
-                    <div>Notable Mentions</div>
-                    <div class="pe-5">
-                        <a href="#top" class="text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
-                                class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-                                <path
-                                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </h1>
-            <article>
-                <h2>Projects with a Browser Component</h2>
-                <ul>
-                    <li><a href='https://swharden.com/github-license-checker/'>GitHub License Checker</a> - Identify
-                        which
-                        of your repositories have restrictive or missing licenses</li>
-                    <li>Mystify your Mind <a href='https://swharden.com/blog/2022-04-06-mystify/'>Article</a>, <a
-                            href='https://www.youtube.com/watch?v=queN9r3Leis'>YouTube Video</a>, and <a
-                            href="https://swharden.com/static/2021/01/09/app/">Blazor app</a> - A modern take on a
-                        classic
-                        screensaver</li>
-                    <li>PSK-31 Synthesis <a href='https://swharden.com/blog/2022-10-16-psk31-synthesis/'>Article</a> and
-                        <a href="https://swharden.com/static/2022/10/16/pskjs/">Browser App</a> for encoding data into
-                        audio using phase-shift keying
-                    </li>
-                </ul>
 
-                <h2 class="mt-5">Embedded Programming with C/C++</h2>
-                <ul>
-                    <li><a href='https://swharden.com/blog/2023-08-31-avr-dd-frequency-counter/'>Frequency Measurement
-                            with
-                            Modern AVR Microcontrollers</a></li>
-                    <li><a
-                            href='https://swharden.com/blog/2018-06-03-bit-bang-ftdi-usb-to-serial-converters-to-drive-spi-devices/'>Bit-Bang
-                            FTDI USB-to-Serial Converters to Drive SPI Devices</a> and <a
-                            href='https://www.youtube.com/watch?v=QkHsryvDZfo'>YouTube Video</a></li>
-                    <li><a href='https://swharden.com/blog/2017-04-29-precision-pressure-meter-project/'>Pressision
-                            pressure
-                            meter article</a> and <a href='https://youtu.be/T3ma1n_jhbQ'>YouTube Video</a></li>
-                    <li><a href='https://swharden.com/blog/2016-07-28-opto-isolated-laser-controller-build/'>Opto-isolated
-                            laser controller</a></li>
-                    <li><a href='https://swharden.com/blog/2017-09-02-ps4-controller-hack-adding-auto-run/'>PS4
-                            Controller
-                            Hack</a> to add auto-run functionality</li>
-                </ul>
+            <div><strong>Projects with a browser component</strong></div>
+            <ul>
+                <li><a href='https://swharden.com/github-license-checker/'>GitHub License Checker</a> - Identify which
+                    of your repositories have restrictive or missing licenses</li>
+                <li>Mystify your Mind <a href='https://swharden.com/blog/2022-04-06-mystify/'>Article</a>, <a
+                        href='https://www.youtube.com/watch?v=queN9r3Leis'>YouTube Video</a>, and <a
+                        href="https://swharden.com/static/2021/01/09/app/">Blazor app</a> - A modern take on a classic
+                    screensaver</li>
+                <li>PSK-31 Synthesis <a href='https://swharden.com/blog/2022-10-16-psk31-synthesis/'>Article</a> and <a
+                        href="https://swharden.com/static/2022/10/16/pskjs/">Browser App</a> for encoding data into
+                    audio using phase-shift keying</li>
+            </ul>
 
-                <h2 class="mt-5">Technical Articles</h2>
-                <ul>
-                    <li><a href='https://swharden.com/blog/2022-06-23-resample-interpolation/'>Resample Time Series Data
-                            using Cubic Spline Interpolation</a></li>
-                    <li><a href='https://swharden.com/blog/2020-10-11-model-neuron-ltspice/'>Exploring the Voltage-Clamp
-                            Membrane Test</a></li>
-                    <li><a href='https://swharden.com/blog/2023-07-30-summarizing-blog-posts-with-ai/'>Summarizing Blog
-                            Posts with AI</a></li>
-                    <li><a href='https://swharden.com/blog/2022-01-22-spline-interpolation/'>Spline Interpolation with
-                            C#</a></li>
-                </ul>
-            </article>
+            <div><strong>Embedded Programming with C/C++</strong></div>
+            <ul>
+                <li><a href='https://swharden.com/blog/2023-08-31-avr-dd-frequency-counter/'>Frequency Measurement with
+                        Modern AVR Microcontrollers</a></li>
+                <li><a
+                        href='https://swharden.com/blog/2018-06-03-bit-bang-ftdi-usb-to-serial-converters-to-drive-spi-devices/'>Bit-Bang
+                        FTDI USB-to-Serial Converters to Drive SPI Devices</a> and <a
+                        href='https://www.youtube.com/watch?v=QkHsryvDZfo'>YouTube Video</a></li>
+                <li><a href='https://swharden.com/blog/2017-04-29-precision-pressure-meter-project/'>Pressision pressure
+                        meter article</a> and <a href='https://youtu.be/T3ma1n_jhbQ'>YouTube Video</a></li>
+                <li><a href='https://swharden.com/blog/2016-07-28-opto-isolated-laser-controller-build/'>Opto-isolated
+                        laser controller</a></li>
+                <li><a href='https://swharden.com/blog/2017-09-02-ps4-controller-hack-adding-auto-run/'>PS4 Controller
+                        Hack</a> to add auto-run functionality</li>
+            </ul>
+
+            <div><strong>Favorite Technical Articles</strong></div>
+            <ul>
+                <li><a href='https://swharden.com/blog/2022-06-23-resample-interpolation/'>Resample Time Series Data
+                        using Cubic Spline Interpolation</a></li>
+                <li><a href='https://swharden.com/blog/2020-10-11-model-neuron-ltspice/'>Exploring the Voltage-Clamp
+                        Membrane Test</a></li>
+                <li><a href='https://swharden.com/blog/2023-07-30-summarizing-blog-posts-with-ai/'>Summarizing Blog
+                        Posts with AI</a></li>
+                <li><a href='https://swharden.com/blog/2022-01-22-spline-interpolation/'>Spline Interpolation with
+                        C#</a></li>
+            </ul>
         </div>
     </section>
 
