@@ -1,6 +1,6 @@
 # SWHarden.com
 
-[![CICD](https://github.com/swharden/SWHarden.com/actions/workflows/cicd.yaml/badge.svg)](https://github.com/swharden/SWHarden.com/actions/workflows/cicd.yaml)
+[![Blog](https://github.com/swharden/SWHarden.com/actions/workflows/cicd-blog.yaml/badge.svg)](https://github.com/swharden/SWHarden.com/actions/workflows/cicd-blog.yaml)
 
 * This repository contains source code for https://swharden.com
 * Questions, issues, and pull requests are welcome
