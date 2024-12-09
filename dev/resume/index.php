@@ -13,7 +13,7 @@
 </head>
 
 <body style="margin: 0; padding: 0;">
-    <embed src="resume.pdf?<?php echo rand(); ?>" width="100%" style="height: 100vh;">
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://swharden.com/resume/resume.pdf?<?php echo rand(); ?>" width="100%" style="height: 100vh;">
 </body>
 
 </html>
