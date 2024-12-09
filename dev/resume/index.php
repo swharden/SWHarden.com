@@ -19,14 +19,14 @@
         }
 
         .spinner {
-            display: inline-block;
-            width: 1%;
+            width: 10px;
             height: 10px;
-            border: 1px solid transparent;
-            border-top: 3px solid black;
+            border: 2px solid transparent;
+            border-top-color: black;
             border-radius: 50%;
             animation: spin 1s linear infinite;
-            margin: 0 0.5rem;
+            display: inline-block;
+            margin-left: 0.5rem;
         }
 
         @keyframes spin {
