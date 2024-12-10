@@ -5,6 +5,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Resume - Scott W Harden</title>
+
+    <meta name=theme-color content="#003366">
+
+    <link rel=icon href="https://swharden.com/favicon.ico">
+
+    <meta property="og:url" content="https://swharden.com/resume/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Portfolio">
+    <meta property="og:description" content="The Resume of Scott W Harden">
+    <meta property="og:image" content="https://swharden.com/resume/images/og.png">
+
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
