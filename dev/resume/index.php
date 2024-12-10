@@ -12,7 +12,7 @@
 
     <meta property="og:url" content="https://swharden.com/resume/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Portfolio">
+    <meta property="og:title" content="Resume">
     <meta property="og:description" content="The Resume of Scott W Harden">
     <meta property="og:image" content="https://swharden.com/resume/images/og.png">
 
