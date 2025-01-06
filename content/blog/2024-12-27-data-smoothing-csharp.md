@@ -7,7 +7,7 @@ tags: ["csharp"]
 
 ## Optimized Simple Moving Average Algorithm
 
-**This function calculates the simple moving average (SMA) from an array of length `N` using a window of size `W` maintained in memory as a running sum.** 
+**The simple moving average (SMA) for an array of length `N` using a window of size `W` can be efficiently calculated using a running sum maintained in memory.** 
 As the window moves along the data, new values are shifted into it by adding their value to the running sum, and old values are shifted out by subtracting their value from the running sum.
 
 ![](https://swharden.com/static/2024/12/27/Test_Continuous_ForwardMovingAverage.png)
