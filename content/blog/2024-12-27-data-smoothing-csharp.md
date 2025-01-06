@@ -12,7 +12,7 @@ As the window moves along the data, new values are shifted into it by adding the
 
 ![](https://swharden.com/static/2024/12/27/Test_Continuous_ForwardMovingAverage.png)
 
-**This strategy reduces the number of operations** from approximately `O(N*W)` to `O(N*2)` which offers considerable performance enhancement for applications requiring large smoothing windows.
+**This strategy reduces the number of operations** from approximately `O(N*W)` to `O(N)` which offers considerable performance enhancement for applications requiring large smoothing windows.
 
 ```cs
 double[] SmoothForward(double[] data, int windowSize)
@@ -42,7 +42,7 @@ double[] SmoothForward(double[] data, int windowSize)
 
 ![](https://swharden.com/static/2024/12/27/Test_Continuous_BidirectionalMovingAverage.png)
 
-**Bidirectional smoothing doubles the number of operations** from `O(N*2)` to `O(N*4)` but this strategy used here is still far more performant than `O(N*W)` realized by convolution with a triangular kernel which is expected to produce a similar result.
+**Bidirectional smoothing doubles the number of operations** from `O(N)` to `O(N*2)` but this strategy used here is still far more performant than `O(N*W)` realized by convolution with a triangular kernel which is expected to produce a similar result.
 
 ```cs
 double[] SmoothBidirectional(double[] data, int windowSize)
