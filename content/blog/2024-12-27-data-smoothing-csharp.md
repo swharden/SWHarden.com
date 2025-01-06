@@ -91,7 +91,7 @@ double[] SmoothBidirectional(double[] data, int windowSize)
 
 ## Halving Bidirectional Simple Moving Average (HBSMA)
 
-**Successively smoothing data using repeatedly halved window sizes** is a strategy I have recently found to be extremely useful for aggressively smoothing large amounts of signal data over long timescales. This HBSMA strategy is especially good at smoothing discontinuous data with "jumps" in the signal. With a performance approximating `O(N*log(W))` it offers vastly superior performance over convolution with a Gaussian kernel, while producing roughly similar output.
+**Successively smoothing data using repeatedly halved window sizes** is a strategy I have recently found to be extremely useful for aggressively smoothing large amounts of signal data over long timescales. This HBSMA strategy is especially good at smoothing discontinuous data with "jumps" in the signal. With a performance approximating `O(N*log(W)*2)` it offers vastly superior performance over convolution with a Gaussian kernel, while producing roughly similar output.
 
 **I think of this strategy has having three primary functions** that each act according to the size of the window:
 
