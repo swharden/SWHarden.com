@@ -1,7 +1,7 @@
 baseURL = 'https://swharden.com/'
 languageCode = 'en-us'
 title = 'The personal website of Scott W Harden'
-paginate = 5
+paginate = 10
 paginatePath = 'blog/page'
 UglifyURLs = true
 CanonifyURLs = true
