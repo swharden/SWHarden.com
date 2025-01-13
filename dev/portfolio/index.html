@@ -212,16 +212,18 @@
         .tech .tech-kicad {
             background-color: #304aab;
         }
+
+        .tech .tech-docker {
+            background-color: #0092e7;
+        }
     </style>
 </head>
 
 <body>
 
-    <header class="py-5 text-center px-2">
-        <h1>Portfolio</h1>
-        <!--
+    <header class="pb-5 pt-3 text-center px-2">
         <h2>Scott W Harden</h2>
-        -->
+        <h1>Portfolio</h1>
     </header>
     <nav>
         <div class="container-fluid fixed-width-container py-1">
@@ -241,7 +243,7 @@
             <div style="max-width: 500px;" class="pb-5 fs-5">
                 <div>
                     <strong>Scott W Harden</strong>
-                    is a research scientist with 14 years of experience
+                    is a research scientist with over ten years of experience
                     developing data analysis and visualization software
                     for scientific, industrial, and biomedical applications.
                 </div>
@@ -253,7 +255,7 @@
                 <div class="mt-4">
                     More information may be found on
                     Scott's <a href="https://github.com/swharden">GitHub profile</a>
-                    and <a href="https://swharden.com">personal website</a>, 
+                    and <a href="https://swharden.com">personal website</a>,
                     and <a href="https://swharden.com/resume/">resume</a>.
                 </div>
                 <div class="my-5 text-center">
@@ -661,12 +663,23 @@
                             <span class="tech-react">React</span>
                             <span class="tech-python">Python</span>
                             <span class="tech-php">PHP</span>
+                            <span class="tech-azure">AWS</span>
+                            <span class="tech-sql">SQL</span>
+                            <span class="tech-docker">Docker</span>
                         </div>
                         <div>
                             Cloud native web application that displays real-time radio frequency spectrograms
                             from receivers maintained by amateur radio operators around the world. An Azure function
                             runs every 10 minutes and uses MD5 hashes to identify new image data to update cloud
                             storage and generate 8-hour images are stitched together from 10-minute spectrograms.
+                        </div>
+                        <div class="mt-2">
+                            <em>
+                                This application is presently being migrated from a cloud native serverless design
+                                running on Azure (Azure Functions and Blob Storage) to a microservices design
+                                (ASP.NET Core, NGINX, and MySQL) using Docker in an Elastic Compute Cloud (EC2) 
+                                instance on AWS.
+                            </em>
                         </div>
                         <ul>
                             <li>Live web app: <a
@@ -1339,7 +1352,7 @@
         <div class="container-fluid fixed-width-container">
             <h1 class="text-start ps-4">
                 <div class="d-flex justify-content-between">
-                    <div>Notable Mentions</div>
+                    <div>Additional Projects</div>
                     <div class="pe-5">
                         <a href="#top" class="text-light">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
