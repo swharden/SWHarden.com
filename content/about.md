@@ -66,7 +66,7 @@ about software development, and why I love working on open source projects!
 
 ## Medical Updates
 
-**I was diagnosed with cancer** in 2012 (peripheral T-cell lymphoma, PTCL-NOS) 
+**I am a cancer survivor!** 💪 I was diagnosed with cancer in 2012 (peripheral T-cell lymphoma, PTCL-NOS) 
 and began treatments in 2018 including chemotherapy, radiation therapy, 
 and an autologous bone marrow transplant in 2019.
 My medical journey is chronicled on https://swharden.com/med/
