@@ -36,7 +36,7 @@ Although virtually all of my work is shared as MIT-licensed free and open-source
 
 <div class="row">
 <div class="col mb-3">
-<strong>I was on the Modern .NET Show</strong> in December, 2024. 
+<strong>I was a guest on the Modern .NET Show</strong> in December, 2024. 
 Although my interview was spread across 3 episodes, 
 the first episode is a great listen
 for anyone interested in learning more about me, why I'm passionate
