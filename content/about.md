@@ -1,5 +1,5 @@
 ---
-title: About Scott
+title: About Scott W Harden
 description: Scott W Harden, DMD, PhD
 _build:
   list: never
