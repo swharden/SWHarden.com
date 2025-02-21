@@ -7,7 +7,7 @@ _build:
 
 <div class="row">
 <div class="col mb-3">
-<strong>I'm Scott Harden, and this is my personal website.</strong> I use this space to share interesting projects I work on and as a place to aggregate notes and documentation I collect along the way. My formal education is in molecular biology, dentistry, and neuroscience, but I am passionate about computer programming, electrical engineering, and serving as a maintainer for a variety of open source hardware and software projects.
+<strong>I'm Scott Harden, and this is my personal website.</strong> I use this space to share interesting projects I work on and as a place to aggregate notes and documentation I collect along the way. I work full time as a software developer, but my formal education is in molecular biology, dentistry, and neuroscience. I am passionate about computer programming, electrical engineering, and serving as a maintainer for a variety of open source hardware and software projects.
 </div>
 <div class="col-sm-4">
 <img src="https://swharden.com/static/misc/about/scott-w-harden.jpg" class="img-fluid d-inline-block border shadow m-0 rounded">
