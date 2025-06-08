@@ -25,7 +25,7 @@ List<Vector2> polyline2 = ResampleAlongLine(polyline1, spacing);
 ```
 
 ```cs
-static List<Vector2> ResampleAlongLine(List<Vector2> polyline1, float spacing)
+List<Vector2> ResampleAlongLine(List<Vector2> polyline1, float spacing)
 {
     List<Vector2> polyline2 = [];
     
@@ -81,8 +81,7 @@ List<Vector2> polyline2 = ResampleIn2D(polyline1, spacing);
 ```
 
 ```cs
-
-static List<Vector2> ResampleIn2D(List<Vector2> polyline, float spacing, float epsilon = 0.0001f)
+List<Vector2> ResampleIn2D(List<Vector2> polyline, float spacing, float epsilon = 0.0001f)
 {
     List<Vector2> polyline2 = [];
 
