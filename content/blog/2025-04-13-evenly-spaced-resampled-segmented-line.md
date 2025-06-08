@@ -65,7 +65,7 @@ List<Vector2> ResampleAlongLine(List<Vector2> polyline1, float spacing)
 
 ## Resampling for Equal Euclidean Distance in 2D Space
 
-**This implementation walks along the interpolated polyline segments in short steps and places new points when the target distance in 2D space has been exceeded.** This strategy can be significantly slower than the linear interpolation only method described above, but this it ensures that sequential points are the desired distance apart in 2D space (equal Euclidean spacing on a Cartesian coordinate system) and may be preferred for some applications. The accuracy can be increased by reducing the epsilon at the expense of increased computing time.
+**This implementation walks along the interpolated polyline segments in short steps and places new points when the target distance in 2D space has been exceeded.** This strategy can be significantly slower than the linear interpolation only method described above, but this it ensures that sequential points are the desired distance apart in 2D space (equal Euclidean spacing on a Cartesian coordinate system) and may be preferred for some applications. The accuracy can be increased by reducing the epsilon at the expense of increased computing time. Performance may be improved by starting with a large epsilon and decreasing it dynamically as the calculated distance between the test point and previous point approaches the target separation.
 
 <a href="https://swharden.com/static/2025/04/13/spacing-2d-1.png">
 <img src="https://swharden.com/static/2025/04/13/spacing-2d-1.png">
@@ -91,14 +91,19 @@ List<Vector2> ResampleIn2D(List<Vector2> polyline, float spacing, float epsilon 
     // compare this because calculating square roots is very costly
     float spacingSquared = spacing * spacing;
 
-    // consider each pair of points in the given polyline
+    // consider each line segment between pairs of points in the given polyline
     for (int i = 1; i < polyline.Count; i++)
     {
         Vector2 p1 = polyline[i - 1];
         Vector2 p2 = polyline[i];
 
         // use epsilon to determine how many points along the line to try
-        int stepCount = (int)(Vector2.Distance(p1, p2) / epsilon);
+        float sdx = p1.X - p2.X;
+        float sdy = p1.X - p2.X;
+        float segLength = (float)Math.Sqrt(sdx * sdx + sdy * sdy);
+        int stepCount = (int)(segLength / epsilon);
+
+        // check the distance at each step along the segment
         for (int j = 0; j <= stepCount; j++)
         {
             // decide the test point using linear interpolation
