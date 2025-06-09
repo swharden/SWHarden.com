@@ -5,7 +5,7 @@ Date: 2025-04-13 16:12:00
 tags: ["csharp", "graphics"]
 ---
 
-**I recently had the need to convert a segmented line (polyline) with arbitrary node positions to with with evenly spaced points.** After exploring a few solutions I settled on the following two strategies because of their simplicity and performance. Code on this page does not require the use of trigonometric functions and square root operations are avoided in hot loops so they may be useful for performance-sensitive applications. 
+**I recently had the need to convert a segmented line (polyline) with arbitrary node points to one with evenly spaced points.** After exploring a few solutions I settled on the following two strategies because of their simplicity and performance. Code on this page does not require the use of trigonometric functions and square root operations are avoided in hot loops so they may be useful for performance-sensitive applications. 
 
 ## Resampling for Equal Distance Along the Length of the Line
 
