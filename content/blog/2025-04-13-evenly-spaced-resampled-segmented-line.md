@@ -9,7 +9,7 @@ tags: ["csharp", "graphics"]
 
 ## Resampling for Equal Distance Along the Length of the Line
 
-**Simple linear interpolation may be employed to place points at specific distances along the length of the line.** This method minimizes computations but it may place points closer together in 2D space than the specified distance, a phenomenon which is exacerbated when original polyline contains very sharp angles.
+**Simple linear interpolation may be employed to place points at specific distances along the length of the line.** This method minimizes computations but it may place points closer together in 2D space than the specified distance, a phenomenon which is exacerbated when the original polyline contains very sharp angles.
 
 <a href="https://swharden.com/static/2025/04/13/spacing-line-1.png">
 <img src="https://swharden.com/static/2025/04/13/spacing-line-1.png">
