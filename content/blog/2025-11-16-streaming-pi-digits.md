@@ -5,7 +5,7 @@ Date: 2025-11-16 19:30:00
 tags: ["csharp", "JavaScript"]
 ---
 
-**This page describes a strategy for calculating pi one digit at a time** using a streaming algorithm that does not require floating point arithmetic. Although there are more exotic strategies for calculating pi, this one is surprisingly simple to implement, and it streams the digits of pi infinitely with O(N<sup>2</sup>) time complexity and O(N) space complexity. Before we dive in, [give it a try in your browser](https://swharden.com/static/2025/11/16/pi)!
+**This page describes a strategy for calculating pi one digit at a time** using a streaming algorithm that does not require floating point arithmetic. Although there are more exotic strategies for calculating pi, this one is surprisingly simple to implement, and it streams the digits of pi infinitely. Before we dive in, [give it a try in your browser](https://swharden.com/static/2025/11/16/pi)!
 
 <a href="https://swharden.com/static/2025/11/16/pi" target="_blank">
 <img src="https://swharden.com/static/2025/11/16/calculate-pi-browser2.png" class="w-75 mx-auto">
@@ -13,7 +13,7 @@ tags: ["csharp", "JavaScript"]
 
 ## Theory
 
-It has long been known that pi can be represented as the product of an infinite series. The [Wallis Product](https://en.wikipedia.org/wiki/Wallis_product) published in 1656 represents Pi as the product of an infinite series:
+It has long been known that pi can be represented as the product of an infinite series. The [Wallis Product](https://en.wikipedia.org/wiki/Wallis_product) published in 1656 represents Pi as:
 
 <img src="https://swharden.com/static/2025/11/16/sum.png" class="mx-auto">
 
@@ -21,12 +21,14 @@ Which can be expanded to:
 
 <img src="https://swharden.com/static/2025/11/16/wallis.png" class="mx-auto">
 
-Or alternatively expressed as:
+And alternatively expressed as:
 
 <img src="https://swharden.com/static/2025/11/16/expanded.png" class="mx-auto">
 
-**[Spigot Algorithm for the Digits of Pi](https://www.cs.williams.edu/~heeringa/classes/cs135/s15/readings/spigot.pdf) (1995) by 
-Stanley Rabinowitz and Stan Wagon described how infinite product series can be expanded to allow calculation digit by digit, representing the output in base 10.** The algorithm is is described in the paper on page 5. Appendix 2 has a useful bit of code attributed to "Macalester student Simeon Simeonov" implementing the algorithm in Pascal. It notes that this code makes use of the fact that the queue of predigits always has a pile of 9s to the right of its leftmost member, and so only this leftmost predigit and the number of 9s need be remembered.
+**The paper [Spigot Algorithm for the Digits of Pi](https://www.cs.williams.edu/~heeringa/classes/cs135/s15/readings/spigot.pdf) (1995) by 
+Stanley Rabinowitz and Stan Wagon describes how this infinite product series can be calculated in base 10 to stream the output digit by digit.** The algorithm is is described in the paper on page 5. All mathematical operations are achieved using integer arithmetic, completely avoiding issues associated with floating point error accumulation. It is worth noting that the integers are large, so overflows with typical integer data types will occur quickly. It is necessary to use arbitrary length integer data types (BigInt) or to store large integers in an array pre-sized according to the number of digits to be calculated (a little over 3 times the number of digits) which is O(N) space complexity. Because the algorithm requires iterating the array fully for every digit to be calculated, this strategy runs in O(N<sup>2</sup>) time.
+
+**Appendix 2 has a useful bit of code attributed to "Macalester student Simeon Simeonov" implementing the algorithm in Pascal.** It notes that this code makes use of the fact that the queue of predigits always has a pile of 9s to the right of its leftmost member, and so only this leftmost predigit and the number of 9s need be remembered.
 
 ## Pascal Implementation
 
