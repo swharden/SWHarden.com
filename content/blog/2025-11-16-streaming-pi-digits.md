@@ -177,6 +177,17 @@ for (int j = 1; j <= maxDigits; j++)
 
 Performance of the JavaScript implementation is surprisingly good. You can generate virtually infinite digits of pi using your desktop or mobile device. You never know when you're going to need a few thousand digits of pi, and it is always good to be prepared.
 
+## Performance
+
+This a bak of the envelope test just using my moderate Desktop PC and the C# implementation above, but performance is pretty good for several thousand digits and balloons after that as expected for an algorithm with O(N<sup>2</sup>) time complexity.
+
+Digits of Pi | Calculation Time | Approximate Memory
+---|---|---
+1,000|62 ms|13 kB
+10,000|3.31 sec|133 kB
+100,000|4.93 min|1.3 MB
+1,000,000|8.12 hr|13 MB
+
 ## Resources
 * [Source Code](https://github.com/swharden/Calculate-Pi) (GitHub) for C# and JavaScript projects used on this page
 * [Spigot Algorithm for the Digits of Pi](https://www.cs.williams.edu/~heeringa/classes/cs135/s15/readings/spigot.pdf) (1995) is the paper this article is based on
