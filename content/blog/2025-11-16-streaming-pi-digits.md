@@ -32,7 +32,7 @@ Stanley Rabinowitz and Stan Wagon describes how this infinite product series can
 
 ## Pascal Implementation
 
-```pas
+```kotlin
 Program PiSpigot;
 
 const
@@ -175,7 +175,7 @@ for (int j = 1; j <= maxDigits; j++)
 * **Try it Live:** [Calculate Pi in your browser](https://swharden.com/static/2025/11/16/pi)
 * **Source Code** is on GitHub [swharden/Calculate-Pi](https://github.com/swharden/Calculate-Pi)
 
-Performance of the JavaScript implementation is surprisingly good. You can generate virtually infinite digits of pi using your desktop of mobile device. You never know when you're going to need a few thousand digits of pi, and it is always good to be prepared.
+Performance of the JavaScript implementation is surprisingly good. You can generate virtually infinite digits of pi using your desktop or mobile device. You never know when you're going to need a few thousand digits of pi, and it is always good to be prepared.
 
 ## Resources
 * [Source Code](https://github.com/swharden/Calculate-Pi) (GitHub) for C# and JavaScript projects used on this page
