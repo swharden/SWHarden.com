@@ -7,3 +7,4 @@ public/
 *.pyc
 frontmatter.json
 dev/resume/~*
+hugo.exe
