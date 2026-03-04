@@ -7,6 +7,7 @@
 
 ### Local Development
 * [Download Hugo](https://github.com/gohugoio/hugo/releases)
+* Use the same version defined [cicd-blog.yaml](.github\workflows\cicd-blog.yaml)
 * Run `hugo.exe serve` in this repository folder
 * Navigate to http://localhost:1313
 
