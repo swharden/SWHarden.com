@@ -4,7 +4,12 @@ date: 2019-04-13 16:32:00
 tags: ["med"]
 ---
 
+<div class="alert alert-warning text-dark my-3 mb-5" role="alert">
+  <strong>2026 UPDATE:</strong> After 6 years of remission, I experienced relapse and have resumed cancer treatment.
+  My latest status is now tracked on <strong><a href="https://swharden.github.io/">https://swharden.github.io/</a></strong>
+</div>
 
+<div class="text-muted mb-4"><em>The following was last updated in 2019...</em></div>
 
 **After 23 days living in the hospital I’m happy to report my bone marrow transplant is looking good, and I’m free to continue recovering at home!** I’m not going to sugar coat it: this ordeal was rough. However, I planned and prepared well for it, had a lot of fantastic support along the way, and I feel great about how well everything went! It couldn’t feel more amazing to finally be home again. The air conditioning, my couch, my TV, my pillow, my high-speed internet! It’s great to be back.
 
